@@ -1,4 +1,4 @@
-﻿l_russian:
+﻿l_english:
  
  POD_worldgen.1.t:0 "A World of Darkness"
  POD_worldgen.1.desc:0 "What kind of world is this?"
@@ -19,3 +19,6 @@
  POD_worldgen.2.option.f:0 "Hunters"
  POD_worldgen.2.option.g:0 "Vampires and Werewolves Struggle for Dominance"
  POD_worldgen.2.option.h:0 "It is a varied World of Darkness"
+
+ guest_description.learning_physician_trait.desc:0 "Learning Physician Trait"
+ guest_description.learning_mystic_trait.desc:0 "Learning Mystic Trait"

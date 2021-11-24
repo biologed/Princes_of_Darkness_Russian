@@ -1,4 +1,4 @@
-﻿l_russian:
+﻿l_english:
 
  pod_masquerade.1.t:0 "Curiosity killed the Hunter"
  pod_masquerade.1.desc:0 "One of those damnable do-gooders from that group called the Hunters is sniffing around your domain. He's been asking questions about your schedule, influence on the populace and other tricky subjects. If you don't do anything, he will report to his superiors that something about you is off, quite off. There's no doubt in your mind that this will raise suspicions surrounding your court. Thankfully, you know a guy that could deal with this annoyance quickly and quietly, but his services aren't exactly cheap..."
@@ -13,7 +13,7 @@
  pod_masquerade.3.a:0 "An unfortunate accident is sure to solve this problem"
  pod_masquerade.3.b:0 "They aren't a threat"
  pod_masquerade.4.t:0 "Family is Family" 
- pod_masquerade.4.desc:0 "A family reunion is quite a rare occurrence in Cainite circles, mostly due to the fact that it could devolve to into a slaughter at any moment. Unfortunately, you have been chosen as the host for the next gathering, which means a lot of Vampires, and a lot of suspicion drawn to you. You could cancel the event, certainly everyone would understand, but going along with it would be a palpable show of confidence on your part."
+ pod_masquerade.4.desc:0 "A family reunion is quite a rare occurrence in [cainite|E] circles, mostly due to the fact that it could devolve to into a slaughter at any moment. Unfortunately, you have been chosen as the host for the next gathering, which means a lot of Vampires, and a lot of suspicion drawn to you. You could cancel the event, certainly everyone would understand, but going along with it would be a palpable show of confidence on your part."
  pod_masquerade.4.a:0 "I'm not feeling it..."
  pod_masquerade.4.b:0 "Welcome! Please, leave your weapons behind, especially the secret ones."
  pod_masquerade.5.t:0 "A Quick Choice" 
@@ -25,7 +25,7 @@
  pod_masquerade.6.a:0 "Nothing more than rats fighting over crumbs"
  pod_masquerade.6.b:0 "We will follow this young man's career with great interest"
  pod_masquerade.7.t:0 "Bad Romance" 
- pod_masquerade.7.desc:0 "You didn't think you had it in you anymore and you're not sure how or why, but... this simple peasant has captivated you for quite some time. Could this be the remnants of mortal lust, or something more? You aren't sure, but tonight, you must make a choice. Will you introduce your newest pet to your court at the risk of breaking the Masquerade? Or will you do the... right thing?"
+ pod_masquerade.7.desc:0 "You didn't think you had it in you anymore and you're not sure how or why, but... this simple peasant has captivated you for quite some time. Could this be the remnants of mortal lust, or something more? You aren't sure, but tonight, you must make a choice. Will you introduce your newest pet to your court at the risk of breaking [masquerade|E]? Or will you do the... right thing?"
  pod_masquerade.7.a:0 "Sorry love, it's not me. It's you"
  pod_masquerade.7.b:0 "Welcome to my parlor, light of my night"
  pod_masquerade.8.t:0 "Stretching your Muscles" 

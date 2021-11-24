@@ -1,4 +1,4 @@
-﻿l_russian:
+﻿l_english:
 
  rule_NPC_vampire_ruler_lifestyle_learning:0 "Ancient Learning"
  setting_NPC_vampire_rulers_do_not_learn_lifestyle_perks:0 "Elders learn no new tricks."
@@ -6,11 +6,19 @@
  setting_NPC_vampire_rulers_learn_lifestyle_perks:0 "Elders learn new tricks."
  setting_NPC_vampire_rulers_learn_lifestyle_perks_desc:0 "Non-Player Character Vampires Rulers do learn lifestyle perks after game start."
 
- rule_eyes_of_abyss:0 "Eyes of the Abyss"
- setting_lasombra_have_normal_eyes:0 "Normal eyes"
- setting_lasombra_have_normal_eyes_desc:0 "Lasombra have normal eyes, even if they have 'Oblivion's Sight'"
- setting_lasombra_have_black_eyes:0 "Eyes of the Abyss"
- setting_lasombra_have_black_eyes_desc:0 "Lasombra with 'Oblivion's Sight' have black eyes."
+ rule_age_of_inquisition_difficulty:0 "Inquisition Difficulty"
+ setting_age_of_inquisition_difficulty_easy:0 "Easy Inquisition"
+ setting_age_of_inquisition_difficulty_easy_desc:0 "Endgame Inquisitors will barely make a dent on vampire realms."
+ setting_age_of_inquisition_difficulty_default:0 "Default Inquisition"
+ setting_age_of_inquisition_difficulty_default_desc:0 "Endgame Inquisitors will shake the vampire world, but be slowly driven back afterwards."
+ setting_age_of_inquisition_difficulty_hard:0 "Apocalyptic Inquisition"
+ setting_age_of_inquisition_difficulty_hard_desc:0 "Endgame Inquisitors are likely to wipe out vampire 'civilization'."
+
+ #rule_eyes_of_abyss:0 "Eyes of the Abyss"
+ #setting_lasombra_have_normal_eyes:0 "Normal eyes"
+ #setting_lasombra_have_normal_eyes_desc:0 "Lasombra have normal eyes, even if they have 'Oblivion's Sight'"
+ #setting_lasombra_have_black_eyes:0 "Eyes of the Abyss"
+ #setting_lasombra_have_black_eyes_desc:0 "Lasombra with 'Oblivion's Sight' have black eyes."
 
  rule_banu_haqim_darken:0 "Banu Haqim Curse"
  setting_banu_haqim_default_darken:0 "Darken with Age"
@@ -20,14 +28,14 @@
 
  rule_world_of_darkness:0 "World of Darkness"
  setting_world_of_monsters:0 "World of Darkness"
- setting_world_of_monsters_desc:0 "Most landed characters are supernatural creatures, or those that hunt them."
+ setting_world_of_monsters_desc:0 "Most landed characters are supernatural creatures or those that hunt them."
  setting_world_of_minions_and_monsters:0 "World of Shadow"
  setting_world_of_minions_and_monsters_desc:0 "Most landed characters are supernatural creatures or those that serve them or hunt them."
  setting_world_of_minions:0 "World of Corruption"
  setting_world_of_minions_desc:0 "Most landed characters are the servitors of supernaturals creatures or those that hunt them."
  setting_world_of_mortals_player_knows:0 "World of Secrets"
  setting_world_of_mortals_player_knows_desc:0 "The world is ignorant of the horrors that stalk the night, but the player character knows all too well..."
- setting_world_of_mortals:0 "World of Ignornace"
+ setting_world_of_mortals:0 "World of Ignorance"
  setting_world_of_mortals_desc:0 "Most landed characters are ignorant of the supernatural, even the player character."
  
  rule_splats:0 "Supernatural Dominance"
@@ -46,12 +54,19 @@
  setting_demons:0 "Demon: the Fallen"
  setting_demons_desc:0 "Most landed title holders are demons."
  setting_vampires_vs_werewolves:0 "Fang and Claw"
- setting_vampires_vs_werewolves_desc:0 "Most landed title characters are either Kindred or Garou"
+ setting_vampires_vs_werewolves_desc:0 "Most landed title characters are either Kindreds or Garous."
  setting_vampires_vs_mages:0 "Massasa War"
  setting_vampires_vs_mages_desc:"Most landed title characters are either Kindred of Mages."
  setting_mortals:0 "Mortal: the Innocent"
  setting_mortals_desc:0 "Most landed titles are mortals who are ignorant of the World of Darkness"
  setting_all_splats:0 "World of Darkness"
  setting_all_splats_desc:0 "All supernatural creatures available will be included in the world."
+ 
+ rule_wod_rule_set:0 "WoD Rule Set"
+ setting_wod_rule_set_dav20:0 "DAV20"
+ setting_wod_rule_set_dav20_desc:0 "Dark Ages Vampire 20th Anniversary Edition. This may impact disciplines, [clan|E] banes, trait symbols, etc..."
+ setting_wod_rule_set_v5:0 "V5"
+ setting_wod_rule_set_v5_desc:0 "Vampire:the Masquerade, Fifth Edition. This may impact [disciplines|E], [clan|E] banes, trait symbols, etc..."
+ 
  
 

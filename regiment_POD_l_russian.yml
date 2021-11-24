@@ -1,4 +1,4 @@
-﻿l_russian:
+﻿l_english:
 
  ghouls:0 "Ghouls"
  ghouls_flavor:0 "#F Bloodsworn thralls of vampires. #!"
@@ -10,19 +10,17 @@
  vozhd_flavor:0 "#F About a dozen lobotomized ghouls are merged through Koldunic sorcery and Vicissitude, resulting in a 15-foot high walking biological weapon. A mishmash of living beings melded together into an elephant-sized, multi-limbed monster. #!"
  
  massvampires:0 "Mass-Embraced Vampires"
- massvampires_flavor:0 "#F A pack of vampire fledglings produced by a mass embrace. The blood has made them stronger than mortals, but they are new to their powers. #!"
+ massvampires_flavor:0 "#F A pack of vampire fledglings produced by a mass [Embrace|E]. The blood has made them stronger than mortals, but they are new to their powers. #!"
  
  kinfolk:0 "Kinfolk"
  kinfolk_flavor:0 "#F Wolf-blood tribal skirmishers. #!"
  
  werewolfpack:0 "Werewolf Pack"
- werewolfpack_flavor:0 "#F Lupines, Lycans, sheer terror! #!"
+ werewolf_pack_flavor:0 "#F Lupines, Lycans, sheer terror! #!"
+ werewolf_pack:0 "Werewolf Pack"
  
  witchhunters:0 "Witch-Hunters"
  witchhunters_flavor:0 "#F Mortals who specialize in hunting monsters. #!"
- 
- cultists:0 "Cultists"
- cultists_flavor:0 "#F Mortals devoted to supernatural monsters and profane gods. #!"
  
  zombu:0 "Zombu"
  zombu_flavor:0 "#F #!"
@@ -54,4 +52,25 @@
  maniacs:0 "Maniacs"
  maniacs_flavor:0 "#F #!"
  
+ demonic_thralls:0 "Demonic Thralls"
+ demonic_thralls_flavor:0 "#F Demonic Thralls, serving their horrible Baali masters #!"
  
+ elite_swordsmen:0 "Elite Swordsmen"
+ elite_swordsmen_flavor:0 "#F Most skilled swordsmen, taken from local nobles, and taught how to fight alongside [cainites|E] #!"
+ 
+ ghouled_cavalry:0 "Ghouled Cavalry"
+ ghouled_cavalry_flavor:0 "#F Ghouled knigts that are ready to fight everyone their masters want dead #!"
+ 
+ guards_guards:0 "Controlled guards!"
+ guards_guards_flavor:0 "#F Local guards, controlled by [cainites|E] and taught how to fight alongside them #!"
+ 
+ brigands:0 "Brigands"
+ brigands_flavor:0 "#F Mortals, skilled into ambushes that know how to fight alongside [cainites|E] #!"
+ 
+ cultists:0 "Cultists"
+ cultists_flavor:0 "#F Mortals devoted to supernatural monsters and profane Gods, controlled by [cainites|E]. #!"
+ 
+ serpentis_monsters:0 "Typhonic Beasts"
+ serpentis_monsters_flavor:0 "#F Terrific beasts made with Serpentis discipline, ready to tear and bite"
+ 
+

@@ -1,4 +1,4 @@
-﻿l_russian:
+﻿l_english:
 
  ############################################################
  # Names
@@ -14,7 +14,7 @@
  # Banu Haqim
  
  dynn_banu_haqim:0 "Banu Haqim"
- dynn_banu_haqim_motto:0 "Clan of the Hunt"
+ dynn_banu_haqim_motto:0 "[clan|E] of the Hunt"
  dynn_nabonidus:0 "Nabonidus"
  dynn_nabonidus_motto:0 "Wolves of Enoch" 
  dynn_shahiri:0 "Sha'hiri"
@@ -41,11 +41,13 @@
  dynn_zayyat_motto:0 "Holders of Destiny"    
  dynn_saad:0 "Saad"
  dynn_saad_motto:0 "Beyond the Eagle's Reach"   
+ dynn_mancheaka:0 "Mancheaka"
+ dynn_mancheaka_motto:0 "Penitent Warriors"   
  
  # Brujah
  
- dynn_brujah:0 "Clan Brujah"
- dynn_brujah_motto:0 "Learned Clan"
+ dynn_brujah:0 "[clan|E] Brujah"
+ dynn_brujah_motto:0 "Learned [clan|E]"
  dynn_hannibal:0 "Hannibal"
  dynn_hannibal_motto:0 "The Last Defenders" 
  dynn_losario:0 "Losario"
@@ -77,8 +79,8 @@
  
  # Cappadocian
  
- dynn_cappadocian:0 "Clan Cappadocian"
- dynn_cappadocian_motto:0 "Clan of Death"
+ dynn_cappadocian:0 "[clan|E] Cappadocian"
+ dynn_cappadocian_motto:0 "[clan|E] of Death"
  dynn_giovanni:0 "Giovanni"
  dynn_giovanni_motto:0 "Ashes to Ashes, Blood to Blood" 
  dynn_lazarene:0 "Lazarus"
@@ -109,11 +111,13 @@
  dynn_rusenko_motto:0 "Hear the Whispers of the Buried"   
  dynn_lucia:0 "Lucia"
  dynn_lucia_motto:0 "Sight Beyond Sight"
+ dynn_caias:0 "Koine"
+ dynn_caias_motto:0 "Zealous To The End" 
  
  # Gangrel
  
- dynn_gangrel:0 "Clan Gangrel"
- dynn_gangrel_motto:0 "Clan of the Beast"
+ dynn_gangrel:0 "[clan|E] Gangrel"
+ dynn_gangrel_motto:0 "[clan|E] of the Beast"
  dynn_wahsheen:0 "Wah'Sheen"
  dynn_wahsheen_motto:0 "Protectors of the Desert"
  dynn_noiad:0 "Noiad"
@@ -142,11 +146,17 @@
  dynn_ahrimane_motto:0 "Spirit of Vengeance"
  dynn_feroux:0 "Feroux"
  dynn_feroux_motto:0 "Loyalty Beyond Death"
+ dynn_gilgamesh:0 "Gilgamesh"
+ dynn_gilgamesh_motto:0 "Kings and Adventurers"
+ dynn_enkidu:0 "Enkidu"
+ dynn_enkidu_motto:0 "Wrath of Nature"
+ dynn_ereshkigal:0 "Ereshkigal"
+ dynn_ereshkigal_motto:0 "Beast of Oblivion" 
  
 # Lasombra
  
- dynn_lasombra:0 "Clan Lasombra"
- dynn_lasombra_motto:0 "Night Clan"
+ dynn_lasombra:0 "[clan|E] Lasombra"
+ dynn_lasombra_motto:0 "Night [clan|E]"
  dynn_montano:0 "Montano"
  dynn_montano_motto:0 "We See In Shadow" 
  dynn_deruiz:0 "de Ruiz"
@@ -178,8 +188,8 @@
  
  # Malkavian
  
- dynn_malkavian:0 "Clan Malkavian"
- dynn_malkavian_motto:0 "Clan of the Moon"
+ dynn_malkavian:0 "[clan|E] Malkavian"
+ dynn_malkavian_motto:0 "[clan|E] of the Moon"
  dynn_lamdiel:0 "Lamdiel"
  dynn_lamdiel_motto:0 "Always Watching"
  dynn_eater:0 "Eater"
@@ -207,8 +217,8 @@
  
  # Nosferatu
  
- dynn_nosferatu:0 "Clan Nosferatu"
- dynn_nosferatu_motto:0 "Clan of the Hidden"
+ dynn_nosferatu:0 "[clan|E] Nosferatu"
+ dynn_nosferatu_motto:0 "[clan|E] of the Hidden"
  dynn_vrykolakas:0 "Vrykolakas"
  dynn_vrykolakas_motto:0 "Trust only your Brethren"
  dynn_yagnatia:0 "Yagnatia"
@@ -231,11 +241,13 @@
  dynn_guruhi_motto:0 "Kings of a Continent"  
  dynn_al_hajj:0 "al-Hajj"
  dynn_al_hajj_motto:0 "Guardians of the Holy"
+ dynn_melachoate:0 "Melachoate"
+ dynn_melachoate_motto:0 "They Who Guide Death"
  
  # Ravnos
  
- dynn_ravnos:0 "Clan Ravnos"
- dynn_ravnos_motto:0 "Clan of Deceivers"
+ dynn_ravnos:0 "[clan|E] Ravnos"
+ dynn_ravnos_motto:0 "[clan|E] of Deceivers"
  dynn_chandraputra:0 "Chandraputra"
  dynn_chandraputra_motto:0 "Kings and Generals"
  dynn_ravana:0 "Ravana"
@@ -255,8 +267,8 @@
  
  # Salubri
  
- dynn_salubri:0 "Clan Salubri"
- dynn_salubri_motto:0 "Clan of Mystics"
+ dynn_salubri:0 "[clan|E] Salubri"
+ dynn_salubri_motto:0 "[clan|E] of Mystics"
  dynn_samiel:0 "Samiel"
  dynn_samiel_motto:0 "Peace Through War"
  dynn_enosh:0 "Enosh"
@@ -275,7 +287,7 @@
  # Setites
  
  dynn_setites:0 "Followers of Set"
- dynn_setites_motto:0 "Clan of Faith"
+ dynn_setites_motto:0 "[clan|E] of Faith"
  dynn_khaibit:0 "Khaibit"
  dynn_khaibit_motto:0 "Hierophants of Set"
  dynn_sarrasine:0 "Sarrasine"
@@ -312,11 +324,17 @@
  dynn_echidna_motto:0 "Mothers of Monsters"
  dynn_glycon:0 "Warriors of Glycon"
  dynn_glycon_motto:0 "Through Chaos, Conquest"
+ dynn_nebmaatsutekh:0 "Nebmaatsutekh"
+ dynn_nebmaatsutekh_motto:0 "The Light of Set"
+ dynn_nephtys:0 "Nephtys"
+ dynn_nephtys_motto:0 "Lost Souls of the Desert"
+ dynn_wadjet:0 "Wadjet"
+ dynn_wadjet_motto:0 "Redeemed Martyrs" 
  
  # Toreador
  
- dynn_toreador:0 "Clan Toreador"
- dynn_toreador_motto:0 "Clan of Roses"
+ dynn_toreador:0 "[clan|E] Toreador"
+ dynn_toreador_motto:0 "[clan|E] of Roses"
  dynn_nephilim:0 "Nephilim"
  dynn_nephilim_motto:0 "His Deeds are our Posterity" 
  dynn_salianna:0 "Salianna"
@@ -341,11 +359,17 @@
  dynn_rayeenalfen_motto:0 "Calligraphers of Lost Art"  
  dynn_ishtarri:0 "Ishtarri"
  dynn_ishtarri_motto:0 "Careful Outsiders"  
+ dynn_amarantha:0 "Amarantha"
+ dynn_amarantha_motto:0 "Legacy of Pain"  
+ dynn_amphion:0 "Amphion"
+ dynn_amphion_motto:0 "Harmony and Temperance"   
+ dynn_tammuz:0 "Tammuz"
+ dynn_tammuz_motto:0 "Duty through Sacrifice"  
  
  # Tremere
  
- dynn_tremere:0 "Clan Tremere"
- dynn_tremere_motto:0 "Clan of Usurpers"
+ dynn_tremere:0 "[clan|E] Tremere"
+ dynn_tremere_motto:0 "[clan|E] of Usurpers"
  dynn_goratrix:0 "Goratrix"
  dynn_goratrix_motto:0 "Lightbearers and Lucifers" 
  dynn_carna:0 "Carna"
@@ -369,14 +393,14 @@
  
  # Tzimisce
  
- dynn_tzimisce:0 "Clan Tzimisce"
- dynn_tzimisce_motto:0 "Clan of Change"
+ dynn_tzimisce:0 "[clan|E] Tzimisce"
+ dynn_tzimisce_motto:0 "[clan|E] of Change"
  dynn_kartarirya:0 "Kartarirya"
  dynn_kartarirya_motto:0 "Be your own God" 
  dynn_yaroslavich:0 "Yaroslavich"
  dynn_yaroslavich_motto:0 "Power is the only Truth" 
- dynn_ruthvenski:0 "Ruthvenski"
- dynn_ruthevenski_motto:0 "Caretakers of the Eldest"   
+ dynn_ruthven:0 "Ruthven"
+ dynn_ruthven_motto:0 "Caretakers of the Eldest"   
  dynn_vykos:0 "Vykos"
  dynn_vykos_motto:0 "Never Choose Ignorance"   
  dynn_rustovitch:0 "Rustovich"
@@ -405,11 +429,21 @@
  dynn_hrothgar_motto:0 "Flesh like Steel"   
  dynn_jedrik:0 "Jedrik"
  dynn_jedrik_motto:0 "Defenders of Tradition"    
+ dynn_faust:0 "Faust"
+ dynn_faust_motto:0 "Scientia ipsa potentia est"                    
+ dynn_cyscek:0 "Cyscek"
+ dynn_cyscek_motto:0 "Bastion of Hope"   
+ dynn_gallod:0 "Gallod"
+ dynn_gallod_motto:0 "Sacrificial Lambs" 
+ dynn_ionache:0 "Ionache"
+ dynn_ionache_motto:0 "True Rulers of the Tzimisce" 
+ dynn_toomler:0 "Toomler"
+ dynn_toomler_motto:0 "Malleable Masters" 
  
  # Ventrue
  
- dynn_ventrue:0 "Clan Ventrue"
- dynn_ventrue_motto:0 "Clan of Kings"
+ dynn_ventrue:0 "[clan|E] Ventrue"
+ dynn_ventrue_motto:0 "[clan|E] of Kings"
  dynn_tinia:0 "Tinia"
  dynn_tinia_motto:0 "Never Be Satisfied"
  dynn_hardestadt:0 "Hardestadt"
@@ -444,11 +478,13 @@
  dynn_antasia_motto:0 "Senatus Populusque Romanus"   
  dynn_le_croise:0 "Le Croise"
  dynn_le_croise_motto: "Nobility before Lineage"
+ dynn_valerius:0 "Valerius"
+ dynn_valerius_motto:0 "With Patience and Persistence"
  
  # Baali
  
- dynn_baali:0 "Clan Baali"
- dynn_baali_motto:0 "Clan of Demons"
+ dynn_baali:0 "[clan|E] Baali"
+ dynn_baali_motto:0 "[clan|E] of Demons"
  dynn_moloch:0 "Molochim"
  dynn_moloch_motto:0 "To Fight Demon, We Became Them"    
  dynn_nergal:0 "Nergalite"
@@ -459,7 +495,7 @@
  # Nagaraja
 
  dynn_nagaraja:0 "Nagaraja"
- dynn_nagaraja_motto:0 "Clan of Hunger"  
+ dynn_nagaraja_motto:0 "[clan|E] of Hunger"  
  
  # Stoneman
 
@@ -524,12 +560,15 @@
  
  # Easter Eggs
  dynn_yashamayanlar:0 "Yaşamayanlar"
- dynn_yashamayanlar_desc:0 "Immortals of Istanbul"
+ dynn_yashamayanlar_motto:0 "Immortals of Istanbul"
  dynn_zych:0 "Zych"
  dynn_zych_motto:0 "House of Filthy Snakes"
+ dynn_Savazzi:0 "Savazzi"
+ dynn_Savazzi_motto:0 "Casa Accogliente, Spada Tagliente"
  
  # Revenants
- 
+ dynn_zadruga:0 "Zadruga"
+ dynn_zadruga_motto:0 "Scions of the Tzimisce"
  dynn_obertus:0 "Obertus"
  dynn_obertus_motto:0 "Knowledge Everlasting"
  dynn_vlaszy:0 "Vlaszy"
@@ -538,11 +577,87 @@
  dynn_basarab_motto:0 "Antecedents of the Dracul"
  dynn_grimaldi:0 "Grimaldi"
  dynn_grimaldi_motto:0 "Deo Juvante"
- dynn_PR_emyslid:0 "Premsyl"
- dynn_PR_emyslid_motto:0 "Health and Strength of Vysehrad's Blood"
- 
- 
+ dynn_premysl:0 "Premsyl"
+ dynn_premysl_motto:0 "Health and Strength of Vysehrad's Blood"
+ dynn_premyslid:0 "Premsyl"
+ dynn_premyslid_motto:0 "Health and Strength of Vysehrad's Blood"
+ dynn_bratovitch:0 "Bratovitch"
+ dynn_bratovitch_motto:0 "Throw the Dogs the Bones"
+ dynn_szantovich:0 "Szantovich"
+ dynn_szantovich_motto:0 "Resolutely Fabulous"
+ dynn_danislav:0 "Danislav"
+ dynn_danislav_motto:0 "Howl of Thunder"
+ dynn_khazi:0 "Khazi"
+ dynn_khazi_motto:0 "Faithful of the White God"
+ dynn_krevcheski:0 "Krevcheski"
+ dynn_krevcheski_motto:0 "As Complicated as Clockwork"
+ dynn_oprichniki:0 "Oprichniki"
+ dynn_oprichniki_motto:0 "The Terror"
+ dynn_narov:0 "Narov"
+ dynn_narov_motto:0 "Conserve the Ancient Ways"
+ dynn_rustovitchi:0 "Rustovichi"
+ dynn_rustovitchi_motto:0 "Revenants of Revenants"
+ dynn_ruthvenski:0 "Ruthvenski"
+ dynn_ruthvenski_motto:0 "Not Falling Far From the Tree"
+ dynn_enrathi:0 "Enrathi"
+ dynn_enrathi_motto:0 "Do Not Heed the Chattering of Children"
+ dynn_marijava:0 "Marijava"
+ dynn_marijava_motto:0 "Deadliest Before Dusk"
+ dynn_rafastio:0 "Rafastio"
+ dynn_rafastio_motto:0 "By the Light of the Full Moon"
+ dynn_dhabi:0 "D'habi"
+ dynn_dhabi_motto:0 "We Are Your Nightmare"
+ dynn_keskinen:0 "Keskinen"
+ dynn_keskinen_motto:0 "Clarity of the Cold North"
+ dynn_rosselini:0 "Rosselini"
+ dynn_rosselini_motto:0 "Haunted Vision"
+ dynn_rawan:0 "Rawan"
+ dynn_rawan_motto:0 "In Service, Purpose"
+ dynn_kairouan:0 "Kairouan"
+ dynn_kairouan_motto:0 "Chosen by Blood"
+ dynn_dimitriou:0 "Dimitriou"
+ dynn_dimitriou_motto:0 "Eternal Love"
+ dynn_slatikov:0 "Slatikov"
+ dynn_slatikov_motto:0 "Strength in the Elements"
+ dynn_nirriti:0 "Nirriti"
+ dynn_nirriti_motto:0 "Rest When You're Dead"
+ dynn_crassus:0 "Crassus"
+ dynn_crassus_motto:0 "Privilege of the Patricians"
+ dynn_gravenor:0 "Gravenor"
+ dynn_gravenor_motto:0 "Thou Shall Not Trespass"
+ dynn_angustri:0 "Angustri"
+ dynn_angustri_motto:0 "Preternatural Resilience"
+ dynn_kurulas:0 "Kurulas"
+ dynn_kurulas_motto:0 "Great Strength and Repose"
+ dynn_qarnaim:0 "Qarnaim"
+ dynn_qarnaim_motto:0 "Two-Horned"
+ dynn_bomkazi:0 "Bomkazi"
+ dynn_bomkazi_motto:0 "The Marriage of Life and Death"
+ dynn_ducheski:0 "Ducheski"
+ dynn_ducheski_motto:0 "As Complicated as Clockwork"
+ dynn_ald:0 "Ald"
+ dynn_ald_motto:0 "Everywhere. All the Time."
  
  # Hunters
  dynn_murnau:0 "Murnau"
- dynn_murnau_motto:0 "Fervor Despite Adversity"
+ dynn_murnau_motto:0 "Cursed Hounds of Heaven"
+ dynn_redorder:0 "Red Order"
+ dynn_redorder_motto:0 "Using Hell against Hell" 
+ dynn_knightsofacre:0 "Knights of Acre"
+ dynn_knightsofacre_motto:0 "The Sword of God" 
+ dynn_sistersjohn:0 "Sisters of St-John"
+ dynn_sistersjohn_motto:0 "Blessed Brides of Christ" 
+ dynn_oculidei:0 "Oculi Dei"
+ dynn_oculidei_motto:0 "God understands our sacrifice" 
+ dynn_swordofstjames:0 "Sword of St-James"
+ dynn_swordofstjames_motto:0 "Suffer not the treacherous and the weak" 
+ dynn_gantenbein:0 "Gantenbein"
+ dynn_gantenbein_motto:0 "Forsaken by Calomena"
+ dynn_societyofstgeorge:0 "Society of St. George"
+ dynn_societyofstgeorge_motto:0 "Slay the Dragons!"
+ dynn_marzone:0 "Marzone"
+ dynn_marzone_motto:0 "Fideles Defendere"
+ 
+ # Eastereggs
+ 
+       

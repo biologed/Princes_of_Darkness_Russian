@@ -1,4 +1,4 @@
-﻿l_russian:
+﻿l_english:
 
  GAINS_CHOLERIC_LIFESTYLE_XP:1 "Gains $VALUE|V0$ [choleric_lifestyle|E] Experience"
  GAINED_CHOLERIC_LIFESTYLE_XP:1 "Gained $VALUE|V0$ [choleric_lifestyle|E] Experience"
@@ -69,58 +69,647 @@
  I_GAINED_ANIMAL_LIFESTYLE_PERKPOINT:1 "You gained $VALUE|V0$ [animal_lifestyle|E] [perk|E] Unlock"
  TARGET_GAINS_ANIMAL_LIFESTYLE_PERKPOINT:1 "[CHARACTER.GetShortUIName] gains $VALUE|V0$ [animal_lifestyle|E] [perk|E] Unlock"
  TARGET_GAINED_ANIMAL_LIFESTYLE_PERKPOINT:1 "[CHARACTER.GetShortUIName] gained $VALUE|V0$ [animal_lifestyle|E] [perk|E] Unlock"
-  
+
+ GAINS_FAITH_LIFESTYLE_XP:1 "Gains $VALUE|V0$ [faith_lifestyle|E] Experience"
+ GAINED_FAITH_LIFESTYLE_XP:1 "Gained $VALUE|V0$ [faith_lifestyle|E] Experience"
+ I_GAIN_FAITH_LIFESTYLE_XP:1 "You gain $VALUE|V0$ [faith_lifestyle|E] Experience"
+ I_GAINED_FAITH_LIFESTYLE_XP:1 "You gained $VALUE|V0$ [faith_lifestyle|E] Experience"
+ TARGET_GAINS_FAITH_LIFESTYLE_XP:1 "[CHARACTER.GetShortUIName] gains $VALUE|V0$ [faith_lifestyle|E] Experience"
+ TARGET_GAINED_FAITH_LIFESTYLE_XP:1 "[CHARACTER.GetShortUIName] gained $VALUE|V0$ [faith_lifestyle|E] Experience"
+
+ GAINS_A_FAITH_LIFESTYLE_PERKPOINT:1 "Gains $VALUE|V0$ [faith_lifestyle|E] [perk|E] Unlock"
+ GAINED_A_FAITH_LIFESTYLE_PERKPOINT:1 "Gained $VALUE|V0$ [faith_lifestyle|E] [perk|E] Unlock"
+ I_GAIN_A_FAITH_LIFESTYLE_PERKPOINT:1 "You gain $VALUE|V0$ [faith_lifestyle|E] [perk|E] Unlock"
+ I_GAINED_A_FAITH_LIFESTYLE_PERKPOINT:1 "You gained $VALUE|V0$ [faith_lifestyle|E] [perk|E] Unlock"
+ TARGET_GAINS_A_FAITH_LIFESTYLE_PERKPOINT:1 "[CHARACTER.GetShortUIName] gains $VALUE|V0$ [faith_lifestyle|E] [perk|E] Unlock"
+ TARGET_GAINED_A_FAITH_LIFESTYLE_PERKPOINT:1 "[CHARACTER.GetShortUIName] gained $VALUE|V0$ [faith_lifestyle|E] [perk|E] Unlock"
+ 
+ GAINS_SHINTAI_LIFESTYLE_XP:1 "Gains $VALUE|V0$ [shintai_lifestyle|E] Experience"
+ GAINED_SHINTAI_LIFESTYLE_XP:1 "Gained $VALUE|V0$ [shintai_lifestyle|E] Experience"
+ I_GAIN_SHINTAI_LIFESTYLE_XP:1 "You gain $VALUE|V0$ [shintai_lifestyle|E] Experience"
+ I_GAINED_SHINTAI_LIFESTYLE_XP:1 "You gained $VALUE|V0$ [shintai_lifestyle|E] Experience"
+ TARGET_GAINS_SHINTAI_LIFESTYLE_XP:1 "[CHARACTER.GetShortUIName] gains $VALUE|V0$ [shintai_lifestyle|E] Experience"
+ TARGET_GAINED_SHINTAI_LIFESTYLE_XP:1 "[CHARACTER.GetShortUIName] gained $VALUE|V0$ [shintai_lifestyle|E] Experience"
+
+ GAINS_A_SHINTAI_LIFESTYLE_PERKPOINT:1 "Gains $VALUE|V0$ [shintai_lifestyle|E] [perk|E] Unlock"
+ GAINED_A_SHINTAI_LIFESTYLE_PERKPOINT:1 "Gained $VALUE|V0$ [shintai_lifestyle|E] [perk|E] Unlock"
+ I_GAIN_A_SHINTAI_LIFESTYLE_PERKPOINT:1 "You gain $VALUE|V0$ [shintai_lifestyle|E] [perk|E] Unlock"
+ I_GAINED_A_SHINTAI_LIFESTYLE_PERKPOINT:1 "You gained $VALUE|V0$ [shintai_lifestyle|E] [perk|E] Unlock"
+ TARGET_GAINS_A_SHINTAI_LIFESTYLE_PERKPOINT:1 "[CHARACTER.GetShortUIName] gains $VALUE|V0$ [shintai_lifestyle|E] [perk|E] Unlock"
+ TARGET_GAINED_A_SHINTAI_LIFESTYLE_PERKPOINT:1 "[CHARACTER.GetShortUIName] gained $VALUE|V0$ [shintai_lifestyle|E] [perk|E] Unlock"
+ 
+ GAINS_CHI_ARTS_LIFESTYLE_XP:1 "Gains $VALUE|V0$ [chi_arts_lifestyle|E] Experience"
+ GAINED_CHI_ARTS_LIFESTYLE_XP:1 "Gained $VALUE|V0$ [chi_arts_lifestyle|E] Experience"
+ I_GAIN_CHI_ARTS_LIFESTYLE_XP:1 "You gain $VALUE|V0$ [chi_arts_lifestyle|E] Experience"
+ I_GAINED_CHI_ARTS_LIFESTYLE_XP:1 "You gained $VALUE|V0$ [chi_arts_lifestyle|E] Experience"
+ TARGET_GAINS_CHI_ARTS_LIFESTYLE_XP:1 "[CHARACTER.GetShortUIName] gains $VALUE|V0$ [chi_arts_lifestyle|E] Experience"
+ TARGET_GAINED_CHI_ARTS_LIFESTYLE_XP:1 "[CHARACTER.GetShortUIName] gained $VALUE|V0$ [chi_arts_lifestyle|E] Experience"
+
+ GAINS_A_CHI_ARTS_LIFESTYLE_PERKPOINT:1 "Gains $VALUE|V0$ [chi_arts_lifestyle|E] [perk|E] Unlock"
+ GAINED_A_CHI_ARTS_LIFESTYLE_PERKPOINT:1 "Gained $VALUE|V0$ [chi_arts_lifestyle|E] [perk|E] Unlock"
+ I_GAIN_A_CHI_ARTS_LIFESTYLE_PERKPOINT:1 "You gain $VALUE|V0$ [chi_arts_lifestyle|E] [perk|E] Unlock"
+ I_GAINED_A_CHI_ARTS_LIFESTYLE_PERKPOINT:1 "You gained $VALUE|V0$ [chi_arts_lifestyle|E] [perk|E] Unlock"
+ TARGET_GAINS_A_CHI_ARTS_LIFESTYLE_PERKPOINT:1 "[CHARACTER.GetShortUIName] gains $VALUE|V0$ [chi_arts_lifestyle|E] [perk|E] Unlock"
+ TARGET_GAINED_A_CHI_ARTS_LIFESTYLE_PERKPOINT:1 "[CHARACTER.GetShortUIName] gained $VALUE|V0$ [chi_arts_lifestyle|E] [perk|E] Unlock"
+ 
+ GAINS_SOUL_ARTS_LIFESTYLE_XP:1 "Gains $VALUE|V0$ [soul_arts_lifestyle|E] Experience"
+ GAINED_SOUL_ARTS_LIFESTYLE_XP:1 "Gained $VALUE|V0$ [soul_arts_lifestyle|E] Experience"
+ I_GAIN_SOUL_ARTS_LIFESTYLE_XP:1 "You gain $VALUE|V0$ [soul_arts_lifestyle|E] Experience"
+ I_GAINED_SOUL_ARTS_LIFESTYLE_XP:1 "You gained $VALUE|V0$ [soul_arts_lifestyle|E] Experience"
+ TARGET_GAINS_SOUL_ARTS_LIFESTYLE_XP:1 "[CHARACTER.GetShortUIName] gains $VALUE|V0$ [soul_arts_lifestyle|E] Experience"
+ TARGET_GAINED_SOUL_ARTS_LIFESTYLE_XP:1 "[CHARACTER.GetShortUIName] gained $VALUE|V0$ [soul_arts_lifestyle|E] Experience"
+
+ GAINS_A_SOUL_ARTS_LIFESTYLE_PERKPOINT:1 "Gains $VALUE|V0$ [soul_arts_lifestyle|E] [perk|E] Unlock"
+ GAINED_A_SOUL_ARTS_LIFESTYLE_PERKPOINT:1 "Gained $VALUE|V0$ [soul_arts_lifestyle|E] [perk|E] Unlock"
+ I_GAIN_A_SOUL_ARTS_LIFESTYLE_PERKPOINT:1 "You gain $VALUE|V0$ [soul_arts_lifestyle|E] [perk|E] Unlock"
+ I_GAINED_A_SOUL_ARTS_LIFESTYLE_PERKPOINT:1 "You gained $VALUE|V0$ [soul_arts_lifestyle|E] [perk|E] Unlock"
+ TARGET_GAINS_A_SOUL_ARTS_LIFESTYLE_PERKPOINT:1 "[CHARACTER.GetShortUIName] gains $VALUE|V0$ [soul_arts_lifestyle|E] [perk|E] Unlock"
+ TARGET_GAINED_A_SOUL_ARTS_LIFESTYLE_PERKPOINT:1 "[CHARACTER.GetShortUIName] gained $VALUE|V0$ [soul_arts_lifestyle|E] [perk|E] Unlock"
+ 
+ GAINS_DEMON_ARTS_LIFESTYLE_XP:1 "Gains $VALUE|V0$ [demon_arts_lifestyle|E] Experience"
+ GAINED_DEMON_ARTS_LIFESTYLE_XP:1 "Gained $VALUE|V0$ [demon_arts_lifestyle|E] Experience"
+ I_GAIN_DEMON_ARTS_LIFESTYLE_XP:1 "You gain $VALUE|V0$ [demon_arts_lifestyle|E] Experience"
+ I_GAINED_DEMON_ARTS_LIFESTYLE_XP:1 "You gained $VALUE|V0$ [demon_arts_lifestyle|E] Experience"
+ TARGET_GAINS_DEMON_ARTS_LIFESTYLE_XP:1 "[CHARACTER.GetShortUIName] gains $VALUE|V0$ [demon_arts_lifestyle|E] Experience"
+ TARGET_GAINED_DEMON_ARTS_LIFESTYLE_XP:1 "[CHARACTER.GetShortUIName] gained $VALUE|V0$ [demon_arts_lifestyle|E] Experience"
+
+ GAINS_A_DEMON_ARTS_LIFESTYLE_PERKPOINT:1 "Gains $VALUE|V0$ [demon_arts_lifestyle|E] [perk|E] Unlock"
+ GAINED_A_DEMON_ARTS_LIFESTYLE_PERKPOINT:1 "Gained $VALUE|V0$ [demon_arts_lifestyle|E] [perk|E] Unlock"
+ I_GAIN_A_DEMON_ARTS_LIFESTYLE_PERKPOINT:1 "You gain $VALUE|V0$ [demon_arts_lifestyle|E] [perk|E] Unlock"
+ I_GAINED_A_DEMON_ARTS_LIFESTYLE_PERKPOINT:1 "You gained $VALUE|V0$ [demon_arts_lifestyle|E] [perk|E] Unlock"
+ TARGET_GAINS_A_DEMON_ARTS_LIFESTYLE_PERKPOINT:1 "[CHARACTER.GetShortUIName] gains $VALUE|V0$ [demon_arts_lifestyle|E] [perk|E] Unlock"
+ TARGET_GAINED_A_DEMON_ARTS_LIFESTYLE_PERKPOINT:1 "[CHARACTER.GetShortUIName] gained $VALUE|V0$ [demon_arts_lifestyle|E] [perk|E] Unlock"
+ 
+ # Animalism # 
+ 
+ ANIMAL_DOMINION_PERK_EFFECT:0 "'Wild dogs? Nay! Rats!' \n \nThe power the vampire holds over beasts is now great enough to command flocks and packs as if they were extensions of their own body. As a character interaction, you can spawn an army of animals." 
+ ANIMAL_SUCCULENCE_PERK_EFFECT:0 "The vampire can slake additional Hunger by feeding on animals. As a character interaction, you can drain animals to better effect than other vampires."
+ BOND_FAMULUS_PERK_EFFECT:0 "As a character interaction you can [bind_famulus|E], Blood Bonding an animal and forming a mental link with it."
+ DRAWING_OUT_THE_BEAST_PERK_EFFECT:0 "The vampire can project their Beast at the moment of frenzy, transferring it into a nearby subject, either mortal or vampire."
+ FERAL_WHISPERS_PERK_EFFECT:0 "The vampire can commune with the beasts of the wild and the city, allowing the vampire to persuade animals into performing services for the, though, like humans, animals seldom agree to things that go against their nature or endanger them."
+ QUELL_THE_BEAST_PERK_EFFECT:0 "By locking eyes with a target, the vampire cows their inner Beast into temporary slumber." 
+ SENSE_THE_BEAST_PERK_EFFECT:0 "The vampire can sense the Beast present in mortals, vampires, and other supernaturals, gaining a sense of their nature, hunger, and hostility."
+ SUBSUME_THE_SPIRIT_PERK_EFFECT:0 "The vampire can completely transfer its mind into the body of an animal. They can control the animal and use its senses freely, even during the day should they manage to stay awake."
+
+ # Auspex # 
+ 
+ CLAIRVOYANCE_PERK_EFFECT:0 "By closing their eyes and entering a light trance, the vampire becomes master of its surroundings."
+ HEIGHTENED_SENSES_PERK_EFFECT:0 "The vampire's senses sharpen to a preternatural degree, giving them the ability to see in pitch darkness, hear ultrasonic frequencies and smell the fear of cowering prey. \n \nYou can escape from prison through a decision"
+ PREMONITION_PERK_EFFECT:0 "The vampire experiences flashes of insight. These may take the form of raised hackles, sudden inspiration, or even vivid visions. While never too precise, these visions can nudge the vampire out of harm's way or reveal a truth previously overlooked. \n \nImprove your spymaster Find Secrets task."
+ SCRY_THE_SOUL_PERK_EFFECT:0 "By focusing on a person, the vampire can perceive the state of that person's psyche as a shifting aura of colors. Auras reveal little precise information but provide clues regarding many subjects, e.g., the emotional state, the resonance, and supernatural traits. \n \nYou can choose what type of resonance the mortals found via the Find Mortals character interaction will have"
+ SENSE_THE_UNSEEN_PERK_EFFECT:0 "The senses of the vampire become attuned to dimensions beyond the mundane, allowing them to sense presences otherwise hidden from the naked eye."
+ SHARE_THE_SENSES_PERK_EFFECT:0 "By reaching out with their mind, the vampire can tap into the senses of another mortal or vampire, seeing, hearing, and feeling what they do."
+ SPIRITS_TOUCH_PERK_EFFECT:0 "By touching an inanimate object or a ground, the vampire can sense emotional residues. Those who have handled that object or walked this path in the past leave hints for the skilled reader."
+ TELEPATHY_PERK_EFFECT:0 "At the highest levels of Auspex, the vampire can now literally read minds, as well as project their own thoughts into the minds of others. \n \nYou can use the Telepathy character interaction to find secrets."
+
+ # Animalism # 
+ 
+ ANIMAL_DOMINION_PERK_EFFECT:0 "'Wild dogs? Nay! Rats!' \n \nThe power the vampire holds over beasts is now great enough to command flocks and packs as if they were extensions of their own body. As a character interaction, you can spawn an army of animals." 
+ ANIMAL_SUCCULENCE_PERK_EFFECT:0 "The vampire can slake additional Hunger by feeding on animals. As a character interaction, you can drain animals to better effect than other vampires."
+ BOND_FAMULUS_PERK_EFFECT:0 "As a character interaction you can [bind_famulus|E], Blood Bonding an animal and forming a mental link with it."
+ DRAWING_OUT_THE_BEAST_PERK_EFFECT:0 "The vampire can project their Beast at the moment of frenzy, transferring it into a nearby subject, either mortal or vampire."
+ FERAL_WHISPERS_PERK_EFFECT:0 "The vampire can commune with the beasts of the wild and the city, allowing the vampire to persuade animals into performing services for the, though, like humans, animals seldom agree to things that go against their nature or endanger them."
+ QUELL_THE_BEAST_PERK_EFFECT:0 "By locking eyes with a target, the vampire cows their inner Beast into temporary slumber." 
+ SENSE_THE_BEAST_PERK_EFFECT:0 "The vampire can sense the Beast present in mortals, vampires, and other supernaturals, gaining a sense of their nature, hunger, and hostility."
+ SUBSUME_THE_SPIRIT_PERK_EFFECT:0 "The vampire can completely transfer its mind into the body of an animal. They can control the animal and use its senses freely, even during the day should they manage to stay awake."
+
+ # Auspex # 
+ 
+ CLAIRVOYANCE_PERK_EFFECT:0 "By closing their eyes and entering a light trance, the vampire becomes master of its surroundings."
+ HEIGHTENED_SENSES_PERK_EFFECT:0 "The vampire's senses sharpen to a preternatural degree, giving them the ability to see in pitch darkness, hear ultrasonic frequencies and smell the fear of cowering prey. \n \nYou can escape from prison through a decision"
+ PREMONITION_PERK_EFFECT:0 "The vampire experiences flashes of insight. These may take the form of raised hackles, sudden inspiration, or even vivid visions. While never too precise, these visions can nudge the vampire out of harm's way or reveal a truth previously overlooked. \n \nImprove your spymaster Find Secrets task."
+ SCRY_THE_SOUL_PERK_EFFECT:0 "By focusing on a person, the vampire can perceive the state of that person's psyche as a shifting aura of colors. Auras reveal little precise information but provide clues regarding many subjects, e.g., the emotional state, the resonance, and supernatural traits. \n \nYou can choose what type of resonance the mortals found via the Find Mortals character interaction will have"
+ SENSE_THE_UNSEEN_PERK_EFFECT:0 "The senses of the vampire become attuned to dimensions beyond the mundane, allowing them to sense presences otherwise hidden from the naked eye."
+ SHARE_THE_SENSES_PERK_EFFECT:0 "By reaching out with their mind, the vampire can tap into the senses of another mortal or vampire, seeing, hearing, and feeling what they do."
+ SPIRITS_TOUCH_PERK_EFFECT:0 "By touching an inanimate object or a ground, the vampire can sense emotional residues. Those who have handled that object or walked this path in the past leave hints for the skilled reader."
+ TELEPATHY_PERK_EFFECT:0 "At the highest levels of Auspex, the vampire can now literally read minds, as well as project their own thoughts into the minds of others. \n \nYou can use the Telepathy character interaction to find secrets."
+ 
+ # Blood Sorcery #
+
+ INCORPOREAL_FORM_PERK_EFFECT:0 "Enable the use of [incorporeal_form|E]."
+ CORROSIVE_VITAE_PERK:0 "You unlock a better option for the cover masquerade character interaction."
+ A_TASTE_OF_BLOOD_PERK:0 "Improve the spymaster Find Secrets task."
+
+ # Celerity # 
+ BLINK_PERK_EFFECT:0 "You now move so swiftly, engaging a foe or escaping in the blink of an eye, that to an unprepared observer you almost appear to teleport, a rush of wind the only sign of your passing."
+ CATS_GRACE_PERK_EFFECT:0 "You gain supernatural balance and grace, becoming able to walk and even across the slimmest of ledges and supports."
+ DRAUGHT_OF_ELEGANCE_PERK_EFFECT:0 "Your blood becomes saturated with the power of Celerity, conveying part of your power to anyone who drinks of it. As a character interaction, you can gift someone with your supernatural quickness."
+ FLEETNESS_PERK_EFFECT:0 "Your mastery of Celerity now allows you to move and react with dizzying speed."
+ LIGHTNING_STRIKE_PERK_EFFECT:0 "Faster than the eye can follow, you can strike with fist or melee weapon at such speed that your opponents are unable to defend themselves or take evasive action."
+ RAPID_REFLEXES_PERK_EFFECT:0 "While their bodies still can't defy the laws of nature, vampires with this power perceive events instantly and can react to them with superhuman alacrity."
+ SPLIT_SECOND_PERK_EFFECT:0 "Acting with the speed of your supercharged perception, your ambushers find their prey already standing behind them, and favors asked are completed before the words leave the supplicants mouth."
+ TRAVERSAL_PERK_EFFECT:0 "With blurring speed, you can run or climb along any surface, including running up walls and even crossing liquid mediums."
+
+ # Dominate # 
+
+ RATIONALIZE_PERK_EFFECT:0 "Enables the rationalize character interaction and scheme"
+ CLOUD_MEMORY_PERK:0 "You unlock choices to make people forget in specific events."
+ MESMERIZE_PERK:0 "You unlock the abduct scheme."
+ THE_FORGETFUL_MIND_PERK:0 "You unlock a better option for the cover masquerade character interaction. It also allows a Character Interaction that can lead the victim to a specific derangement."
+ SUBMERGED_DIRECTIVE_PERK:0 "You have better odds at recruiting agents for your murder schemes."
+ MASS_MANIPULATION_PERK:0 "As a character interaction, you can spawn an army of maniacs."
+
+ # Fortitude # 
+
+ DEFY_BANE_PERK_EFFECT:0 "By preparing themselves with an expenditure of power, the vampire can make themselves temporarily resistant to fire and sunlight as well as other grievous wounds that would threaten them with Final Death. When using Toughness, the vampire is immune to maiming during large battles."
+ DRAUGHT_OF_ENDURANCE_PERK_EFFECT:0 "Your blood becomes saturated with the power of Fortitude, conveying part of your power to anyone who drinks of it. \n \nAs a character interaction, you can give your supernatural toughness to someone."
+ FLESH_OF_MARBLE_PERK_EFFECT:0 "The power of the Blood causes the skin of the vampire to harden, taking on a marble-like sheen that is still supple but stops almost any blow before momentarily breaking and reforming."
+ FORTIFY_THE_INNER_FACADE_PERK_EFFECT:0 "Instead of hardening the vampire's physical frame, this power allows the user to protect their thoughts and emotions from supernatural prying."
+ PROWESS_FROM_PAIN_PERK_EFFECT:0 "Injuries and impairments now only fuel the powers of the vampire, who grows stronger and faster from each blow, rend, or tear received." #Grants you a character interaction to embrace the pain and use it to make yourself stronger.
+ RESILIENCE_PERK_EFFECT:0 "Endowed with supernatural endurance, the user's physical resolve is strengthened."
+ TOUGHNESS_PERK_EFFECT:0 "All vampires with this power exhibit an innate ability to ignore the damage that would otherwise inconvenience and even disable others of their kind. With this perk, you will be able to soak injuries, using the blood to prevent yourself from being wounded."
+ UNSWAYABLE_MIND_PERK_EFFECT:0 "The user gains a mystical ability to resist any attempts to sway them through mundane charms, coercion, and wiles."
+ BLESSING_OF_VITALITY_PERK_EFFECT:0 "[elder_perk|E], only 3-7th generation vampires can buy this perk. Confer more of your unnatural resilience with your draught of endurance, granting your chosen target the benefits of the toughness power while the draught lasts."
+ KNIGHTS_BANE_PERK_EFFECT:0 "[elder_perk|E], only 3-6th generation vampires can buy this perk. Grants a duel move to destroy your opponent's weapon with your bare flesh, dealing them damage in the process."
+ CURSE_THE_LAUREL_PERK_EFFECT:0 "[elder_perk|E], only 3-4th generation vampires can buy this perk. Move a stake away from your heart, eventually removing it."
+ WRATH_OF_THE_MARTYR_PERK_EFFECT:0 "[elder_perk|E], only 3-7th generation vampires can buy this perk. Increase the power you draw from pain." # making Prowess from Pain far more effective."
+ ARMOURED_FLESH_PERK_EFFECT:0 "[elder_perk|E], only 3-6th generation vampires can buy this perk. Nothing short of a lethal strike will kill you. No amount of wounds will ever end your life, but only complete destruction or decapitation."
+ RESILENT_MIND_PERK_EFFECT:0 "[elder_perk|E], only 3-4th generation vampires can buy this perk. Your mind sheds derangement and animalistic quirks while becoming resistant to mind-altering powers."
+ armoured_flesh_ct:0 "Your armoured flesh perk protected you from this wound!"
+ fortitude_soaked_damage:0 "Fortitude"
+ fortitude_soaked_damage_ct:0 "Your fortitude discipline tanked the wound."
+ fortitude_failed_soaked_damage:0 "No Luck"
+ fortitude_failed_soaked_damage_ct:0 "Your fortitude discipline failed to tank the wound."
+ 
+ # Obfuscate # 
+ 
+ CLOAK_OF_SHADOWS_PERK_EFFECT:0 "Standing perfectly still, the user blends into the surroundings. As long as they have some cover, make no sound, and don't move, only mechanical or supernatural means can detect them."
+ CLOAK_THE_GATHERING_PERK_EFFECT:0 "The vampire can shelter their companions under the cloak of Obfuscate."
+ IMPOSTORS_GUISE_PERK_EFFECT:0 "With preparation, the vampire can make themselves appear as a specific individual of any build and gender. The user must carefully study the subject. Otherwise, the charade fails when meeting anyone with more than a casual familiarity with the person being mimicked."
+ MASK_OF_THOUSAND_FACES_PERK_EFFECT:0 "Instead of disappearing, the vampire using this power can make themselves appear as a nondescript stranger: someone expected to be present in the area."
+ SILENCE_OF_DEATH_PERK_EFFECT:0 "This power completely silences the user, nullifying all sound made by them. Unlike Obfuscate in general, this power works only on the sense of hearing, but in exchange, operates more robustly. A vampire needs to make a whole lot of noise to break this silence."
+ UNSEEN_PASSAGE_PERK_EFFECT:0 "With this power, the vampire can now move around while staying hidden. Improve your spymaster Find Secrets task"
+ VANISH_PERK_EFFECT:0 "The vampire appears to vanish in the blink of an eye; even the memory of them becomes foggy and indistinct."
+ RESILIENT_MIND_PERK_EFFECT:0 "Fortify your mind and cleanse yourself of insanity, mental afflictions and addictions."
+ 
+ # Oblivion # 
+
+ TENEBROUS_AVATAR_PERK_EFFECT:0 "As a character interaction, you can transform into shadows."
+ SHADOW_CLOAK_PERK:0 "Improve your spymaster Find Secrets task"
+ OBLIVIONS_SIGHT_PERK:0 "As a character interaction, you can command wraith against other characters."
+ TOUCH_OF_OBLIVION_PERK:0 "As a character interaction, you can bind wraiths."
+ SHADOW_PERSPECTIVE_PERK:0 "Improve your spymaster Find Secrets task"
+ ASHES_TO_ASHES_PERK:0 "As a character interaction, you can try to destroy a ghoul from afar."
+
+ # Potence # 
+ 
+ BRUTAL_FEED_PERK_EFFECT:0 "In mere seconds, you swallow torrents of blood while mauling your victim. The result is efficient if messy. You can now use your new feeding method in the heat of battle and can disguise the mangled remains of the victim."
+ DRAUGHT_OF_MIGHT_PERK_EFFECT:0 "Your blood becomes saturated with the power of Potence, conveying part of your power to anyone who drinks of it. As a character interaction, you can gift someone with your supernatural strength."
+ EARTHSHOCK_PERK_EFFECT:0 "Your strength becomes an elemental force. You can slam your fist or foot into the ground, creating a shockwave that throws opponents prone and shatters buildings."
+ FISTS_OF_CAINE_PERK_EFFECT:0 "Your bare hands can inflict grievous injuries, lethal to both mortals and other vampires. They can dismember, pierce, impale, decapitate, and even rip a heart out of the chest."
+ LETHAL_BODY_PERK_EFFECT:0 "Using this power, you are capable of causing horrendous damage, tearing the skin and breaking bones with bare hands."
+ PROWESS_PERK_EFFECT:0 "Vampires with Potence gain far greater strength from their Blood than those who lack it."
+ SOARING_LEAP_PERK_EFFECT:0 "Possessing unholy strength in more than arms and fists, you can leap far higher and further than any mortal."
+ UNCANNY_GRIP_PERK_EFFECT:0 "Focusing your unnatural strength into toes and fingers, your grip and burrow your extremities into almost any surface, enabling you to climb and even hang otherwise unsupported from walls and ceilings."
+ 
+ # Presence # 
+
+ AWE_PERK_EFFECT:0 "Anyone in the presence of the vampire finds their attention inexplicably drawn to them. Those listening to the vampire speak might suddenly agree on subjects where they once held different viewpoints. \n \nUnlock the Befriend scheme."
+ DAUNT_PERK_EFFECT:0 "Instead of attracting people, the vampire uses Presence to repel. With this power, the user appears threatening and exudes an aura of menace powerful enough to make most mortals avoid their attention and even vampires think twice about acting against them."
+ DREAD_GAZE_PERK_EFFECT:0 "Briefly exposing their vampiric nature, the user instills a single subject with utter terror."
+ ENTRANCEMENT_PERK_EFFECT:0 "The vampire focuses their unnatural allure on a single person, instilling in them a rapt fascination or infatuation akin to falling head over heels in love or meeting one's lifelong idol. \n \nEnables the [entrance_scheme|E]."
+ LINGERING_KISS_PERK_EFFECT:0 "The Kiss of a vampire induces near-ecstasy in mortals, but this power leaves other Kisses in the dust. Mortals fed upon by the user become addicted to the Kiss, obsessing over it and even seeking the vampire out for repeated feedings. \n \nWhen you hunt, you can choose to add your victims to your Herd."
+ MAJESTY_PERK_EFFECT:0 "At this pinnacle of the [discipline|E], the vampire can amplify their countenance to supernatural levels. To experience Majesty is to be in the presence of the divine - or the infernal. \n \nYou unlock a better option for the cover masquerade character interaction."
+ SUMMON_PERK_EFFECT:0 "The vampire can call to themselves any person, mortal or vampire, upon whom they've previously used Awe, Entrancement, or Majesty, or who has tasted their Blood at least once. \n \nEnables the [summon_scheme|E]."
+
+ # Protean #
+ 
+ EARTH_MELD_PERK_EFFECT:0 "Becoming one with the soil, the vampire sinks into the earth. Unless in [torpor|E], the vampire rises again the following night."
+ EYES_OF_THE_BEAST_PERK_EFFECT:0 "The vampire can will a supernatural red gleam into their eyes, giving them sight even in the total absence of light."
+ FERAL_WEAPONS_PERK_EFFECT:0 "The vampire can extend their natural weapons to monstrous proportions. As a character interaction, you can grow your claws into deadly weapons."
+ METAMORPHOSIS_PERK_EFFECT:0 "Your ability to assume the shape of an animal has grown. As a character interaction, you can now shapeshift into a bigger bestial form."
+ MIST_FORM_PERK_EFFECT:0 "The vampire gains the legendary power to turn into a cloud of mist, perceivable to the eye but untouchable by anything save fire, sunlight, and supernatural aggression. As a character interaction, you can now shift into an elusive mist form."
+ SHAPECHANGE_PERK_EFFECT:0 "The vampire can assume the shape of an animal, usually one associated with their [clan|E] or the type of prey they most commonly hunt. As a character interaction, you can now shapeshift into a bestial form."
+ THE_UNFETTERED_HEART_PERK_EFFECT:0 "Having mastered the power of Protean, the very insides of the user become malleable, almost viscous. The heart, seat of the vitae and unlife of the vampire, detaches and moves freely, if sluggishly, within the chest."
+ WEIGHT_OF_THE_FEATHER_PERK_EFFECT:0 "The vampire can reduce their effective mass and density, making themselves almost weightless."
+
+ # Vicissitude # 
+ 
+ AWAKEN_THE_ZULO_SHAPE_PERK_EFFECT:0 "As a character interaction, you can now shapeshift into the fearsome Zulo form, an eight-foot-tall nightmare of scales and greasy fur, apelike arms tipped with jagged black nails, and a bristling row of spines tracing the length of its backbone."
+ BLOODFORM_PERK_EFFECT:0 "Using advanced Vicissitude techniques, you instantly transform into a pool of sentient Vitae. As a character interaction, you can now shapeshift into the elusive blood form."
+ MALLEABLE_VISAGE_PERK_EFFECT:0 "The user may alter their own body in simple, cosmetic ways. They can be taller or stockier. They can change their voice by reshaping their larynx or can adopt a new skin tone, new eye color, new hair, and so on. As a character interaction, you can now tweak your face or your ghouls'."
+ REND_THE_OSSEOUS_FRAME_PERK_EFFECT:0 "At this stage of mastery, you have progressed to manipulating bone. Used on its own, Rend the Osseous Frame can inflict terrible damage upon a subject. When used in conjunction with Transmogrify the Mortal Clay, nightmares become possible."
+ THE_BODY_IMPOLITIC_PERK_EFFECT:0 "Arguably the most ghoulish of Vicissitude's gifts, The Body Impolitic allows the user to invest a portion of their sentience in the flesh of their body. They can then sever it from the trunk to do its bidding. Your spymaster Find Secrets task is more efficient."
+ TRANSMOGRIFY_THE_MORTAL_CLAY_PERK_EFFECT:0 "You may perform dramatic alterations, and not just upon yourself, but upon any subject, you can subdue long enough to impart your vision. As a character interaction, you can now spawn Szlachta Men at Arms."
+
+
+ # discipline # 
+ NEEDS_DISCIPLINE_TEXT:0 "#N Requires the base [discipline|E] trait to buy perks in this tree. #"
+ 
+ ventrue_clan_bane:0 "This person is outside your feeding preference, and feeding on them will incur a willpower check."
+ ventrue_clan_bane_anim:0 "Ventrue cannot swallow the blood of animals without an exertion of will."
+ 
+ # Faith #
+ 
+ DOMINUS_VOBISCUM_PERK_EFFECT:0 "As a character interaction, you can bless another character for a temporary stat boost."
+ INTERCESSION_PERK_EFFECT:0 "As a character interaction, you can give piety to another character with a small chance of granting him the True Faith trait."
+ HOLY_BULWARK_PERK_EFFECT:0 "You are now immune to mind powers of any sort."
+ LAY_OF_HANDS_PERK_EFFECT:0 "As a character interaction, you can now heal yourself of most ailments."
+ PENANCE_PERK_EFFECT:0 "As a character interaction, you can target a vampire to curse him (a stat debuff)."
+ CONVERSION_PERK_EFFECT:0 "As a decision, you can instantly convert your realm to your religion, for a hefty piety cost."
+
+# Bone Shintai #
+
+ CORPSE_SKIN_PERK_EFFECT:0 "Your body becomes more corpse-like, offering improved protection against physical attacks.\n\nUnlock a shapeshift option."
+ WHITE_TIGER_CORPSE_PERK_EFFECT:0 "Your body becomes transparent.\n\nUnlock a shapeshift option."
+ BONE_OBEDIENCE_PERK_EFFECT:0 "Allow you bone structure to calcify and grow like rock crystals.\n\nUnlock a duel move and a shapeshift option."
+ FIVE_POISON_CLOUD_PERK_EFFECT:0 "Allow you to exhale a poisonous cloud of black Yin energy.\n\nUnlock a duel move."
+ CHING_SHIH_PERK_EFFECT:0 "Allow you to temporarily assumes the Ch'ing Shih form.\n\nUnlock a duel move and a shapeshift option."
+ 
+ # Flesh Shintai #
+
+ LONG_NECK_PERK_EFFECT:0 "Allow you to stretch your limbs or neck to impressive lengths.\n\nUnlock a duel move."
+ DETACH_LIMB_PERK_EFFECT:0 "Allow you to animate your body part to act apart from main body.\n\nUnlock a spy option."
+ LOTUS_BREATH_PERK_EFFECT:0 "Allow you to exhales a cloud of Yang energy that turns mortals dreamy, giggly and generally incoherent."
+ PELESIT_PERK_EFFECT:0 "Allow you to construct small creatures from your own flesh and send them out for errands.\n\nUnlock a spy option."
+ TEN_THOUSAND_FORMS_PERK_EFFECT:0 "Allow you to shape yout body in any form desired as long as it retains the same mass as your original body.\n\nUnlock several shapeshift option."
+ 
+ # Blood Shintai #
+
+ PERMEATE_PERK_EFFECT:0 "Allow you to swell or shrivel own body.\n\nUnlock a spy option."
+ BLOOD_ATEMI_PERK_EFFECT:0 "Allow you to move blood in victim's body.\n\nUnlock a duel move."
+ FLOW_LIKE_BLOOD_PERK_EFFECT:0 "Allow you to become as fluid as blood.\n\nUnlock a shapeshift option."
+ BLOODLASH_PERK_EFFECT:0 "Allow you to create a lethal tendril of blood.\n\nUnlock a duel move."
+ BLOOD_AWAKENING_PERK_EFFECT:0 "Allow you to awake or freeze Yang Spirit or Wraiths.\n\nUnlock awake spirit and freeze spirit character interaction."
+ 
+ # Ghost-Flame Shintai #
+
+ GOBLIN_FACE_PERK_EFFECT:0 "Orifices in your face begin to blaze with heat, allowing you to see in pitch darkness and inflicting greater damage with your bite.\n\nUnlock a shapeshift option."
+ GOBLIN_SPARK_PERK_EFFECT:0 "Allow you to summon a tiny ball of spirit fire that cannot actually harm anything , but emits a soft light and can be twisted into various shapes according to its creator's wishes."
+ GOBLIN_SHAPES_PERK_EFFECT:0 "Allow you to twist flames into various forms according to your desires."
+ GOBLIN_SCORCH_PERK_EFFECT:0 "Allow you to exhale a gout of spirit flames.\n\nUnlock a duel move."
+ GOBLIN_LANTERN_PERK_EFFECT:0 "Allow you to temporarily ignites your form, even allowing you to turn into a glowing orb of fire.\n\nUnlock a duel move and a shapeshift option."
+ 
+ # Jade Shintai #
+
+ STAND_UPON_THE_DRAGONS_BACK_PERK_EFFECT:0 "Allow you to channel Chi from the Earth’s natural flows into your body, and vice versa, rooting yourself to the Earth.\n\nUnlock a duel move."
+ TREAD_THE_THRASHING_DRAGONS_TAIL_PERK_EFFECT:0 "By polarizing your Chi in line with that of your surroundings, you makes yourself preternaturally deft and light. You may walk safely and steadily along the narrowest of ledges, the most unstable ground, and even the surface of lakes or oceans."
+ PLACATE_THE_EARTH_DRAGON_PERK_EFFECT:0 "By gently singing to the spirits of earth, stone, and wood, you may cast yourself into their embrace.\n\nEnhance a spy option."
+ HARNESSING_THE_DRAGONS_BREATH_PERK_EFFECT:0 "By attuning your body to local streams of Chi, may actually fly along “updrafts” of energy. "
+ JADE_SERVANT_OF_THE_AUGUST_PERSONAGE_PERK_EFFECT:0 "The ultimate attuning of Chi to surroundings, this power draws upon the Five Element theory as well as great mastery of Chi. You may channel spiritual energies of the classic Five Elements — Metal, Wood, Water, Fire, and Earth — through your form, thus gaining the properties of the element in the process.\n\nUnlock several shapeshift options."
+ 
+ # Yin Prana #
+
+ SHROUDED_MOON_PERK_EFFECT:0 "Allow you tp turn invisible by cladding yourself in shadows.\n\nUnlock a shapeshift option."
+ YIN_MANTLE_PERK_EFFECT:0 "Allow you to channel your internal Yin energy into an animus that shrouds you. This animus, or mantle, is invisible to mortals, but it feels to them like a cold breeze in the air."
+ BONE_DANCE_PERK_EFFECT:0 "By performing a series of complicated and painful postures, you can channel Yin energy in an area, turning everyone within lethargic.\n\nUnlock a duel move."
+ EIGHTFOLD_YIN_MANTLE_PERK_EFFECT:0 "Like the initial Yin Mantle, only that the Yin energy manifests as a crackling black aura of Yin energy that can be shaped according to the user's wishes."
+ SEMBLANCE_OF_THE_EBON_DRAGON_PERK_EFFECT:0 "Allow you to become insubstantial as your body mass shifts into the Yin World.\n\nNo more cost to enter and stay in the Yin World and unlock a shapeshift option."
+ 
+ # Yang Prana #
+
+ PRINCIPLE_OF_MOTION_PERK_EFFECT:0 "Amplifies movements with Yang Chi."
+ YANG_MANTLE_PERK_EFFECT:0 "Allow you to attune your internal chi to the aura of a living person, making you appear much friendlier and more attractive."
+ DRAGON_DANCE_PERK_EFFECT:0 "Through a series of wild leaps, acrobatic katas, and yogic posturings, enters a battle trance. Capable of impressive combat feats while in this state.\n\nUnlock a duel move."
+ EIGHTFOLD_YANG_MANTLE_PERK_EFFECT:0 "Like the initial Yang Mantle, only that the Yang energy manifests as a roiling crimson aura of Yang energy that can be shaped according to the user's wishes."
+ SEMBLANCE_OF_THE_SCALET_QUEEN_PERK_EFFECT:0 "Allow you to become insubstantial, as your body mass shifts into the Yang World.\n\nNo more cost to enter and stay in the Yang World and unlock a shapeshift option."
+ 
+ # Equilibrium #
+
+ MASTER_FLOW_PERK_EFFECT:0 "Allow you control over the flow of chi within your body more efficiently.\n\nAllow you to use another aspected chi when you run out of chi of your preference."
+ ADJUST_BALANCE_PERK_EFFECT:0 "Allow you create to minor variants to a target's internal balance of chi, possibly allowing to create imbalances or cure it.\n\nUnlock the character interaction of the same name."
+ SHIFT_THE_BALANCE_PERK_EFFECT:0 "Allow you to alter your internal chi balance, becoming either Yin or Yang imbalanced.\n\nEnhance the character interaction of the same name."
+ CHI_INTERRUPT_PERK_EFFECT:0 "Allow you to stop the internal flow of chi within a target, causing painful spasms.\n\nUnlock a duel move."
+ CHI_MASTERY_PERK_EFFECT:0 "Allow you to drain chi from your target or willingly corrupt chi within the body.\n\nUnlock the character interaction of the same name."
+ 
+ # Tapestry #
+
+ SPIRIT_CALL_PERK_EFFECT:0 "Lure nearby spirits or wraiths towards you.\n\nUnlock summon character interaction to wraiths traget."
+ CHI_WARD_PERK_EFFECT:0 "Allow you to affect the local Wall rating.\n\nUnlock strengthening or weakening the Wall decision."
+ CHI_SHAPING_PERK_EFFECT:0 "Allow you to manipulate the currents of chi beneath the earth for a variety of effects, like invoking joss, weakening chi based attacks, or trapping local spirit.\n\nAllows you to upgrade the control the Dragon Line building."
+ RIDE_THE_DRAGON_PERK_EFFECT:0 "Allow you to travel along a Dragon Line, teleporting yourself across it."
+ CHI_RIFT_PERK_EFFECT:0 "Allow you to create a portal between the Middle Kingdom and the spiritual realms, unleashing a tempest of elemental chi that wreaks havoc in an area.\n\nUnlock the character interaction of the same name."
+ 
+ # Chi'iu Muh #
+ 
+ RASA_PERK_EFFECT:0 "Catch glimpses of ages past and ages to come."
+ CHI_SIGHT_PERK_EFFECT:0 "Sense the world of spirits as clearly as the material world.\n\nUnlock Trace the Dragon's Blood decision."
+ DRAGON_WARD_PERK_EFFECT:0 "Allow you to create a barrier of chi that turns away any attackers.\n\nUnlock a duel move."
+ PURIFICATION_PERK_EFFECT:0 "This power, a legacy of more noble days, was used by the Wan Xian of old to cleanse their mortal subjects and domains of demonic taint.\n\nUnlock the character interaction of the same name."
+ SPIRIT_EATING_PERK_EFFECT:0 "Allow you to sever the ties that hold a soul to its body to either purify it or devour it.\n\nUnlock the character interaction of the same name."
+ 
+ # Cultivation #
+
+ SCRUTINIZE_PERK_EFFECT:0 "Becomes privy to the dark urges within yourself and others.\n\nUnlock a spy option."
+ CLEAVE_THE_DEMON_PERK_EFFECT:0 "Allow you to separate your P'o from your Hun, leaving the other part of the soul in spirit form. "
+ LASH_THE_DEMON_PERK_EFFECT:0 "Allow you to separate other shen from their darker sides.\n\nUnlock the character interaction of the same name."
+ YOKE_THE_DEMON_PERK_EFFECT:0 "Allow you to pluck the P'o from the Hun, and subordinates the internal Demon. A Demon thus subordinated can be used to intimidate lesser creatures and watch for enemies."
+ TWO_BECOME_ONE_PERK_EFFECT:0 "Allow you to temporaly fuse your Hun and P'o, giving you a taste of Enlightenment that can send you spiraling into depravity all the quicker."
+ 
+ # Internalize #
+
+ NO_MIND_PERK_EFFECT:0 "Allow you to purge your Hun from distracting thoughts, which increases the difficulties to Frenzy."
+ BLOOD_YOGA_PERK_EFFECT:0 "By performing ritualistic motions and katas, Kuei-jin can recollect Willpower more easily.\n\nUnlock the meditate in seclusion decision even if you don't have the necesary tenet, you just need pay prestige, if you already have the necesary tenet, you will receive piety."
+ DISTANT_DEATH_KATA_PERK_EFFECT:0 "By slowly inhaling and exhaling while punching in the air, you may mystically transfer your punch on your target.\n\nUnlock the character interaction of the same name."
+ IRON_SOUL_PERK_EFFECT:0 "Turns inner energies into strengthening your mind and body."
+ HARMONY_WITH_THE_ALL_PERK_EFFECT:0 "Allow you to cast your consciousness to the beginnings cosmic cycle, temporarily allowing you to draw upon the perfection of the First Age.\n\nUnlock the character interaction of the same name."
+ 
+ # Obligation #
+
+ EVALUATE_PERK_EFFECT:0 "Allow you to scan the Hun of your opposite to discern weaknesses.\n\nUnlock a spy option."
+ SOUL_BRIDGE_PERK_EFFECT:0 "Allow you to link your Hun with the Hun of your opposite, allowing you to appear more trustworthy.\n\nUnlock the character interaction of the same name."
+ AUTHORITY_PERK_EFFECT:0 "Allow you to assume an aura of natural authority that affects everyone near to you."
+ THOUSAND_HELL_STARE_PERK_EFFECT:0 "Allow you to channel all your guilt, frustration, anger, and hunger into your Hun soul and then project this negative psychic energy like a knife into victim's soul.\n\nUnlock a duel move and project negative psychic energy character interaction."
+ SOUL_SHACKLES_PERK_EFFECT:0 "Allow you to create permanent bonds between your Hun and the Hun of another person.\n\nUnlock the character interaction of the same name."
+ 
+ # Black Wind #
+
+ BLACK_WIND_PERK_EFFECT:0 "Channels P'o to enhance speed.\n\nUnlock a duel move at level 2."
+ 
+ # Demon Shintai #
+
+ DEMON_SHINTAI_PERK_EFFECT:0 "Gain additional demonic feature as level increases.\n\nUnlock a duel move at level 2 and a shapeshift option at level 3."
+
+ # Meritocracy #
+ 
+ MERITOCRACY_LEGACY_1_PERK_EFFECT:0 "In addition to the above effect, every new Inquisitor will be Strong and Athletic.\n\nMens sana in corpore sano."
+ MERITOCRACY_LEGACY_2_PERK_EFFECT:0 "In addition to the above effect, every new Inquisitor will be a better Blademaster or Hunter.\n\nSi vis pacem, para bellum."
+ MERITOCRACY_LEGACY_3_PERK_EFFECT:0 "In addition to the above effect, every new Inquisitor will have their Education quality increased by 1.\n\nScientia potentia est."
+ MERITOCRACY_LEGACY_4_PERK_EFFECT:0 "In addition to the above effect, every new Inquisitor will have higher occurence or quality of positive Congenital Traits.\n\nGenuflectant omnes in plano."
+ MERITOCRACY_LEGACY_5_PERK_EFFECT:0 "In addition to the above effect, every new Inquisitor have a higher chance of possessing True Faith.\n\nBis orat qui bene cantat."
+ 
+ # Unity #
+ 
+ UNITY_LEGACY_1_PERK_EFFECT:0 "In addition to the above effect, you will have a better success chance when choosing the martial or stewardship approach in the Find Lair scheme.\n\nPacta clara, boni amici."
+ UNITY_LEGACY_2_PERK_EFFECT:0 "In addition to the above effect, you will complete Find Lair schemes faster.\n\nConveniens homini est hominem servare voluptas."
+ UNITY_LEGACY_3_PERK_EFFECT:0 "Beatius est magis dare quam accipere."
+ UNITY_LEGACY_4_PERK_EFFECT:0 "In addition to the above effect, training new apprentices will be more effective.\n\nArtificem commendat opus."
+ UNITY_LEGACY_5_PERK_EFFECT:0 "Nulla vis maior pietate vera est."
+ 
+ #Servitude legacy #
+ 
+ SERVITUDE_LEGACY_2_PERK_EFFECT:0 "Feudal obligation will be raised."
+ 
+ #Aspiration legacy #
+ 
+ ASPIRATION_LEGACY_2_PERK_EFFECT:0 "Feudal obligation will be lowered."
+ ASPIRATION_LEGACY_5_PERK_EFFECT:0 "Higher chance of inheriting [disciplines|E]."
+ 
+ #Ventrue legacy #
+ 
+ VENTRUE_LEGACY_1_PERK_EFFECT:0 "Bonus to heavy infantry MaA, unlocks a special character interaction to exchange hooks with other Ventrue.\nCamilla build the greatest Empire the [cainite|E] world has known or will ever know. [clan|E] Ventrue truly started with him."
+ VENTRUE_LEGACY_2_PERK_EFFECT:0 "Unlocks a special commander trait for every dynasty member with martial education.\nThe Spartan Goddess charged bravely against Carthage's horrors. [clan|E] Ventrue will always honor her sacrifice."
+ VENTRUE_LEGACY_3_PERK_EFFECT:0 "Unlocks a special character interaction to enforce [masquerade|E].\nMedon's idiotic death taught a valuable lesson to the Ventrue. Don't underestimate mortals."
+ VENTRUE_LEGACY_4_PERK_EFFECT:0 "Cultural fascination bonus and monthly piety bonus.\nThe explorer is never truly sated for the world is as endless as her wanderlust."
+ VENTRUE_LEGACY_5_PERK_EFFECT:0 "Bonus to heavy cavalry MaA.\nThe Persian general ascended to godhood at the sounds of thundering cataphracts."
+ 
+ #Setite legacy #
+ 
+ SETITE_LEGACY_1_PERK_EFFECT:0 "Piety bonus, unlocks special MaA.\nThe first son, the most devoted, is an exemplar for all Setites."
+ SETITE_LEGACY_2_PERK_EFFECT:0 "Unlocks the Befriend scheme. You can use it for 7 maximum friends (up from 5).\nThere is no shame in eating the forbidden fruit in good company."
+ SETITE_LEGACY_3_PERK_EFFECT:0 "Diplomacy bonus per prestige level.\nThere is always redemption in Set's embrace, even for the most stubborn 'Kindred'."
+ SETITE_LEGACY_4_PERK_EFFECT:0 "Unlocks special Founding Temple building.\nBask in His glory and pray, for He will return to save us all."
+ SETITE_LEGACY_5_PERK_EFFECT:0 "Buffs the Seduce scheme.\nThe lost daughter, the accursed, the Great Enemy... she will face retribution."
+ 
+ #Baali legacy #
+ 
+ BAALI_LEGACY_1_PERK_EFFECT:0 "Unlocks special MaA.\nAnd I looked, and behold a pale horse: and his name that sat upon him was Death and Hell followed with him."
+ BAALI_LEGACY_2_PERK_EFFECT:0 "Dread bonus.\nAnd I saw when the lamb opened one of the seals, and I heard, as it were the noise of thunder, one of the four beasts saying, Come and see."
+ BAALI_LEGACY_3_PERK_EFFECT:0 "+1 max hostile scheme.\nAnd I beheld, and lo a black horse; and he that sat on him had a pair of balances in his hand."
+ BAALI_LEGACY_4_PERK_EFFECT:0 "MaA maintenance bonus.\nAnd I saw, and behold a white horse: and he that sat on him had a bow; and a crown was given unto him; and he went forth conquering and to conquer."
+ BAALI_LEGACY_5_PERK_EFFECT:0 "Intimidated vassals contribution bonus.\nAnd there went out another horse that was red: and power was given to him that sat thereon to take peace from the earth, and that they should kill one another: and there was given unto him a great sword."
+ 
+ #Gangrel legacy #
+ 
+ GANGREL_LEGACY_1_PERK_EFFECT:0 "Unlocks special MaA, bonus to light infantry MaA.\nThe All-Father watches, proudly, as his children faces Ragnarok with bravery and honor."
+ GANGREL_LEGACY_2_PERK_EFFECT:0 "Bonus to light cavalry MaA, Unlocks a special commander trait for every dynasty member with martial education.\nI ride with millions! I am the Scourge of God! And I will watch your world... burn."
+ GANGREL_LEGACY_3_PERK_EFFECT:0 "Lowers new faith creation cost.\nThe bloody mother will have her revenge and the children of Caine will pay their debt tenfold."
+ GANGREL_LEGACY_4_PERK_EFFECT:0 "Bonus to piety, unlocks a special character interaction to challenge other characters to duels for hooks.\nAnd he wept, for there was no more worlds left to conquer."
+ GANGREL_LEGACY_5_PERK_EFFECT:0 "Bonus to monthly control in counties.\nThe cornered beast safeguards her flock, and strikes back with fury and an undying purpose."
+ 
+   #Ravnos legacy #
+ 
+ RAVNOS_LEGACY_1_PERK_EFFECT:0 "House opinion bonus, unlocks special MaA.\nThe kind mother of the Rroma safeguards her people and gives them purpose."
+ RAVNOS_LEGACY_2_PERK_EFFECT:0 "Bonus to heavy cavalry MaA, unlocks a special commander trait for every dynasty member with martial education.\nAn eternal war needs an eternal general. Chandraputra is that man."
+ RAVNOS_LEGACY_3_PERK_EFFECT:0 "Learning bonus, unlocks special character interaction to perform a ritual to gain wisdom.\nThe Rakshasa of Rakshasas cut off his eye to finally see."
+ RAVNOS_LEGACY_4_PERK_EFFECT:0 "Prestige bonus.\nIf you live in Egypt, act like an Egyptian."
+ RAVNOS_LEGACY_5_PERK_EFFECT:0 "Dread bonuses.\nThe accursed, the monster, the demon... the terror in each Ravnos' unbeating heart."
+ 
+  #Cappadocian legacy #
+ 
+ CAPPADOCIAN_LEGACY_1_PERK_EFFECT:0 "Learning per piety level bonus, unlocks a special character interaction to send your childer as councilors to other rulers.\nThe faithful son hides his fears but prepare for the worst that will soon come."
+ CAPPADOCIAN_LEGACY_2_PERK_EFFECT:0 "Unlocks special character interaction to hire Lamia bodyguard.\nThe Dark Mother hides secrets that only her daughters could truly comprehend."
+ CAPPADOCIAN_LEGACY_3_PERK_EFFECT:0 "Scheme resistance and power bonus.\nThe outcast and forgotten Cappadocian ruling branch will one day wear masks."
+ CAPPADOCIAN_LEGACY_4_PERK_EFFECT:0 "Bonus to monthly income per stress level, stewardship bonus.\nByzantium was a city of dreams long before Constantine ever set foot in it."
+ CAPPADOCIAN_LEGACY_5_PERK_EFFECT:0 "House opinion bonus.\nThe traitor son knows the truth, and unites the house against him with a purpose."
+ 
+  #Brujah legacy #
+ 
+ BRUJAH_LEGACY_1_PERK_EFFECT:0 "Reduced stress gains.\nThe King of Sparta is as unfeeling as the cold tip of his spear. Except when a particular Troyan is concerned."
+ BRUJAH_LEGACY_2_PERK_EFFECT:0 "Unlocks a special commander trait for every dynasty member with martial education.\nHe almost saved Carthage from ruin. The Brujah remember his triumph, and mourn his defeat."
+ BRUJAH_LEGACY_3_PERK_EFFECT:0 "Unlocks abduct scheme, bonus to abduct scheme, unlocks a special personal character interaction to form a cadre of Brujah knights.\nThe noble outlaw will defeat tyrants and kings with sword, bow and wits."
+ BRUJAH_LEGACY_4_PERK_EFFECT:0 "Build cost and monthly income bonus.\nTo truly understand the Byzantine bureaucratic system you need a Russian princess."
+ BRUJAH_LEGACY_5_PERK_EFFECT:0 "Knight and prowess bonus.\nThe first traitor fought hard for her utopia but Carthage fell long before the Roman came."
+ 
+  #Tzimisce legacy #
+ 
+ TZIMISCE_LEGACY_1_PERK_EFFECT:0 "Unlocks special MaA.\nThe unliving has no concern for morality. You will serve."
+ TZIMISCE_LEGACY_2_PERK_EFFECT:0 "Bonus to monthly income.\nThe noble of the night carry the dreaded legacy of the Tzimisce [clan|E]."
+ TZIMISCE_LEGACY_3_PERK_EFFECT:0 "Unlocks special MaA.\nHorrors and monsters come forth the flesh pits, ready to reclaim the Tzimisce's birthright."
+ TZIMISCE_LEGACY_4_PERK_EFFECT:0 "Removes penalty to opinion for different faith.\nThe Holy Spirit has ascended, leaving only ruins in his wake."
+ TZIMISCE_LEGACY_5_PERK_EFFECT:0 "Unlocks special Sanctuary of Flesh building.\nYou who enter here... won't ever leave."
+ 
+  #Tremere legacy #
+ 
+ TREMERE_LEGACY_1_PERK_EFFECT:0 "Unlocks special MaA.\nWhen you war for your very survival, sacrifices must be made. Plenty of sacrifices."
+ TREMERE_LEGACY_2_PERK_EFFECT:0 "Bonus to liege opinion.\nThe only woman to have earned the respect of Tremere is the very foundation of the Pyramid."
+ TREMERE_LEGACY_3_PERK_EFFECT:0 "Bonus to house opinion.\nIn the Pyramid, you all have a purpose and a place. Below your betters."
+ TREMERE_LEGACY_4_PERK_EFFECT:0 "Bonus to maximum MaA cap.\nShe loves her creations and they love her in return. The Pyramid will soon tremble."
+ TREMERE_LEGACY_5_PERK_EFFECT:0 "Bonus to learning per piety level.\nLearning and wisdom are the often forgotten qualities that make a true Tremere magus."
+ 
+  #Toreador legacy #
+ 
+ TOREADOR_LEGACY_1_PERK_EFFECT:0 "Diplomacy bonus.\nArt and decadence are one and the same to some."
+ TOREADOR_LEGACY_2_PERK_EFFECT:0 "Bonus to seduce scheme power.\nThe Troyan will have her revenge, even if the world has to burn beforehand."
+ TOREADOR_LEGACY_3_PERK_EFFECT:0 "Bonus to same faith opinion.\nThe archangel lost his mind and the world lost his last hope. The Dark Ages will never end."
+ TOREADOR_LEGACY_4_PERK_EFFECT:0 "Allows to form alliances without marriage.\nBeware the scorned woman, for her fury will never end."
+ TOREADOR_LEGACY_5_PERK_EFFECT:0 "Bonus to intrigue per prestige level, unlocks a special character interaction to spread false rumors about a target.\nThe most unlikely of heroes can be found in the most unlikely of places."
+ 
+ #Salubri legacy #
+ 
+ SALUBRI_LEGACY_1_PERK_EFFECT:0 "Hard enemy casualty bonus.\nHer vengeance is a terrifying sight but no fire burns forever."
+ SALUBRI_LEGACY_2_PERK_EFFECT:0 "Unlocks a special commander trait for every dynasty member with martial education.\nThe Sword of the Salubri never knew defeat, even in death."
+ SALUBRI_LEGACY_3_PERK_EFFECT:0 "Monthly piety bonus, unlocks caste system for your dynasty.\nShe will sing as the world burns around her. And perhaps will it be enough."
+ SALUBRI_LEGACY_4_PERK_EFFECT:0 "Vassal opinion bonus.\nWise is the man that prepares for shelter when war is coming."
+ SALUBRI_LEGACY_5_PERK_EFFECT:0 "60% Holy Wars cost reduction.\nThe traitor never faced justice and had the last laugh. A bitter victory for a broken man."
+ 
+ #Lasombra legacy#
+ 
+ LASOMBRA_LEGACY_1_PERK_EFFECT:0 "Intrigue bonus.\nThe shunned daughter plots her revenge. Against shadows she will use the ultimate fire."
+ LASOMBRA_LEGACY_2_PERK_EFFECT:0 "Unlocks a special commander trait for every dynasty member with martial education.\nThe Shadow Reconquista will succeed, but its ultimate victor might not be the obvious one."
+ LASOMBRA_LEGACY_3_PERK_EFFECT:0 "Faith conversion cost reduction.\nTruly, the Most Merciful transcends even death."
+ LASOMBRA_LEGACY_4_PERK_EFFECT:0 "Intrigue bonus.\nPlotting for the sake of plotting is an art form in itself."
+ LASOMBRA_LEGACY_5_PERK_EFFECT:0 "Faith creation and reformation cost reduction.\nConstantinople had its bitter revenge as Venice burns with her."
+ 
+  #Banu Haqim legacy#
+ 
+ BANUHAQIM_LEGACY_1_PERK_EFFECT:0 "Dread bonus.\nHidden behind a veil of secrecy, the Banu Haqim are feared far beyond their Middle Eastern borders."
+ BANUHAQIM_LEGACY_2_PERK_EFFECT:0 "Unlocks a special commander trait for every dynasty member with martial education.\nThe Undefeated will rise to new heights. Even death won't stole his honor."
+ BANUHAQIM_LEGACY_3_PERK_EFFECT:0 "Title creation cost reduction.\nBeing the Eldest doesn't mean much without the support of your peers."
+ BANUHAQIM_LEGACY_4_PERK_EFFECT:0 "Light cavalry MaA bonuses.\nThe Carthaginian's traitor still wanders the night, a shame upon all true Banu Haqim."
+ BANUHAQIM_LEGACY_5_PERK_EFFECT:0 "Different faith opinion bonuses.\nThe Black Shepherd will purge the Earth of the unworthy. This is the only salvation coming to this doomeed world."
+ 
+  #Malkavian legacy#
+ 
+ MALKAVIAN_LEGACY_1_PERK_EFFECT:0 "House opinion bonus.\nProphets of doom are rarely welcome, but often right."
+ MALKAVIAN_LEGACY_2_PERK_EFFECT:0 "Income per stress level bonus, unlocks a special personal character interaction to 'borrow' skills.\nThe last true Malkavian Prince fought bravely against Carthage's horrors and earned the respect of all."
+ MALKAVIAN_LEGACY_3_PERK_EFFECT:0 "Prestige bonus, unlocks a special character interaction to debuff scheme resistance of another ruler if they have any Malkavian courtier.\nAm I lying? Are you lying? IS THE WORLD LYING?!"
+ MALKAVIAN_LEGACY_4_PERK_EFFECT:0 "Dread bonus.\nJust a nice, fancy, dinner with the heads of my courtiers."
+ MALKAVIAN_LEGACY_5_PERK_EFFECT:0 "Learning per piety level bonus.\nIs selling your soul to evil bad when you didn't have a soul to begin with?"
+ 
+  #Nosferatu legacy#
+ 
+ NOSFERATU_LEGACY_1_PERK_EFFECT:0 "Allows to form alliances without marriage.\nThe proud monster stands tall against the horrors of the night, uplifting his [clan|E] to greater heights."
+ NOSFERATU_LEGACY_2_PERK_EFFECT:0 "Unlocks a special commander trait for every dynasty member with martial education.\nThe ancients of the Middle East were no match for Tarique's proven skills and undying faith."
+ NOSFERATU_LEGACY_3_PERK_EFFECT:0 "Stewardship and domain limit bonus.\nDenmark was made by and for Absalon, and will be unmade by him."
+ NOSFERATU_LEGACY_4_PERK_EFFECT:0 "Advantage bonus.\nFury and hatred make for poor advisors, but great fuel for the Beast."
+ NOSFERATU_LEGACY_5_PERK_EFFECT:0 "Dread bonus.\nThe Little Grandmother is the only, terrifying, hope against even more dreadful horrors."
+
+   #Caitiff legacy#
+ 
+ CAITIFF_LEGACY_1_PERK_EFFECT:0 "Dynasty opinion bonus"
+ CAITIFF_LEGACY_2_PERK_EFFECT:0 "Prowess and hostile scheme resistance bonus"
+ CAITIFF_LEGACY_3_PERK_EFFECT:0 "Prestige and piety gain bonus"
+ CAITIFF_LEGACY_4_PERK_EFFECT:0 "Unlocks Thinbloods MaA"
+ CAITIFF_LEGACY_5_PERK_EFFECT:0 "Knight bonus, unlocks a special commander trait for every dynasty member with martial education"
+ 
+ # Ashen Nobles #
+ 
+ ASHEN_NOBLES_LEGACY_1_PERK_EFFECT:0 "Unlocks a special building"
+ ASHEN_NOBLES_LEGACY_2_PERK_EFFECT:0 "Unlocks a special childe education event"
+ ASHEN_NOBLES_LEGACY_3_PERK_EFFECT:0 "Unlocks special MaA and 2nd tier of the special building"
+ ASHEN_NOBLES_LEGACY_4_PERK_EFFECT:0 "Unlocks a special option for Find Mortals interaction"
+ ASHEN_NOBLES_LEGACY_5_PERK_EFFECT:0 "Unlocks a special decision to invite Ashen Prospect and 3rd tier of the special building"
+ 
+ # Ashen Knights #
+ 
+ ASHEN_KNIGHTS_LEGACY_1_PERK_EFFECT:0 "Unlocks a special building"
+ ASHEN_KNIGHTS_LEGACY_2_PERK_EFFECT:0 "Unlocks a special childe education event"
+ ASHEN_KNIGHTS_LEGACY_3_PERK_EFFECT:0 "Unlocks special MaA and 2nd tier of the special building"
+ ASHEN_KNIGHTS_LEGACY_4_PERK_EFFECT:0 "Unlocks a special option for Find Mortals interaction"
+ ASHEN_KNIGHTS_LEGACY_5_PERK_EFFECT:0 "Unlocks a special decision to invite Ashen Prospect and 3rd tier of the special building"
+ 
+ # Ashen seneschals #
+ 
+ ASHEN_SENESCHALS_LEGACY_1_PERK_EFFECT:0 "Unlocks a special building"
+ ASHEN_SENESCHALS_LEGACY_2_PERK_EFFECT:0 "Unlocks a special childe education event"
+ ASHEN_SENESCHALS_LEGACY_3_PERK_EFFECT:0 "Unlocks special MaA and 2nd tier of the special building"
+ ASHEN_SENESCHALS_LEGACY_4_PERK_EFFECT:0 "Unlocks a special option for Find Mortals interaction"
+ ASHEN_SENESCHALS_LEGACY_5_PERK_EFFECT:0 "Unlocks a special decision to invite Ashen Prospect and 3rd tier of the special building"
+ 
+ # Ashen Thieves #
+ 
+ ASHEN_THIEVES_LEGACY_1_PERK_EFFECT:0 "Unlocks a special building"
+ ASHEN_THIEVES_LEGACY_2_PERK_EFFECT:0 "Unlocks a special childe education event"
+ ASHEN_THIEVES_LEGACY_3_PERK_EFFECT:0 "Unlocks special MaA and 2nd tier of the special building"
+ ASHEN_THIEVES_LEGACY_4_PERK_EFFECT:0 "Unlocks a special option for Find Mortals interaction"
+ ASHEN_THIEVES_LEGACY_5_PERK_EFFECT:0 "Unlocks a special decision to invite Ashen Prospect and 3rd tier of the special building"
+ 
+ # Ashen Cults #
+ 
+ ASHEN_CULTS_LEGACY_1_PERK_EFFECT:0 "Unlocks a special building"
+ ASHEN_CULTS_LEGACY_2_PERK_EFFECT:0 "Unlocks a special childe education event"
+ ASHEN_CULTS_LEGACY_3_PERK_EFFECT:0 "Unlocks special MaA and 2nd tier of the special building"
+ ASHEN_CULTS_LEGACY_4_PERK_EFFECT:0 "Unlocks a special option for Find Mortals interaction"
+ ASHEN_CULTS_LEGACY_5_PERK_EFFECT:0 "Unlocks a special decision to invite Ashen Prospect and 3rd tier of the special building"
+ 
+ # Obtenebration #
+ 
+ EYES_OF_THE_ABYSS_PERK_EFFECT:0 "Unlocks [abyss_eyes|E] power."
+ SHADOW_PLAY_PERK_EFFECT:0 "While this ability does not allow characters to create shadows that do not already exist, it allows one to manipulate, move, and animate ambient shadows. This can grant social effects, such as using shadows to make yourself more imposing, or shape an environment to suit your needs, creating areas of shadow in which to hide a person or object."
+ NOCTURNE_PERK_EFFECT:0 "Unlocks [nocturne|E] power. Current debuff to enemies: -2 prowess."
+ NIGHT_SHADES_PERK_EFFECT:0 "Allows you to summon Shades as personal, using Spawn Army personal [character_interaction|E]."
+ ARMS_OF_AHRIMAN_PERK_EFFECT:0 "With this ability, a Lasombra shapes the darkness into tentacles that can attack, restrain, and grapple foes."
+ TENEBROUS_AVATAR_OBTENEBRATION_PERK_EFFECT:0 "Unlocks [tenebrous_avatar|E] power."
+ THE_DARKNESS_WITHIN_PERK_EFFECT:0 "Buffs [nocturne|E] power. Current debuff to enemies: -3 prowess."
+ OUBLIETTE_PERK_EFFECT:0 "Unlocks [abduction|E] scheme"
+ WALK_THE_ABYSS_PERK_EFFECT:0 "By traversing the Abyss, this ability allows a character to enter a patch of darkness and emerge from a second patch of darkness within eyesight. Characters may also use this ability to extend their reach into a shadow and grasp something within reach of a second shadow."
+ DRAIN_THE_LIFE_PERK_EFFECT:0 "Unlocks [drain_the_life|E] power."
+ DARK_WHISPERS_PERK_EFFECT:0 "With this ability, a character can use near shadows to poject her feelings into."
+ GOD_IN_DARKNESS_PERK_EFFECT:0 "Buffs [tenebrous_avatar|E] power."
+ DARKSIGHT_PERK_EFFECT:0 "[elder_perk|E], only 3-7th generation vampires can buy this perk. Buffs [abyss_eyes|E] power."
+ SHADOWSTEP_PERK_EFFECT:0 "[elder_perk|E], only 3-7th generation vampires can buy this perk. The vampire disappears into shadow, skating across the Labyrinth to reemerge after travelling across something fouler than death and twice as hungry. They step into a shadow large enough to cover them, and reemerge from one they can see."
+ SHADOW_TWIN_PERK_EFFECT:0 "[elder_perk|E], only 3-6th generation vampires can buy this perk. Unlocks [shadow_twin|E] power."
+ AEGIS_OF_SHADOWS_PERK_EFFECT:0 "[elder_perk|E], only 3-5th generation vampires can buy this perk. Cover yourself in powerful shadow armor."
+ DEVOUR_ALL_HOPE_PERK_EFFECT:0 "[elder_perk|E], only 3-5th generation vampires can buy this perk. Buffs [nocturne|E] power. Current debuff to enemies: -5 prowess"
+ AHRIMANS_DEMESNE_PERK_EFFECT:0 "[elder_perk|E], only 3-4th generation vampires can buy this perk. Buffs [drain_the_life|E] power. Now it can debuff whole realms, no matter the size."
+ 
+ # Misc tooltip # 
+   
  masquerade_exposure_increase_effect.tt:0 "Masquerade exposure will increase."
  masquerade_exposure_decrease_effect.tt:0 "Masquerade exposure will decrease."
  hunger_increase_effect.tt:0 "Hunger will increase."
  hunger_decrease_effect.tt:0 "Hunger will decrease."
-    
- # Animalism # 
  
- BOND_FAMULUS_PERK_EFFECT:0 "You can [bind_famulus|E]."
- ANIMAL_SUCCULENCE_PERK_EFFECT:0 "[animal_succelence|E] affects you."
- ANIMAL_DOMINION_PERK_EFFECT:0 "Enables [animal_dominion|E]." 
-
- # Blood Sorcery #
-
- INCORPOREAL_FORM_PERK_EFFECT:0 "Enables the use of [incorporeal_form|E]."
-
- # Celerity # 
-
- DRAUGHT_OF_ELEGANCE_PERK_EFFECT:0 "Enables the [blood_draught|E] of Elegance."
-
- # Dominate # 
-
- RATIONALIZE_PERK_EFFECT:0 "Enables the [rationalize_scheme|E]."
-
- # Fortitude # 
-
- DRAUGHT_OF_ENDURANCE_PERK_EFFECT:0 "Enables the [blood_draught|E] of Endurance."
-
- # Oblivion # 
-
- TENEBROUS_AVATAR_PERK_EFFECT:0 "Enables the use of [tenebrous_avatar|E]."
-
- # Potence # 
-
- DRAUGHT_OF_MIGHT_PERK_EFFECT:0 "Enables the [blood_draught|E] of Might."
-
- # Presence # 
-
- ENTRANCEMENT_PERK_EFFECT:0 "Enables the [entrance_scheme|E]."
- SUMMON_PERK_EFFECT:0 "Enables the [summon_scheme|E]."
-
- # Protean #
-
- FERAL_WEAPONS_PERK_EFFECT:0 "Enables the use of [feral_weapons|E]."
- SHAPECHANGE_PERK_EFFECT:0 "Enables the use of [shapechange|E]."
- METAMORPHOSIS_PERK_EFFECT:0 "Refines the use of [shapechange|E]."
- MIST_FORM_PERK_EFFECT:0 "Enables the use of [mist_form|E]."
-
- # Vicissitude # 
-
- # DISCIPLINE # 
- NEEDS_DISCIPLINE_TEXT:0 "#N Requires the base Discipline trait to buy perks in this tree #"
+ turn_to_yang_effect.tt:0 "This might change your Chi balance towards Yang."
+ turn_to_yin_effect.tt:0 "This might change your Chi balance towards Yin."
+ turn_to_balanced_effect.tt:0 "This might change your Chi balance towards Balanced."
  
- ventrue_clan_bane:0 "This person is outside your feeding preference, and feeding from them will incur a willpower check."
- ventrue_clan_bane_anim:0 "Ventrue cannot swallow the blood of animals with an exertion of will."
+ POD_yinchi_increase_effect.tt:0 "Yin Chi will increase." 
+ POD_yangchi_increase_effect.tt:0 "Yang Chi will increase."
+ POD_chi_decrease_effect.tt:0 "Chi will decrease following you chosed preference."
+ POD_yinchi_decrease_effect.tt:0 "Yin Chi will decrease."
+ POD_yangchi_decrease_effect.tt:0 "Yang Chi will decrease."
+ 
+ POD_yinvirtue_increase_effect.tt:0 "Yin Virtue will increase."
+ POD_yangvirtue_increase_effect.tt:0 "Yang Virtue will increase。"
+ POD_yinvirtue_decrease_effect.tt:0 "Yin Virtue will decrease."
+ POD_yangvirtue_decrease_effect.tt:0 "Yang Virtue will decrease."
+  
+ POD_strengthening_the_wall_effect.tt:0 "Local Wall will be strengthened."
+ POD_weakening_the_wall_effect.tt:0 "Local Wall will be weakened."
+ 
+ full_obtenebration_tooltip:0 "You gain the full Obtenebration [discipline|E] tree."
+ full_potence_tooltip:0 "You gain the full Potence [discipline|E] tree."
+ full_animalism_tooltip:0 "You gain the full Animalism [discipline|E] tree."
+ full_protean_tooltip:0 "You gain the full Protean [discipline|E] tree."
+ full_celerity_tooltip:0 "You gain the full Celerity [discipline|E] tree."
+ full_vicissitude_tooltip:0 "You gain the full Vicissitude [discipline|E] tree."
+ full_fortitude_tooltip:0 "You gain the full Fortitude [discipline|E] tree."
+ full_oblivion_tooltip:0 "You gain the full Oblivion [discipline|E] tree."
+ full_obfuscate_tooltip:0 "You gain the full Obfuscate [discipline|E] tree."
+ full_auspex_tooltip:0 "You gain the full Auspex [discipline|E] tree."
+ full_dominate_tooltip:0 "You gain the full Dominate [discipline|E] tree."
+ full_bloodsorcery_tooltip:0 "You gain the full Blood Sorcery [discipline|E] tree."
+ full_presence_tooltip:0 "You gain the full Presence [discipline|E] tree."
+ full_truefaith_tooltip:0 "You gain the full True Faith [discipline|E] tree."
+ full_serpentis_tooltip:0 "You gain the full Serpentis [discipline|E] tree."
+ full_daimoinon_tooltip:0 "You gain the full Daimonion [discipline|E] tree."
+ full_boneshintai_tooltip:0 "You gain the full Bone Shintai [discipline|E] tree."
+ full_fleshshintai_tooltip:0 "You gain the full Flesh Shintai [discipline|E] tree."
+ full_bloodshintai_tooltip:0 "You gain the full Blood Shintai [discipline|E] tree."
+ full_ghostflameshintai_tooltip:0 "You gain the full Ghost Flame Shintai [discipline|E] tree."
+ full_jadeshintai_tooltip:0 "You gain the full Jade Shintai [discipline|E] tree."
+ full_yinprana_tooltip:0 "You gain the full Yin Prana [discipline|E] tree."
+ full_yangprana_tooltip:0 "You gain the full Yang Prana [discipline|E] tree."
+ full_equilibrium_tooltip:0 "You gain the full Equilibrium [discipline|E] tree."
+ full_tapestry_tooltip:0 "You gain the full Tapestry [discipline|E] tree."
+ full_chiiumuh_tooltip:0 "You gain the full Chiiumuh [discipline|E] tree."
+ full_cultivation_tooltip:0 "You gain the full Cultivation [discipline|E] tree."
+ full_internalize_tooltip:0 "You gain the full Internalize [discipline|E] tree."
+ full_obligation_tooltip:0 "You gain the full Obligation [discipline|E] tree."
+ full_blackwind_tooltip:0 "You gain the full Black Wind [discipline|E] tree."
+ full_demonshintai_tooltip:0 "You gain the full Demon Shintai [discipline|E] tree."
+ 
+# Serpentis
+ 
+ ENCHANTING_GAZE_PERK_EFFECT:0 "This power makes the vampire the proverbial flame to a moth. She takes on an alluring, enchanting feature, such as a serpent’s gold eyes or a pearlescent sheen to her skin. She can paralyze with a glance, and mortals in her vicinity find themselves drawn to her."
+ SERPENTS_FLESH_PERK_EFFECT:0 "Unlocks [serpents_flesh|E] power."
+ TYPHONIC_MAW_PERK_EFFECT:0 "The vampire’s jaw becomes a ferocious, malleable thing she can control in a variety of ways. Her jaw distends to her chest, her fangs grow to the size of small daggers, her tongue forks at the tip and lashes out a meter long, and her throat expands to consume anything she can get her mouth around."
+ MASTER_OF_SNAKES_PERK_EFFECT:0 "Allows you to summon snakes in Spawn Army personal character interaction."
+ SMOOTH_SCALES_PERK_EFFECT:0 "Buffs [serpents_flesh|E] power."
+ FORM_OF_THE_SNAKE_PERK_EFFECT:0 "Allows you to transform into a large serpent and small snake under shapeshift personal character interaction."
+ TYPHONIC_AVATAR_PERK_EFFECT:0 "Unlocks [typhonic_avatar|E] power."
+ SERPENT_EYES_PERK_EFFECT:0 "Unlocks [serpent_eyes|E] power."
+ MOTHER_OF_MONSTERS_PERK_EFFECT:0 "Allows you to summon typhonic beasts in Spawn Army personal character interaction."
+ FORM_OF_THE_STORM_PERK_EFFECT:0 "Buffs [typhonic_avatar|E] power."
+ ECHIDNAS_VENOM_PERK_EFFECT:0 "At this level, the vampire’s bite becomes venomous as a death adder."
+ THE_HEART_OF_DARKNESS_PERK_EFFECT:0 "Unlocks [heart_of_darkness|E] power."
+ COBRA_FANGS_PERK_EFFECT:0 "[elder_perk|E], only 3-7th generation vampires can buy this perk. The vampire's fangs become venomous."
+ APOPHIS_PERK_EFFECT:0 "[elder_perk|E], only 3-7th generation vampires can buy this perk. Further buffs [typhonic_avatar|E] power."
+ HEART_THIEF_PERK_EFFECT:0 "[elder_perk|E], only 3-6th generation vampires can buy this perk. Buffs [heart_of_darkness|E] power, allowing to steal hearts from other characters as a scheme or from prisoners as a simple character interaction. It you have someone's heart, it is easy to kill them or to force them into torpor."
+ TEMPTATION_PERK_EFFECT:0 "[elder_perk|E], only  3-5th generation vampires can buy this perk. The vampire becomes extremely hard to resist."
+ BREATH_OF_THE_BASILISK_PERK_EFFECT:0 "[elder_perk|E], only 3-5th generation vampires can buy this perk. The vampire can exhale poisoning and corrosive mist."
+ GODHEAD_PERK_EFFECT:0 "[elder_perk|E], only 3-4th generation vampires can buy this perk. Unlocks [godhead|E] power."
+
+ 

@@ -1,11 +1,11 @@
-﻿l_russian: 
+﻿l_english: 
 
  #Common Road of Humanity Localization
  roadofset_religion:0 "Road of Set"
  roadofset_religion_adj:0 "Setite"
- roadofset_religion_adjerent:0 "Setite"
+ roadofset_religion_adherent:0 "Setite"
  roadofset_religion_adherent_plural:0 "Setites"
- roadofset_religion_desc:0 "Dedicated to the worship of their Antediluvian, those who follow the Road of Set seek to restore Him. Those who are not part of the faith are viewed with suspicion and distrust."
+ roadofset_religion_desc:0 "Dedicated to the worship of their [antediluvian|E], those who follow the Road of Set seek to restore Him. Those who are not part of the faith are viewed with suspicion and distrust."
  roadofset_high_god_name:0 "Set"
  roadofset_high_god_name_possessive:0 "Set's"
  roadofset_high_god_name_alternate:0 "Set"
@@ -34,7 +34,7 @@
  roadofset_priest_alternate_plural:0 "Setites"
  roadofset_bishop:0 "Priest"
  roadofset_bishop_plural:0 "Priest"
- roadofset_positive_afterlife:0 "Set's embrace"
+ roadofset_positive_afterlife:0 "Set's Embrace"
  roadofset_negative_afterlife:0 "the abyss"
  roadofset_witchgodname_the_horned_god:0 "Osiris" 
 
@@ -66,7 +66,7 @@
  viaset_adj:0 "Setite"
  viaset_adherent:0 "Setite"
  viaset_adherent_plural:0 "Setites"
- viaset_desc:0 "The main branch of the clan of Set is a cult-like organization, worshiping their antediluvian (or literal god) as the liberator of all mankind."
+ viaset_desc:0 "The main branch of the [clan|E] of Set is a cult-like organization, worshiping their [antediluvian|E] (or literal god) as the liberator of all mankind."
  
  viaapep:0 "Road of Apep"
  viaapep_adj:0 "Apepite"

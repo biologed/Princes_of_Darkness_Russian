@@ -1,4 +1,4 @@
-﻿l_russian:
+﻿l_english:
 
  ############################################################
  # Names
@@ -8,8 +8,11 @@
  dynn_powodz:0 "Powódź"
  dynn_powodz_motto:0 "Thou Soweth What Thou Reap" 
 
- dynn_pastelos:0 "Pastelos"
+ dynn_pastelos:0 "The Black Moon"
  dynn_pastelos_motto:0 "The Black Sea is Mine"  
+ 
+ dynn_blackmoon:0 "Black Moon"
+ dynn_blackmoon_motto:0 "The Black Sea is Mine"  
  
  dynn_minceiri:0 "Mincéirí"
  dynn_minceiri_motto:0 "To Do and Suffer Great Things"  
@@ -23,4 +26,132 @@
  dynn_nacearda:0 "na Ceàrda"
  dynn_nacearda_motto:0 "Chlanna nan con thigibh a’ so ‘s gheibh sibh feòil"
  
+ dynn_decalamar:0 "De Calamar"
+ dynn_decalamar_motto:0 ""
+ 
+ dynn_uagemred:0 "Ua Gemred"
+ dynn_uagemred_motto:0 "In our Final Grasp" 
+ 
+ dynn_masterson:0 "Masterson"
+ dynn_masterson_motto:0 "Ad Augusta Per Angusta"  
+ 
+ dynn_shadovie:0 "Shadovie"
+ dynn_shadovie_motto:0 ""  
+ 
+ dynn_helid:0 "Helid"
+ dynn_helid_motto:0 ""  
+ 
+ dynn_hawk:0 "Hawk"
+ dynn_hawk_motto:0 ""  
+ 
+ dynn_dio:0 "Dio"
+ dynn_dio_motto:0 ""  
+
+ dynn_varten:0 "Varten"
+ dynn_varten_motto:0 "Transcendence of the Flesh" 
+ 
+ dynn_sagaard:0 "Sagaard"
+ dynn_sagaard_motto:0 ""
+ 
+ dynn_lividus:0 "Lividus"
+ dynn_lividus_motto:0 "Centurions of Seth"
+ 
+ dynn_canale:0 "Canale"
+ dynn_canale_motto:0 "A Light in the Maelstrom"
+
+ dynn_cathail:0 "Cathail"
+ dynn_cathail_motto:0 ""
+
+ dynn_ramos:0 "Ramos"
+ dynn_ramos_motto:0 ""
+
+ dynn_delacasta:0 "de la Casta"
+ dynn_delacasta_motto:0 ""
+
+ dynn_natasson:0 "Natasson"
+ dynn_natasson_motto:0 ""
+
+ dynn_desdeuxvalleesvertes:0 "des Deux Vallées Vertes"
+ dynn_desdeuxvalleesvertes_motto:0 ""
+ 
+ dynn_custom:0 "Custom"
+ dynn_custom_motto:0 "By My Own Hand"
+ 
+ dynn_oruairc:0 "Ó Ruairc"
+ dynn_oruairc_motto:0 "Serviendo Guberno"
+
+ dynn_fystond:0 "Fýstönd"
+ dynn_fystond_motto:0 ""
+ 
+ dynn_bimbeet:0 "Bimbeet"
+ dynn_bimbeet_motto:0 "Þeir blendu hunangi við blóðit"
+ 
+ dynn_tenebris:0 "Tenebris"
+ dynn_tenebris_motto:0 "Dark Flames of Chernivtsi"
+ 
+ dynn_eridanus:0 "Eridanus"
+ dynn_eridanus_motto:0 "The River's End"
+ 
+ dynn_hastur:0 "Hastur"
+ dynn_hastur_motto:0 "Thou Shalt Not Say Thy Name!"
+ 
+ dynn_vovkulaka:0 "Vovkulaka"
+ dynn_vovkulaka_motto:0 "Defy Defy"
+ 
+ dynn_barcid:0 "Barcid"
+ dynn_barcid_motto:0 "Rome's Reckoning"
+ 
+ dynn_sutherland:0 "Sutherland"
+ dynn_sutherland_motto:0 "For the Greater Good"
+ 
+ dynn_pendragon:0 "Pendragon"
+ dynn_pendragon_motto:0 ""
+ 
+ dynn_mortifier:0 "Mortifier"
+ dynn_mortifier_motto:0 ""
+ 
+ dynn_avry:0 "D'Avry"
+ dynn_avry_motto:0 ""
+ 
+ dynn_onmyoji:0 "Onmyōji"
+ dynn_onmyoji_motto:0 ""
+ 
+ dynn_murchadh:0 "Murchadh"
+ dynn_murchadh_motto:0 ""
+ 
+ dynn_fitzroy:0 "Fitzroy"
+ dynn_fitzroy_motto:0 ""
+ 
+ dynn_draeck:0 "de Draeck"
+ dynn_draeck_motto:0 ""
+ 
+ dynn_cathasach:0 "Cathasach"
+ dynn_cathasach_motto:0 ""
+ 
+ dynn_markov:0 "Markov"
+ dynn_markov_motto:0 "With Brass and Blood"
+ 
+ dynn_dominatus:0 "Dominatus"
+ dynn_dominatus_motto:0 ""
+ 
+ dynn_morningstar:0 "Morningstar"
+ dynn_morningstar_motto:0 ""
+ 
+ dynn_yelbeghen:0 "Yelbeghen"
+ dynn_yelbeghen_motto:0 "" 
+ 
+ dynn_tertia:0 "Tertia"
+ dynn_tertia_motto:0 ""
+ 
+ dynn_cephissus:0 "Cephissus"
+ dynn_cephissus_motto:0 ""
+  
+ dynn_verrucosus:0 "Verrucosus"
+ dynn_verrucosus_motto:0 ""
+ 
+ dynn_cecilia:0 "Cecilia"
+ dynn_cecilia_motto:0 "Do Not Cry Over Spilt Wine"
+ 
+ dynn_tenoctis:0 "Tenoctis"
+ dynn_tenoctis_motto:0 "Gaze into the Abyss"
  

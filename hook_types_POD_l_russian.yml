@@ -1,4 +1,4 @@
-﻿l_russian:
+﻿l_english:
 
  weak_bloodoath_hook:0 "Weak Blood Oath"
  strong_bloodoath_hook:0 "Strong Blood Oath"
@@ -11,4 +11,16 @@
  weak_presenceloyalty_hook:0 "Weak Presence Loyalty"
  strong_presenceloyalty_hook:0 "Strong Presence Loyalty"
  tremerecouncilbloodoath_hook:0 "Tremere Council of Seven Blood Oath"
- 
+ herd_hook:0 "Herd"
+ possessed_hook:0 "Possessed"
+ possessed_weak_hook:0 "Partially Possessed"
+ necromancy_bind_hook:0 "Weak binding"
+ necromancy_bind_strong_hook:0 "Powerful binding"
+ necromancy_bind_permanent_hook:0 "Eternal binding" 
+ cadre_hook:0 "Cadre member"
+ proven_beta:0 "Beta"
+ shadow_twin_bind_hook:0 "Shadow Twin"
+ infernal_hierarchy_hook:0 "Infernal Hierarchy"
+ weak_soul_shackles_hook:0 "Weak Soul Shackles"
+ weak_soul_shackles_hook:0 "Strong Soul Shackles"
+ spirit_bond_hook:0 "Spirit Bond"

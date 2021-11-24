@@ -1,9 +1,9 @@
-﻿l_russian: 
+﻿l_english: 
 
  #Common Road of Beast Localization
  roadofbeast_religion:0 "Road of Beast"
  roadofbeast_religion_adj:0 "Feral"
- roadofbeast_religion_adjerent:0 "Feral"
+ roadofbeast_religion_adherent:0 "Feral"
  roadofbeast_religion_adherent_plural:0 "Ferals"
  roadofbeast_religion_desc:0 "Followers of Via Bestiae control their Beast through the primal concepts of survival, strength, and individuality. Many members of the Road of the Beast choose a simple, animalistic existence to best serve the beliefs of Via Bestiae."
  roadofbeast_high_god_name:0 "Beast"
@@ -98,7 +98,7 @@
  vialiberatio_adherent_plural:0 "Liberators"
  vialiberatio_desc:0 "Often confused with the Furores, the Ferals on the Via Liberatio sees cities as a trapping and the death of the soul. They see their duty as freeing the trapped people towards a more pure, primal, way of life."
 
- viaeinherjar:0 "Vag Einherjar"
+ viaeinherjar:0 "Einherjar"
  viaeinherjar_adj:0 "Einherjar"
  viaeinherjar_adherent:0 "Einherjar"
  viaeinherjar_adherent_plural:0 "Einherjar"
@@ -114,7 +114,7 @@
  pathofnoiad_adj:0 "Noiad"
  pathofnoiad_adherent:0 "Noiad"
  pathofnoiad_adherent_plural:0 "Noiads"
- pathofnoiad_desc:0 "The origin of the Noiads has been forgotten by Cainite and mortal alike. In the mind of the Noiads, they always dwelt in the North, guiding and protecting the Sámi tribes in northern Scandinavia. The Noiads believed themselves divine beings, sent by the gods to guide and protect their chosen people from supernatural and mundane threats, as well as interpreting the omens of the Gods in the guovssahas. The relation between the Noiads and their tribe was somewhat symbiotic: the Noiad would protect the tribe from enemies and act as a guide, shaman, and teacher to them, while the tribe gave willingly of their blood and sheltered the Noiad during the long months with no darkness. In times of famine, the Noaid would ghoul members of the tribe to ensure their survival. The Noiad dwelled openly among the Sámi, and Embraced exclusively from this population. Those selected for Embrace tended to be those with talent for divination, as well as dream and star interpretation. The Noiad also watched children descended from families that included at least one vampire, looking for the traits they favored. "
+ pathofnoiad_desc:0 "The origin of the Noiads has been forgotten by [cainite|E] and mortal alike. In the mind of the Noiads, they always dwelt in the North, guiding and protecting the Sámi tribes in northern Scandinavia. The Noiads believed themselves divine beings, sent by the gods to guide and protect their chosen people from supernatural and mundane threats, as well as interpreting the omens of the Gods in the guovssahas. The relation between the Noiads and their tribe was somewhat symbiotic: the Noiad would protect the tribe from enemies and act as a guide, shaman, and teacher to them, while the tribe gave willingly of their blood and sheltered the Noiad during the long months with no darkness. In times of famine, the Noaid would ghoul members of the tribe to ensure their survival. The Noiad dwelled openly among the Sámi, and Embraced exclusively from this population. Those selected for [Embrace|E] tended to be those with talent for divination, as well as dream and star interpretation. The Noiad also watched children descended from families that included at least one vampire, looking for the traits they favored. "
  
  holy_order_schwarze_rudel:0 "Schwarze Rudel"
  holy_order_hounds_of_iberia:0 "The Hounds of Iberia"
@@ -130,3 +130,8 @@
  holy_order_scions_of_itugen:0 "The Scions of Itugen"
  holy_order_the_blood_riders:0 "The Blood Riders"
 
+ viatantabus:0 "Via Tantabus"
+ viatantabus_adj:0 "Tantabus"
+ viatantabus_adherent:0 "Hunter"
+ viatantabus_adherent_plural:0 "Hunters"
+ viatantabus_desc:0 "Vampires that follow the all powerful Baba Yaga, the Hag of Russia. The only Nosferatu to have challenged their monstrous progenitor, the Grandmother is both admired and reviled in equal measure by her [clan|E]."
