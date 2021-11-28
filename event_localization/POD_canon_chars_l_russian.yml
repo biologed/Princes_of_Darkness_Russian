@@ -1,9 +1,9 @@
 ﻿l_russian:
 
  PODcanon_chars.1.t:0 "New Beginnings"
- PODcanon_chars.1.desc:0 "It is finally done. The fool, Menele of Sparta, is dead and you are, for the first time in millennia, free to do as you wish. The victory feels more... hollow than you would have thought, as you suddenly lost what has been your purpose in unlife... but you will move on, as you always do.\nThe world has forgotten you, and even the oldest Toreador think you a myth at this point. This might play to your advantage. It is time to return to the world of [cainite|E] politics, a world you know so well, but with a distinct advantage : nobody important is even truly suspicious of your true powers.\nThis is an asset that will prove very useful, and that you intent to keep for as long as possible..."
+ PODcanon_chars.1.desc:0 "It is finally done. The fool, Menele of Sparta, is dead and you are, for the first time in millennia, free to do as you wish. The victory feels more... hollow than you would have thought, as you suddenly lost what has been your purpose in unlife... but you will move on, as you always do.\nThe world has forgotten you, and even the oldest Toreador think you a myth at this point. This might play to your advantage. It is time to return to the world of [Concept('cainite','каинит')|E] politics, a world you know so well, but with a distinct advantage: nobody important is even truly suspicious of your true powers.\nThis is an asset that will prove very useful, and that you intent to keep for as long as possible..."
  PODcanon_chars.1.a:0 "My ascension can finally begin"
- PODcanon_chars.helena:0 "You have unlocked a new character interaction on foreign rulers : Infiltrate"
+ PODcanon_chars.helena:0 "You have unlocked a new character interaction on foreign rulers: Infiltrate"
  PODcanon_chars.2.t:0 "Awakening of a God"
  PODcanon_chars.2.desc:0 "It is finally done. You have nearly completed the ritual to invoke Svantevit into a willing host. You can't wait to feel the power of a God flowing through your undying veins!\nThere is a small issue though, during your research, you found that the host's mind is supposed to be wiped out by Svantevit's arrival. Obviously, you are of strong will and wouldn't give up as easily as some of the idiots cultists you crushed but... this is still concerning.\nSimply deciphering the ritual already taught you a lot, and might be a sufficient reward in itself.\nOr you could summon a God and try to bend it to your will. The choice is yours... perhaps for the last time."
  PODcanon_chars.2.a:0 "Ultimate Power!"
@@ -21,13 +21,13 @@
  PODcanon_chars.4.critical.failure.effect.desc:0 "Losing will embolden the vassal's rebellious spirit"
  PODcanon_chars.4.failure:0 "Defeated..."
  PODcanon_chars.5.t:0 "Looking Up the Pyramid"
- PODcanon_chars.5.desc:0 "It is time for you to use your rightful power as master of the Tremere [clan|E] for some good old fashioned Hermetics politics. Since you are on top of the pyramid, you will win at the end, it it just a question of what will you specifically gain from it.\nSo many choices with so little consequences! Except annoying those below you obviously. Not that it matters much."
+ PODcanon_chars.5.desc:0 "It is time for you to use your rightful power as master of the Tremere [Concept('clan','клан')|E] for some good old fashioned Hermetics politics. Since you are on top of the pyramid, you will win at the end, it it just a question of what will you specifically gain from it.\nSo many choices with so little consequences! Except annoying those below you obviously. Not that it matters much."
  PODcanon_chars.5.a:0 "Steal someone else ideas"
  PODcanon_chars.5.b:0 "Blame someone else for your failures"
- PODcanon_chars.5.c:0 "Requisition from the [clan|E]'s coffers"
+ PODcanon_chars.5.c:0 "Requisition from the [Concept('clan','клан')|E]'s coffers"
  PODcanon_chars.5.d:0 "I'm not in the mood for politics"
  PODcanon_chars.6.t:0 "Alamut's Rewards"
- PODcanon_chars.6.desc:0 "The leadership of the Children of Haqim are pleased by the progress of the Midnight Crescent in Iberia. They send you their best regards and congratulations, along with reinforcements, promising neonates of the Vizir, Sorcerer and Warrior castes.\nYour work is not yet done, but the pressure on you is now less crushing, at it seems they finally trust you to have the best interest of the [clan|E] in mind. Even perhaps by making Iberia a future grand stronghold worthy of Haqim himself."
+ PODcanon_chars.6.desc:0 "The leadership of the Children of Haqim are pleased by the progress of the Midnight Crescent in Iberia. They send you their best regards and congratulations, along with reinforcements, promising neonates of the Vizir, Sorcerer and Warrior castes.\nYour work is not yet done, but the pressure on you is now less crushing, at it seems they finally trust you to have the best interest of the [Concept('clan','клан')|E] in mind. Even perhaps by making Iberia a future grand stronghold worthy of Haqim himself."
  PODcanon_chars.6.a:0 "I am the talk of the decade in Alamut"
  PODcanon_chars.7.t:0 "Plots Within Plots"
  PODcanon_chars.7.desc:0 "You managed to learn more about this potential foe. It is always an oddly comforting feeling for you, Prince Roque, as you love outsmarting your enemies and ensnaring them into a web of improbable plots.\nStill, you sometimes don't scheme only for the sake of scheming. You could exploit the information you obtained for even further plotting!"
@@ -35,11 +35,11 @@
  PODcanon_chars.7.b:0 "Intrigue is such a soothing pastime..."
  PODcanon_chars.7.c:0 "Let everyone know the extent of your scheming skills!"
  PODcanon_chars.8.t:0 "Making Waves"
- PODcanon_chars.8.desc:0 "Lord Montano, with the return of most of Italy under your control, you showed [clan|E] Lasombra that you are still an effective and decisive ruler. There is, obviously, still much to be done to restore the proper place of the Sea of Shadows in the Mediterranean world but, at the very least, your position as head of the [clan|E] isn't contested anymore.\nYou are now able to use it to claim rulership over any wayward Lasombra princedoms."
+ PODcanon_chars.8.desc:0 "Lord Montano, with the return of most of Italy under your control, you showed [Concept('clan','клан')|E] Lasombra that you are still an effective and decisive ruler. There is, obviously, still much to be done to restore the proper place of the Sea of Shadows in the Mediterranean world but, at the very least, your position as head of the [Concept('clan','клан')|E] isn't contested anymore.\nYou are now able to use it to claim rulership over any wayward Lasombra princedoms."
  PODcanon_chars.8.a:0 "I can do even better"
  PODcanon_chars.montano:0 "You now have a special bonus to acceptance of the 'Offer Vassalization' interaction with any Lasombra ruler"
  PODcanon_chars.9.t:0 "A Loving Embrace"
- PODcanon_chars.9.desc:0 "You are difficult to resist when you put your mind into something, beautiful Maatkare, but the [cainites|E] are stubborn creatures. If you are to show this one the love of Set, it will take all your considerable skills in persuasion and seduction to achieve.\nThere is always a risk of failure, which would cost you quite a bit in Set's unforgiving eyes..."
+ PODcanon_chars.9.desc:0 "You are difficult to resist when you put your mind into something, beautiful Maatkare, but the [Concept('cainites','каиниты')|E] are stubborn creatures. If you are to show this one the love of Set, it will take all your considerable skills in persuasion and seduction to achieve.\nThere is always a risk of failure, which would cost you quite a bit in Set's unforgiving eyes..."
  PODcanon_chars.9.a:0 "Set's glory can't wait"
  PODcanon_chars.9.b:0 "Tonight is not the night"
  PODcanon_chars.9.effect.success.desc:0 "Winning will make this character convert to Via Set"
@@ -65,7 +65,7 @@
  PODcanon_chars.14.a:0 "You are meant to be King of the world"
  PODcanon_chars.petaniqua2:0 "You have no reasons to walk the Black Spiral from now on"
  podintroductions.116.t:0 "Your Story So Far"
- podintroductions.116.desc:0 "Lord Hardestadt, your political ascension has been nothing short of brilliant so far. From a shrouded lineage and a frontier position, you managed to expertly use the ascension of the mortal Holy Roman Empire to recenter [clan|E] Ventrue from Rome to Germany.\nStill, old habits die hard and you had to work with Julia Antasia, the leader of the Roman relics, to get to this point. It might be time to 'renegotiate' your partnership and put these dusty ancients in a museum where they belong.\nYou have strong allies and loyal childer, keep them close and mindful of their position and history will be yours to write."
+ podintroductions.116.desc:0 "Lord Hardestadt, your political ascension has been nothing short of brilliant so far. From a shrouded lineage and a frontier position, you managed to expertly use the ascension of the mortal Holy Roman Empire to recenter [Concept('clan','клан')|E] Ventrue from Rome to Germany.\nStill, old habits die hard and you had to work with Julia Antasia, the leader of the Roman relics, to get to this point. It might be time to 'renegotiate' your partnership and put these dusty ancients in a museum where they belong.\nYou have strong allies and loyal childer, keep them close and mindful of their position and history will be yours to write."
  podintroductions.116.a:0 "Germany is the future"
  podintroductions.hardestadt:0 "As Hardestadt, you have access to a special character interaction with your childer to rein them in."
  
@@ -73,7 +73,7 @@
  pressure_on_modifier_desc:0 "This character is under pressure to do their very best."
  
  PODcanon_chars.15.t:0 "Tightening the Reins"
- PODcanon_chars.15.desc:0 "Your childe answered your summon, anxious to hear your wishes. You are known as a strict [Sire|E], the kind that doesn't easily tolerates failure. Still, no one can deny that your education choices have resulted in some of the most gifted neonates in their generation. The others well... they don't tend to tarnish your reputation for long."
+ PODcanon_chars.15.desc:0 "Your childe answered your summon, anxious to hear your wishes. You are known as a strict [Concept('Sire','Отец')|E], the kind that doesn't easily tolerates failure. Still, no one can deny that your education choices have resulted in some of the most gifted neonates in their generation. The others well... they don't tend to tarnish your reputation for long."
  PODcanon_chars.15.a:0 "Do better!"
  PODcanon_chars.15.b:0 "Never be satisfied"
  PODcanon_chars.15.c:0 "You are a worthless failure!" 
@@ -83,7 +83,7 @@
  POD_hardestadt_interaction_desc:0 "Summon your childe for a talk"
  
  podintroductions.117.t:0 "Your Story So Far"
- podintroductions.117.desc:0 "Lady Antasia, you stand strong in your exiled home in Germany but your heart aches for a triumphant return to Rome. [clan|E] Ventrue has fallen far since its noble roots in the Eternal Senate, and you are the only one that can stop Hardestadt and Camilla from turning your beloved [clan|E] into a mockery of itself.\nThis endeavor will take time though, but you recently found a surprising ally in your quest. The Nosferatu Angiwar is a strange one, fond of fanciful tales, but he has already proven to be a worthy friend and an even more worthy champion for your cause. With your combined might, there is still hope for the true ideals of Rome."
+ podintroductions.117.desc:0 "Lady Antasia, you stand strong in your exiled home in Germany but your heart aches for a triumphant return to Rome. [Concept('clan','клан')|E] Ventrue has fallen far since its noble roots in the Eternal Senate, and you are the only one that can stop Hardestadt and Camilla from turning your beloved [Concept('clan','клан')|E] into a mockery of itself.\nThis endeavor will take time though, but you recently found a surprising ally in your quest. The Nosferatu Angiwar is a strange one, fond of fanciful tales, but he has already proven to be a worthy friend and an even more worthy champion for your cause. With your combined might, there is still hope for the true ideals of Rome."
  podintroductions.117.a:0 "The Senate won't fall"
  podintroductions.antasia:0 "As Julia Antasia, you have access to a special character interaction with Angiwar as long as you stay friends."
 
@@ -91,19 +91,19 @@
  POD_antasia_interaction_desc:0 "Invite Angiwar for a nice chat"
 
  PODcanon_chars.16.t:0 "Angiwar the Storyteller"
- PODcanon_chars.16.desc:0 "When your first met him, you hoped that Angiwar had insight into your grandsire, Ventrue himself. Sadly, it was not the case, as even a being as old as he never encountered an [antediluvian|E]. Still, the Nosferatu has a lot of stories to tell about the [cainite|E] world, some of which you even have a hard time believing in.\nAngiwar doesn't mind though, and is just happy sharing them with you. Gaining such friendly, free of deceit, insight from such an old, if quirky, vampire is a blessing that you don't intent to spoil."
+ PODcanon_chars.16.desc:0 "When your first met him, you hoped that Angiwar had insight into your grandsire, Ventrue himself. Sadly, it was not the case, as even a being as old as he never encountered an [antediluvian|E]. Still, the Nosferatu has a lot of stories to tell about the [Concept('cainite','каинит')|E] world, some of which you even have a hard time believing in.\nAngiwar doesn't mind though, and is just happy sharing them with you. Gaining such friendly, free of deceit, insight from such an old, if quirky, vampire is a blessing that you don't intent to spoil."
  PODcanon_chars.16.a:0 "Really? That's incredible!"
  
  PODcanon_chars.17.t:0 "Angiwar the Confident"
- PODcanon_chars.17.desc:0 "Angiwar is quiet tonight and seems happy to just lend an ear to your troubles. In the [cainite|E] world, it's a rare occurrence for someone to be able to confide in another without the fear of deceit or manipulation. But you feel at ease with the old Nosferatu, knowing that your goals are closely aligned. It's no small blessing for you to have this luxury, and the sleep of ages seems a little less enticing each time you spend time with him."
+ PODcanon_chars.17.desc:0 "Angiwar is quiet tonight and seems happy to just lend an ear to your troubles. In the [Concept('cainite','каинит')|E] world, it's a rare occurrence for someone to be able to confide in another without the fear of deceit or manipulation. But you feel at ease with the old Nosferatu, knowing that your goals are closely aligned. It's no small blessing for you to have this luxury, and the sleep of ages seems a little less enticing each time you spend time with him."
  PODcanon_chars.17.a:0 "Friendship is a valuable asset"
  
  PODcanon_chars.18.t:0 "Angiwar the Warrior"
- PODcanon_chars.18.desc:0 "Angiwar is agitated tonight, speaking of the grave threat that his [clan|E] is facing : the Nictuku. You have seen him like that before and, although you know nothing of what he is talking about, you prefer to humor him. Even when he suddenly asks for a training duel between you two to be 'ready when they come'. It's not every night that you can spar with such an experienced warrior and you will surely be able to learn a thing of two."
+ PODcanon_chars.18.desc:0 "Angiwar is agitated tonight, speaking of the grave threat that his [Concept('clan','клан')|E] is facing: the Nictuku. You have seen him like that before and, although you know nothing of what he is talking about, you prefer to humor him. Even when he suddenly asks for a training duel between you two to be 'ready when they come'. It's not every night that you can spar with such an experienced warrior and you will surely be able to learn a thing of two."
  PODcanon_chars.18.a:0 "We will be ready"
  
  podintroductions.118.t:0 "Your Story So Far"
- podintroductions.118.desc:0 "Lord Alexander, once you were the most important Ventrue in the world, whispering the to ear of Charlemagne himself. Now you are exiled from your beloved France by the accursed Salianna and your traitorous childe Geoffrey. You will return, but other matters require your attention.\nLord Jurgen von Verden, your host right now, has gathered a small force to help you, fulfilling his duty as a younger clansmate. Accepting it would be helpful, but would also mean that you are basically fallen to begging for help. Refusing it would be more in line with your station... but would no doubt anger the Prince of Magdeburg. Make the right call here, and it might be the first stepping stone to your triumphal return to the [cainite|E] world at large."
+ podintroductions.118.desc:0 "Lord Alexander, once you were the most important Ventrue in the world, whispering the to ear of Charlemagne himself. Now you are exiled from your beloved France by the accursed Salianna and your traitorous childe Geoffrey. You will return, but other matters require your attention.\nLord Jurgen von Verden, your host right now, has gathered a small force to help you, fulfilling his duty as a younger clansmate. Accepting it would be helpful, but would also mean that you are basically fallen to begging for help. Refusing it would be more in line with your station... but would no doubt anger the Prince of Magdeburg. Make the right call here, and it might be the first stepping stone to your triumphal return to the [Concept('cainite','каинит')|E] world at large."
  podintroductions.118.a:0 "The help is appreciated, lord Jurgen"
  podintroductions.118.b:0 "A King doesn't beg!" 
  alexander_black_cross_event_troops:0 "Black Cross Ghouls"
@@ -112,18 +112,18 @@
  alexander_help_modifier_desc:0 "Good things are said about you in high spheres, thanks to the help of a powerful patron."
 
  podintroductions.119.t:0 "Your Story So Far"
- podintroductions.119.desc:0 "Lord Jurgen, your ascension has been progressing at a breathtaking speed since your [Embrace|E]. But the recent minor setback in the war against the Voivodate has seen your influence curtailed. A new opportunity has arisen though, with the arrival of the exiled Prince of France, Alexander, in your court.\nYou have been a perfect host so far and continuing to do so would be beneficial for your ambitions, as Alexander still has a lot of gravitas in the [clan|E]. But the powerful Ventrue didn't came alone, he also brought Rosamund of Islington with him, the fairest among the fair [clan|E] and the one who has stolen your heart.\nYou have recently confessed your feelings to the lady, but it appears that Alexander himself has eyes on her. As such, a choice has to be made..."
+ podintroductions.119.desc:0 "Lord Jurgen, your ascension has been progressing at a breathtaking speed since your [Concept('Embrace','объятие')|E]. But the recent minor setback in the war against the Voivodate has seen your influence curtailed. A new opportunity has arisen though, with the arrival of the exiled Prince of France, Alexander, in your court.\nYou have been a perfect host so far and continuing to do so would be beneficial for your ambitions, as Alexander still has a lot of gravitas in the [Concept('clan','клан')|E]. But the powerful Ventrue didn't came alone, he also brought Rosamund of Islington with him, the fairest among the fair [Concept('clan','клан')|E] and the one who has stolen your heart.\nYou have recently confessed your feelings to the lady, but it appears that Alexander himself has eyes on her. As such, a choice has to be made..."
  podintroductions.119.a:0 "Love..."
  podintroductions.119.b:0 "...or power?" 
  jurgen_love_tooltip:0 "Rosamund will join you at court, entrusting her lands to your care."
 
  podintroductions.120.t:0 "Your Story So Far"
- podintroductions.120.desc:0 "Ave mighty Camilla, once undisputed master of Rome and of the Ventrue [clan|E]!\nIn these blessed times all bowed before you, infernal Carthage was destroyed on your command and everything was perfect until you fell into [torpor|E]. Obviously, nobody was able to take back your mantle, and the Empire fell with you. You have recently awoken to this new world, so different than the one you knew... but still full of opportunities.\nReaffirming your control over your beloved Rome was easy, but now greater challenges await.\nYou are the Eternal Consul of Sin and your future can only be one of immortal glory and decadent pleasures."
+ podintroductions.120.desc:0 "Ave mighty Camilla, once undisputed master of Rome and of the Ventrue [Concept('clan','клан')|E]!\nIn these blessed times all bowed before you, infernal Carthage was destroyed on your command and everything was perfect until you fell into [Concept('torpor','торпор')|E]. Obviously, nobody was able to take back your mantle, and the Empire fell with you. You have recently awoken to this new world, so different than the one you knew... but still full of opportunities.\nReaffirming your control over your beloved Rome was easy, but now greater challenges await.\nYou are the Eternal Consul of Sin and your future can only be one of immortal glory and decadent pleasures."
  podintroductions.120.a:0 "Roma Aeterna"
  podintroductions.camilla:0 "As Camilla you have a special, more beneficial and likely to occur, event during the 'Host Elysium' activity."
 
  POD_elysium_events.25.t:0 "Party like a Roman"
- POD_elysium_events.25.desc:0 "Beyond being one of the mightiest Ventrue and a shrewd political animal, you are also known as the very best party host of all the [cainite|E] race. After all, you pioneered the whole concept during the Roman Empire and you know exactly how to proceed.\nThe blood will flow, everyone will have a fantastic time and a little part of what made Rome so great will survive tonight thanks to your careful planning."
+ POD_elysium_events.25.desc:0 "Beyond being one of the mightiest Ventrue and a shrewd political animal, you are also known as the very best party host of all the [Concept('cainite','каинит')|E] race. After all, you pioneered the whole concept during the Roman Empire and you know exactly how to proceed.\nThe blood will flow, everyone will have a fantastic time and a little part of what made Rome so great will survive tonight thanks to your careful planning."
  POD_elysium_events.25.option.a:0 "Let's get the party started!"
 
  anna_ambition_modifier:0 "Burning Ambition"
@@ -144,8 +144,8 @@
  anna_ambition_fulfilled_modifier_desc:0 "The Comnenos are now the immortal and eternal rulers of Constantinople. At it should be."
 
  podintroductions.122.t:0 "Your Story So Far"
- podintroductions.122.desc:0 "Lady Anadja, your simple life has been thrown into chaos with the arrival of Belisarius and Shabah in it. Those two vampires took a liking on you and taught you a lot about how to survive in the night society... then your life became even stranger once a secretive apocalyptic cult, the Manus Nigrum, announced that you were its promised leader.\nDespite all these occurrences, you did well so far and Armenia has became a strong bastion under your rule, attracting members of this cult and refugees from Byzantium alike. Your 'foster parents' are still here and are an invaluable help in helping stabilize your new realm but it is now time to take matters into your own hands.\nYou have been tutored by the best and many already think of you as one of the most important [cainites|E] in the world, but your story is yours and yours alone to write."
- podintroductions.122.a:0 "I am my own [cainite|E]"
+ podintroductions.122.desc:0 "Lady Anadja, your simple life has been thrown into chaos with the arrival of Belisarius and Shabah in it. Those two vampires took a liking on you and taught you a lot about how to survive in the night society... then your life became even stranger once a secretive apocalyptic cult, the Manus Nigrum, announced that you were its promised leader.\nDespite all these occurrences, you did well so far and Armenia has became a strong bastion under your rule, attracting members of this cult and refugees from Byzantium alike. Your 'foster parents' are still here and are an invaluable help in helping stabilize your new realm but it is now time to take matters into your own hands.\nYou have been tutored by the best and many already think of you as one of the most important [Concept('cainites','каиниты')|E] in the world, but your story is yours and yours alone to write."
+ podintroductions.122.a:0 "I am my own [Concept('cainite','каинит')|E]"
  podintroductions.anadja:0 "As long as Belisarius and Shabah are alive, you can ask for further tutoring via a decision"
  
  anadja_decision:0 "Learning from the Best"
@@ -156,7 +156,7 @@
  anadja_custom_decision:0 "This decision will be unavailable once you reach 25 martial, 20 diplomacy and 20 intrigue or if both Shabah and Belisarius die."
 
  PODcanon_chars.19.t:0 "Learning from the Best"
- PODcanon_chars.19.desc:0 "Belisarius was once a great general in his mortal life and then handled many military matters for the [cainite|E] Dream of Constantinople. There is much to be learned from him. Shabah, on the other hand, is an expert spy and ambassador, often both at the same time, and can teach you about those topics. What are you asking them tonight?"
+ PODcanon_chars.19.desc:0 "Belisarius was once a great general in his mortal life and then handled many military matters for the [Concept('cainite','каинит')|E] Dream of Constantinople. There is much to be learned from him. Shabah, on the other hand, is an expert spy and ambassador, often both at the same time, and can teach you about those topics. What are you asking them tonight?"
  PODcanon_chars.19.a:0 "Tell me about your military campaigns, Belisarius"
  PODcanon_chars.19.b:0 "Diplomacy is a complex subject..."
  PODcanon_chars.19.c:0 "...perhaps as complex as intrigue"
@@ -175,7 +175,7 @@
  secrets_secrets_modifier_desc:0 "Pawns on a boardgame, expertly played by your hand."
 
  podintroductions.123.t:0 "Your Story So Far"
- podintroductions.123.desc:0 "Sultan Badr, you have assumed control of the Midnight Crescent and the cornered [ashirra|E] are wisely rallying behind you. Take notice of those that don't, for later punishment.\nYou must respect the Christian Shadow Reconquista, as both de Ruiz and his lineage are formidable opponents, but your most pressing matter is one of secrecy.\nYou are hiding many things from your new 'loyal' followers, things that you don't want them to find despite their insistence. Use your mastery of shadows and intrigue to hide yourself behind an impenetrable veil of mystery before it's too late. Only then will you be able to root the Christians out of Iberia."
+ podintroductions.123.desc:0 "Sultan Badr, you have assumed control of the Midnight Crescent and the cornered [Concept('ashirra','аширра')|E] are wisely rallying behind you. Take notice of those that don't, for later punishment.\nYou must respect the Christian Shadow Reconquista, as both de Ruiz and his lineage are formidable opponents, but your most pressing matter is one of secrecy.\nYou are hiding many things from your new 'loyal' followers, things that you don't want them to find despite their insistence. Use your mastery of shadows and intrigue to hide yourself behind an impenetrable veil of mystery before it's too late. Only then will you be able to root the Christians out of Iberia."
  podintroductions.123.a:0 "The truth is mine to shape"
  podintroductions.badr:0 "You have until 1300 to use a special decision allowing you to improve on your starting modifier"
 
@@ -186,13 +186,13 @@
  badr_decision_confirm:0 "They will never know"
 
  podintroductions.124.t:0 "Your Story So Far"
- podintroductions.124.desc:0 "Pious Suleiman, times are hard for the Faithful [ashirra|E]. The despicable Christian Lasombra have declared war on your people, plunging Iberia and the Maghreb into disarray. But there is trouble closer to home as well. Your once friend Khalid is rallying troops in Mesopotomia after a violent disagreement with you about interfering, or not, in mortals affairs. Your own childe, Haroun el-La'il, has also made a bid for independence after his heretical dogma has been revealed.\nYou must act Suleiman. The [ashirra|E] need unity now more than ever and perhaps concessions need to be made to achieve this goal. Though an hardline stance is also a possibility..."
+ podintroductions.124.desc:0 "Pious Suleiman, times are hard for the Faithful [Concept('ashirra','аширра')|E]. The despicable Christian Lasombra have declared war on your people, plunging Iberia and the Maghreb into disarray. But there is trouble closer to home as well. Your once friend Khalid is rallying troops in Mesopotomia after a violent disagreement with you about interfering, or not, in mortals affairs. Your own childe, Haroun el-La'il, has also made a bid for independence after his heretical dogma has been revealed.\nYou must act Suleiman. The [Concept('ashirra','аширра')|E] need unity now more than ever and perhaps concessions need to be made to achieve this goal. Though an hardline stance is also a possibility..."
  podintroductions.124.a:0 "There will be no compromise"
  podintroductions.124.b:0 "Khalid, we have bigger threats to deal with!"
  podintroductions.124.c:0 "Haroun, we can talk about your theories more..."
 
  podintroductions.125.t:0 "Your Story So Far"
- podintroductions.125.desc:0 "Fearless Lucita, after being trapped in the mortal world for being a woman, you are now trapped in the undead one for being a Lasombra. This can't continue. You are a free spirit, yearning for independence, and you won't wait for the centuries needed to become an elder to achieve it.\nYour first target should be your own [Sire|E], Ambrosio Luis Moncada, a fool who thinks that he can control you. Then [clan|E] Lasombra itself must understand that you aren't their 'rising star', you are your own woman and these decrepit idiots will learn to respect you.\nThe chaos that is an Iberia engulfed in your [clan|E]'s civil war will be the perfect opportunity for you to stake your own claim to greatness. You just have to exploit it well."
+ podintroductions.125.desc:0 "Fearless Lucita, after being trapped in the mortal world for being a woman, you are now trapped in the undead one for being a Lasombra. This can't continue. You are a free spirit, yearning for independence, and you won't wait for the centuries needed to become an elder to achieve it.\nYour first target should be your own [Concept('Sire','Отец')|E], Ambrosio Luis Moncada, a fool who thinks that he can control you. Then [Concept('clan','клан')|E] Lasombra itself must understand that you aren't their 'rising star', you are your own woman and these decrepit idiots will learn to respect you.\nThe chaos that is an Iberia engulfed in your [Concept('clan','клан')|E]'s civil war will be the perfect opportunity for you to stake your own claim to greatness. You just have to exploit it well."
  podintroductions.125.a:0 "Live free or die trying"
  podintroductions.lucita:0 "As Lucita, you have a special decision to achieve to improve your starting modifier"
 
@@ -213,7 +213,7 @@
  good_moncada_modifier_desc:0 "Whether she loves you or hates you, Lucita is alive. Your world is in perfect harmony."
 
  podintroductions.126.t:0 "Your Story So Far"
- podintroductions.126.desc:0 "Pious Moncada, Iberia is in turmoil and God has called upon you to save it. Your [Sire|E], Sylvester de Ruiz, officially leads the Christian effort but you are the real power behind the throne. For now he is useful, but you might want to step into the light at one point.\nAnd then, there is Lucita... an angel sent by God to guide you no doubt, even if she doesn't realize it. Since her [Embrace|E], you have been the best you ever been, sharper, quicker, stronger. She will learn to appreciate you in time but until then, you need to make sure that she stays safe. You can't even stomach what would become of your poor soul if something happened to her..."
+ podintroductions.126.desc:0 "Pious Moncada, Iberia is in turmoil and God has called upon you to save it. Your [Concept('Sire','Отец')|E], Sylvester de Ruiz, officially leads the Christian effort but you are the real power behind the throne. For now he is useful, but you might want to step into the light at one point.\nAnd then, there is Lucita... an angel sent by God to guide you no doubt, even if she doesn't realize it. Since her [Concept('Embrace','объятие')|E], you have been the best you ever been, sharper, quicker, stronger. She will learn to appreciate you in time but until then, you need to make sure that she stays safe. You can't even stomach what would become of your poor soul if something happened to her..."
  podintroductions.126.a:0 "God has granted me the greatest gift"
  podintroductions.moncada:0 "As Moncada, you will enjoy this modifier as long as Lucita is alive. But if she dies..."
 
@@ -225,7 +225,7 @@
  bad_moncada_modifier_desc:0 "Lucita is dead. You are a soulless shell going on with his useless unlife."
 
  podintroductions.127.t:0 "Your Story So Far"
- podintroductions.127.desc:0 "Prince Alfonzo, after centuries of waiting, Constantinople is finally yours. Be careful though, those cowardly Greek vampires fled when you expertly used the 4th Crusade to your advantage and are now rallying their troops and agents against you. You have wisely bend the knee to the See of Shadows to get their protection as you consolidate your rule. A temporary process of course, as you have greater ambitions than staying a mere vassal.\nYou care little for your 'faith' in the [cainite|E] Heresy and would change it in a heartbeat if it was needed, though there might still be opportunities to have by clinging to it.\nExpand the Latin rule and get rid of Byzantine's remnants as soon as possible. Your ascension is only beginning!"
+ podintroductions.127.desc:0 "Prince Alfonzo, after centuries of waiting, Constantinople is finally yours. Be careful though, those cowardly Greek vampires fled when you expertly used the 4th Crusade to your advantage and are now rallying their troops and agents against you. You have wisely bend the knee to the See of Shadows to get their protection as you consolidate your rule. A temporary process of course, as you have greater ambitions than staying a mere vassal.\nYou care little for your 'faith' in the [Concept('cainite','каинит')|E] Heresy and would change it in a heartbeat if it was needed, though there might still be opportunities to have by clinging to it.\nExpand the Latin rule and get rid of Byzantine's remnants as soon as possible. Your ascension is only beginning!"
  podintroductions.127.a:0 "A new triumph is coming"
  podintroductions.alfonzo:0 "As Alfonzo, you are the only one that can create the Latin Empire, via a special decision"
  
@@ -238,17 +238,17 @@
  bad_gratiano_modifier_desc:0 "You are the red headed childe of Lasombra's family. This doesn't help anything!"
 
  podintroductions.128.t:0 "Your Story So Far"
- podintroductions.128.desc:0 "Lord Gratiano, the powerful Lasombra himself saw your greatness and Embraced you into his [clan|E]. This act enraged your new 'brethren' and you have been branded as an upstart since then, denied the numerous responsibilities and titles that should be yours. You have to start from scratch.\nFor that purpose, you choose Verona, a city you know well since your mortals days, and the foothold has been made but... nothing has changed yet. They still laugh at you, insult you behind your back, plot your demise even! This must stop.\nYou will show them why Lasombra choose you. You will show them that Gratiano de Veronese was born to rule!"
+ podintroductions.128.desc:0 "Lord Gratiano, the powerful Lasombra himself saw your greatness and Embraced you into his [Concept('clan','клан')|E]. This act enraged your new 'brethren' and you have been branded as an upstart since then, denied the numerous responsibilities and titles that should be yours. You have to start from scratch.\nFor that purpose, you choose Verona, a city you know well since your mortals days, and the foothold has been made but... nothing has changed yet. They still laugh at you, insult you behind your back, plot your demise even! This must stop.\nYou will show them why Lasombra choose you. You will show them that Gratiano de Veronese was born to rule!"
  podintroductions.128.a:0 "They will see..."
  podintroductions.gratiano:0 "To get rid of Gratiano's starting modifier, you must complete a special decision."
 
  gratiano_decision:0 "Born to Rule"
  gratiano_decision_tooltip:1 "They will learn"
- gratiano_decision_desc:0 "Prove to [clan|E] Lasombra that you are more than just Daddy's latest pet. Achieve something that they must take notice of."
+ gratiano_decision_desc:0 "Prove to [Concept('clan','клан')|E] Lasombra that you are more than just Daddy's latest pet. Achieve something that they must take notice of."
  gratiano_decision_confirm:0 "They have learned"
 
  podintroductions.129.t:0 "Your Story So Far"
- podintroductions.129.desc:0 "Lord Sejanus, after your fateful [Embrace|E], you drifted for quite a long time in Europe looking for a place to start your Empire of the Night. Your current location is promising, if perhaps a little too close to the powerful Hardestadt. You will have to deal with him.\nYou easily secured Princedom over this area because you received some very unexpected help. One strange English Tzimisce named Jack has been awed by you and your dreams and eagerly pledged himself to your service. After a brief inquiry, you think he is trustworthy and actually quite capable for such a young vampire.\nFinding a lesser recognizing your greatness is always gratifying, perhaps you could reward him with an important role on your burgeoning realm?"
+ podintroductions.129.desc:0 "Lord Sejanus, after your fateful [Concept('Embrace','объятие')|E], you drifted for quite a long time in Europe looking for a place to start your Empire of the Night. Your current location is promising, if perhaps a little too close to the powerful Hardestadt. You will have to deal with him.\nYou easily secured Princedom over this area because you received some very unexpected help. One strange English Tzimisce named Jack has been awed by you and your dreams and eagerly pledged himself to your service. After a brief inquiry, you think he is trustworthy and actually quite capable for such a young vampire.\nFinding a lesser recognizing your greatness is always gratifying, perhaps you could reward him with an important role on your burgeoning realm?"
  podintroductions.129.a:0 "I can make use of you"
  podintroductions.129.b:0 "I don't need any help!"
 
@@ -281,16 +281,16 @@
  POD_education_events.1.option.e:0 "Let see if they survive my court..."
  POD_education_events.1.option.isouda:0 "As Isouda, you can put your childe in the ruthless arena that is your court. They will become stronger from it... if they survive."
  
- POD_education_events.26.t:0 "An Education : Worthy Childe"
+ POD_education_events.26.t:0 "An Education: Worthy Childe"
  POD_education_events.26.desc:0 "The trials are over and it seems this one will be useful. Well, that's great and all, but you are a little disappointed to be honest. Maybe you should spice them up for next time to make it more challenging and more fun to watch them squirm in your ruthless court? Oh well, thoughts for another night."
  POD_education_events.26.option.a:0 "Well done I guess"
 
- POD_education_events.27.t:0 "An Education : Unworthy Childe"
+ POD_education_events.27.t:0 "An Education: Unworthy Childe"
  POD_education_events.27.desc:0 "The trials are over and, well, this one didn't make it. Oh well, there are plenty more mortals to test out anyway. At least it was fun to watch until its foregone conclusion. Witnessing helpless neonates being suck in the web of intrigues that is your court always give you a deep sense of satisfaction."
  POD_education_events.27.option.a:0 "The best entertainment really"
 
  podintroductions.132.t:0 "Your Story So Far"
- podintroductions.132.desc:0 "Lady Esclarmonde, you are recognized as the leader of Occitan resistance to the French since the start of the Albigensian Crusade... Not that you care that much about Occitania itself anyway, but it's an useful charade to keep going for the public eye.\nEven more so because of one of your unique abilities. Using Presence in a way told by your departed [Sire|E], you are able to make any man lost in a fairytale where he is the knight and you are the princess. From there, obviously, the kind princess can direct her brave knights to slay 'monsters' in order to protect her..."
+ podintroductions.132.desc:0 "Lady Esclarmonde, you are recognized as the leader of Occitan resistance to the French since the start of the Albigensian Crusade... Not that you care that much about Occitania itself anyway, but it's an useful charade to keep going for the public eye.\nEven more so because of one of your unique abilities. Using Presence in a way told by your departed [Concept('Sire','Отец')|E], you are able to make any man lost in a fairytale where he is the knight and you are the princess. From there, obviously, the kind princess can direct her brave knights to slay 'monsters' in order to protect her..."
  podintroductions.132.a:0 "We all play a role"
  esclarmonde_intro_tooltip:0 "As Esclarmonde, you have a special character interaction available for men in your realm to entrance them. It costs piety to enact."
 
@@ -301,7 +301,7 @@
  faydit_modifier_desc:0 "This poor soul is lost in an illusion where he is the knight of the beautiful princess Esclarmonde"
 
  podintroductions.133.t:0 "Your Story So Far"
- podintroductions.133.desc:0 "Fearless Melinda, your [Sire|E], Helena, abandoned you after getting bored of tormenting you. You are now left to fend for yourself but your have learned one important thing from your time under Helena's 'tutelage' : it's you against them.\nThose that will kiss your feet and prove useful might live. The others... you will have so much fun dealing with the others.\nIf this world has to be plunged into eternal horror for you to be powerful, respected and independent, then so be it.\nYou will reign in Hell, and damn the Heavens."
+ podintroductions.133.desc:0 "Fearless Melinda, your [Concept('Sire','Отец')|E], Helena, abandoned you after getting bored of tormenting you. You are now left to fend for yourself but your have learned one important thing from your time under Helena's 'tutelage': it's you against them.\nThose that will kiss your feet and prove useful might live. The others... you will have so much fun dealing with the others.\nIf this world has to be plunged into eternal horror for you to be powerful, respected and independent, then so be it.\nYou will reign in Hell, and damn the Heavens."
  podintroductions.133.a:0 "I understand now, 'mother'"
  melinda_intro_tooltip:0 "As Melinda Galbraith you have a unique decision to ravage your capital for some quick rewards, as long as your capital isn't already fully ruined."
 
@@ -311,7 +311,7 @@
  melinda_decision_confirm:0 "...and Hell followed with her"
 
  podintroductions.134.t:0 "Your Story So Far"
- podintroductions.134.desc:0 "Cunning Rafael, let's be honest, you have no idea of what the hell is going on. You barely saved your unlife by tricking your [Sire|E] into thinking that you are an artist of schemes and mischief but you still have no real clue on how this whole vampire society works.\nFrom the few things you have gathered, it would be best for you to learn very fast, because clueless vampires make for dead vampires most of the time. You have only one advantage to speak of, your wits. You are capable of convincing almost anyone to go along with almost anything. This might be your lifeline..."
+ podintroductions.134.desc:0 "Cunning Rafael, let's be honest, you have no idea of what the hell is going on. You barely saved your unlife by tricking your [Concept('Sire','Отец')|E] into thinking that you are an artist of schemes and mischief but you still have no real clue on how this whole vampire society works.\nFrom the few things you have gathered, it would be best for you to learn very fast, because clueless vampires make for dead vampires most of the time. You have only one advantage to speak of, your wits. You are capable of convincing almost anyone to go along with almost anything. This might be your lifeline..."
  podintroductions.134.a:0 "I can make it!"
  rafael_intro_tooltip:0 "As Rafael, you have a special character interaction costing prestige to trick other landed rulers into giving you something. The specific reward depends on their traits."
 
@@ -322,7 +322,7 @@
  PODcanon_chars.24.desc:0 "You got this one hooked in your perfect sales pitch, Rafael. It is now time to go for the kill, what will you ask? It will have to take into consideration the angle you are working."
  PODcanon_chars.24.a:0 "You can trust me!"
  rafael_trusting_tooltip:0 "This option is available because your target has the trusting or gregarious trait"
- PODcanon_chars.24.b:0 "...and then my [Sire|E] abandoned me!"
+ PODcanon_chars.24.b:0 "...and then my [Concept('Sire','Отец')|E] abandoned me!"
  rafael_compassionate_tooltip:0 "This option is available because your target has the compassionate trait"
  PODcanon_chars.24.c:0 "This is fascinating, I will convert for sure!"
  rafael_zealous_tooltip:0 "This option is available because your target has the zealous trait"
@@ -389,37 +389,37 @@
  POD_leeland_interaction_desc:0 "Plant the seed of rebellion in this young vampire's mind"
 
  podintroductions.139.t:0 "Your Story So Far"
- podintroductions.139.desc:0 "Lady Veronique, you are back in your home city after your Parisian adventure. You helped in the coup against Alexander, the tyrannical Prince of France, and gained some recognition in the process. Sadly, you also lost many trusted retainers to the deceitful Jean Baptiste de Montrond. You might have to 'repay' him one night.\nBeyond this burgeoning rivalry, your position is mostly secure. You are already hard at work rebuilding your entourage of mortals friends, an oddity among [cainites|E], but one that gives you strength. Use your trust in humanity to your advantage and those that underestimate you will soon learn that you can be as skilled in any field of expertise as they are."
+ podintroductions.139.desc:0 "Lady Veronique, you are back in your home city after your Parisian adventure. You helped in the coup against Alexander, the tyrannical Prince of France, and gained some recognition in the process. Sadly, you also lost many trusted retainers to the deceitful Jean Baptiste de Montrond. You might have to 'repay' him one night.\nBeyond this burgeoning rivalry, your position is mostly secure. You are already hard at work rebuilding your entourage of mortals friends, an oddity among [Concept('cainites','каиниты')|E], but one that gives you strength. Use your trust in humanity to your advantage and those that underestimate you will soon learn that you can be as skilled in any field of expertise as they are."
  podintroductions.139.a:0 "I'm playing their game my way"
  veronique_intro_tooltip:0 "As Veronique, you have a special event during the Survey Capital activity as long as you stay of the Via Humanitatis faith"
 
- POD_survey_events.150.t:0 "The Survey : Veronique's Entourage"
- POD_survey_events.150.desc:0 "You are one of the few [cainites|E] to really cultivate some relationships with the mortals and not to only consider them like cattle or pawns in a greater game. As such, you actually have some friends in the city that are willing to help you in many different matters. As will all contacts, you must visit them from time to time to take care of any relevant trouble they might have but you always find it a rewarding experience. Mortals are much more attuned to the changing world than any [cainite|E] could ever dream to be."
+ POD_survey_events.150.t:0 "The Survey: Veronique's Entourage"
+ POD_survey_events.150.desc:0 "You are one of the few [Concept('cainites','каиниты')|E] to really cultivate some relationships with the mortals and not to only consider them like cattle or pawns in a greater game. As such, you actually have some friends in the city that are willing to help you in many different matters. As will all contacts, you must visit them from time to time to take care of any relevant trouble they might have but you always find it a rewarding experience. Mortals are much more attuned to the changing world than any [Concept('cainite','каинит')|E] could ever dream to be."
  POD_survey_events.150.option.a:0 "A pleasure to see you again!"
  veronique_survey_tooltip:0 "This special outcome of the survey can always happen to Veronique as long as she stays on the Via Humanitatis faith."
 
  podintroductions.140.t:0 "Your Story So Far"
- podintroductions.140.desc:0 "Great Menele of Sparta, you have chased the traitorous Helena for centuries now and there seems to be no end to this conflict. She obviously needs to be punished for having engineered your beloved Carthage's destruction but you also mourn for the decline of your [clan|E]. You could do a lot to help it recover... if you weren't so preoccupied with the hunt for your nemesis.\nYour legendary rivalry must end one way or another, then it might still be time to heal your broken [clan|E]."
+ podintroductions.140.desc:0 "Great Menele of Sparta, you have chased the traitorous Helena for centuries now and there seems to be no end to this conflict. She obviously needs to be punished for having engineered your beloved Carthage's destruction but you also mourn for the decline of your [Concept('clan','клан')|E]. You could do a lot to help it recover... if you weren't so preoccupied with the hunt for your nemesis.\nYour legendary rivalry must end one way or another, then it might still be time to heal your broken [Concept('clan','клан')|E]."
  podintroductions.140.a:0 "Ending the eternal feud..."
- menele_intro_tooltip:0 "As Menele, you have a special decision where you need to take care of the Helena problem. If you achieve it, you then unlock a character interaction to teach other Brujah about your glorious [clan|E]."
+ menele_intro_tooltip:0 "As Menele, you have a special decision where you need to take care of the Helena problem. If you achieve it, you then unlock a character interaction to teach other Brujah about your glorious [Concept('clan','клан')|E]."
 
  menele_decision:0 "Sparta against Troy"
  menele_decision_tooltip:1 "It is time to end this nonsense"
  menele_decision_desc:0 "Helena has taken too much of your time already. Deal with her, then more pressing matters require your attention."
  menele_decision_confirm:0 "Finally!"
  menele_decision_tooltip:0 "Helena must be dead, or no longer your rival"
- menele_decision_effect_tooltip:0 "You will unlock a new character interaction to teach the Brujah about the glory of your [clan|E]"
+ menele_decision_effect_tooltip:0 "You will unlock a new character interaction to teach the Brujah about the glory of your [Concept('clan','клан')|E]"
 
  PODcanon_chars.25.t:0 "New Beginnings"
- PODcanon_chars.25.desc:0 "Finally, this unpleasant business with Helena is behind you. It has taken a long time, but you finally realized that her greatest betrayal wasn't helping the Romans against Carthage, but was in fact keeping you distracted at the moment your [clan|E] needed you the most.\nThe Brujah lie scattered, overwhelmed by anger and sorrow, a pale reflection of their glorious ancient nights. It doesn't have to be the only way forward. You are a legend Menele, and even the most stubborn member of your [clan|E] will listen if you talk. You have to be the guiding light for them going forwards, for no one else can."
+ PODcanon_chars.25.desc:0 "Finally, this unpleasant business with Helena is behind you. It has taken a long time, but you finally realized that her greatest betrayal wasn't helping the Romans against Carthage, but was in fact keeping you distracted at the moment your [Concept('clan','клан')|E] needed you the most.\nThe Brujah lie scattered, overwhelmed by anger and sorrow, a pale reflection of their glorious ancient nights. It doesn't have to be the only way forward. You are a legend Menele, and even the most stubborn member of your [Concept('clan','клан')|E] will listen if you talk. You have to be the guiding light for them going forwards, for no one else can."
  PODcanon_chars.25.a:0 "We are Carthage's legacy"
- menele_victory_tooltip:0 "You will unlock a new character interaction to teach other Brujah about the glory of your [clan|E]."
+ menele_victory_tooltip:0 "You will unlock a new character interaction to teach other Brujah about the glory of your [Concept('clan','клан')|E]."
  
  POD_menele_teachings_interaction:0 "Teachings of Carthage"
  POD_menele_teachings_interaction_desc:0 "Remind other Brujah of their glorious past, and bright future."
 
  PODcanon_chars.26.t:0 "A Lesson"
- PODcanon_chars.26.desc:0 "As perhaps the most respected Brujah still active in these nights, you have enough influence to make any member of your [clan|E] sit and listen to you if you put your mind to it.\nThe preparations out of the way, you only have to think about what exactly you will teach this one. If the conflict with Helena taught you something, it's that you don't have all the time in the world for only one person."
+ PODcanon_chars.26.desc:0 "As perhaps the most respected Brujah still active in these nights, you have enough influence to make any member of your [Concept('clan','клан')|E] sit and listen to you if you put your mind to it.\nThe preparations out of the way, you only have to think about what exactly you will teach this one. If the conflict with Helena taught you something, it's that you don't have all the time in the world for only one person."
  PODcanon_chars.26.a:0 "There is only one way to master your Beast"
  PODcanon_chars.26.b:0 "Let's talk about Carthage"
  PODcanon_chars.26.c:0 "Self control is the key"
@@ -427,7 +427,7 @@
  ANTI_HEDEON_PACT:0 "Anti Hedeon Pact" 
 
  podintroductions.141.t:0 "Your Story So Far"
- podintroductions.141.desc:0 "Lord Yitzhak, you have recently managed to considerably expand your influence over Poland thanks to Prince Razkoljna's troubles with a Ventrue incursion. But you aren't the only one to profit from this event. Hedeon Yaroslavich, a vicious monster even for his already quite sadistic [clan|E], has also made his domain grow quite considerably. His dark shadow now looms ever closer to engulfing Poland.\nThere might be a way out. You don't trust Razkoljna, but you know she is a far lesser evil than Hedeon, and she probably feels the same way about you. Negotiating a truce between you two could allow you both to focus on Hedeon first. After that obviously, all bets are off..."
+ podintroductions.141.desc:0 "Lord Yitzhak, you have recently managed to considerably expand your influence over Poland thanks to Prince Razkoljna's troubles with a Ventrue incursion. But you aren't the only one to profit from this event. Hedeon Yaroslavich, a vicious monster even for his already quite sadistic [Concept('clan','клан')|E], has also made his domain grow quite considerably. His dark shadow now looms ever closer to engulfing Poland.\nThere might be a way out. You don't trust Razkoljna, but you know she is a far lesser evil than Hedeon, and she probably feels the same way about you. Negotiating a truce between you two could allow you both to focus on Hedeon first. After that obviously, all bets are off..."
  podintroductions.141.a:0 "Prince Razkoljna, let us talk"
  podintroductions.141.b:0 "She is no better than Hedeon!"
 
@@ -470,7 +470,7 @@
  podintroductions.143.b:0 "His plot armor has run its course it seems"
 
  podintroductions.144.t:0 "Your Story So Far"
- podintroductions.144.desc:0 "Lord Augustus, you have been quick to seize upon the opportunities given to you by the [Embrace|E]. Your family's mercantile (and necromantic) empire is growing and these indolent Cappadocians don't expect a thing. Still, you are only one man and you must first focus your efforts on finally wrestling control of Venice itself.\nFor the other matters, you can rely on your three lieutenants, Claudius, Ambrogino and Ignazio. Each has his own specific strong suit and all of them want your approval. If you play your cards right, you can keep them useful and busy squabbling among each other (and not scheming against you) for a long time."
+ podintroductions.144.desc:0 "Lord Augustus, you have been quick to seize upon the opportunities given to you by the [Concept('Embrace','объятие')|E]. Your family's mercantile (and necromantic) empire is growing and these indolent Cappadocians don't expect a thing. Still, you are only one man and you must first focus your efforts on finally wrestling control of Venice itself.\nFor the other matters, you can rely on your three lieutenants, Claudius, Ambrogino and Ignazio. Each has his own specific strong suit and all of them want your approval. If you play your cards right, you can keep them useful and busy squabbling among each other (and not scheming against you) for a long time."
  podintroductions.144.a:0 "Our ascension begins"
  augustus_intro_tooltip:0 "As Augustus, you have a special decision where you can favor one of your lieutenants more than the others, as long as they are alive of course."
 
@@ -528,7 +528,7 @@
  weak_falsinar_modifier_desc:0 "Your faithful Falsinar still does his best from the underworld to help you."
  
  podintroductions.147.t:0 "Your Story So Far"
- podintroductions.147.desc:0 "Lord Markus Musa, your fame in both your family and your [clan|E] is rising fast. You have proven yourself more than capable by thwarting Lazarus' mad scheme in Egypt. The cost was high though and you lost your two trusted retainers in the battle. One of them, Falsinar, has proven to be quite the willful soul as, even from the Underworld, he is still helping you as best as he can.\nFalsinar is a weak and young wraith still, but you are a skilled necromancer and as such you have identified two possibilities to help your spectral friend manifest himself more easily in your world. Both opportunities won't be easy to achieve but you and Falsinar have all the time in the world anyway."
+ podintroductions.147.desc:0 "Lord Markus Musa, your fame in both your family and your [Concept('clan','клан')|E] is rising fast. You have proven yourself more than capable by thwarting Lazarus' mad scheme in Egypt. The cost was high though and you lost your two trusted retainers in the battle. One of them, Falsinar, has proven to be quite the willful soul as, even from the Underworld, he is still helping you as best as he can.\nFalsinar is a weak and young wraith still, but you are a skilled necromancer and as such you have identified two possibilities to help your spectral friend manifest himself more easily in your world. Both opportunities won't be easy to achieve but you and Falsinar have all the time in the world anyway."
  podintroductions.147.a:0 "Necromancer and wraith, a perfect duo"
  markus_intro_tooltip:0 "As Markus Musa, you have two special decision that can improve Falsinar if achieved."
 
@@ -552,7 +552,7 @@
  markus_egypt_decision_effect_tooltip:0 "Falsinar will become stronger"
 
  podintroductions.148.t:0 "Your Story So Far"
- podintroductions.148.desc:0 "Lord Japhet, your role as an informal leader of [clan|E] Cappadocian is an ungrateful one. Your brethren are known for being quite reclusive and mostly pay no heed to your august responsibility. Worse still, your own [Sire|E], Cappadocius himself, is often lost in his delusions of grandeur or fits of madness. But as the founder of the [clan|E], his word is law and you are nothing if not dutiful.\nHis latest fancy has seen the Venetian Giovanni Embraced into the Blood, something you strongly disagreed with. You have no choice but to carry on though, limiting your [Sire|E]'s worst excesses while preserving the integrity of [clan|E] Cappadocian. Eternity has never felt so long."
+ podintroductions.148.desc:0 "Lord Japhet, your role as an informal leader of [Concept('clan','клан')|E] Cappadocian is an ungrateful one. Your brethren are known for being quite reclusive and mostly pay no heed to your august responsibility. Worse still, your own [Concept('Sire','Отец')|E], Cappadocius himself, is often lost in his delusions of grandeur or fits of madness. But as the founder of the [Concept('clan','клан')|E], his word is law and you are nothing if not dutiful.\nHis latest fancy has seen the Venetian Giovanni Embraced into the Blood, something you strongly disagreed with. You have no choice but to carry on though, limiting your [Concept('Sire','Отец')|E]'s worst excesses while preserving the integrity of [Concept('clan','клан')|E] Cappadocian. Eternity has never felt so long."
  podintroductions.148.a:0 "My work will never be done"
  japhet_intro_tooltip:0 "As Japhet you have a special minor decision to check on Cappadocius. Beware his eccentricities though."
 
@@ -562,20 +562,20 @@
  japhet_decision_confirm:0 "No turning back"
  japhet_decision_effect_tooltip:0 "You will check on Cappadocius himself, hoping to find him well... and not too lost in his own fanciful world."
 
- PODcanon_chars.29.t:0 "Cappadocius : The Plan"
- PODcanon_chars.29.desc:0 "Here he goes again... your august [Sire|E], the venerable Cappadocius himself is once again working on his deluded plan to [diablerize|E] God. A zealous convert to Christianity, he has always been fascinated by the 'One God' in his own twisted way. You are pretty sure that Augustus Giovanni's [Embrace|E] is somehow tied to it as well.\nIn any case, he is speaking at length of his mad scheme, hoping for your enthusiastic approval of course. There is no way that you could reason with him, but you would at least prefer to not be dragged too deep in this demented quest."
+ PODcanon_chars.29.t:0 "Cappadocius: The Plan"
+ PODcanon_chars.29.desc:0 "Here he goes again... your august [Concept('Sire','Отец')|E], the venerable Cappadocius himself is once again working on his deluded plan to [Concept('diablerize','диаблеризовать')|E] God. A zealous convert to Christianity, he has always been fascinated by the 'One God' in his own twisted way. You are pretty sure that Augustus Giovanni's [Concept('Embrace','объятие')|E] is somehow tied to it as well.\nIn any case, he is speaking at length of his mad scheme, hoping for your enthusiastic approval of course. There is no way that you could reason with him, but you would at least prefer to not be dragged too deep in this demented quest."
  PODcanon_chars.29.a:0 "There might still be some flaws."
- PODcanon_chars.29.b:0 "What a perfect plan, [Sire|E]!"
+ PODcanon_chars.29.b:0 "What a perfect plan, [Concept('Sire','Отец')|E]!"
  PODcanon_chars.29.c:0 "*Sigh* Yes, this is brilliant"
 
- PODcanon_chars.30.t:0 "Cappadocius : The Mentor"
- PODcanon_chars.30.desc:0 "Your esteemed [Sire|E] is of a good, quiet, mood tonight, bringing you back to better times before his deluded mind started to wander. He is actually pleased to see you and you are talking about the many wonders and horrors you both saw. It is in these simple times that you are reminded of the great person Cappadocius was and hopefully can still be.\nYou leave his room more determined to continue your work and wiser than you entered."
- PODcanon_chars.30.a:0 "What about Sargon [Sire|E]?"
+ PODcanon_chars.30.t:0 "Cappadocius: The Mentor"
+ PODcanon_chars.30.desc:0 "Your esteemed [Concept('Sire','Отец')|E] is of a good, quiet, mood tonight, bringing you back to better times before his deluded mind started to wander. He is actually pleased to see you and you are talking about the many wonders and horrors you both saw. It is in these simple times that you are reminded of the great person Cappadocius was and hopefully can still be.\nYou leave his room more determined to continue your work and wiser than you entered."
+ PODcanon_chars.30.a:0 "What about Sargon [Concept('Sire','Отец')|E]?"
  PODcanon_chars.30.b:0 "I wish I knew Enoch myself..."
  PODcanon_chars.30.c:0 "Can we talk of Ashur?"
  
- PODcanon_chars.31.t:0 "Cappadocius : The Priest"
- PODcanon_chars.31.desc:0 "Cappadocius is a fervent believer in his, admittedly twisted, version of Christianity. As such, it isn't uncommon for him to want to attend the mass... or serve as the priest himself, despite the obvious irony of such a situation.\nYou are accustomed to dealing with this fancy of his, but it is always hard to avoid unwanted attention since your [Sire|E] isn't exactly careful about his vampiric condition."
+ PODcanon_chars.31.t:0 "Cappadocius: The Priest"
+ PODcanon_chars.31.desc:0 "Cappadocius is a fervent believer in his, admittedly twisted, version of Christianity. As such, it isn't uncommon for him to want to attend the mass... or serve as the priest himself, despite the obvious irony of such a situation.\nYou are accustomed to dealing with this fancy of his, but it is always hard to avoid unwanted attention since your [Concept('Sire','Отец')|E] isn't exactly careful about his vampiric condition."
  PODcanon_chars.31.a:0 "I will partake in the communion"
  PODcanon_chars.31.b:0 "Praying will be enough"
  PODcanon_chars.31.c:0 "Security first"
@@ -615,13 +615,13 @@
  podintroductions.150.b:0 "The Steppes are uniting"
 
  podintroductions.151.t:0 "Your Story So Far"
- podintroductions.151.desc:0 "Lord Myka, your clever move during the recent peace treaty resulted in your Obertus Order being established as a buffer state between the German Ventrue and your clansmates to the East. This position is insecure though and much still needs to be done.\nYou also recently learned that Nikita of Sredetz, the Archbishop of Nod, might be related to one of the most closely guarded secrets of [clan|E] Tzimisce. Your scholarly mind can't resist the allure of such a find but you will have to storm Nikita's city to learn more which might be a daunting prospect. As always, take care to balance your intellectuals pursuits with your more secular ambitions. This has always been your very own path to greatness."
+ podintroductions.151.desc:0 "Lord Myka, your clever move during the recent peace treaty resulted in your Obertus Order being established as a buffer state between the German Ventrue and your clansmates to the East. This position is insecure though and much still needs to be done.\nYou also recently learned that Nikita of Sredetz, the Archbishop of Nod, might be related to one of the most closely guarded secrets of [Concept('clan','клан')|E] Tzimisce. Your scholarly mind can't resist the allure of such a find but you will have to storm Nikita's city to learn more which might be a daunting prospect. As always, take care to balance your intellectuals pursuits with your more secular ambitions. This has always been your very own path to greatness."
  podintroductions.151.a:0 "Not a moment to lose."
  myka_intro_tooltip:0 "As Myka Vykos, you have a special decision to learn the secrets of the Archbishop of Nod. The reward might be more than Myka can handle though..."
  
  myka_decision:0 "Dark Secrets"
  myka_decision_tooltip:1 "Seeking the unknowable truth"
- myka_decision_desc:0 "Nikita of Sredetz hides one of the most important secrets of [clan|E] Tzimisce. Deal with him, storm his haven and learn the truth."
+ myka_decision_desc:0 "Nikita of Sredetz hides one of the most important secrets of [Concept('clan','клан')|E] Tzimisce. Deal with him, storm his haven and learn the truth."
  myka_decision_confirm:0 "I must know!"
  myka_decision_effect_tooltip:0 "Myka will be reborn anew."
  
@@ -631,7 +631,7 @@
  PODcanon_chars.33.b:0 "Run away!"
 
  podintroductions.152.t:0 "Your Story So Far"
- podintroductions.152.desc:0 "Lord Noriz, the time of indolent decadence is over. While it is certainly amusing pitting your childer against each other in death matches, you must not forget that you were once the master of [clan|E] Tzimisce. Vladimir Rustovitch, that cowardly usurper, took it from you but his humiliating defeat against the German Ventrue is the opportunity you awaited.\nYou must press your rightful claim as Voivode of Voivodes and deal with Rustovitch once and for all. Then your lineage can reclaim the prestige that is its due."
+ podintroductions.152.desc:0 "Lord Noriz, the time of indolent decadence is over. While it is certainly amusing pitting your childer against each other in death matches, you must not forget that you were once the master of [Concept('clan','клан')|E] Tzimisce. Vladimir Rustovitch, that cowardly usurper, took it from you but his humiliating defeat against the German Ventrue is the opportunity you awaited.\nYou must press your rightful claim as Voivode of Voivodes and deal with Rustovitch once and for all. Then your lineage can reclaim the prestige that is its due."
  podintroductions.152.a:0 "This was your last mistake Vladimir..."
  noriz_intro_tooltip:0 "As Noriz, you have a special decision achievable if you become the leader of the Voivodate. It will improve your starting house modifier if achieved."
  
@@ -645,23 +645,23 @@
  noriz_custom_decision:0 "Vladimir Rustovitch must be dead."
 
  podintroductions.153.t:0 "Your Story So Far"
- podintroductions.153.desc:0 "Lady Razkoljna, your recent fall into [torpor|E] has seen your control over Poland weakened. Still, Krakow hasn't fallen so you have a strong base from which to launch your reconquest.\nIt is especially important to you as you are one of the few vampires that truly cares about the well being of its city. Not from any misplaced sentiment of kindness obviously, but from the pragmatic standpoint that a strong city means a strong Prince. You must quickly reconstruct your web of influence in Krakow and help its prosperity once again. The city must become mighty indeed, as befell a capital of your new Tzimisce empire."
+ podintroductions.153.desc:0 "Lady Razkoljna, your recent fall into [Concept('torpor','торпор')|E] has seen your control over Poland weakened. Still, Krakow hasn't fallen so you have a strong base from which to launch your reconquest.\nIt is especially important to you as you are one of the few vampires that truly cares about the well being of its city. Not from any misplaced sentiment of kindness obviously, but from the pragmatic standpoint that a strong city means a strong Prince. You must quickly reconstruct your web of influence in Krakow and help its prosperity once again. The city must become mighty indeed, as befell a capital of your new Tzimisce empire."
  podintroductions.153.a:0 "Transylvania is old news, here is the future."
  raz_intro_tooltip:0 "As Razkoljna, you have a special event available during the survey capital activity."
  
- POD_survey_events.160.t:0 "The Survey : Razkoljna's Capital"
+ POD_survey_events.160.t:0 "The Survey: Razkoljna's Capital"
  POD_survey_events.160.desc:0 "You know the importance of a well developed mortal community more than any Tzimisce. As such, you have been practicing the art of guiding a city towards prosperity for a long time in Krakow. The valuable lessons you learned make it easier for you to subtly develop your capital towards your goal. It is still an exhausting process though, and you might want to pace yourself."
  POD_survey_events.160.option.a:0 "There is no time to waste"
  POD_survey_events.160.option.b:0 "I have eternity on my side"
  raz_survey_tooltip:0 "This special outcome of the survey is available as long as you play Razkoljna."
 
  podintroductions.154.t:0 "Your Story So Far"
- podintroductions.154.desc:0 "Lord Hedeon, you have recently grown your influence in Poland thanks to Prince Razkoljna's time in [torpor|E]. And as your influence grows so do the screams of the mortals in your 'care', clearly the most pleasant of sounds. Your fortress is always in need of more renovation and as such you obviously need more cattle to skin and dismember for artistic purposes.\nWhat better way to acquire more than crushing Razkoljna and the other Polish usurpers then bringing their pathetic cities into your fold? You are an imaginative man after all, think of all the things you could do with so many helpless mortals added to your domain..."
+ podintroductions.154.desc:0 "Lord Hedeon, you have recently grown your influence in Poland thanks to Prince Razkoljna's time in [Concept('torpor','торпор')|E]. And as your influence grows so do the screams of the mortals in your 'care', clearly the most pleasant of sounds. Your fortress is always in need of more renovation and as such you obviously need more cattle to skin and dismember for artistic purposes.\nWhat better way to acquire more than crushing Razkoljna and the other Polish usurpers then bringing their pathetic cities into your fold? You are an imaginative man after all, think of all the things you could do with so many helpless mortals added to your domain..."
  podintroductions.154.a:0 "Heavy is the burden of an artist."
  hedeon_intro_tooltip:0 "As Hedeon, you get a massive stress relief and some intrigue xp when you torture someone."
  
  podintroductions.155.t:0 "Your Story So Far"
- podintroductions.155.desc:0 "Lord Yorak, as the eldest childe of Tzimisce active in Transylvania, you have assumed the role of a spiritual leader for your [clan|E]. It has been strengthened by your construction of the Cathedral of Flesh, a masterful achievement in the art of fleshcrafting.\nStill, you were once a political force as well and you might need to become one once more, as your brethren are assailed by the German Ventrue and their Tremere allies. Clearly, you are the only one with enough clout to really unify the [clan|E]. And for those who disagree? Well, the Cathedral is always hungry..."
+ podintroductions.155.desc:0 "Lord Yorak, as the eldest childe of Tzimisce active in Transylvania, you have assumed the role of a spiritual leader for your [Concept('clan','клан')|E]. It has been strengthened by your construction of the Cathedral of Flesh, a masterful achievement in the art of fleshcrafting.\nStill, you were once a political force as well and you might need to become one once more, as your brethren are assailed by the German Ventrue and their Tremere allies. Clearly, you are the only one with enough clout to really unify the [Concept('clan','клан')|E]. And for those who disagree? Well, the Cathedral is always hungry..."
  podintroductions.155.a:0 "Open the gates..."
  yorak_intro_tooltip:0 "As Yorak, you have a special execution method that allows you to feed the Cathedral as long as you control it"
  
@@ -677,7 +677,7 @@
  cathedral_satiated_modifier_desc:1 "The apparent calm reigning in the Cathedral is only troubled by the screams of its countless victims."
 
  podintroductions.156.t:0 "Your Story So Far"
- podintroductions.156.desc:0 "Fearsome Darvag, Kiev is at your mercy and you will one night have your revenge on its fickle population who betrayed your ancient religion. But more pressing matters are at hand.\nThe Tzimisce Voivodate to your west asked for your fealty but you refused, knowing that there are far greater powers than they. The Little Grandmother of Russian fame, Baba Yaga, is close, you can feel it. It doesn't matter if she is asleep or not, you know that she is the only Goddess of these lands and you also know the stories : she will bless those that will show proper deference. Well, you are sure that the people of Kiev will be happy to serve as offerings..."
+ podintroductions.156.desc:0 "Fearsome Darvag, Kiev is at your mercy and you will one night have your revenge on its fickle population who betrayed your ancient religion. But more pressing matters are at hand.\nThe Tzimisce Voivodate to your west asked for your fealty but you refused, knowing that there are far greater powers than they. The Little Grandmother of Russian fame, Baba Yaga, is close, you can feel it. It doesn't matter if she is asleep or not, you know that she is the only Goddess of these lands and you also know the stories: she will bless those that will show proper deference. Well, you are sure that the people of Kiev will be happy to serve as offerings..."
  podintroductions.156.a:0 "Heed me Grandmother!"
  darvag_intro_tooltip:0 "As Darvag, you have access to a special execution method."
 
@@ -693,12 +693,12 @@
  baba_delighted_modifier_desc:1 "Clearly you are her favorite now, the one who gets the best gifts."
 
  podintroductions.157.t:0 "Your Story So Far"
- podintroductions.157.desc:0 "Lady Shaagra, as your control over Bohemia grows, you have learned an interesting information. Vukodlak, a Tzimisce even older than you, was active in Prague recently until his fall into [torpor|E] after a titanic battle against some unknown assailants.\nVukodlak is a sadistic and arrogant madman but you can't deny his powers and skills. If you were to rescue him, he might be amicable to an alliance at least for a while. His strength would be a great asset to help ease your return into power... but it could also backfire in the future, Vukodlak being quite ambitious on his own as well."
+ podintroductions.157.desc:0 "Lady Shaagra, as your control over Bohemia grows, you have learned an interesting information. Vukodlak, a Tzimisce even older than you, was active in Prague recently until his fall into [Concept('torpor','торпор')|E] after a titanic battle against some unknown assailants.\nVukodlak is a sadistic and arrogant madman but you can't deny his powers and skills. If you were to rescue him, he might be amicable to an alliance at least for a while. His strength would be a great asset to help ease your return into power... but it could also backfire in the future, Vukodlak being quite ambitious on his own as well."
  podintroductions.157.a:0 "There is honor among monsters."
  podintroductions.157.b:0 "...That sounds like a very bad idea."
 
  podintroductions.158.t:0 "Your Story So Far"
- podintroductions.158.desc:0 "Fearsome Jamal, the mere mention of your name strikes fear in the hearts of the unbelievers trying to invade your land. But this isn't enough.\nAs the leader of the Banu Haqim warrior caste you are a respected and powerful figure within the [clan|E], a fact that you must use to make sure that your brethren don't stray from the true path. Too many competing factions, and a deluded Eldest, try to impede your unique vision for the Banu Haqim's future. Use your supreme prowess and leadership capabilities to good effect and their futile efforts will certainly fail."
+ podintroductions.158.desc:0 "Fearsome Jamal, the mere mention of your name strikes fear in the hearts of the unbelievers trying to invade your land. But this isn't enough.\nAs the leader of the Banu Haqim warrior caste you are a respected and powerful figure within the [Concept('clan','клан')|E], a fact that you must use to make sure that your brethren don't stray from the true path. Too many competing factions, and a deluded Eldest, try to impede your unique vision for the Banu Haqim's future. Use your supreme prowess and leadership capabilities to good effect and their futile efforts will certainly fail."
  podintroductions.158.a:0 "By diplomacy or war, we will triumph."
  jamal_intro_tooltip:0 "As Jamal, you can use a character interaction to start a duel with any non Banu Haqim character"
 
@@ -706,7 +706,7 @@
  POD_jamal_interaction_desc:0 "You will start a duel with this character. Another one will bite the dust."
 
  podintroductions.159.t:0 "Your Story So Far"
- podintroductions.159.desc:0 "Lord Dastur, the current chaos in the Banu Haqim [clan|E] is giving your Lost Tribe some hope of a better tomorrow. Still, you are worried.\nYou have discovered that agents of an apocalyptic cult named the 'Manus Nigrum' have infiltrated your realm for some unknown, but probably nefarious, purpose. You could launch a wide purge of supposed agents of this cult but this could appear as a paranoid and reckless move. The other option would be to keep a more lenient watch on them, but that could also allow them to gain more and more influence."
+ podintroductions.159.desc:0 "Lord Dastur, the current chaos in the Banu Haqim [Concept('clan','клан')|E] is giving your Lost Tribe some hope of a better tomorrow. Still, you are worried.\nYou have discovered that agents of an apocalyptic cult named the 'Manus Nigrum' have infiltrated your realm for some unknown, but probably nefarious, purpose. You could launch a wide purge of supposed agents of this cult but this could appear as a paranoid and reckless move. The other option would be to keep a more lenient watch on them, but that could also allow them to gain more and more influence."
  podintroductions.159.a:0 "Let's cut off this 'Black Hand'"
  podintroductions.159.b:0 "They are no threat..yet."
 
@@ -722,7 +722,7 @@
  fatima_decision_effect_tooltip:0 "Alamut sends its regards... and rewards."
  
  podintroductions.161.t:0 "Your Story So Far"
- podintroductions.161.desc:0 "Wise Al-Ashrad, the Banu Haqim are in turmoil. The factionalism within your [clan|E] has reached a boiling point and you know that this is the moment some dark forces waited to try to seize control of the [clan|E]. You will have to be strong.\nThankfully, you are prepared. You are a blood sorcerer beyond compare and your knowledge of the occult will certainly come in handy in the troubled times ahead. Cultivate this strength, study your enemy then strike decisively. Only you can protect the Banu Haqim from the terror lurking within."
+ podintroductions.161.desc:0 "Wise Al-Ashrad, the Banu Haqim are in turmoil. The factionalism within your [Concept('clan','клан')|E] has reached a boiling point and you know that this is the moment some dark forces waited to try to seize control of the [Concept('clan','клан')|E]. You will have to be strong.\nThankfully, you are prepared. You are a blood sorcerer beyond compare and your knowledge of the occult will certainly come in handy in the troubled times ahead. Cultivate this strength, study your enemy then strike decisively. Only you can protect the Banu Haqim from the terror lurking within."
  podintroductions.161.a:0 "Careful planning will ensure victory"
  alashrad_intro_tooltip:0 "As Al-Ashrad, you have a special decision allowing you to improve your learning every ten years."
 
@@ -735,7 +735,7 @@
  broken_alamut_modifier_desc:0 "Your claim as Eldest of Alamut is extremely weak. Nobody respects you and your control over the situation deteriorate by the night."
 
  podintroductions.162.t:0 "Your Story So Far"
- podintroductions.162.desc:0 "Lady Nakurtum, the situation is dire. The Banu Haqim have not accepted your takeover as Eldest. The [clan|E] lies fractured.\nYou control Alamut itself but not much more, the other elders paying lip service to your authority. The situation drifts closer to civil war by the night. Perhaps it is unavoidable at this point.\nIf you want to salvage your position, you will have to strike quickly and decisively for the Children of Haqim don't respect weakness."
+ podintroductions.162.desc:0 "Lady Nakurtum, the situation is dire. The Banu Haqim have not accepted your takeover as Eldest. The [Concept('clan','клан')|E] lies fractured.\nYou control Alamut itself but not much more, the other elders paying lip service to your authority. The situation drifts closer to civil war by the night. Perhaps it is unavoidable at this point.\nIf you want to salvage your position, you will have to strike quickly and decisively for the Children of Haqim don't respect weakness."
  podintroductions.162.a:0 "I am Haqim's Regent!"
  nakurtum_intro_tooltip:0 "As Nakurtum, you have two special decisions that allow you to get rid of your starting negative modifiers."
 
@@ -753,7 +753,7 @@
  nakurtum_control_decision_confirm:0 "I stand tall"
  
  podintroductions.163.t:0 "Your Story So Far"
- podintroductions.163.desc:0 "Lord Ahmed, you have participated in the creation of the Diet of Olives hoping for lasting peace in the area, but you still have some reservations. Perhaps you will have to find another way, one that might force you more into action.\nSadly, your faith has isolated you from the rest of the [clan|E]. As such, you might have to rely on finding promising prospects and introduce them to your unique philosophy. This will be a long task but for peace in the Holy Land? It's worth it."
+ podintroductions.163.desc:0 "Lord Ahmed, you have participated in the creation of the Diet of Olives hoping for lasting peace in the area, but you still have some reservations. Perhaps you will have to find another way, one that might force you more into action.\nSadly, your faith has isolated you from the rest of the [Concept('clan','клан')|E]. As such, you might have to rely on finding promising prospects and introduce them to your unique philosophy. This will be a long task but for peace in the Holy Land? It's worth it."
  podintroductions.163.a:0 "The most important tasks of all"
  ahmed_intro_tooltip:0 "As Ahmed, you will always succeed in the teaching faith part of your childer's education as long as you stay on the Via Christi."
 
@@ -761,14 +761,14 @@
  POD_education_events.100.ahmed:0 "As Ahmed, you can use this option to make sure that your childe follows your religion. It will be available only if you stay on Via Christi."
 
  podintroductions.164.t:0 "Your Story So Far"
- podintroductions.164.desc:0 "Lord Thetmes, you have made considerable progress recently. The Banu Haqim are more divided than ever, meaning that your Web of Knives can wield much more influence than before. Still, there is much work to be done before the [clan|E] is ready for your Master's return.\nTake notice of the other factions around you and crush them swiftly. You can't let another Elder take over the Banu Haqim. Once Alamut is fully secured by your brethren, you can be sure that the Black Shepherd will reward you handsomely for are you not his most trusted servant?"
+ podintroductions.164.desc:0 "Lord Thetmes, you have made considerable progress recently. The Banu Haqim are more divided than ever, meaning that your Web of Knives can wield much more influence than before. Still, there is much work to be done before the [Concept('clan','клан')|E] is ready for your Master's return.\nTake notice of the other factions around you and crush them swiftly. You can't let another Elder take over the Banu Haqim. Once Alamut is fully secured by your brethren, you can be sure that the Black Shepherd will reward you handsomely for are you not his most trusted servant?"
  podintroductions.164.a:0 "The promised age will come."
  thetmes_intro_tooltip:0 "As Thetmes, you gain additional rewards if you complete the 'A God Dreams' objective."
 
  pod1230objectives.24.customthetmes:0 "As Thetmes, you gain additional rewards. Ur Shulgi blesses you for your continued service."
 
  podintroductions.165.t:0 "Your Story So Far"
- podintroductions.165.desc:0 "Fearsome Morrow, your fame among [clan|E] Gangrel is growing by the night, thanks to your recent victory against the Ventrue of the Black Cross and the Tzimisce Voivodate. But this is merely a beginning.\nIf you want to truly unify the [clan|E], you will have to continue in this direction, proving that you are indeed the most powerful warleader. A tool that you are already famous for is your habit of showing up uninvited into potential foes' courts and making a show of force before leaving. This tactic has served you well in the past and could continue to do so."
+ podintroductions.165.desc:0 "Fearsome Morrow, your fame among [Concept('clan','клан')|E] Gangrel is growing by the night, thanks to your recent victory against the Ventrue of the Black Cross and the Tzimisce Voivodate. But this is merely a beginning.\nIf you want to truly unify the [Concept('clan','клан')|E], you will have to continue in this direction, proving that you are indeed the most powerful warleader. A tool that you are already famous for is your habit of showing up uninvited into potential foes' courts and making a show of force before leaving. This tactic has served you well in the past and could continue to do so."
  podintroductions.165.a:0 "The age of the beast is coming."
  morrow_intro_tooltip:0 "As Morrow, you have a special character interaction on landed rulers to scare them with a show of force."
 
@@ -779,7 +779,7 @@
  POD_morrow_interaction_desc:0 "Scare this ruler by a sudden appearance at their court."
 
  podintroductions.166.t:0 "Your Story So Far"
- podintroductions.166.desc:0 "Lord Viktor, your mistress Baba Yaga entrusted you with her realm as she recovers from the terrible battle against her [Sire|E]. You won't disappoint.\nThe rise of Christianity and the Eastern hordes are proving to be a great concern and you must quickly secure your surroundings so that the Grandmother can sleep in peace. Take also notice of Durga Syn to your West, a long time opponent to Baba Yaga.\nIf you manage to deal with all those threats, there is no doubt in your mind that the Grandmother will be pleased and reward you accordingly..."
+ podintroductions.166.desc:0 "Lord Viktor, your mistress Baba Yaga entrusted you with her realm as she recovers from the terrible battle against her [Concept('Sire','Отец')|E]. You won't disappoint.\nThe rise of Christianity and the Eastern hordes are proving to be a great concern and you must quickly secure your surroundings so that the Grandmother can sleep in peace. Take also notice of Durga Syn to your West, a long time opponent to Baba Yaga.\nIf you manage to deal with all those threats, there is no doubt in your mind that the Grandmother will be pleased and reward you accordingly..."
  podintroductions.166.a:0 "Sleep well, Grandmother. I'm watching."
  viktor_intro_tooltip:0 "As Viktor, you get additional personal rewards if you achieve the 'Caring Grandmother' objective."
 
@@ -791,13 +791,13 @@
  brunhilde_intro_tooltip:0 "As Brunhilde, you will have several events in the coming months that you allow you to usurp the Midgard title."
  
  PODcanon_chars.34.t:0 "Faith and Power"
- PODcanon_chars.34.desc:0 "You have now made your ambition clear to the other denizens of Midgard : you must replace Werter as leader soon. It has sparked some debate among your brethren but the initial support is high, especially among those who still want to fight against Christianity.\nWerter himself isn't really surprised by your move but has urged you to reconsider your position. He is the one chosen by Odin himself after all, and going against the All-father's will might be even worse than falling to the White God."
+ PODcanon_chars.34.desc:0 "You have now made your ambition clear to the other denizens of Midgard: you must replace Werter as leader soon. It has sparked some debate among your brethren but the initial support is high, especially among those who still want to fight against Christianity.\nWerter himself isn't really surprised by your move but has urged you to reconsider your position. He is the one chosen by Odin himself after all, and going against the All-father's will might be even worse than falling to the White God."
  PODcanon_chars.34.a:0 "Odin will understand."
  brunhilde_exit_tooltip:0 "You give up on your plan to get control of Midgard."
  PODcanon_chars.34.b:0 "...he has a point."
 
  PODcanon_chars.35.t:0 "Traditions and Power"
- PODcanon_chars.35.desc:0 "One strong opponent to your takeover has emerged : Karl the Blue of the Finnish Free State. This valiant Einherjar is a staunch traditionalist and disapproves of your action on the same grounds as Werter did : Odin didn't choose you and perhaps even this ending of the Norse faith is your destiny.\nThere is no way to change his mind at this stage, you have to either accept his hostility or give up on your plan altogether."
+ PODcanon_chars.35.desc:0 "One strong opponent to your takeover has emerged: Karl the Blue of the Finnish Free State. This valiant Einherjar is a staunch traditionalist and disapproves of your action on the same grounds as Werter did: Odin didn't choose you and perhaps even this ending of the Norse faith is your destiny.\nThere is no way to change his mind at this stage, you have to either accept his hostility or give up on your plan altogether."
  PODcanon_chars.35.a:0 "I forge my own destiny."
  PODcanon_chars.35.b:0 "...he has a point."
 
@@ -849,14 +849,14 @@
  red_thor_empty_modifier_desc:0 "Your warriors are on a mercenary mission, severely weakening your hold on your realm."
 
  PODcanon_chars.37.t:0 "The Red Thor Sails"
- PODcanon_chars.37.desc:0 "Your crew is ready to depart and many foreign [cainites|E] are eager to enlist them for their own petty wars. The choice you have to make is about the contract's difficulty. The harder it is, the better the reward, but the more of your warriors you will have to commit to the task. If they are overseas they obviously can't help you at home anymore."
+ PODcanon_chars.37.desc:0 "Your crew is ready to depart and many foreign [Concept('cainites','каиниты')|E] are eager to enlist them for their own petty wars. The choice you have to make is about the contract's difficulty. The harder it is, the better the reward, but the more of your warriors you will have to commit to the task. If they are overseas they obviously can't help you at home anymore."
  PODcanon_chars.37.a:0 "A small one will be fine."
  PODcanon_chars.37.b:0 "This one seems well balanced."
  PODcanon_chars.37.c:0 "The hardest one!"
  PODcanon_chars.37.d:0 "No sailing for us right now."
 
  podintroductions.171.t:0 "Your Story So Far"
- podintroductions.171.desc:0 "Lord Thomas, despite your best efforts, Constantinople has fallen to the Latins. But it is not over yet.\nYou are not the kind of man to give up and even if most of the Greek [cainites|E] have gone to exile, you will still fight. It's an uphill battle to be sure but you have decades of experience as the main enforcer in the very same city. You will make unlife for the Latins' [cainites|E] hell, then strike and finish them once and for all!"
+ podintroductions.171.desc:0 "Lord Thomas, despite your best efforts, Constantinople has fallen to the Latins. But it is not over yet.\nYou are not the kind of man to give up and even if most of the Greek [Concept('cainites','каиниты')|E] have gone to exile, you will still fight. It's an uphill battle to be sure but you have decades of experience as the main enforcer in the very same city. You will make unlife for the Latins' [Concept('cainites','каиниты')|E] hell, then strike and finish them once and for all!"
  podintroductions.171.a:0 "The reckoning is coming."
  thomas_intro_tooltip:0 "As Thomas, you have a special character interaction against landed rulers where you can weaken them before a war."
 
@@ -872,7 +872,7 @@
  podintroductions.172.b:0 "His time has passed."
 
  podintroductions.173.t:0 "Your Story So Far"
- podintroductions.173.desc:0 "Lady Vasantasena, you are furious. In your years of wandering and preaching for freedom you never saw such an abomination as this 'House Tremere'. These mages are all oppressed under a tyrannical Council and, worse still, forced to endure the blood bond to the last one! This can't continue.\nLuckily, the Tremere clearly underestimate you and haven't really noticed your presence and influence yet. This is a great opportunity to break down this 'pyramid' from the inside. This will be your masterpiece and the whole [cainite|E] world will sprung with hope once you are done!"
+ podintroductions.173.desc:0 "Lady Vasantasena, you are furious. In your years of wandering and preaching for freedom you never saw such an abomination as this 'House Tremere'. These mages are all oppressed under a tyrannical Council and, worse still, forced to endure the blood bond to the last one! This can't continue.\nLuckily, the Tremere clearly underestimate you and haven't really noticed your presence and influence yet. This is a great opportunity to break down this 'pyramid' from the inside. This will be your masterpiece and the whole [Concept('cainite','каинит')|E] world will sprung with hope once you are done!"
  podintroductions.173.a:0 "Let's break their chains."
  vasantasena_intro_tooltip:0 "As Vasantasena, you have access to a special decision that will make you create your own faith if successful."
 
@@ -904,7 +904,7 @@
  louhi_high_shades_tt:0 "Three groups of Shades are added to your available men at arms."
 
  podintroductions.175.t:0 "Your Story So Far"
- podintroductions.175.desc:0 "Lord Anatole, you have been doing God's work by humiliating the Parisian [cainite|E] Heresy but your task isn't completed yet. These Southern lands are full of heretics hiding behind or among the Cathars.\nYou have obtained the right to operate within the region and you are confident that you will succeed in time. The roots of the corruption might run deeper than you first thought however, and you might need to remove some Princes from their offices to uncover them. After that... God wiil choose your next path, as He always does."
+ podintroductions.175.desc:0 "Lord Anatole, you have been doing God's work by humiliating the Parisian [Concept('cainite','каинит')|E] Heresy but your task isn't completed yet. These Southern lands are full of heretics hiding behind or among the Cathars.\nYou have obtained the right to operate within the region and you are confident that you will succeed in time. The roots of the corruption might run deeper than you first thought however, and you might need to remove some Princes from their offices to uncover them. After that... God wiil choose your next path, as He always does."
  podintroductions.175.a:0 "Let us begin."
  anatole_intro_tooltip:0 "As Anatole, you have a minor decision available to understand God's will for you."
 
@@ -936,7 +936,7 @@
  broken_talmahera_modifier_desc:0 "Your claim as the Del'Roh of the Tal'mahe'Ra is extremely weak. Nobody respects you and your control over the situation deteriorate by the night."
 
  podintroductions.176.t:0 "Your Story So Far"
- podintroductions.176.desc:0 "Lord Elimelech, after your fair share of confused wandering, you have ended up in this strange death cult named the Tal'mahe'Ra. They have their own weird ideas from what you have seen so far like worshiping the [antediluvians|E].\nYour Biblical age and considerable personal power made you feared and dreaded by this cult and they have taken to just following you, and your orders, around. Maybe this is the purpose for your unlife that you missed so far? If you decide to stick around though, you will have to consolidate the weak hold you have over them quickly."
+ podintroductions.176.desc:0 "Lord Elimelech, after your fair share of confused wandering, you have ended up in this strange death cult named the Tal'mahe'Ra. They have their own weird ideas from what you have seen so far like worshiping the [Concept('antediluvians','допотопные')|E].\nYour Biblical age and considerable personal power made you feared and dreaded by this cult and they have taken to just following you, and your orders, around. Maybe this is the purpose for your unlife that you missed so far? If you decide to stick around though, you will have to consolidate the weak hold you have over them quickly."
  podintroductions.176.a:0 "A strange development."
  elimelech_intro_tooltip:0 "As Elimelech, you have two special decisions that allow you to get rid of your starting negative modifiers."
 
@@ -983,7 +983,7 @@
  PODcanon_chars.42.d:0 "I won't choose right now."
 
  podintroductions.178.t:0 "Your Story So Far"
- podintroductions.178.desc:0 "Lady Adolana, as the [cainite|E] Heresy crumbles all around you, you have used this chaos to get a seat on the See of Nod despite your young age. You know how to make the best of a bad situation after all.\nSince your arrival here, you have been very suspicious of the current Archbishop of Nod who seems oddly unconcerned by the critical state of your Church. Perhaps it is time for a change of leadership? You could press the matter at the next session of the Curia, making sure that everybody knows of your ambition... which can be a double edged sword, obviously."
+ podintroductions.178.desc:0 "Lady Adolana, as the [Concept('cainite','каинит')|E] Heresy crumbles all around you, you have used this chaos to get a seat on the See of Nod despite your young age. You know how to make the best of a bad situation after all.\nSince your arrival here, you have been very suspicious of the current Archbishop of Nod who seems oddly unconcerned by the critical state of your Church. Perhaps it is time for a change of leadership? You could press the matter at the next session of the Curia, making sure that everybody knows of your ambition... which can be a double edged sword, obviously."
  podintroductions.178.a:0 "We need change!"
  podintroductions.178.b:0 "The Archbishop has my full support."
 
@@ -1005,12 +1005,12 @@
  josef_custom_decision:0 "Shaagra must be dead"
 
  podintroductions.180.t:0 "Your Story So Far"
- podintroductions.180.desc:0 "Lord Tarique, Mecca and Medina are securely in pious [ashirra|E] hands in no small part thanks to you. But you work isn't over yet.\nOther important cities like Cairo, Damascus and Cordoba are still in conflict or outright controlled by enemies of the faith. This can't be allowed to continue! You know your duty and won't stop until the [ashirra|E] protects the faithful from Arabia to Iberia."
+ podintroductions.180.desc:0 "Lord Tarique, Mecca and Medina are securely in pious [Concept('ashirra','аширра')|E] hands in no small part thanks to you. But you work isn't over yet.\nOther important cities like Cairo, Damascus and Cordoba are still in conflict or outright controlled by enemies of the faith. This can't be allowed to continue! You know your duty and won't stop until the [Concept('ashirra','аширра')|E] protects the faithful from Arabia to Iberia."
  podintroductions.180.a:0 "The Hajj will triumph."
  tarique_intro_tooltip:0 "As Tarique, you have a special objective to secure Islam's most significant cities."
 
  tarique_guardian_modifier:0 "Guardian of the Holy Cities"
- tarique_guardian_modifier_desc:0 "The Guardian's prestige and piety is known far and wide. One of the rare [cainites|E] truly dedicated to a cause."
+ tarique_guardian_modifier_desc:0 "The Guardian's prestige and piety is known far and wide. One of the rare [Concept('cainites','каиниты')|E] truly dedicated to a cause."
 
  tarique_decision:0 "Guardian of the Holy Cities"
  tarique_decision_tooltip:1 "Your duty is clear."
@@ -1076,7 +1076,7 @@
  building_architect_workshop_01_desc:1 "Zelios has his own workshop here, preparing his plans and apprentices for some masterful constructions yet to come."
 
  podintroductions.186.t:0 "Your Story So Far"
- podintroductions.186.desc:0 "Lord Chandraputra, you know your duty.\nWar is in your blood and your [Sire|E] entrusted you with the prestigious, but difficult, task of finally securing India for the Ravnos. The accursed asuratizayya are strong opponents and the other Indian [cainites|E] aren't helping by not submitting to your righteous leadership. No matter, you will triumph sooner or later.\nYou are the steadfast regent and warmaster of your [clan|E]. Ready your armies, rally your troops, and march to victory!"
+ podintroductions.186.desc:0 "Lord Chandraputra, you know your duty.\nWar is in your blood and your [Concept('Sire','Отец')|E] entrusted you with the prestigious, but difficult, task of finally securing India for the Ravnos. The accursed asuratizayya are strong opponents and the other Indian [Concept('cainites','каиниты')|E] aren't helping by not submitting to your righteous leadership. No matter, you will triumph sooner or later.\nYou are the steadfast regent and warmaster of your [Concept('clan','клан')|E]. Ready your armies, rally your troops, and march to victory!"
  podintroductions.186.a:0 "Our destiny will be written in blood."
  chandraputra_intro_tooltip:0 "As Chandraputra, you have access to a special minor decision to improve your skills in warfare."
 
@@ -1145,25 +1145,25 @@
  PODcanon_chars.47.a:0 "I choose well thirty years ago."
 
  podintroductions.190.t:0 "Your Story So Far"
- podintroductions.190.desc:0 "Lady Marcia, you have been hard at work completing your treatise on [clan|E] Ravnos and its numerous castes. You might have to focus your attention elsewhere for a while though.\nDuring your travels, you noticed the fall into decadence of a large part of the [clan|E], a far cry from the noble virtues your [Sire|E] and yourself uphold. If you act quickly enough, you might offer a rally point and an example to follow for the younger generations, perhaps saving your [clan|E]'s legacy in the process. You might even write a chapter or two about it in your Magnus Opum if you got the time."
+ podintroductions.190.desc:0 "Lady Marcia, you have been hard at work completing your treatise on [Concept('clan','клан')|E] Ravnos and its numerous castes. You might have to focus your attention elsewhere for a while though.\nDuring your travels, you noticed the fall into decadence of a large part of the [Concept('clan','клан')|E], a far cry from the noble virtues your [Concept('Sire','Отец')|E] and yourself uphold. If you act quickly enough, you might offer a rally point and an example to follow for the younger generations, perhaps saving your [Concept('clan','клан')|E]'s legacy in the process. You might even write a chapter or two about it in your Magnus Opum if you got the time."
  podintroductions.190.a:0 "Time to act."
  marcia_intro_tooltip:0 "As Marcia, you have a special decision to focus on your writings for a while, giving you a choice between various lifestyles bonus."
  
- marcia_decision:0 "Of [clan|E] Ravnos"
+ marcia_decision:0 "Of [Concept('clan','клан')|E] Ravnos"
  marcia_decision_tooltip:1 "No time for writer's block."
- marcia_decision_desc:0 "You have not forgotten your never ending work on referencing every lineage of [clan|E] Ravnos. You should continue."
+ marcia_decision_desc:0 "You have not forgotten your never ending work on referencing every lineage of [Concept('clan','клан')|E] Ravnos. You should continue."
  marcia_decision_confirm:0 "What subject will it be..."
  marcia_decision_effect_tooltip:0 "You will be presented with a choice of topics to focus on."
  
  PODcanon_chars.48.t:0 "Of Clan Ravnos"
- PODcanon_chars.48.desc:0 "As you continue your overview of the various lineages of your [clan|E], you learn more and more about their specialties. As with any good book, you are pretty sure that you will end up learning as much making it than your readers will by reading it."
+ PODcanon_chars.48.desc:0 "As you continue your overview of the various lineages of your [Concept('clan','клан')|E], you learn more and more about their specialties. As with any good book, you are pretty sure that you will end up learning as much making it than your readers will by reading it."
  PODcanon_chars.48.a:0 "The Phaedymites, proud knights."
  PODcanon_chars.48.b:0 "The Phuri Dae, devious tricksters."
  PODcanon_chars.48.c:0 "The Alexandrites, shrewd merchants."
  PODcanon_chars.48.d:0 "The Bashirites, clever zealots."
  
  podintroductions.191.t:0 "Your Story So Far"
- podintroductions.191.desc:0 "Lady Zoe, after losing both your city and your [Sire|E] in quick succession, you were almost lost to despair and anger. Thankfully, Anatole took you under his wing and you both grew to be better persons for it.\nYou clearly feel indebted to him and so you have accepted to follow in his latest quest in Southern France. Perhaps it is here that you will finally find a purpose for your unlife? Many people lost as much as you did because of the Albigensian Crusade, and you could help them rebuild. You are sure that Anatole will agree on this plan, and would probably even help you again if he could."
+ podintroductions.191.desc:0 "Lady Zoe, after losing both your city and your [Concept('Sire','Отец')|E] in quick succession, you were almost lost to despair and anger. Thankfully, Anatole took you under his wing and you both grew to be better persons for it.\nYou clearly feel indebted to him and so you have accepted to follow in his latest quest in Southern France. Perhaps it is here that you will finally find a purpose for your unlife? Many people lost as much as you did because of the Albigensian Crusade, and you could help them rebuild. You are sure that Anatole will agree on this plan, and would probably even help you again if he could."
  podintroductions.191.a:0 "Perhaps a new home?"
  zoe_intro_tooltip:0 "As Zoe, you have a special character interaction with Anatole to ask for his help."
  
@@ -1186,7 +1186,7 @@
  podintroductions.192.b:0 "I will stay true to my word."
 
  podintroductions.193.t:0 "Your Story So Far"
- podintroductions.193.desc:0 "Lady Kemintiri, you have just awakened from a long [torpor|E] after a gruesome fight against one of Set's cursed spawn. You endured, as you always do.\nSet took everything from you, except the one thing he truly wanted, and you will return the favor. His pitiful lineage of cronies and sycophants must be purged. True, you are alone against the full might of a whole [clan|E] but... there is a very real reason why they already fear you. And you will give them more in the future."
+ podintroductions.193.desc:0 "Lady Kemintiri, you have just awakened from a long [Concept('torpor','торпор')|E] after a gruesome fight against one of Set's cursed spawn. You endured, as you always do.\nSet took everything from you, except the one thing he truly wanted, and you will return the favor. His pitiful lineage of cronies and sycophants must be purged. True, you are alone against the full might of a whole [Concept('clan','клан')|E] but... there is a very real reason why they already fear you. And you will give them more in the future."
  podintroductions.193.a:0 "I hope you are watching."
  kemintiri_intro_tooltip:0 "As Kemintiri, you have a special objective to destroy Set's cult."
 
@@ -1203,7 +1203,7 @@
 
  andreas_decision:0 "The Caravan Master"
  andreas_decision_tooltip:1 "Let's review the possibilities."
- andreas_decision_desc:0 "As a renowned caravan master, you always have opportunities to accept various propositions from wandering [cainites|E]."
+ andreas_decision_desc:0 "As a renowned caravan master, you always have opportunities to accept various propositions from wandering [Concept('cainites','каиниты')|E]."
  andreas_decision_confirm:0 "Let's talk business."
  andreas_decision_effect_tooltip:0 "You will be offered various job offers."
 
@@ -1211,26 +1211,26 @@
  andreas_away_modifier_desc:0 "Andreas is guiding one of his caravans, making him move a lot and not really focus on his realm for the moment."
 
  PODcanon_chars.50.t:0 "The Caravan Master"
- PODcanon_chars.50.desc:0 "You always have many offers to work as a guide thanks to your stellar reputation. As usual, you will also use this time away from your realm to spread Set's word far and wide but a question remains : How long will the journey be? There are limits on how much time you can spend abroad without your realm suffering."
+ PODcanon_chars.50.desc:0 "You always have many offers to work as a guide thanks to your stellar reputation. As usual, you will also use this time away from your realm to spread Set's word far and wide but a question remains: How long will the journey be? There are limits on how much time you can spend abroad without your realm suffering."
  PODcanon_chars.50.a:0 "A small trip will be nice."
  PODcanon_chars.50.b:0 "I can manage that one."
  PODcanon_chars.50.c:0 "The realm will be fine without me."
  PODcanon_chars.50.d:0 "I'm needed here."
 
  podintroductions.195.t:0 "Your Story So Far"
- podintroductions.195.desc:0 "Lord Nakhthorheb, you are Set's regent until he deems the world worthy enough to come back. But you have to work with the other Hierophants.\nThis august assembly wisely defers to you most of the time, but they still offer useful advice when needed. As Set's foremost guardian, it is your duty to protect the [clan|E] and bring the unbelievers into the fold. A long process to be sure, but you have eternity on your side."
+ podintroductions.195.desc:0 "Lord Nakhthorheb, you are Set's regent until he deems the world worthy enough to come back. But you have to work with the other Hierophants.\nThis august assembly wisely defers to you most of the time, but they still offer useful advice when needed. As Set's foremost guardian, it is your duty to protect the [Concept('clan','клан')|E] and bring the unbelievers into the fold. A long process to be sure, but you have eternity on your side."
  podintroductions.195.a:0 "Glory to the Master of Duat."
  nakh_intro_tooltip:0 "As Nakhthorheb, you can use a minor decision to call for a gathering of the Hierophants as long as Seterpenre and Maatkare are alive."
 
  nakh_decision:0 "Gathering of the Hierophants"
  nakh_decision_tooltip:1 "We have to talk."
- nakh_decision_desc:0 "As the main leader of the Setite [clan|E], you still have to hear other opinions about the situation. Your fellow Hierophants are the most trustworthy for such a role."
+ nakh_decision_desc:0 "As the main leader of the Setite [Concept('clan','клан')|E], you still have to hear other opinions about the situation. Your fellow Hierophants are the most trustworthy for such a role."
  nakh_decision_confirm:0 "On tonight's agenda..."
  nakh_decision_effect_tooltip:0 "You will be offered a course of action for the next five years."
  nakh_custom_decision:0 "This decision will be available as long as Seterpenre or Maatkare are alive."
 
  seterpenre_advice_modifier:0 "Seterpenre's Advice"
- seterpenre_advice_modifier_desc:0 "The forward thinking Seterpenre always wants to focus on foreign relation and the image of your [clan|E]."
+ seterpenre_advice_modifier_desc:0 "The forward thinking Seterpenre always wants to focus on foreign relation and the image of your [Concept('clan','клан')|E]."
 
  maatkare_advice_modifier:0 "Maatkare's Advice"
  maatkare_advice_modifier_desc:0 "The patient Maatkare wants to focus on your own land, making Egypt the greatest place on Earth, worthy of Set's return."
@@ -1252,7 +1252,7 @@
  sarrasine_running_modifier_desc:0 "Khay'Tall's followers are still hunting you. This certainly complicates matters."
 
  podintroductions.197.t:0 "Your Story So Far"
- podintroductions.197.desc:0 "Lord Sarrasine, things didn't really go as planned. Your [diablerie|E] of Khay'Tall failed and you had to make an hasty escape to save your skin from his angry followers. Time to bounce back.\nYou have joined the remnants of the 4th Crusade as you sense weakness in them, they could be brought down from the inside and the Greeks are too busy retaking Constantinople to jump at the opportunity. As such, you might be able to carve your own fief in Anatolia before anybody else can react. It's only then that you will be strong enough to avoid your pursuers for good."
+ podintroductions.197.desc:0 "Lord Sarrasine, things didn't really go as planned. Your [Concept('diablerie','диаблери')|E] of Khay'Tall failed and you had to make an hasty escape to save your skin from his angry followers. Time to bounce back.\nYou have joined the remnants of the 4th Crusade as you sense weakness in them, they could be brought down from the inside and the Greeks are too busy retaking Constantinople to jump at the opportunity. As such, you might be able to carve your own fief in Anatolia before anybody else can react. It's only then that you will be strong enough to avoid your pursuers for good."
  podintroductions.197.a:0 "Time to shed my skin."
  sarrasine_intro_tooltip:0 "As Sarrasine, you start with a negative modifier than you can get rid off with a special decision."
 
@@ -1267,9 +1267,9 @@
  podintroductions.198.b:0 "Nah, she is a lost cause."
 
  podintroductions.199.t:0 "Your Story So Far"
- podintroductions.199.desc:0 "Lord Jean-Baptiste, unlife is looking quite good. Your start was rocky, but you bounced back nicely and are now one of France's most successful 'night entrepreneur'.\nYou provide quality entertainment for the highest sphere of mortal, and [cainite|E], politicians. There is money to be made, and if the saying about money and power is true, you are about to become very powerful very soon."
+ podintroductions.199.desc:0 "Lord Jean-Baptiste, unlife is looking quite good. Your start was rocky, but you bounced back nicely and are now one of France's most successful 'night entrepreneur'.\nYou provide quality entertainment for the highest sphere of mortal, and [Concept('cainite','каинит')|E], politicians. There is money to be made, and if the saying about money and power is true, you are about to become very powerful very soon."
  podintroductions.199.a:0 "Time to expand my activities!"
- jean_intro_tooltip:0 "As Jean-Baptiste, you have access to an unique building chain : Influencing the Night Life."
+ jean_intro_tooltip:0 "As Jean-Baptiste, you have access to an unique building chain: Influencing the Night Life."
 
  building_type_influence_night_life_01:0 "Influencing the Night Life"
  building_type_influence_night_life_01_desc:1 "#F Jean-Baptiste's accute business sense can be put to good use in this province.#!"
@@ -1281,7 +1281,7 @@
  building_influence_night_life_03_desc:1 "Where no one allegedly go, but still are mysteriously full every night anyway."
 
  podintroductions.200.t:0 "Your Story So Far"
- podintroductions.200.desc:0 "Lord Goratrix, despite all you have done for the House, Tremere himself exiled you to France. Clearly a symptom of a greater disease eating at your [clan|E].\nAnd this isn't this babbling buffoon Etrius that will uncover the truth! That idiot is still trying to undermine you, even as he has been made Regent of House Tremere. No matter, you will use the fertile political situation in France to create your own power base, then go back triumphantly to the heartlands of the Tremere. You will save your House, even from itself if need be."
+ podintroductions.200.desc:0 "Lord Goratrix, despite all you have done for the House, Tremere himself exiled you to France. Clearly a symptom of a greater disease eating at your [Concept('clan','клан')|E].\nAnd this isn't this babbling buffoon Etrius that will uncover the truth! That idiot is still trying to undermine you, even as he has been made Regent of House Tremere. No matter, you will use the fertile political situation in France to create your own power base, then go back triumphantly to the heartlands of the Tremere. You will save your House, even from itself if need be."
  podintroductions.200.a:0 "I will be back."
  goratrix_intro_tooltip:0 "As Goratrix, you will suffer from Etrius' shenanigans as long as he is alive."
 
@@ -1310,7 +1310,7 @@
  jervais_intro_tooltip:0 "As Jervais, you have a special objective to get rid of Deverra and the Ferals of Livonia for a reward."
 
  jervais_rising_modifier:0 "The Rising Star"
- jervais_rising_modifier_desc:0 "Jervais' ascendancy in the Tremere's Pyramid continues at a quick pace, impressing the [clan|E] as a whole."
+ jervais_rising_modifier_desc:0 "Jervais' ascendancy in the Tremere's Pyramid continues at a quick pace, impressing the [Concept('clan','клан')|E] as a whole."
  
  jervais_decision:0 "The Bane of Livonia"
  jervais_decision_tooltip:1 "I must end this schism before it spreads."
@@ -1323,13 +1323,13 @@
  rutor_running_modifier_desc:0 "The Tremere want you dead for your betrayal and are hunting you. This certainly complicates matters."
 
  podintroductions.203.t:0 "Your Story So Far"
- podintroductions.203.desc:0 "Lord Rutor, you have enough of being ordered around, be it by Tzimisce or Tremere. You won't bow to anyone ever again.\nYou escaped House Tremere by running towards Denmark, a fortuitous choice seeing as the region is lacking a strong centralized vampiric power. Perhaps it could be you? If you were to act quickly and decisively enough to secure a solid powerbase, your [clan|E] would have to give up on its chase. Then, it would finally be your turn to give orders, a very tantalizing prospect indeed."
+ podintroductions.203.desc:0 "Lord Rutor, you have enough of being ordered around, be it by Tzimisce or Tremere. You won't bow to anyone ever again.\nYou escaped House Tremere by running towards Denmark, a fortuitous choice seeing as the region is lacking a strong centralized vampiric power. Perhaps it could be you? If you were to act quickly and decisively enough to secure a solid powerbase, your [Concept('clan','клан')|E] would have to give up on its chase. Then, it would finally be your turn to give orders, a very tantalizing prospect indeed."
  podintroductions.203.a:0 "A new beginning?"
  rutor_intro_tooltip:0 "As Rutor, you have a special decision to get rid of your starting modifier."
 
  rutor_decision:0 "End of the Line"
  rutor_decision_tooltip:1 "I'm tired of running."
- rutor_decision_desc:0 "[clan|E] Tremere will never stop hunting you, unless you are strong enough to make them pause. Time to become your own master."
+ rutor_decision_desc:0 "[Concept('clan','клан')|E] Tremere will never stop hunting you, unless you are strong enough to make them pause. Time to become your own master."
  rutor_decision_confirm:0 "Who is running now?"
 
  faithful_xavier_modifier:0 "Loyal Councilor"
@@ -1339,27 +1339,27 @@
  unfaithful_xavier_modifier_desc:0 "No one doubt Xavier's commitment to the cause... in public at least."
 
  podintroductions.204.t:0 "Your Story So Far"
- podintroductions.204.desc:0 "Lord Xavier, you have arrived in Northern Africa determined to uncover the mysteries of this continent for the glory of your [clan|E]. At least, that's the official version.\nIn truth, the rest of the council wasn't really happy with your decision to leave them while the heartland itself is besieged. But you gave them no choice, as you are tired of the petty intrigues at home and long for something greater. You will have to carefully balance your official duties to the Tremere with your relentless quest for knowledge and secrets."
- podintroductions.204.a:0 "For the glory of [clan|E] Tremere!"
- podintroductions.204.b:0 "For the glory of [clan|E] Tremere..."
+ podintroductions.204.desc:0 "Lord Xavier, you have arrived in Northern Africa determined to uncover the mysteries of this continent for the glory of your [Concept('clan','клан')|E]. At least, that's the official version.\nIn truth, the rest of the council wasn't really happy with your decision to leave them while the heartland itself is besieged. But you gave them no choice, as you are tired of the petty intrigues at home and long for something greater. You will have to carefully balance your official duties to the Tremere with your relentless quest for knowledge and secrets."
+ podintroductions.204.a:0 "For the glory of [Concept('clan','клан')|E] Tremere!"
+ podintroductions.204.b:0 "For the glory of [Concept('clan','клан')|E] Tremere..."
 
- therimna_secrets5_modifier:0 "Secrets Left : 5"
- therimna_secrets5_modifier_desc:0 "You are selling everything you know about [clan|E] Tremere to the highest bidder. That gives you some friends... and some enemies."
+ therimna_secrets5_modifier:0 "Secrets Left: 5"
+ therimna_secrets5_modifier_desc:0 "You are selling everything you know about [Concept('clan','клан')|E] Tremere to the highest bidder. That gives you some friends... and some enemies."
 
- therimna_secrets4_modifier:0 "Secrets Left : 4"
- therimna_secrets4_modifier_desc:0 "You are selling everything you know about [clan|E] Tremere to the highest bidder. That gives you some friends... and some enemies."
+ therimna_secrets4_modifier:0 "Secrets Left: 4"
+ therimna_secrets4_modifier_desc:0 "You are selling everything you know about [Concept('clan','клан')|E] Tremere to the highest bidder. That gives you some friends... and some enemies."
 
- therimna_secrets3_modifier:0 "Secrets Left : 3"
- therimna_secrets3_modifier_desc:0 "You are selling everything you know about [clan|E] Tremere to the highest bidder. That gives you some friends... and some enemies."
+ therimna_secrets3_modifier:0 "Secrets Left: 3"
+ therimna_secrets3_modifier_desc:0 "You are selling everything you know about [Concept('clan','клан')|E] Tremere to the highest bidder. That gives you some friends... and some enemies."
 
- therimna_secrets2_modifier:0 "Secrets Left : 2"
- therimna_secrets2_modifier_desc:0 "You are selling everything you know about [clan|E] Tremere to the highest bidder. That gives you some friends... and some enemies."
+ therimna_secrets2_modifier:0 "Secrets Left: 2"
+ therimna_secrets2_modifier_desc:0 "You are selling everything you know about [Concept('clan','клан')|E] Tremere to the highest bidder. That gives you some friends... and some enemies."
 
- therimna_secrets1_modifier:0 "Secret Left : 1"
- therimna_secrets1_modifier_desc:0 "You are selling everything you know about [clan|E] Tremere to the highest bidder. That gives you some friends... and some enemies."
+ therimna_secrets1_modifier:0 "Secret Left: 1"
+ therimna_secrets1_modifier_desc:0 "You are selling everything you know about [Concept('clan','клан')|E] Tremere to the highest bidder. That gives you some friends... and some enemies."
 
  podintroductions.205.t:0 "Your Story So Far"
- podintroductions.205.desc:0 "Lady Therimna, the Tremere are done for, you know it. And you won't sink with that ship.\nYou escaped your [clan|E] with many interesting secrets about blood sorcery under your belt, secrets that many would pay dearly to acquire. These could be your lifeline, as you are too important to kill as long as you hold them... but you are also a much more important target to take down for the Tremere themselves.\nYou will have to strike a balance between selling your secrets for some always important gold and keeping them for the leeway they give you."
+ podintroductions.205.desc:0 "Lady Therimna, the Tremere are done for, you know it. And you won't sink with that ship.\nYou escaped your [Concept('clan','клан')|E] with many interesting secrets about blood sorcery under your belt, secrets that many would pay dearly to acquire. These could be your lifeline, as you are too important to kill as long as you hold them... but you are also a much more important target to take down for the Tremere themselves.\nYou will have to strike a balance between selling your secrets for some always important gold and keeping them for the leeway they give you."
  podintroductions.205.a:0 "My survival is all that matters."
  therimna_intro_tooltip:0 "As Therimna, you start with 5 secrets that you can sell via a minor decision, changing the balance of malus and bonus they give you."
 
@@ -1393,7 +1393,7 @@
  angry_fays_marconius_modifier_desc:0 "You are learning a lot by experimenting on the mysterious Fae... but you are also making powerful enemies."
 
  podintroductions.207.t:0 "Your Story So Far"
- podintroductions.207.desc:0 "Lord Marconius, you have been hard at work trying to understand your new condition as one of the Kiasyd. Obviously, the best course of action was to 'experiment' on some captured Fae, since you seem to share some similarities with them. They aren't happy with that though.\nYou also know that [clan|E] Lasombra is looking for any sign of weakness to target you, and this schism with your allies might be what they were waiting for. You might need to be careful in balancing your thirst for knowledge and your precarious alliance with the Fae."
+ podintroductions.207.desc:0 "Lord Marconius, you have been hard at work trying to understand your new condition as one of the Kiasyd. Obviously, the best course of action was to 'experiment' on some captured Fae, since you seem to share some similarities with them. They aren't happy with that though.\nYou also know that [Concept('clan','клан')|E] Lasombra is looking for any sign of weakness to target you, and this schism with your allies might be what they were waiting for. You might need to be careful in balancing your thirst for knowledge and your precarious alliance with the Fae."
  podintroductions.207.a:0 "A puzzling situation."
  marconius_intro_tooltip:0 "As Marconius, you have access to a decision to balance your relationship with the Fae."
 
@@ -1407,7 +1407,7 @@
  happy_fays_marconius_modifier_desc:0 "The Fae consider you a useful, if fickle, ally and prefer you on the throne than another vampire for the moment."
 
  PODcanon_chars.54.t:0 "You and the Fae"
- PODcanon_chars.54.desc:0 "Your realm is teaming with Fae, thanks to its historical significance among their kind, and you must deal with it. They make for useful allies, especially against potential retaliation from your clansmates, but they also make for very interesting test subjects to learn more about your condition as a Fae-touched [cainite|E]. Decisions, decisions..."
+ PODcanon_chars.54.desc:0 "Your realm is teaming with Fae, thanks to its historical significance among their kind, and you must deal with it. They make for useful allies, especially against potential retaliation from your clansmates, but they also make for very interesting test subjects to learn more about your condition as a Fae-touched [Concept('cainite','каинит')|E]. Decisions, decisions..."
  PODcanon_chars.54.a:0 "Sadly, I need them as allies right now."
  PODcanon_chars.54.b:0 "I will keep my distances for a while."
  PODcanon_chars.54.c:0 "So much to learn!"
@@ -1439,20 +1439,20 @@
  building_magda_purge_02_desc:1 "The savage law of the strongest has taken back control here. Civilization is crashing down under the claws and fangs of Magda's vengeful horde.\nThis building needs less than 6 development in the country to be constructed and stay enabled."
  
  podintroductions.210.t:0 "Your Story So Far"
- podintroductions.210.desc:0 "Lady Catubodua, you have finally left France after quite a long time spent here. You finally found what you searched and it is time to move on.\nBrujah himself trusted you to keep his [clan|E] on the right path but the task is immense. You will have to make yourself known to the rest of your brethren, and grow you already impressive legend. Only then will they accept that you are the true inheritor of Brujah's legacy."
+ podintroductions.210.desc:0 "Lady Catubodua, you have finally left France after quite a long time spent here. You finally found what you searched and it is time to move on.\nBrujah himself trusted you to keep his [Concept('clan','клан')|E] on the right path but the task is immense. You will have to make yourself known to the rest of your brethren, and grow you already impressive legend. Only then will they accept that you are the true inheritor of Brujah's legacy."
  podintroductions.210.a:0 "There is much to do."
- catubodua_intro_tooltip:0 "As Catubodua, you can't [Embrace|E] since she swore to never do it again after her first childe.\nYou also have access to a special decision to grow your legend and impress the rest of the clan."
+ catubodua_intro_tooltip:0 "As Catubodua, you can't [Concept('Embrace','объятие')|E] since she swore to never do it again after her first childe.\nYou also have access to a special decision to grow your legend and impress the rest of the clan."
 
  catu_heir_of_brujah_modifier:0 "Heiress of Brujah"
- catu_heir_of_brujah_modifier_desc:0 "Finally, [clan|E] Brujah is healing. An heiress worthy of Brujah and Troile has risen up and will lead the Warriors-Scholars to a new, bright, age."
+ catu_heir_of_brujah_modifier_desc:0 "Finally, [Concept('clan','клан')|E] Brujah is healing. An heiress worthy of Brujah and Troile has risen up and will lead the Warriors-Scholars to a new, bright, age."
 
  catubodua_decision:0 "The Brujah Renewal"
  catubodua_decision_tooltip:1 "I can't fail him."
- catubodua_decision_desc:0 "The proud Brujah won't accept a new ruler unless he, or she, represents both the Warrior and the Scholar aspect of their [clan|E] to the perfection. All the while being a successful ruler as well, obviously."
+ catubodua_decision_desc:0 "The proud Brujah won't accept a new ruler unless he, or she, represents both the Warrior and the Scholar aspect of their [Concept('clan','клан')|E] to the perfection. All the while being a successful ruler as well, obviously."
  catubodua_decision_confirm:0 "A new age begins."
 
  podintroductions.211.t:0 "Your Story So Far"
- podintroductions.211.desc:0 "Lady Deverra, your people are in grave danger. As the Christian followers become more and more aggressive, [clan|E] Tremere has sent a coterie led by Jervais to kill you and the other Telyavelic.\nLuckily, you found Qarakh and are now under the protection of the Ferals of Livonia. Still, you will not rest easy until this Tremere's attack is dealt with, and the frontiers of the Feral secure. The safety of you and yours is at this price."
+ podintroductions.211.desc:0 "Lady Deverra, your people are in grave danger. As the Christian followers become more and more aggressive, [Concept('clan','клан')|E] Tremere has sent a coterie led by Jervais to kill you and the other Telyavelic.\nLuckily, you found Qarakh and are now under the protection of the Ferals of Livonia. Still, you will not rest easy until this Tremere's attack is dealt with, and the frontiers of the Feral secure. The safety of you and yours is at this price."
  podintroductions.211.a:0 "Telyavel blesses us."
  deverra_intro_tooltip:0 "As Deverra, you have a special objective to get rid of Jervais and expand the Ferals' frontiers East."
 
@@ -1468,7 +1468,7 @@
  deverra_custom_decision3:0 "You or your liege completely controls the duchy of Prussia."
 
  podintroductions.212.t:0 "Your Story So Far"
- podintroductions.212.desc:0 "Lady Dyanang, your Court stands strong. Thanks to your alliance with the Ferocious People of the jungles of Dai Viet and Angkor, your eastern borders are secure. The West is now requiring your attention.\nIndia has always been a difficult region to tame, with heretics of the Infinite Thunder Court and the so called [cainites|E] causing issues. Perhaps your eastern friends could lend their claws and fangs to help you pacify this unruly region?"
+ podintroductions.212.desc:0 "Lady Dyanang, your Court stands strong. Thanks to your alliance with the Ferocious People of the jungles of Dai Viet and Angkor, your eastern borders are secure. The West is now requiring your attention.\nIndia has always been a difficult region to tame, with heretics of the Infinite Thunder Court and the so called [Concept('cainites','каиниты')|E] causing issues. Perhaps your eastern friends could lend their claws and fangs to help you pacify this unruly region?"
  podintroductions.212.a:0 "The Scarlet Phoenix flies high."
  dyanang_intro_tooltip:0 "As Dyanang, you have a special minor decision to recruit Werewolves Men at Arms."
 
@@ -1516,7 +1516,7 @@
  vittoria_illness_modifier_desc:0 "Vittoria has been cursed by a powerful witch. While her mind is still strong, her body is slowly withering away."
 
  podintroductions.215.t:0 "Your Story So Far"
- podintroductions.215.desc:0 "Fearless Vittoria, you have started your Holy duty in Italy but you have hidden a terrible truth to your brethren : you have been cursed.\nA powerful witch that you fought years ago was able to escape you, but not before using her foul magic. Since then, your body has been slowly withering away, and you might be called back by the Lord way before you finish your task if this continues.\nThankfully, a solution recently presented itself. Thanks to some intelligence from the Oculi Dei, you learned that the witch has taken residence in Marseilles. If you could make a 'detour' by this city and purge it of its vampires and sorcerers residents... surely your curse would end."
+ podintroductions.215.desc:0 "Fearless Vittoria, you have started your Holy duty in Italy but you have hidden a terrible truth to your brethren: you have been cursed.\nA powerful witch that you fought years ago was able to escape you, but not before using her foul magic. Since then, your body has been slowly withering away, and you might be called back by the Lord way before you finish your task if this continues.\nThankfully, a solution recently presented itself. Thanks to some intelligence from the Oculi Dei, you learned that the witch has taken residence in Marseilles. If you could make a 'detour' by this city and purge it of its vampires and sorcerers residents... surely your curse would end."
  podintroductions.215.a:0 "A petty curse will not end me!"
  vittoria_intro_tooltip:0 "As Vittoria, you have a special decision to get rid of the curse by taking Marseilles."
 
@@ -1529,7 +1529,7 @@
  rodrigue_paranoia_modifier_desc:0 "There are here to get you. Everyone could be in their thrall."
 
  podintroductions.216.t:0 "Your Story So Far"
- podintroductions.216.desc:0 "Lord Rodrigue, you were the first one to confront a vampire and live, and you are still the only one knowing the truth : they are everywhere.\nEven the Church and their so called 'Shadow Inquisition' is probably full of their servants. You must trust absolutely no one except yourself. A great reckoning is coming and God will show you the way to salvation.\nIf this world is to burned to be saved, you will stand atop the ashes."
+ podintroductions.216.desc:0 "Lord Rodrigue, you were the first one to confront a vampire and live, and you are still the only one knowing the truth: they are everywhere.\nEven the Church and their so called 'Shadow Inquisition' is probably full of their servants. You must trust absolutely no one except yourself. A great reckoning is coming and God will show you the way to salvation.\nIf this world is to burned to be saved, you will stand atop the ashes."
  podintroductions.216.a:0 "I will never be fooled again."
  
  roque_paranoia_modifier:0 "Roque's Scheming"
@@ -1540,16 +1540,16 @@
  podintroductions.217.a:0 "A most godly task."
  maria_intro_tooltip:0 "As Maria, you have a special decision to compile account on Teresa's life. If you finish before Maria's death, the Sister will get a sizable boost of renown."
 
- teresa_life_4_modifier:0 "Teresa's Canonization Process : 4"
+ teresa_life_4_modifier:0 "Teresa's Canonization Process: 4"
  teresa_life_4_modifier_desc:0 "You are working on bringing the truth about Mother Teresa's miracles to the ears of Rome.\nOnce this modifier reaches 5, the process will be done."
 
- teresa_life_3_modifier:0 "Teresa's Canonization Process : 3"
+ teresa_life_3_modifier:0 "Teresa's Canonization Process: 3"
  teresa_life_3_modifier_desc:0 "You are working on bringing the truth about Mother Teresa's miracles to the ears of Rome.\nOnce this modifier reaches 5, the process will be done."
 
- teresa_life_2_modifier:0 "Teresa's Canonization Process : 2"
+ teresa_life_2_modifier:0 "Teresa's Canonization Process: 2"
  teresa_life_2_modifier_desc:0 "You are working on bringing the truth about Mother Teresa's miracles to the ears of Rome.\nOnce this modifier reaches 5, the process will be done."
 
- teresa_life_1_modifier:0 "Teresa's Canonization Process : 1"
+ teresa_life_1_modifier:0 "Teresa's Canonization Process: 1"
  teresa_life_1_modifier_desc:0 "You are working on bringing the truth about Mother Teresa's miracles to the ears of Rome.\nOnce this modifier reaches 5, the process will be done."
 
  maria_decision:0 "Mother Teresa's Canonization"

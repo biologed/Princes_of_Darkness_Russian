@@ -40,11 +40,11 @@
  POD_diablerize.200.option.b.tt.defender_wins:0 "I hide!"
  POD_diablerize.200.option.b.failure:0 "[attacker.GetFirstName] wins"
  POD_diablerize.200.option.b.tt.attacker_wins:0 "[attacker.GetFirstName] catches me."
- POD_diablerize.200.option.c.tt:0 "An intrigue duel will determine if you can use obfuscate [discipline|E] to hide from [attacker.GetFirstName]'s attack."
+ POD_diablerize.200.option.c.tt:0 "An intrigue duel will determine if you can use obfuscate [Concept('discipline','дисциплина')|E] to hide from [attacker.GetFirstName]'s attack."
  POD_diablerize.200.option.c:0 "Entrance!"
  POD_diablerize.200.option.c.tt.beast:0 "#R How could [attacker.GetSheHe] attack us?! We are so wonderful!#"
  POD_diablerize.200.option.c.desc:0 "A personality conflict"
- POD_diablerize.200.option.c.tt:0 "A diplomacy duel will determine if you can use the presence [discipline|E] to get [attacker.GetFirstName] to stop [attacker.GetHerHis] attack."
+ POD_diablerize.200.option.c.tt:0 "A diplomacy duel will determine if you can use the presence [Concept('discipline','дисциплина')|E] to get [attacker.GetFirstName] to stop [attacker.GetHerHis] attack."
  POD_diablerize.200.option.c.tt.entrancement:0 "I am entrancing."
  POD_diablerize.200.option.c.tt.majesty:0 "I am majestic!"
  POD_diablerize.200.option.c.success:0 "[defender.GetFirstName] wins"
@@ -54,7 +54,7 @@
  POD_diablerize.200.option.d:0 "Mesmerize!"
  POD_diablerize.200.option.d.desc:0 "A dominance conflict"
  POD_diablerize.200.option.d.tt.beast:0 "#R [attacker.GetSheHe|U] will obey!#"
- POD_diablerize.200.option.d.tt:0 "A stewardship duel will determine if you can use the [discipline|E] of dominate order [attacker.GetFirstName] to stop [attacker.GetHerHis] attack."
+ POD_diablerize.200.option.d.tt:0 "A stewardship duel will determine if you can use the [Concept('discipline','дисциплина')|E] of dominate order [attacker.GetFirstName] to stop [attacker.GetHerHis] attack."
  POD_diablerize.200.option.d.tt.mesmerize:0 "I can mesmerize lesser minds."
  POD_diablerize.200.option.d.tt.rationalize:0 "I can make thralls rationalize my orders as their own."
  POD_diablerize.200.option.d.tt.submerged_directive:0 "I can submerge directives to turn the weak into my pawns."
@@ -65,7 +65,7 @@
  POD_diablerize.200.option.d.tt.attacker_wins:0 "[attacker.GetFirstName]'s will is too strong to dominate."
  POD_diablerize.200.option.e:0 "Shapeshift!"
  POD_diablerize.200.option.e.tt.beast:0 "#R [attacker.GetSheHe] can't eat what [attacker.GetSheHe] can't hold!#"
- POD_diablerize.200.option.e.tt:0 "A learning duel will determine if you can use your [discipline|E] to shapeshift into an incorporeal form and evade [attacker.GetFirstName]'s trap."
+ POD_diablerize.200.option.e.tt:0 "A learning duel will determine if you can use your [Concept('discipline','дисциплина')|E] to shapeshift into an incorporeal form and evade [attacker.GetFirstName]'s trap."
  POD_diablerize.200.option.f:0 "Attack!"
  POD_diablerize.200.option.f.tt.beast:0 "#R We shall take [attacker.GetHerHis] blood!#"
  POD_diablerize.200.option.f.tt:0 "A prowess duel will determine if [attacker.GetFirstName] or you win in combat."
@@ -106,25 +106,25 @@
  POD_diablerize.350.desc.success:0 "Looking into [defender.GetHerHis] eyes, I am just amazed about how wonderful [defender.GetFirstName] is. I really like them. I could never do anything to ever hurt [defender.GetHerHim]. Why am I here in the first place if not to bask in [defender.GetHerHis] glory?"
  POD_diablerize.350.desc.failure:0 "[defender.GetFirstName] tried to beguile me, but my mind is not so weak to fall for such a naked ploy. I will have [defender.GetHerHis] blood!"
  POD_diablerize.350.option.a.success:0 "I love you so much."
- POD_diablerize.350.option.a.success.tt:0 "While I am entranced by [defender.GetFirstName], I will not be able to attempt to [diablerize|E] [defender.GetHerHim] again."
+ POD_diablerize.350.option.a.success.tt:0 "While I am entranced by [defender.GetFirstName], I will not be able to attempt to [Concept('diablerize','диаблеризовать')|E] [defender.GetHerHim] again."
  POD_diablerize.350.option.a.failure:0 "Your charms do not impress me."
 
 #375 entrance duel notify defender
  POD_diablerize.375.t:0 "Entrancing the Enemy"
- POD_diablerize.375.desc.success:0 "With my [discipline|E] of presence, I have entranced [attacker.GetFirstName]. While beguiled, [attacker.GetSheHe] is no threat to me."
+ POD_diablerize.375.desc.success:0 "With my [Concept('discipline','дисциплина')|E] of presence, I have entranced [attacker.GetFirstName]. While beguiled, [attacker.GetSheHe] is no threat to me."
  POD_diablerize.375.desc.failure:0 "I try to catch the eye of [attacker.GetFirstName] and radiate my presence to [attacker.GetHerHim]to render them passive. With the speed and anger [attacker.GetSheHe] is approaching me, I seem to have failed."
  POD_diablerize.375.option.a.success:0 "Yes, thats it. I am the one you adore."
- POD_diablerize.375.option.a.success.tt:0 "While [attacker.GetFirstName] is entranced by me, [attacker.GetSheHe] can not attempt to [diablerize|E] me again."
+ POD_diablerize.375.option.a.success.tt:0 "While [attacker.GetFirstName] is entranced by me, [attacker.GetSheHe] can not attempt to [Concept('diablerize','диаблеризовать')|E] me again."
  POD_diablerize.375.option.a.failure:0 "Why won't [attacker.GetSheHe] love me!"
 
 # Dominate Duel
 
 #425 dominate duel notify defender 
  POD_diablerize.425.t:0 "Mesmerizing the Enemy"
- POD_diablerize.425.desc.success:0 "With my [discipline|E] of dominate, I bend [attacker.GetHerHis] will like a potter bends clay. First I compel [attacker.GetHerHim] to 'Stop!' Now for some more interesting commands."
+ POD_diablerize.425.desc.success:0 "With my [Concept('discipline','дисциплина')|E] of dominate, I bend [attacker.GetHerHis] will like a potter bends clay. First I compel [attacker.GetHerHim] to 'Stop!' Now for some more interesting commands."
  POD_diablerize.425.desc.failure:0 "I reach out to [attacker.GetHerHis] mind. It is like a fortress that I can not penetrate. [attacker.GetSheHe|U] is deaf to my repeated commands."
  POD_diablerize.425.option.a:0 "Leave this place. Do not return."
- POD_diablerize.425.option.a.tt:0 "[attacker.GetFirstName]'s [diablerie|E] scheme against you ends."
+ POD_diablerize.425.option.a.tt:0 "[attacker.GetFirstName]'s [Concept('diablerie','диаблери')|E] scheme against you ends."
  POD_diablerize.425.option.b:0 "You will do an imporant favor for me."
  POD_diablerize.425.option.b.tt:0 "I will get a hook on [attacker.GetFirstName]" 
  POD_diablerize.425.option.e:0 "You are now my prisoner." 
@@ -161,7 +161,7 @@
  
 #475 shapeshift duel notify defender
  POD_diablerize.475.t:0 "Shifting Form"
- POD_diablerize.475.desc.success:0 "I focus my [discipline|E] and transform into a intangible form. It is complete before [attacker.GetFirstName] can reach me. I then easily escape."
+ POD_diablerize.475.desc.success:0 "I focus my [Concept('discipline','дисциплина')|E] and transform into a intangible form. It is complete before [attacker.GetFirstName] can reach me. I then easily escape."
  POD_diablerize.475.desc.failure:0 "I start the process to transform int an intangible form. I can't do it fast enough before [attacker.GetFirstName] is on top of me."
  POD_diablerize.475.option.a.success:0 "This won't be the last time this trick saves me."
  POD_diablerize.475.option.a.failure:0 "Flesh against flesh it is!"
@@ -183,14 +183,14 @@
  POD_diablerize.510.desc:0 "[attacker.GetFirstName] would not commit to the attack and retreats."
  POD_diablerize.510.option.a:0 "Good riddance"
 
-#515 notify [diablerist|E] of prowess duel result
+#515 notify [Concept('diablerist','диаблерист')|E] of prowess duel result
  POD_diablerize.515.t:0 "Diablerie: To the Victor, the Spoils!"
  POD_diablerize.515.desc.success:0 "The battle is brutal but also quick. I am victorious and [defender.GetFirstName] lies at my feet."
  POD_diablerize.515.desc.failure:0 "I thought I was ready, but [defender.GetFirstName]'s combat prowess is too much to overcome. I have been defeated."
  POD_diablerize.515.option.a.success:0 "Now what to do with my prize?"
- POD_diablerize.515.option.a.failure:0 "I begin to slip into [torpor|E], wondering what my fate will be." 
+ POD_diablerize.515.option.a.failure:0 "I begin to slip into [Concept('torpor','торпор')|E], wondering what my fate will be."
 
-#525 notify defender of prowess duel result, pick fate of defeated [diablerist|E]
+#525 notify defender of prowess duel result, pick fate of defeated [Concept('diablerist','диаблерист')|E]
  POD_diablerize.525.t:0 "The Fight!"
  POD_diablerize.525.desc.success:0 "[attacker.GetFirstName]'s combat prowess is too much to overcome. I have been defeated."
  POD_diablerize.525.desc.failure:0 "The battle is brutal but also quick. I am victorious and [attacker.GetFirstName] lies at my feet."
@@ -198,7 +198,7 @@
  POD_diablerize.525.option.b.failure:0 "[attacker.GetSheHe] is now my prisoner." #Stake & Imprison
  POD_diablerize.525.option.c.failure:0 "I will just walk away, victory is sweet enough." #Release
  POD_diablerize.525.option.d.failure:0 "I shall have [attacker.GetHerHis] heart's blood!" #Diaberlize! 
- POD_diablerize.525.option.e.success:0 "I begin to slip into [torpor|E], wondering what my fate will be."
+ POD_diablerize.525.option.e.success:0 "I begin to slip into [Concept('torpor','торпор')|E], wondering what my fate will be."
 
 #550 defeated attacker notified of victorious defender decision
  POD_diablerize.550.t:0 "Diablerie: Defeat"
@@ -214,10 +214,10 @@
  POD_diablerize.600.option.a:0 "Devour [victim.GetTitledFirstName]'s soul!"
  POD_diablerize.600.option.a.tt:0 "[victim.GetTitledFirstName] is destroyed!"
  POD_diablerize.600.option.a.tt.beast:0 "#R YES! DO IT!#"
- POD_diablerize.600.option.b:0 "Do not [diablerize|E] [victim.GetFirstName]."
+ POD_diablerize.600.option.b:0 "Do not [Concept('diablerize','диаблеризовать')|E] [victim.GetFirstName]."
  POD_diablerize.600.option.b.tt.beast:0 "#R Don't let them go! [victim.GetSheHe] doesn't deserve the blood! We do!#"
  
- # Attacker decides not to [diablerize|E]
+ # Attacker decides not to [Concept('diablerize','диаблеризовать')|E]
  POD_diablerize.650.t:0 "Mercy?"
  POD_diablerize.650.desc:0 "I was defeated. I was sure [attacker.GetFirstName] would destroy me. Strangely, [attacker.GetSheHe] just walked away."
  POD_diablerize.650.option.a:0 "Was it some last shred of humanity?"
@@ -232,7 +232,7 @@
  POD_diablerize.800.option.b:0 "Give in, and let [unconquered_soul.GetFirstName] take over." 
  
  POD_diablerize.4000.t:0 "Diablerie Scheme Foiled!"
- POD_diablerize.4000.desc:0 "Through some twist of fate, my scheme to [diablerize|E] [defender.GetFirstName] has failed."
+ POD_diablerize.4000.desc:0 "Through some twist of fate, my scheme to [Concept('diablerize','диаблеризовать')|E] [defender.GetFirstName] has failed."
  POD_diablerize.4000.option.a:0 "Curses! One night [defender.GetFirstName], your blood will be mine!"
  
  POD_diablerize.250.option.a.tt.defender_wins:0 "The defender escaped!"
@@ -246,11 +246,11 @@
  POD_diablerize.250.option.b.tt.beast:0 "#R Don't let them run away! The blood calls!#"
  POD_diablerize.250.option.a.toast:0 "Escaped!"
 
- POD_diablerize.1000.t:0 "Diablerie : The Duel"
+ POD_diablerize.1000.t:0 "Diablerie: The Duel"
  POD_diablerize.1000.desc:0 "No more games, it is time to end this once and for all. Only one of you will walk away from this.\nOne of you seeks power while the other seeks to protect their soul but there are no worthy cause in Мир Тьмы. The strongest, or more cunning, will win."
  POD_diablerize.1000.option.a:0 "No turning back now."
 
- POD_diablerize.601.t:0 "Diablerie : Victory!"
+ POD_diablerize.601.t:0 "Diablerie: Victory!"
  POD_diablerize.601.desc:0 "You defeated the foolish vampire that tried to eat your very soul. The punishment must be up to the gravity of this attempted action."
  POD_diablerize.601.option.a:0 "I will be merciful and kill you quickly."
 

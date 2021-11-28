@@ -171,7 +171,7 @@
  holy_site_palermo_effect_name:0 "From [holy_site|E] #weak ($holy_site_palermo_name$)#!" 
  ashirra_hostility_doctrine_name:0 "Ashirra"
  ashirra_hostility_doctrine_desc:0 ""
- vampirecainite_hostility_doctrine_name:0 "[cainite|E] Heresy"
+ vampirecainite_hostility_doctrine_name:0 "[Concept('cainite','каинит')|E] Heresy"
  vampirecainite_hostility_doctrine_desc:0 ""
  codeoftremere_hostility_doctrine_name:0 "Code of Tremere"
  codeoftremere_hostility_doctrine_desc:0 ""

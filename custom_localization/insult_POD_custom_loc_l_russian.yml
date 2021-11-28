@@ -12,8 +12,8 @@
  POD_insult_assamite:0 "сарацины" #assassin
  POD_insult_brujah:0 "падшие" #zealot, rabble
  POD_insult_cappadocian:0 "похитители смерти" #corpse, stiff, necromancer
- POD_insult_lasombra_male:0 "крёстный" #magister, shadey character, shadow,
- POD_insult_lasombra_female:0 "крёстная" #magister, shadey character, shadow,
+ POD_insult_lasombra_male:0 "крестный" #magister, shadey character, shadow,
+ POD_insult_lasombra_female:0 "крестная" #magister, shadey character, shadow,
  POD_insult_malkavian_male:0 "авгур" #seer, lunatic, kook, cassandra, oracle, soothsayer, augur
  POD_insult_malkavian_female:0 "Кассандра" #seer, lunatic, kook, oracle, haruspex, soothsayer, augur
  POD_insult_nosferatu:0 "прокаженные" #prior, crawler, monster, sewer rat
@@ -32,7 +32,7 @@
  POD_insult_nagaraja:0 "каннибалы" #Flesh-Eater
  POD_insult_ramanga:0 "кукловоды" #puppeteer
  POD_insult_salubri:0 "циклопы" #unicorn, shepherd, cyclops, kinslayer
- POD_insult_ghoul:0 "траллы"
+ POD_insult_ghoul:0 "рабы"
  POD_insult_revenant:0 "полукровки"
  POD_insult_diablerist:0 "пожиратели душ"
  POD_insult_infernalist:0 "дьяволы"
@@ -127,8 +127,8 @@
  POD_insult_behavior_assamite:0 "сарацин" #assassin
  POD_insult_behavior_brujah:0 "падший" #zealot, rabble
  POD_insult_behavior_cappadocian:0 "похититель смерти" #corpse, stiff, necromancer
- POD_insult_behavior_lasombra_male:0 "крёстный" #magister, shadey character, shadow,
- POD_insult_behavior_lasombra_female:0 "крёстная" #magister, shadey character, shadow,
+ POD_insult_behavior_lasombra_male:0 "крестный" #magister, shadey character, shadow,
+ POD_insult_behavior_lasombra_female:0 "крестная" #magister, shadey character, shadow,
  POD_insult_behavior_malkavian_male:0 "авгур" #seer, lunatic, kook, cassandra, oracle, soothsayer, augur
  POD_insult_behavior_malkavian_female:0 "Кассандра" #seer, lunatic, kook, oracle, haruspex, soothsayer, augur
  POD_insult_behavior_nosferatu:0 "прокаженный" #prior, crawler, monster, sewer rat
@@ -147,7 +147,7 @@
  POD_insult_behavior_nagaraja:0 "каннибал" #Flesh-Eater
  POD_insult_behavior_ramanga:0 "кукловод" #puppeteer
  POD_insult_behavior_salubri:0 "циклоп" #unicorn, shepherd, cyclops, kinslayer
- POD_insult_behavior_ghoul:0 "тралл"
+ POD_insult_behavior_ghoul:0 "раб"
  POD_insult_behavior_revenant:0 "полукровка"
  POD_insult_behavior_diablerist:0 "пожиратель душ"
  POD_insult_behavior_infernalist:0 "дьявол"

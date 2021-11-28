@@ -1,6 +1,6 @@
 ﻿l_russian:
  # Szlachta Modifiers #
- szlachta_toughness_mult:0 "Szlachta [toughness|E]"
- szlachta_pursuit_add:0 "Szlachta [pursuit|E]"
- szlachta_damage_mult:0 "Szlachta [damage|E]"
- szlachta_screen_add:0 "Szlachta [screen|E]"
+ szlachta_toughness_mult:0 "Szlachta [Concept('toughness','стойкость')|E]"
+ szlachta_pursuit_add:0 "Szlachta [Concept('pursuit','преследование')|E]"
+ szlachta_damage_mult:0 "Szlachta [Concept('damage','урон')|E]"
+ szlachta_screen_add:0 "Szlachta [Concept('screen','защита')|E]"

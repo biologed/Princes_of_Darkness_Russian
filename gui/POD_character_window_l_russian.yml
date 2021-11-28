@@ -1,8 +1,8 @@
 ﻿l_russian:
- HERD:0 "Стая"
+ HERD:0 "Скот"
  GHOULS:0 "Гули"
  WRAITHS:0 "Призраки"
- MINIONS_tab:0 "Приспешники"
+ MINIONS_tab:0 "Прислужники"
  AGE_ANCIENT:0 "Это древний персонаж"
  AGE_PREHISTORY:0 "Этот персонаж существовал еще до начала истории"
  YOU_LOSE:0 "ВЫ ПРОИГРАЛИ"

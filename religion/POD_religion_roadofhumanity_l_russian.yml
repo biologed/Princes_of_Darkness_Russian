@@ -96,13 +96,13 @@
  eternalsenate_adj:0 "Eternal Senate"
  eternalsenate_adherent:0 "Senator"
  eternalsenate_adherent_plural:0 "Senator"
- eternalsenate_desc:0 "The Eternal Senate is a council of [cainites|E] modeled after the Roman Senate (albeit much smaller), to govern, legislate and rule over the Kindred. The Ventrue of Rome organized themselves as the mortals did, as a republic: the Eternal Senate of the Ventrue. In the senate, every Ventrue has the right of speech and voting power is irrespective of age or sex."
+ eternalsenate_desc:0 "The Eternal Senate is a council of [Concept('cainites','каиниты')|E] modeled after the Roman Senate (albeit much smaller), to govern, legislate and rule over the Kindred. The Ventrue of Rome organized themselves as the mortals did, as a republic: the Eternal Senate of the Ventrue. In the senate, every Ventrue has the right of speech and voting power is irrespective of age or sex."
  
  inconnu:0 "Inconnu"
  inconnu_adj:0 "Inconnu"
  inconnu_adherent:0 "Inconnu"
  inconnu_adherent_plural:0 "Inconnu"
- inconnu_desc:0 "The Inconnu is an extremely secretive sect of vampires. Virtually nothing is known for certain about them, but some of the most popular theories claim the group is a coalition of methuselahs that exists to manipulate both the Camarilla and Sabbat from behind the scenes, made up entirely of ancients who have forsaken the Jyhad in order to pursue Golconda, or a powerful cult tied to the [antediluvians|E]. Even the sect's age is disputed, with some believing it dates as far back as Rome."
+ inconnu_desc:0 "The Inconnu is an extremely secretive sect of vampires. Virtually nothing is known for certain about them, but some of the most popular theories claim the group is a coalition of methuselahs that exists to manipulate both the Camarilla and Sabbat from behind the scenes, made up entirely of ancients who have forsaken the Jyhad in order to pursue Golconda, or a powerful cult tied to the [Concept('antediluvians','допотопные')|E]. Even the sect's age is disputed, with some believing it dates as far back as Rome."
  
  holy_order_order_of_prodigals:0 "Order of Prodigals"
  holy_order_order_of_anima:0 "The Anima Order"
@@ -118,5 +118,5 @@
  amaranthans_adj:0 "Amaranthans"
  amaranthans_adherent:0 "Amaranthan"
  amaranthans_adherent_plural:0 "Amaranthans"
- amaranthans_desc:0 "A small group of [cainites|E] dedicated to hunting down diablerists. They use the name of the first victim of [diablerie|E] as a commitment to their task."
+ amaranthans_desc:0 "A small group of [Concept('cainites','каиниты')|E] dedicated to hunting down diablerists. They use the name of the first victim of [Concept('diablerie','диаблери')|E] as a commitment to their task."
 

@@ -1,9 +1,9 @@
 ﻿l_russian:
- POD_greater_draught_of_might_modifier:0 "Великий поток Могущества"
- POD_lesser_draught_of_might_modifier:0 "Слабый поток Могущества"
- POD_greater_draught_of_elegance_modifier:0 "Великий поток Силы"
- POD_lesser_draught_of_elegance_modifier:0 "Слабый поток Силы"
- POD_greater_draught_of_endurance_modifier:0 "Великий поток Выносливости"
- POD_lesser_draught_of_endurance_modifier:0 "Слабый поток Выносливости"
+ POD_greater_draught_of_might_modifier:0 "Большой глоток Могущества"
+ POD_lesser_draught_of_might_modifier:0 "Малый глоток Могущества"
+ POD_greater_draught_of_elegance_modifier:0 "Большой глоток Силы"
+ POD_lesser_draught_of_elegance_modifier:0 "Малый глоток Силы"
+ POD_greater_draught_of_endurance_modifier:0 "Большой глоток Выносливости"
+ POD_lesser_draught_of_endurance_modifier:0 "Малый глоток Выносливости"
  
 

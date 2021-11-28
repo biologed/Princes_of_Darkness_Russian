@@ -1,6 +1,6 @@
 ﻿l_russian:
 
- POD_vampire_blood_heal.100.t:0 "#BLOODRED Blood Heal!#"
+ POD_vampire_blood_heal.100.t:0 "#BLOODRED Исцеление кровью!#"
  POD_vampire_blood_heal.100.desc:0 "#BLOODRED The blood can supernaturally heal your wounds, but it risks rousing your hunger.#"
  POD_vampire_blood_heal.100.option.a:0 "Heal my wounds" 
  POD_vampire_blood_heal.100.option.a.tt.beast:0 "#BLOODRED We will need to get more blood.#"

@@ -6,7 +6,7 @@
  roadofkings_religion_adj:0 "Scion"
  roadofkings_religion_adherent:0 "Scion"
  roadofkings_religion_adherent_plural:0 "Scions"
- roadofkings_religion_desc:0 "Kindred who hold to noblesse oblige. A favorite of [clan|E] Ventrue."
+ roadofkings_religion_desc:0 "Kindred who hold to noblesse oblige. A favorite of [Concept('clan','клан')|E] Ventrue."
  roadofkings_high_god_name:0 "Power"
  roadofkings_high_god_name_possessive:0 "Power's"
  roadofkings_high_god_name_alternate:0 "The Power"
@@ -73,7 +73,7 @@
  viaequitum_adj:0 "Equitum"
  viaequitum_adherent:0 "Paladin"
  viaequitum_adherent_plural:0 "Paladins"
- viaequitum_desc:0 "Those who follow the Path of Chivalry believe that as superior beings, they are beholden to defend those lesser than them, both [cainite|E] and human. These Scions believe most strongly in the concepts of duty and honor."
+ viaequitum_desc:0 "Those who follow the Path of Chivalry believe that as superior beings, they are beholden to defend those lesser than them, both [Concept('cainite','каинит')|E] and human. These Scions believe most strongly in the concepts of duty and honor."
 
  viamercator:0 "Via Mercator"
  viamercator_adj:0 "Mercator"
@@ -109,7 +109,7 @@
  codexoflegacies_adj:0 "Legacy Codex"
  codexoflegacies_adherent:0 "Dreamer"
  codexoflegacies_adherent_plural:0 "Dreamers"
- codexoflegacies_desc:0 "The [cainites|E] of Constantinople didn't adhere to the six Traditions of Caine. Instead, the Brujah Tribonius created the Codex of Legacies, a collection of precepts that was meant to cement the rule of the Trinity and the three ruling clans: the Toreador, Tzimisce and Ventrue. A council of three Quaesitors — one from each of those three clans — supervised the codex and judged those who broke its tenets."
+ codexoflegacies_desc:0 "The [Concept('cainites','каиниты')|E] of Constantinople didn't adhere to the six Traditions of Caine. Instead, the Brujah Tribonius created the Codex of Legacies, a collection of precepts that was meant to cement the rule of the Trinity and the three ruling clans: the Toreador, Tzimisce and Ventrue. A council of three Quaesitors — one from each of those three clans — supervised the codex and judged those who broke its tenets."
  
  holy_order_scions_of_caine:0 "Scions of Caine"
  holy_order_scions_of_enoch:0 "Scions of Enoch"
@@ -126,7 +126,7 @@
  cleopatrans_adj:0 "Cleopatran"
  cleopatrans_adherent:0 "Cleopatran"
  cleopatrans_adherent_plural:0 "Cleopatrans"
- cleopatrans_desc:0 "This cult is a merging between the tale of Yima, this mythical Nosferatu apparently not affected by his [clan|E] curse, and Cleopatra, the beautiful Egyptian pharaoh. This fascination made the [clan|E] powerful, and many Princes were Cleopatrans until the Roman Empire's fall. The cult is as good as dead since then."
+ cleopatrans_desc:0 "This cult is a merging between the tale of Yima, this mythical Nosferatu apparently not affected by his [Concept('clan','клан')|E] curse, and Cleopatra, the beautiful Egyptian pharaoh. This fascination made the [Concept('clan','клан')|E] powerful, and many Princes were Cleopatrans until the Roman Empire's fall. The cult is as good as dead since then."
  
  path_of_carnal_desire:0 "Path of Carnal Desire"
  path_of_carnal_desire_adj:0 "Desire"

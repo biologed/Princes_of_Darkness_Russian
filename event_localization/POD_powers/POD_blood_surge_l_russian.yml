@@ -1,6 +1,6 @@
 ﻿l_russian:
 
- POD_vampire_blood_surge.100.t:0 "Blood Surge!"
+ POD_vampire_blood_surge.100.t:0 "Прилив крови!"
  POD_vampire_blood_surge.100.desc:0 "The blood can supernaturally boost your abilities, but it risks rousing your hunger."
  POD_vampire_blood_surge.100.option.a:0 "Lets Fight!" 
  POD_vampire_blood_surge.100.option.a.tt.beast:0 "#BLOODRED Yes! Killing time!#"
