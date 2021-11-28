@@ -1,4 +1,4 @@
-﻿l_english:
+﻿l_russian:
 
 POD_imprison.002.title:0 "Imprisonment: [targetdefender.GetFirstName]"
 POD_imprison.002.desc:0 "You are trying to imprison [targetdefender.GetFirstName], but he dares to resist you, what should you do?"

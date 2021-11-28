@@ -1,4 +1,4 @@
-﻿l_english:
+﻿l_russian:
  #Choleric: Potence
  lethal_body_perk_name:0 "Lethal Body"
  soaring_leap_perk_name:0 "Soaring Leap"
@@ -365,7 +365,7 @@
  advanceddaimoinon_perk_name:0 "Advanced Daimoinon"
  adramelechs_wrath_perk_name:0 "Adramelech's Wrath"
  adramelechs_wrath_perk_effect:0 "A powerful blast of hellfire and black lightning that can decimate any foe. But beware, as the explosion might take your life as well."
-  master_of_subversion_perk_name:0 "Master of Subversion"
+ master_of_subversion_perk_name:0 "Master of Subversion"
  lure_diabolik_perk_name:0 "Lure Diabolik"
  lure_diabolik_perk_effect:0 "Enhances the infernalist that joins your court through the Lure Infernalist decision"
  devils_hide_perk_name:0 "Devil's Hide"

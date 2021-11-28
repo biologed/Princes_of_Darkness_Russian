@@ -1,17 +1,17 @@
-﻿l_english:
+﻿l_russian:
 
- hunter_war_victory_desc:0 "You will lose prestige and crown authority, and will be pressured to abdicate!"
- hunter_war_white_peace_desc:0 "The hunter faction is disbanded."
- hunter_war_defeat_desc:0 "The hunter faction is disbanded and [attacker.GetShortUIName] is imprisoned. All rebelling [counties|E] have their control forcibly increased."
- hunter_war:0 "Inquisition Attack"
- HUNTER_WAR_NAME:0 "Inquisition Attack"
- declared_major_religious_war_flag_tt:1 "You may only attempt one major religious war per 50 years"
- major_religious_war_warning_desc:2 "\n\n#X You may only attempt one [holy_war|E] against a [kingdom|E]-tier [title|E] per 50 years#!"
+ hunter_war_victory_desc:0 "Вы потеряете престиж и королевство, и вас заставят отречься от престола!"
+ hunter_war_white_peace_desc:0 "Фракция охотников распущена."
+ hunter_war_defeat_desc:0 "Фракция охотников распущена, а [attacker.GetShortUIName] в темнице. Все мятежные [Concept('counties','графства')|E] принудительно увеличивают свой контроль."
+ hunter_war:0 "Вторжение инквизиции"
+ HUNTER_WAR_NAME:0 "Вторжение инквизиции"
+ declared_major_religious_war_flag_tt:1 "Вы можете развязать великую священную войну только один раз в 50 лет"
+ major_religious_war_warning_desc:2 "\n\n#X Раз в 50 лет можно развязать только одну [Concept('holy_war','священную войну')|E] против [Concept('title','титула')|E] уровня «[Concept('kingdom','королевства')|E]»#!"
 
 
  CB_ATTACKER_DYNASTY_SALUBRI:0 "[GetDynastyPerk( 'salubri_legacy_5' ).GetName]"
  CB_ATTACKER_DYNASTY_BANUHAQIM:0 "[GetDynastyPerk( 'banuhaqim_legacy_5' ).GetName]"
  
- UNDER_THE_BLACK_CROSS_TRUCE_NAME:0 "the Black Cross Invasion"
+ UNDER_THE_BLACK_CROSS_TRUCE_NAME:0 "вторжение Черного Креста"
  
  

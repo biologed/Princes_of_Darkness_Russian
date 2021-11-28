@@ -1,4 +1,4 @@
-﻿l_english:
+﻿l_russian:
 
  POD_education_events.1.t:0 "An Education"
  POD_education_events.1.desc:0 "Your new childe has taken [victim.GetHerHis] first tentative steps into the night. Now experienced enough to understand how to feed, it will soon be time to begin a formal education, which will be very important for [victim.GetHerHis] future, but also for your relationship. What will your approach be?"
@@ -209,11 +209,3 @@
  POD_education_events.25.t:0 "An Education : Ashen Cultist"
  POD_education_events.25.desc:0 "Your [clan|E] has a strong tradition of profiteering from cults. As such, it is easy enough for you to find the best teachers for your newest childe. In this learned environment, a new prophet of the night will be born. Hopefully a loyal one."
  POD_education_events.25.option.a:0 "Make them earn their salvation"
-
-
-
-
-
-
-
-                   

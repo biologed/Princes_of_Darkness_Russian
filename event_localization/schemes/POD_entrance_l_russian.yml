@@ -1,4 +1,4 @@
-﻿l_english:
+﻿l_russian:
 
  POD_entrance.100.t:0 "You are Being Entranced"
  POD_entrance.100.desc:0 "You like [schemer.GetTitledFirstName]. You really, really like [schemer.GetHerHim]."

@@ -1,24 +1,24 @@
-﻿l_english:
+﻿l_russian:
 
  ############################################################
  # Names
  ############################################################
 
  # Patrons
- dynn_powodz:0 "Powódź"
- dynn_powodz_motto:0 "Thou Soweth What Thou Reap" 
+ dynn_powodz:0 "Повудзь"
+ dynn_powodz_motto:0 "Что посеешь, то т пожнешь"
 
- dynn_pastelos:0 "The Black Moon"
- dynn_pastelos_motto:0 "The Black Sea is Mine"  
+ dynn_pastelos:0 "Черная Луна"
+ dynn_pastelos_motto:0 "Черное море - Мое"
  
- dynn_blackmoon:0 "Black Moon"
- dynn_blackmoon_motto:0 "The Black Sea is Mine"  
+ dynn_blackmoon:0 "Черная Луна"
+ dynn_blackmoon_motto:0 "Черное море - Мое"
  
- dynn_minceiri:0 "Mincéirí"
- dynn_minceiri_motto:0 "To Do and Suffer Great Things"  
+ dynn_minceiri:0 "Минсейри"
+ dynn_minceiri_motto:0 "To Do and Suffer Great Things"
  
  dynn_imperiosvs:0 "Fvria Imperiosa"
- dynn_imperiosvs_motto:0 "Si Vis Bellvm, Para Bellvm"  
+ dynn_imperiosvs_motto:0 "Si Vis Bellvm, Para Bellvm"
 
  dynn_petronia:0 "Petronia"
  dynn_petronia_motto:0 "" 
@@ -33,19 +33,19 @@
  dynn_uagemred_motto:0 "In our Final Grasp" 
  
  dynn_masterson:0 "Masterson"
- dynn_masterson_motto:0 "Ad Augusta Per Angusta"  
+ dynn_masterson_motto:0 "Ad Augusta Per Angusta"
  
  dynn_shadovie:0 "Shadovie"
- dynn_shadovie_motto:0 ""  
+ dynn_shadovie_motto:0 ""
  
  dynn_helid:0 "Helid"
- dynn_helid_motto:0 ""  
+ dynn_helid_motto:0 ""
  
  dynn_hawk:0 "Hawk"
- dynn_hawk_motto:0 ""  
+ dynn_hawk_motto:0 ""
  
  dynn_dio:0 "Dio"
- dynn_dio_motto:0 ""  
+ dynn_dio_motto:0 ""
 
  dynn_varten:0 "Varten"
  dynn_varten_motto:0 "Transcendence of the Flesh" 
@@ -145,7 +145,7 @@
  
  dynn_cephissus:0 "Cephissus"
  dynn_cephissus_motto:0 ""
-  
+
  dynn_verrucosus:0 "Verrucosus"
  dynn_verrucosus_motto:0 ""
  

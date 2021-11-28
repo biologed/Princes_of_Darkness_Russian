@@ -1,4 +1,4 @@
-﻿l_english:
+﻿l_russian:
  soul_crushed_modifier:0 "Soul Crushed"
  soul_crushed_modifier_desc:0 "This vampire barely accepts his unlife anymore, going mechanically from one task to another"
  POD_childe_dislike_opinion:0 "Dislike Your Teachings"
@@ -76,7 +76,7 @@
  
  wisdom_of_hazimel_modifier:0 "Wisdom of Hazimel"
  wisdom_of_hazimel_modifier_desc:0 "This individual has sacrificed a part of their own body to gain eternal wisdom"
-  
+
  lamia_bodyguard_modifier:0 "Employed Lamia bodyguard"
  lamia_bodyguard_modifier_desc:0 "This individual has employed a member of the fearsome Lamia bloodline as their bodyguard" 
  web_of_knives_membership_modifier:0 "Web Of Knives Fee"
@@ -87,5 +87,4 @@
  attuned_to_yang_modifier_desc:0 "A mortal or vampire attuned to Yang becomes feverish and manic."
  state_of_balance_modifier:0 "State of Balance"
  state_of_balance_modifier_desc:0 "A mortal restored to a state of Balance enjoys greatly improved physical and mental health."
-  
-  
+

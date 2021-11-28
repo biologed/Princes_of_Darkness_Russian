@@ -1,4 +1,4 @@
-﻿l_english:
+﻿l_russian:
  building_type_blood_tax_01:0 "Blood Tax"
  building_type_blood_tax_01_desc:1 "#F You are making sure that your mortals are working, quite literally, until their last breath.#!"
  building_blood_tax_01:0 "Low Blood Tax"
@@ -47,9 +47,9 @@
  building_influence_nightwatch_01:0 "Subtle Night Watch Influence"
  building_influence_nightwatch_01_desc:1 "Under the nose of most officials, and by bribing the rest, your personal guard has started to work with the local militia. \n This level requires more than 25 control to build and stay enabled."
  building_influence_nightwatch_02:0 "Significant Night Watch Influence"
- building_influence_nightwatch_02_desc:1  "Your men are now a valuable "mercenary company" protecting the city with the help of the locals. A win/win situation. For you, at least. \n This level requires more than 50 control to build and stay enabled."
+ building_influence_nightwatch_02_desc:1 "Your men are now a valuable "mercenary company" protecting the city with the help of the locals. A win/win situation. For you, at least. \n This level requires more than 50 control to build and stay enabled."
  building_influence_nightwatch_03:0 "Strong Night Watch Influence"
- building_influence_nightwatch_03_desc:1 "You can hardly differentiate the local men from your own anymore. They all serve you one way or another.  \n This level requires more than 75 control to build and stay enabled."
+ building_influence_nightwatch_03_desc:1 "You can hardly differentiate the local men from your own anymore. They all serve you one way or another. \n This level requires more than 75 control to build and stay enabled."
  building_influence_nightwatch_04:0 "Absolute Night Watch Influence"
  building_influence_nightwatch_04_desc:1 "The night watch? They report directly to my people. \n This level requires more than 75 control to build and stay enabled."
  
@@ -58,7 +58,7 @@
  building_influence_outriders_01:0 "Subtle Outrider Influence"
  building_influence_outriders_01_desc:1 "With some coin in the right pockets, the loyalty of a handful of outriders will hopefully keep you apprised of events on the boundaries of your domain."
  building_influence_outriders_02:0 "Significant Outrider Influence"
- building_influence_outriders_02_desc:1  "Dozens of outriders have fallen under your sway, reporting the events of the land to you first and their liege second."
+ building_influence_outriders_02_desc:1 "Dozens of outriders have fallen under your sway, reporting the events of the land to you first and their liege second."
  building_influence_outriders_03:0 "Strong Outrider Influence"
  building_influence_outriders_03_desc:1 "Most, if not all, wardens and rangers of the domain report to you before anything else, for very little pay."
  building_influence_outriders_04:0 "Absolute Outrider Influence"
@@ -99,7 +99,7 @@
  building_prince_city_03:0 "Prince of a Capital City"
  building_prince_city_03_desc:1 "Mortals, kings, and warlords dwell in this impressive city. You are their nightly counterpart. \n This level requires more than 40 development to build and stay enabled."
  building_prince_city_04:0 "Prince of a Metropolis"
- building_prince_city_04_desc:1 "One of the greatest cities of the world lives in your shadow. Your influence knows few limits with it in your domain. \n This level requires more than 60 development  to build and stay enabled."
+ building_prince_city_04_desc:1 "One of the greatest cities of the world lives in your shadow. Your influence knows few limits with it in your domain. \n This level requires more than 60 development to build and stay enabled."
  building_type_temple_set_01:0 "Temple of Set"
  building_type_temple_set_01_desc:1 "#F Pleasures beyond your wildest dreams await here. If you are willing to pay the price.#!"
  building_temple_set_01:0 "Respectable Temple of Set"
@@ -475,7 +475,7 @@
  #building_inquisition_church_02:0 "Church of the Inquisition"
  #building_inquisition_church_02_desc:1 "Here, the corrupting influence of the vampires is kept at bay."
  #building_inquisition_church_03:0 "Cathedral of the Inquisition"
- #building_inquisition_church_03_desc:1 "A beacon of light in a world of darkness. The first of many, hopefully."
+ #building_inquisition_church_03_desc:1 "A beacon of light in a Мир Тьмы. The first of many, hopefully."
  building_type_oculi_cell_01:0 "Oculi Dei Cell"
  building_type_oculi_cell_01_desc:1 "#F The watchful eye of the Inquisition is never asleep.#!"
  building_oculi_cell_01:0 "Small Oculi Dei Cell"
@@ -681,7 +681,7 @@
  building_inquisition_church_02:0 "Church of the Inquisition"
  building_inquisition_church_02_desc:1 "Here, the corrupting influence of the vampires is kept at bay."\nThis level requires more than 10 development to build and stay enabled."
  building_inquisition_church_03:0 "Cathedral of the Inquisition"
- building_inquisition_church_03_desc:1 "A beacon of light in a world of darkness. The first of many, hopefully.\nThis level requires more than 15 development and dynasty splendor level of Noteworthy to build and stay enabled."
+ building_inquisition_church_03_desc:1 "A beacon of light in a Мир Тьмы. The first of many, hopefully.\nThis level requires more than 15 development and dynasty splendor level of Noteworthy to build and stay enabled."
  building_inquisition_church_04:0 "Archcathedral of the Inquisition"
  building_inquisition_church_04_desc:1 "A monument to our devotion, it towers over the land as a challenge to the forces of evil.\nThis level requires more than 20 development and dynasty splendor level of Significant to build and stay enabled."
  building_type_inquisition_office_01:0 "Office of the Inquisition"
@@ -835,12 +835,12 @@
  building_type_founding_temple_01_desc:0 "Each cult of Set has its origin in a Founding Temple. The most influential and respected are under the stewardship of Hierophants"
  building_founding_temple_01:0 "Founding Temple" 
  building_founding_temple_01_desc:0 "Each cult of Set has its origin in a Founding Temple. The most influential and respected are under the stewardship of Hierophants" 
-    
+
  building_type_sanctuary_of_flesh_01:0 "Sanctuary of Flesh"
  building_type_sanctuary_of_flesh_01_desc:0 "A monstrous example of the fleshcrafting powers the Tzimisce [clan|E] mastered through the ages"
  building_sanctuary_of_flesh_01:0 "Sanctuary of Flesh"
  building_sanctuary_of_flesh_01_desc:0 "A monstrous example of the fleshcrafting powers the Tzimisce [clan|E] mastered through the ages"
-    
+
  building_type_ashen_court_01:0 "Noble Family Retainers"
  building_type_ashen_court_01_desc:1 "#F Your influence reaches deep into the castles of local nobles .#!"
  building_ashen_court_01:0 "Controlled individuals"
@@ -849,7 +849,7 @@
  building_ashen_court_02_desc:1 "Your influence reaches event deeper, now you control some noble families in this area."
  building_ashen_court_03:0 "Controlled dynasties"
  building_ashen_court_03_desc:1 "Your hold on the local nobles is so firm, you now control several dynasties in this area."
-    
+
  building_type_ashen_commandery_01:0 "Ashen Knights Chapter House"
  building_type_ashen_commandery_01_desc:1 "#F The chapter of a militant order of [cainites|E] and their mortal retainers.#!"
  building_ashen_commandery_01:0 "Small Commandery"
@@ -884,8 +884,8 @@
  building_ashen_cult_site_02:0 "Blood Chapel"
  building_ashen_cult_site_02_desc:1 "Popular gathering place for your cultist servants to worship and serve you"
  building_ashen_cult_site_03:0 "Blood Temple"
- building_ashen_cult_site_03_desc:1 "A place that shows your superiority over both kin and kindred where huge amounts of cultists gather here to worship and serve you"                      
-                            
+ building_ashen_cult_site_03_desc:1 "A place that shows your superiority over both kin and kindred where huge amounts of cultists gather here to worship and serve you"
+
  building_type_dragon_nest_01:0 "Control the Dragon Nest"
  building_type_dragon_nest_01_desc:1 "#F Some sites are especially rich in Chi. These sites tend to attract shen, as well as mortals sensitive to the supernatural. Shen inhabitants of these areas call them by various names: caerns, nodes, haunts and other things; Cathayans refer to them as dragon nests.#!"
  building_dragon_nest_01:0 "Control the Dragon Line"
@@ -908,7 +908,7 @@
  building_aphrodisium_02_desc:1 "Educating all who seek knowledge in the ways of desire, the Aphrodisium is becoming a center of pleasurable worship once again."
  building_aphrodisium_03:0 "Triumphant Aphrodisium"
  building_aphrodisium_03_desc:1 "A symbol of survival in the face of adversity, a remainder of the better nights of the Via Peccati before Christiniaty came."
-  
+
  building_type_castle_lake_01:0 "Castle in the Lake"
  building_type_castle_lake_01_desc:1 "#F The headquarters of the dying Order of the Bitter Ashes are located in a valley purified by a divine flood.#!"
  building_castle_lake_01:0 "Sunked Castle"
@@ -917,7 +917,7 @@
  building_castle_lake_02_desc:1 "Restoration and expansion continue night after night, giving some glory back to the old ruin."
  building_castle_lake_03:0 "Restored Castle"
  building_castle_lake_03_desc:1 "A victory for the honorable [cainites|E] against their demons, both spiritual and otherwise."
-    
+
  building_type_fire_court_01:0 "Fire Court"
  building_type_fire_court_01_desc:1 "#F A place of exotic and forbidden pleasures where the knowledge of past dynasties is collected under the watchful gaze of the Setites.#!"
  building_fire_court_01:0 "Emerging Fire Court"
@@ -935,7 +935,7 @@
  building_black_college_02_desc:1 "Some parts of the College have been restored, revealing their horrors to their careless master."
  building_black_college_03:0 "Dominant Black College"
  building_black_college_03_desc:1 "Once more, the rooms are full of students of the infernal learning their arts. Once more, the world tremble as otherworldly entities look hungrily over it."
-  
+
  demonic_thralls_toughness_mult:0 "Demonic Thralls Toughness Multiplier"
  demonic_thralls_damage_mult:0 "Demonic Thralls Damage Multiplier"
  
@@ -947,7 +947,7 @@
  building_knossos_labyrinth_02_desc:1 "The center of madness grows once again. Will it be stopped in time?"
  building_knossos_labyrinth_03:0 "Infernal Knossos Labyrinth"
  building_knossos_labyrinth_03_desc:1 "This time, the world won't survive. Nergal's dreadful smile is once again over this doomed world."
-   
+
  building_type_sernog_monastery_01:0 "Sernog Monastery"
  building_type_sernog_monastery_01_desc:1 "#F An abandoned fortress looms menacingly, its blackened walls forming a dark skeleton against the sky, a shell of a building open to the stars. Attached to the fortress is an ancient cathedral, ostensibly in better condition but no less sinister than its companion building.#!"
  building_sernog_monastery_01:0 "Ruined Sernog Monastery"
@@ -956,7 +956,7 @@
  building_sernog_monastery_02_desc:1 "The air inside the cathedral has a musty, cloying odor, as if something eternally dying has embedded itself within the stones and now oozes forth its essence in a miasma of perpetual decay."
  building_sernog_monastery_03:0 "Towering Sernog Monastery"
  building_sernog_monastery_03_desc:1 "Eerie moaning sounds fill the cavernous central chamber, echoing off the high vaulted beams and reverberating in a cacophony of shrill screams that mimic the cries of victims undergoing the agonies of prolonged and exquisite torture."
-   
+
  building_type_iglesia_01:0 "Iglesia de San Nicolás de las Servitas"
  building_type_iglesia_01_desc:1 "#F This majestic Church, built over the ruins of a Mosque, hides something dark in its bowels. Something that calls to the shadowy soul of the Lasombra.#!"
  building_iglesia_01:0 "Basement of Iglesia"
@@ -965,7 +965,7 @@
  building_iglesia_02_desc:1 "The ruins of the Mosque are still visible deep in the foundations. Their holiness is long gone, leaving only disturbing memories and visions to any visitor."
  building_iglesia_03:0 "Catacombs of Iglesia"
  building_iglesia_03_desc:1 "Twisted tunnels, moving shadows, flash of madness... Iglesia's Catacombs are a disturbing look into the real nature of the Abyss. A gateway to a world where the light never shines."
-   
+
  building_type_castle_avalon_01:0 "Castle of Avalon"
  building_type_castle_avalon_01_desc:1 "#F Perpetuating the legend of Mithras, the Unconquered Sun, the brave Knights of Avalon sail forth from this impressive structure.#!"
  building_castle_avalon_01:0 "Chapel of St Austreberthe"
@@ -974,7 +974,7 @@
  building_castle_avalon_02_desc:1 "A powerful, if bare, fortress. The hope of salvation for young Knights looking for a worthy cause."
  building_castle_avalon_03:0 "Nightly Camelot"
  building_castle_avalon_03_desc:1 "Perhaps not the true one, this mighty fortress is still the beacon of Arthurian, and Mithraic, legend for the Knights of Avalon."
-   
+
  building_type_kerak_in_dan_01:0 "Kerak-in-Dan"
  building_type_kerak_in_dan_01_desc:1 "#F The castle of the Order of the Sable Rose, forgotten to the sand and blood. A relic of a fading era.#!"
  building_kerak_in_dan_01:0 "Ruined Kerak"
@@ -983,7 +983,7 @@
  building_kerak_in_dan_02_desc:1 "Among the rubble, old tresors can be found. Many scrolls and icons from the various cults of the Levant are here."
  building_kerak_in_dan_03:0 "Triumphant Kerak-in-Dan"
  building_kerak_in_dan_03_desc:1 "A fortress, a symbol, the return of the Cainite Heresy to the forefront, never to leave it again."
-       
+
  building_type_barcelona_library_01:0 "Barcelona's Library"
  building_type_barcelona_library_01_desc:1 "#F Started by the inquisitive Prince Mireia Subira, the library of Barcelona is known throughout Spain as an extensive well of knowledge.#!"
  building_barcelona_library_01:0 "Mundane Works"
@@ -992,7 +992,7 @@
  building_barcelona_library_02_desc:1 "The heresies, the names of other princes, the secret libraries and their forbidden lore can be found here."
  building_barcelona_library_03:0 "Unique Works"
  building_barcelona_library_03_desc:1 "The Noddist fragments, Brujah's betrayal and the fall of Carthage... Barcelona is now the holy land for occultists everywhere."
-       
+
  building_type_mercy_ra_01:0 "The Mercy of Ra"
  building_type_mercy_ra_01_desc:1 "#F Amarna, city of heretic-king Akhenaton, is home to many shrines. This one, sitting amidst piles of ash and bone, commands a special place in the hearts of Cainites. A vampire may come here at sunset and bring offerings of gold, incense, and blood to Ra. If the offer pleases the god, Ra grants the Cainite safety during a single sunrise.#!"
  building_mercy_ra_01:0 "Shrine of Ra"
@@ -1001,7 +1001,7 @@
  building_mercy_ra_02_desc:1 "Rumors abound of the dangers of the place, be they natural or planted there by the envious Setites. But the true pilgrim doesn't fear."
  building_mercy_ra_03:0 "Temple of Ra"
  building_mercy_ra_03_desc:1 "The miracle of going against God's curse and walking in the sunlight, if only for one day, is truly proof of Ra's greatness."
-       
+
  building_type_tower_flies_01:0 "The Tower of Flies"
  building_type_tower_flies_01_desc:1 "#F Jutting out of the Mediterranean like an outstretched arm is a long earthen jetty, at the end of which stands a tall, forbidding structure made of white stone.#!"
  building_tower_flies_01:0 "Ruined Tower of Flies"
@@ -1030,5 +1030,4 @@
  building_hamilcar_palaestra_03_desc:1 "A center of learning, physical prowess and proud history. The definition of [clan|E] Brujah."
  
 
-       
-  
+

@@ -1,4 +1,4 @@
-﻿l_english:
+﻿l_russian:
  
  consolidate_red_order:0 "Consolidate the Red Order"
  support_from_red_order:0 "Support from the Red Order"
@@ -11,7 +11,7 @@
  consolidate_oculi_dei:0 "Consolidate the Oculi Dei"
  support_from_oculi_dei:0 "Support from the Oculi Dei"
 
-  #Game Concept versions
+ #Game Concept versions
  consolidate_red_order:0 "[Concept( 'consolidate_red_order', '$consolidate_red_order$' )|E]"
  support_from_red_order:0 "[Concept( 'support_from_red_order', '$support_from_red_order$' )|E]"
  consolidate_acre:0 "[Concept( 'consolidate_acre', '$consolidate_acre$' )|E]"

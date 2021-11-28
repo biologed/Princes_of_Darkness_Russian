@@ -1,4 +1,4 @@
-﻿l_english:
+﻿l_russian:
 
  POD_anteshuntabsi.1.t:0 "Hunting Gods"
  POD_anteshuntabsi.1.desc:0 "The Anarch Revolt is an unprecedented time of crisis... and opportunities. With most clans in disarray, and the Inquisition stopping elders from long range communication, ancient [cainites|E] are vulnerable like never before.\nSome of the most vindictive Anarchs are planning daring attacks against the [antediluvians|E], progenitors of the clans, in the hope of re enacting Tremere's [diablerie|E] of Saulot. Will you try your hand at this endeavor? The potential rewards are attractive but the risks... the risks are beyond imagination. These entities are closer to Gods than mere humans."
@@ -239,13 +239,13 @@
  POD_anteshuntset.2.a:0 "Outwitting snakes..."
  POD_anteshuntset.2.effect.success.desc:0 "An uneventful journey"
  POD_anteshuntset.2.critical.failure.effect.desc:0 "Well, that escalated quickly..."
- POD_anteshuntset.2.critical.failure:0 "Ambushed!"        
+ POD_anteshuntset.2.critical.failure:0 "Ambushed!"
  POD_anteshuntset.3.t:0 "The Hunt : Fiery Entrance"
  POD_anteshuntset.3.desc:0 "You made it to the Fire Court and now, you must somehow find a way to make them tell you Set's location. Coercion won't work, as they are fanatics and master torturers anyway.\nSo you choose diplomacy. The mistress of the temple, one charming Setite named Scyla, has welcomed you well enough, impressed by your bravery in walking into the snake's den.\nBut now, she is sweetly asking you why she shouldn't just kill you here and now. You are threatening their God after all..."
  POD_anteshuntset.3.a:0 "Where would be the fun in that?"
  POD_anteshuntset.3.effect.success.desc:0 "A convincing argument"
  POD_anteshuntset.3.critical.failure.effect.desc:0 "They don't like fun..."
- POD_anteshuntset.3.critical.failure:0 "Beheaded"        
+ POD_anteshuntset.3.critical.failure:0 "Beheaded"
  POD_anteshuntset.4.t:0 "The Hunt : First Test"
  POD_anteshuntset.4.desc:0 "Scyla has been accommodating so far but she won't relinquish the information you need so easily. You will have to endure some 'friendly tests' to see if you are worthy of being in Set's presence.\nThe first one is easy enough. Scyla is presenting you some exquisite mortals, skilled in pleasuring your kind in any way your damned mind can imagine. It is an obvious trap, as you could easily get lost in the pleasure displayed here for a long time, but you still have to sample a little or your hostess will take offense..."
  POD_anteshuntset.4.a:0 "Moderation, moderation..."
@@ -254,13 +254,13 @@
  POD_anteshuntset.5.a:0 "Man versus wild"
  POD_anteshuntset.5.effect.success.desc:0 "They are put out of their misery"
  POD_anteshuntset.5.critical.failure.effect.desc:0 "You are put out of your misery"
- POD_anteshuntset.5.critical.failure:0 "To the death..."        
+ POD_anteshuntset.5.critical.failure:0 "To the death..."
  POD_anteshuntset.6.t:0 "The Hunt : Third Test"
  POD_anteshuntset.6.desc:0 "You are now 'invited' to a game of chess.. with living pieces and you as one of the Kings. Needless to say, any lost piece is summarily disposed of which means that the stakes of this friendly game are as high as you could imagine.\nThe wailing and screaming of the poor souls chosen as pawns in this gruesome game doesn't help you concentrate either..."
  POD_anteshuntset.6.a:0 "Focus on the board center..."
  POD_anteshuntset.6.effect.success.desc:0 "Checkmate!"
  POD_anteshuntset.6.critical.failure.effect.desc:0 "That doesn't look good..."
- POD_anteshuntset.6.critical.failure:0 "Checkmate!"        
+ POD_anteshuntset.6.critical.failure:0 "Checkmate!"
  POD_anteshuntset.7.t:0 "The Hunt : Fourth Test"
  POD_anteshuntset.7.desc:0 "You have been escorted to the entrance of the Fire Court's underground. Scyla, your hostess, has simply told you that you must find the exit to finish this test.\nYou expected a maze, but the first underground room is actually a torture chamber, where a scrawny looking Setite ghoul is performing his 'art' on a helpless priest. The torturer is friendly enough, talking about his job and making no moves to stop you from continuing. What will you do in this puzzling situation?"
  POD_anteshuntset.7.a:0 "Rescue the priest?"
@@ -288,13 +288,13 @@
  POD_anteshuntset.14.a:0 "I'm coming for you..."
  POD_anteshuntset.14.effect.success.desc:0 "They are done for!"
  POD_anteshuntset.14.critical.failure.effect.desc:0 "I am done for..."
- POD_anteshuntset.14.critical.failure:0 "So close..."        
+ POD_anteshuntset.14.critical.failure:0 "So close..."
  POD_anteshuntset.16.t:0 "The Hunt : The Champion"
  POD_anteshuntset.16.desc:0 "The Coil of the Lion stands defeated, with only one survivor between you and Set's sarcophagus... but not 'just' a survivor. Your heard tales of this so called Champion of Set. Qufur am-Heru, chosen from generation to generation to stand as a bodyguard of Set himself, is probably the strongest Setite to still walk the Earth.\nHis entire life purpose is to stop people like you from threatening his God and he seems more than eager to fulfill it... The last obstacle in your way might be the hardest one."
  POD_anteshuntset.16.a:0 "Let us dance..."
  POD_anteshuntset.16.effect.success.desc:0 "The champion falls!"
  POD_anteshuntset.16.critical.failure.effect.desc:0 "Damn you!"
- POD_anteshuntset.16.critical.failure:0 "So close..."        
+ POD_anteshuntset.16.critical.failure:0 "So close..."
  POD_anteshuntset.17.t:0 "The Hunt : Primordial Horror"
  POD_anteshuntset.17.desc:0 "Before you lay the body of a man with the head of an unspeakable beast naked but for a simple loincloth. You are assailed by a fear that made even the Red Fear seem insignificant.\nYou can't move and are sure that you are to meet Final Death, sure that this is Set, and that the [antediluvian|E] will slake its thirst on your blood.\nWith all your might, you leap forward and begin to drink of the vitae of the torpid creature.\nYour mind explodes."
  POD_anteshuntset.17.a:0 "I must resist!"
@@ -407,7 +407,7 @@
  POD_anteshunttzimisce.20.a:0 "The devil gets his due"
  instakillkupala:0 "You relied too much on Kupala and you paid the price"
  POD_anteshuntabsi.1.e:0 "I will hunt the Eldest, Tzimisce"
-  
+
  
  
  

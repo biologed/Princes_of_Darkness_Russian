@@ -1,4 +1,4 @@
-﻿l_english: 
+﻿l_russian:
 
  rf_kindred:0 "Kindred"
  holy_site_paris_name:0 "Paris"
@@ -228,7 +228,7 @@
  bloodgnosticism_hostility_doctrine_name:0 "Blood Gnosticism"
  bloodgnosticism_hostility_doctrine_desc:0 "" 
  calomenasforsaken_hostility_doctrine_name:0 "Blood Gnosticism"
- calomenasforsaken_hostility_doctrine_desc:0 ""  
+ calomenasforsaken_hostility_doctrine_desc:0 ""
  ignorance_hostility_doctrine_name:0 "Ignorance"
  ignorance_hostility_doctrine_desc:0 ""
  holy_site_castle_lake_holy_name:0 "Castle in the Lake"
@@ -239,9 +239,8 @@
  holy_site_devon_effect_name:0 "From [holy_site|E] #weak ($holy_site_devon_name$)#!"
  holy_site_tiberias_name:0 "Kerak-in-Dan"
  holy_site_tiberias_effect_name:0 "From [holy_site|E] #weak ($holy_site_tiberias_name$)#!"
-    
-         
-      
-  
-  
-  
+
+
+
+
+

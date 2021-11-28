@@ -12,15 +12,15 @@
  doctrine_vampirethemasquerade_consent_name:0 "Feed Only From the Willing"
  doctrine_vampirethemasquerade_consent_desc:0 "Vampires while covert from society are large are to seek consent of their 'donors'." 
  doctrine_vampirethemasquerade_cult_name:0 "Blood Cult"
- doctrine_vampirethemasquerade_cult_desc:0 "Vampires have a secret society or blood cult that covertly deifies them as a blood god."  
+ doctrine_vampirethemasquerade_cult_desc:0 "Vampires have a secret society or blood cult that covertly deifies them as a blood god."
  doctrine_vampirethemasquerade_family_name:0 "Family Secret"
- doctrine_vampirethemasquerade_family_desc:0 "Vampires feed from particular mortal families who may be somewhat aware of the vampiric condition. They desire to keep their blood pure, and spurn the 'unclean'."   
+ doctrine_vampirethemasquerade_family_desc:0 "Vampires feed from particular mortal families who may be somewhat aware of the vampiric condition. They desire to keep their blood pure, and spurn the 'unclean'."
  doctrine_parameter_vampirethemasquerade_strict:0 "Characters with the [trait|E]s [GetTrait('predatortype_consensualist').GetName( GetPlayer )], [GetTrait('predatortype_cultist').GetName( GetPlayer )] or [GetTrait('predatortype_familias').GetName( GetPlayer )] are [criminals|E]"
  doctrine_parameter_vampirethemasquerade_lax:0 "Characters with the [trait|E]s [GetTrait('predatortype_consensualist').GetName( GetPlayer )], [GetTrait('predatortype_cultist').GetName( GetPlayer )] or [GetTrait('predatortype_familias').GetName( GetPlayer )] are [shunned|E]"
- doctrine_parameter_vampirethemasquerade_none:0 "Characters with the [GetTrait('predatortype_farmer').GetName( GetPlayer )] [trait|E] are shunned."  
+ doctrine_parameter_vampirethemasquerade_none:0 "Characters with the [GetTrait('predatortype_farmer').GetName( GetPlayer )] [trait|E] are shunned."
  doctrine_parameter_vampirethemasquerade_family:0 "Characters with the [trait|E]s [GetTrait('predatortype_alleycat').GetName( GetPlayer )], [GetTrait('predatortype_bedlamite').GetName( GetPlayer )], [GetTrait('predatortype_farmer').GetName( GetPlayer )], [GetTrait('predatortype_footpad').GetName( GetPlayer )] or [GetTrait('predatortype_graverobber').GetName( GetPlayer )] are shunned. Characters with the [trait|E] [GetTrait('predatortype_familias').GetName( GetPlayer )] are fully accepted"
- doctrine_parameter_vampirethemasquerade_cult:0 "Characters with the [trait|E]s [GetTrait('predatortype_consensualist').GetName( GetPlayer )] or [GetTrait('predatortype_familias').GetName( GetPlayer )] are shunned.  Character with the [GetTrait('predatortype_cultist').GetName( GetPlayer )] [trait|E] are accepted." 
- doctrine_parameter_vampirethemasquerade_consent:0 "Characters with the [GetTrait('predatortype_alleycat').GetName( GetPlayer )] [trait|E] are [criminals|E]. Characters with the [GetTrait('predatortype_cauchemar').GetName( GetPlayer )] or [GetTrait('predatortype_extortionist').GetName( GetPlayer )] [trait|E]s are shunned. Characters with the [GetTrait('predatortype_consensualist').GetName( GetPlayer )] [trait|E] are praised. All other predator types are accepted."  
+ doctrine_parameter_vampirethemasquerade_cult:0 "Characters with the [trait|E]s [GetTrait('predatortype_consensualist').GetName( GetPlayer )] or [GetTrait('predatortype_familias').GetName( GetPlayer )] are shunned. Character with the [GetTrait('predatortype_cultist').GetName( GetPlayer )] [trait|E] are accepted."
+ doctrine_parameter_vampirethemasquerade_consent:0 "Characters with the [GetTrait('predatortype_alleycat').GetName( GetPlayer )] [trait|E] are [criminals|E]. Characters with the [GetTrait('predatortype_cauchemar').GetName( GetPlayer )] or [GetTrait('predatortype_extortionist').GetName( GetPlayer )] [trait|E]s are shunned. Characters with the [GetTrait('predatortype_consensualist').GetName( GetPlayer )] [trait|E] are praised. All other predator types are accepted."
 
 # Oaths and Oathbreaking
 
@@ -166,7 +166,7 @@
  doctrine_parameter_glamour_illegal:0 "Characters with the [GetTrait('fae').GetName( GetPlayer )] [trait|E] are [criminals|E]"
  doctrine_parameter_glamour_shunned:0 "Characters with the [GetTrait('fae').GetName( GetPlayer )] [trait|E] are [shunned|E]"
  doctrine_parameter_glamour_accepted:0 "Characters with the [GetTrait('fae').GetName( GetPlayer )] [trait|E] are fully accepted" 
-  
+
  doctrine_supehunting_name:0 "Witch Hunting"
  doctrine_supehunting_crime_name:0 "Criminal"
  doctrine_supehunting_crime_desc:0 "The Witch Hunters must be destroyed.\n\nWhen the Cross has a point, find your safety."
@@ -195,13 +195,13 @@
  tenet_vampireremorse_desc:0 "Kindred reflect upon their actions and feel for regret for their monstrous behavior, gaining piety." 
  
  tenet_vampireblushoflife_name:0 "Blush of Life"
- tenet_vampireblushoflife_desc:0 "Kindred can emulate being alive. This helps their masquerade as well as reminding what it is to be human and thus gain piety."  
+ tenet_vampireblushoflife_desc:0 "Kindred can emulate being alive. This helps their masquerade as well as reminding what it is to be human and thus gain piety."
  
  tenet_vampirenecromanticexperimention_name:0 "Necromantic Experimentation"
- tenet_vampirenecromanticexperimention_desc:0 "Mark you well: there is a place beyond spirit, beyond life which is Darkness, Shadow, and there Shadows dwell. An island, a fortress, a land of the Dead, I have traveled there through a pathway of doom and I have witnessed the dread king of the Stygian City as he sat at court. I have seen the faceless hooded ones traversing River Styx. They swarm about us like flies on a putrefying corpse, and like us, feed on fear, ecstasy, and anger. Dead they are, but undead, and they are closer to us than we will ever know. The Blood of my Brother cries out to me as I sleep as the Sun crosses the sky, I hear my brother, second-born Abel, screaming. Mark well the spirits of those who have died, know their strength is not your own, listen to their words: they carry wisdom. Listen not to their songs: that way is oblivion.\nExecutions generate both melancholy resonance and piety."  
+ tenet_vampirenecromanticexperimention_desc:0 "Mark you well: there is a place beyond spirit, beyond life which is Darkness, Shadow, and there Shadows dwell. An island, a fortress, a land of the Dead, I have traveled there through a pathway of doom and I have witnessed the dread king of the Stygian City as he sat at court. I have seen the faceless hooded ones traversing River Styx. They swarm about us like flies on a putrefying corpse, and like us, feed on fear, ecstasy, and anger. Dead they are, but undead, and they are closer to us than we will ever know. The Blood of my Brother cries out to me as I sleep as the Sun crosses the sky, I hear my brother, second-born Abel, screaming. Mark well the spirits of those who have died, know their strength is not your own, listen to their words: they carry wisdom. Listen not to their songs: that way is oblivion.\nExecutions generate both melancholy resonance and piety."
  
  tenet_vampirenemetamorphopsisexperimention_name:0 "Necromantic Experimentation"
- tenet_vampirenemetamorphopsisexperimention_desc:0 "Executions generate both choleric experience and piety."  
+ tenet_vampirenemetamorphopsisexperimention_desc:0 "Executions generate both choleric experience and piety."
  
  tenet_vampireauctoritasritae_name:0 "Auctoritas Ritae"
  tenet_vampireauctoritasritae_desc:0 "A collection of thirteen rituals practiced by all members of the Sabbat."
@@ -226,7 +226,7 @@
  
  tenet_quiritare_name:0 "Quiritare"
  tenet_quiritare_desc:0 "To resist the Beast or attempt to placate it is impossible, and so give yourself over to it completely, performing its will." 
-  
+
  tenet_legacyoftrinity_name:0 "Legacy of Trinity"
  tenet_legacyoftrinity_desc:0 "The Codex dictates the superiority of the three main clans: Toreador, Tzimsice and Ventrue. Members of other clans to seek petition of the Quaesitors in order to sire childer; members of the three main clans are allowed to sire whoever they wanted. Only members of the three main clans may bequeath a domain to another vampire and that each vampire within this domain has the duty to enforce the Codex."
  
@@ -254,9 +254,9 @@
  tenet_conviction_and_selfcontrol_name:0 "Conviction and Self-Control"
  tenet_conviction_and_selfcontrol_desc:0 "Vampires lose no piety from seriously wounding or killing mortal victims. Vampires lose piety from frenzying."
  tenet_conscience_and_selfcontrol_name:0 "Conscience and Self-Control"
- tenet_conscience_and_selfcontrol_desc:0 "Vampires lose piety from seriously wounding or killing mortal victims.  Vampires lose piety for frenzying."
+ tenet_conscience_and_selfcontrol_desc:0 "Vampires lose piety from seriously wounding or killing mortal victims. Vampires lose piety for frenzying."
  tenet_conscience_and_instinct_name:0 "Conscience and Instinct"
- tenet_conscience_and_instinct_desc:0 "Vampires lose piety from seriously wounding or killing mortal victims.  Vampires lose no piety for frenzying."
+ tenet_conscience_and_instinct_desc:0 "Vampires lose piety from seriously wounding or killing mortal victims. Vampires lose no piety for frenzying."
  tenet_orun_and_aye_name:0 "Orun and Aye"
  tenet_orun_and_aye_desc:0 "Contrary to the Kindred, no Laibon follows the Path of Humanity, nor any other Path of Enlightenment for that matter. Instead, Laibon forge their lives around two separate paths of Morality: Aye, which is their morality towards humankind, and Orun, which is their morality towards the supernatural. Depending on where they stand on these two scales, their appearance and supernatural power fluctuates. This fundamental difference forever separates the Laibon from the 'typical' Cainite."
  

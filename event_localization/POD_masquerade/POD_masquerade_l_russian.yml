@@ -1,4 +1,4 @@
-﻿l_english:
+﻿l_russian:
 
  pod_masquerade.1.t:0 "Curiosity killed the Hunter"
  pod_masquerade.1.desc:0 "One of those damnable do-gooders from that group called the Hunters is sniffing around your domain. He's been asking questions about your schedule, influence on the populace and other tricky subjects. If you don't do anything, he will report to his superiors that something about you is off, quite off. There's no doubt in your mind that this will raise suspicions surrounding your court. Thankfully, you know a guy that could deal with this annoyance quickly and quietly, but his services aren't exactly cheap..."
@@ -92,10 +92,10 @@
  pod_masquerade.14.a.failure:0 "They have won this battle, but not the war" 
  pod_masquerade.14.a.critical.failure.effect.desc:0 "If you make any mistakes, the Inquisition will turn you into ashes"
  pod_masquerade.14.a.critical.failure:0 "...well fought" 
-  
-     
-    
-   
-   
-  
+
+
+
+
+
+
  

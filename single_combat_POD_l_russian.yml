@@ -1,4 +1,4 @@
-﻿l_english:
+﻿l_russian:
 
 #Combat Move Options
 
@@ -98,73 +98,73 @@ single_combat.0001.tt.POD_touch_of_oblivion.beast:0 "#R Decay!"
 single_combat.0001.POD_stygian_shroud:0 "The darkness comes for you!"
 single_combat.0001.tt.POD_stygian_shroud:0 "#D Using your Oblivion powers, you summon the darkness that blinds [my_foe.GetFirstName]"
 single_combat.0001.tt.POD_stygian_shroud.beast:0 "#R The darkness comes for [my_foe.GetHerHim]!"
-single_combat.0001.POD_fire_torch:0 "God's light will repel you!"                  #Just a torch attack
+single_combat.0001.POD_fire_torch:0 "God's light will repel you!" #Just a torch attack
 single_combat.0001.tt.POD_fire_torch:0 "#D You swing a torch wildly."
-single_combat.0001.POD_fire_bombs:0 "This concoction might work..."                  #Kukul's fire bombs
+single_combat.0001.POD_fire_bombs:0 "This concoction might work..." #Kukul's fire bombs
 single_combat.0001.tt.POD_fire_bombs:0 "#D You throw some alchemical fire."
-single_combat.0001.POD_fire_spewer:0 "Fire! Fire! Fire!"                 #Kukul's flamethrowers
+single_combat.0001.POD_fire_spewer:0 "Fire! Fire! Fire!" #Kukul's flamethrowers
 single_combat.0001.tt.POD_fire_spewer:0 "#D You use your makeshift flamethrower."
-single_combat.0001.POD_crossbow_shot:0 "Steady, aim... fire!"               #Crossbow Shot
+single_combat.0001.POD_crossbow_shot:0 "Steady, aim... fire!" #Crossbow Shot
 single_combat.0001.tt.POD_crossbow_shot:0 "#D A crossbow shot will be fired."
-single_combat.0001.POD_unleash_dogs:0 "Let loose the dogs of war!"                #You unleash your wardogs
-single_combat.0001.tt.POD_unleash_dogs:0 "#D The literal ones of flesh and bones."             
-single_combat.0001.POD_stake_attack:0 "I know your weakness!"                #Hunter attacks with as take
+single_combat.0001.POD_unleash_dogs:0 "Let loose the dogs of war!" #You unleash your wardogs
+single_combat.0001.tt.POD_unleash_dogs:0 "#D The literal ones of flesh and bones." 
+single_combat.0001.POD_stake_attack:0 "I know your weakness!" #Hunter attacks with as take
 single_combat.0001.tt.POD_stake_attack:0 "#D Your aim for the heart with a pointy stake."
-single_combat.0001.POD_oculi_trust:0 "Praise God!"                 #I Trust in Thee
+single_combat.0001.POD_oculi_trust:0 "Praise God!" #I Trust in Thee
 single_combat.0001.tt.POD_oculi_trust:0 "#D You try to force your opponent to repent his sins." 
-single_combat.0001.POD_oculi_wine:0 "Life will banish death!"                  #Water to Winde
+single_combat.0001.POD_oculi_wine:0 "Life will banish death!" #Water to Winde
 single_combat.0001.tt.POD_oculi_wine:0 "#D You try to touch your opponent to transform his flesh."
-single_combat.0001.POD_acre_catechumen:0 "God is my sword!"             #Catechumen
+single_combat.0001.POD_acre_catechumen:0 "God is my sword!" #Catechumen
 single_combat.0001.tt.POD_acre_catechumen:0 "#D By praying, you try to enhance your own abilities."
-single_combat.0001.POD_acre_flesh:0 "God is my shield!"                  #Transfiguration of the Flesh
+single_combat.0001.POD_acre_flesh:0 "God is my shield!" #Transfiguration of the Flesh
 single_combat.0001.tt.POD_acre_flesh:0 "#D By praying, you try to enhance your own abilities."
-single_combat.0001.POD_acre_flight:0 "I am God's Wrath!"                 #Flight of Angels
+single_combat.0001.POD_acre_flight:0 "I am God's Wrath!" #Flight of Angels
 single_combat.0001.tt.POD_acre_flight:0 "#D You become a divine whirlwind of fire and sword."
-single_combat.0001.POD_acre_auto:0 "...Quiet"                   #Auto da Fé
+single_combat.0001.POD_acre_auto:0 "...Quiet" #Auto da Fé
 single_combat.0001.tt.POD_acre_auto:0 "#D You silence all thoughts, only focusing on the final blow in this duel."
-single_combat.0001.POD_murnau_mirror:0 "Your stolen power is mine!"               #Mirror of Evil
+single_combat.0001.POD_murnau_mirror:0 "Your stolen power is mine!" #Mirror of Evil
 single_combat.0001.tt.POD_murnau_mirror:0 "#D You try to enhance yourself to the level of your opponent."
-single_combat.0001.POD_murnau_arcana:0 "Your powers are fickle..."               #Arcana(Murnau)
+single_combat.0001.POD_murnau_arcana:0 "Your powers are fickle..." #Arcana(Murnau)
 single_combat.0001.tt.POD_murnau_arcana:0 "#D You try to turn your opponent's power against them."
-single_combat.0001.POD_sisters_hosanna:0 "God will grant you strength"             #Hosanna
+single_combat.0001.POD_sisters_hosanna:0 "God will grant you strength" #Hosanna
 single_combat.0001.tt.POD_sisters_hosanna:0 "#D Your sing God's glory, hoping He will answer."
-single_combat.0001.POD_sisters_oratorio:0 "Sing the song of God."            #Oratorio
+single_combat.0001.POD_sisters_oratorio:0 "Sing the song of God." #Oratorio
 single_combat.0001.tt.POD_sisters_oratorio:0 "#D This holy hymn might cripple these unholy creatures." 
-single_combat.0001.POD_bone_obedience:0 "I am invincible!"              #Bone Shintai: Bone Obedience
+single_combat.0001.POD_bone_obedience:0 "I am invincible!" #Bone Shintai: Bone Obedience
 single_combat.0001.tt.POD_bone_obedience:0 "#D You cause your bone structure to calcify and grow like rock crystals."
-single_combat.0001.POD_five_poison_cloud:0 "I spit on you!"           #Bone Shintai: Five Poison Cloud
+single_combat.0001.POD_five_poison_cloud:0 "I spit on you!" #Bone Shintai: Five Poison Cloud
 single_combat.0001.tt.POD_five_poison_cloud:0 "#D You exhale a poisonous cloud of black Yin energy "
-single_combat.0001.POD_ching_shih:0 "The monster I've become..."                  #Bone Shintai: Ch'ing Shih
+single_combat.0001.POD_ching_shih:0 "The monster I've become..." #Bone Shintai: Ch'ing Shih
 single_combat.0001.tt.POD_ching_shih:0 "#D You assume the Ch'ing Shih form, a monstrous but potent parody of your true self."
-single_combat.0001.POD_long_neck:0 "My reach is long."                   #Flesh Shintai: Long Neck
+single_combat.0001.POD_long_neck:0 "My reach is long." #Flesh Shintai: Long Neck
 single_combat.0001.tt.POD_long_neck:0 "#D You stretch his limbs or neck to impressive lengths"
-single_combat.0001.POD_bloodlash:0 "Blood is my weapon."                   #Blood Shintai: Bloodlash
+single_combat.0001.POD_bloodlash:0 "Blood is my weapon." #Blood Shintai: Bloodlash
 single_combat.0001.tt.POD_bloodlash:0 "#D You create a lethal tendril of blood."
-single_combat.0001.POD_goblin_scorch:0 "Time to burn!"               #Ghost-Flame Shintai: Goblin Scorch
+single_combat.0001.POD_goblin_scorch:0 "Time to burn!" #Ghost-Flame Shintai: Goblin Scorch
 single_combat.0001.tt.POD_goblin_scorch:0 "#D You exhale a gout of spirit flames." 
-single_combat.0001.POD_goblin_lantern:0 "I have become fire itself!"              #Ghost-Flame Shintai: Goblin Lantern
+single_combat.0001.POD_goblin_lantern:0 "I have become fire itself!" #Ghost-Flame Shintai: Goblin Lantern
 single_combat.0001.tt.POD_goblin_lantern:0 "#D You temporarily ignite you form, allowing you to turn into a glowing orb of fire."
-single_combat.0001.POD_bone_dance:0 "Time to sleep."                  #Yin Prana: Bone Dance
+single_combat.0001.POD_bone_dance:0 "Time to sleep." #Yin Prana: Bone Dance
 single_combat.0001.tt.POD_bone_dance:0 "#D By using a ritual, you try to turn everyone lethargic. "
-single_combat.0001.POD_dragon_dance:0 "Let's get serious."                #Yang Prana: Dragon Dance
+single_combat.0001.POD_dragon_dance:0 "Let's get serious." #Yang Prana: Dragon Dance
 single_combat.0001.tt.POD_dragon_dance:0 "#D You enter a battle trance."
-single_combat.0001.POD_chi_interrupt:0 "Time to slow down."               #Equilibrium: Chi Interrupt
+single_combat.0001.POD_chi_interrupt:0 "Time to slow down." #Equilibrium: Chi Interrupt
 single_combat.0001.tt.POD_chi_interrupt:0 "#D You try to stop the internal flow of chi within your opponent, causing painful spasms."
-single_combat.0001.POD_thousand_hell_stare:0 "Feel my pain!"         #Obligation: Thousand Hell Stare
+single_combat.0001.POD_thousand_hell_stare:0 "Feel my pain!" #Obligation: Thousand Hell Stare
 single_combat.0001.tt.POD_thousand_hell_stare:0 "#D You project your negative psychic energy like a knife into the victim's soul."
-single_combat.0001.POD_wind_attack:0 "Too quick for you?"                 #Black Wind: Wind Attack(just a name i imagined, because Black Wind just makes you faster)
+single_combat.0001.POD_wind_attack:0 "Too quick for you?" #Black Wind: Wind Attack(just a name i imagined, because Black Wind just makes you faster)
 single_combat.0001.tt.POD_wind_attack:0 "#D Using Black Wind, you move at supernatural speed."
-single_combat.0001.POD_demon_claws:0 "Enough of this nonsense!"                 #Demon Shintai: Demon Claws
+single_combat.0001.POD_demon_claws:0 "Enough of this nonsense!" #Demon Shintai: Demon Claws
 single_combat.0001.tt.POD_demon_claws:0 "#D You assume your demon form, then try to cleave your opponent."
-single_combat.0001.POD_tormented_essence:0 "Feel my pain!"           #Daimonion: Tormented Essence
+single_combat.0001.POD_tormented_essence:0 "Feel my pain!" #Daimonion: Tormented Essence
 single_combat.0001.tt.POD_tormented_essence:0 "#D You project your negative psychic energy like a knife into the victim's soul."
-single_combat.0001.POD_adramelechs_wrath:0 "Enough of this nonsense!"           #Daimonion: adramelechs Wrath
+single_combat.0001.POD_adramelechs_wrath:0 "Enough of this nonsense!" #Daimonion: adramelechs Wrath
 single_combat.0001.tt.POD_adramelechs_wrath:0 "#D You assume your demon form, then try to cleave your opponent."
-single_combat.0001.POD_blood_atemi:0 "Time to slow down."           #Blood Shintai: Blood Atemi
+single_combat.0001.POD_blood_atemi:0 "Time to slow down." #Blood Shintai: Blood Atemi
 single_combat.0001.tt.POD_blood_atemi:0 "#D You try to stop the internal flow of blood within your opponent, causing painful spasms."
-single_combat.0001.POD_stand_upon_the_dragons_back:0 "I will stand victorious."           #Jade Shintai: Stand Upon The Dragons Back
+single_combat.0001.POD_stand_upon_the_dragons_back:0 "I will stand victorious." #Jade Shintai: Stand Upon The Dragons Back
 single_combat.0001.tt.POD_stand_upon_the_dragons_back:0 "#D You try rooting yourself to the Earth."
-single_combat.0001.POD_dragon_ward:0 "Away from me!"           #Chi'iu Muh: Dragon Ward
+single_combat.0001.POD_dragon_ward:0 "Away from me!" #Chi'iu Muh: Dragon Ward
 single_combat.0001.tt.POD_dragon_ward:0 "#D You create a barrier of chi that turns away your opponent."
 single_combat.0001.POD_typhonic_maw:0 "Typhon engulfs you!" 
 single_combat.0001.tt.POD_typhonic_maw:0 "#D You distend you jaw and grow a forked tongue to lash at your opponent." 

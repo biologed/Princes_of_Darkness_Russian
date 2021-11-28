@@ -1,4 +1,4 @@
-﻿l_english:
+﻿l_russian:
  POD_wraith_binding.100.t:0 "Tethers of Magic and Will."
  POD_wraith_binding.100.desc:0 "While going about your normal business as a wraith, you feel a powerful pull towards an unknown locataion. Someone is messing with your connection to the mortal world!\n Arriving in a summoning chamber, you meet your summoner - a necromancer named [actor.GetFirstNameNoTooltip]. Already, the binding ritual is starting to affect you and warp your being."
  POD_wraith_binding.100.option.a:0 "I. WILL. NOT. BE. CONTROLLED!"

@@ -1,4 +1,4 @@
-﻿l_english:
+﻿l_russian:
 
  POD_nocturne_on_personal_interaction:0 "Nocturne"
  POD_nocturne_on_personal_interaction_desc:0 "Start radiating shadows that drain near enemies of life"
@@ -48,7 +48,7 @@
  POD_blood_of_a_demon_interaction_option_deceitful:0 "Harness Sin: deceitful" 
  POD_blood_of_a_demon_interaction_option_craven:0 "Harness Sin: craven" 
  POD_blood_of_a_demon_interaction_option_arbitrary:0 "Harness Sin: arbitrary"
- POD_blood_of_a_demon_interaction_sin_ct:0 "Amplify your sin to enhance yourself. Without elder perks, this can only be done once. Choose your vice carefully....."
+ POD_blood_of_a_demon_interaction_sin_ct:0 "Amplify your sin to enhance yourself. Without elder perks, this can only be done once. Choose your vice carefully..."
  
  POD_blood_of_a_demon_other_interaction:0 "Blood of a Demon"
  POD_blood_of_a_demon_other_interaction_desc:0 "Draw upon your demon-tainted blood to manipulate others - impose your will on infernalists, scheme to lead others into demon-worship or even, at the highest level, grant terrible gifts of darkness."

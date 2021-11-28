@@ -1,13 +1,13 @@
-﻿l_english:
+﻿l_russian:
 
  POD_diablerize.100.t:0 "Diablerie: [diablerie_location.GetNameNoTooltip]"
  POD_diablerize.100.desc:0 "I have tracked [defender.GetFirstName] to [defender.GetHerHis] haven in [diablerie_location.GetNameNoTooltip]. All is ready, and now I can finally attack [defender.GetHerHim] to drain [defender.GetHerHim] of all [defender.GetHerHis] blood and even [defender.GetHerHis] very soul! The personal risk is considerable, but the rewards greater. Shall I go through with this and launch my deadliest attack upon [defender.GetFirstName]."
  POD_diablerize.100.option.a:0 "Attack [defender.GetTitledFirstName]!"
- POD_diablerize.100.option.a.tt:0 "A struggle will ensue, should I lose, I may also be destroyed. I will use all my force of will and the powers of blood to succeed."  
- POD_diablerize.100.option.a.tt.beast:0 "#R Attack! We will have [defender.GetHerHis] heart's blood!#"   
+ POD_diablerize.100.option.a.tt:0 "A struggle will ensue, should I lose, I may also be destroyed. I will use all my force of will and the powers of blood to succeed."
+ POD_diablerize.100.option.a.tt.beast:0 "#R Attack! We will have [defender.GetHerHis] heart's blood!#"
  POD_diablerize.100.option.b:0 "Abandon this foul quest."
- POD_diablerize.100.option.b.tt.beast:0 "#R We know [defender.GetSheHe] is weak. I can smell it! Don't turn back now!#"    
-     
+ POD_diablerize.100.option.b.tt.beast:0 "#R We know [defender.GetSheHe] is weak. I can smell it! Don't turn back now!#"
+
  POD_diablerize.200.t:0 "A deadly attack!"
  POD_diablerize.200.desc:0 "[attacker.GetFirstName] has caught me alone in [diablerie_location.GetNameNoTooltip]. [attacker.GetHerHis|U] eyes gleam with the hunger of the Beast! What shall I do?"
  POD_diablerize.200.option.a:0 "Flee!"
@@ -62,7 +62,7 @@
  POD_diablerize.200.option.d.success:0 "[defender.GetFirstName] wins"
  POD_diablerize.200.option.d.tt.defender_wins:0 "I dominate [attacker.GetFirstName]!"
  POD_diablerize.200.option.d.failure:0 "[attacker.GetFirstName] wins"
- POD_diablerize.200.option.d.tt.attacker_wins:0 "[attacker.GetFirstName]'s will is too strong to dominate."  
+ POD_diablerize.200.option.d.tt.attacker_wins:0 "[attacker.GetFirstName]'s will is too strong to dominate."
  POD_diablerize.200.option.e:0 "Shapeshift!"
  POD_diablerize.200.option.e.tt.beast:0 "#R [attacker.GetSheHe] can't eat what [attacker.GetSheHe] can't hold!#"
  POD_diablerize.200.option.e.tt:0 "A learning duel will determine if you can use your [discipline|E] to shapeshift into an incorporeal form and evade [attacker.GetFirstName]'s trap."
@@ -73,7 +73,7 @@
 # Flight Martial Duel Result
 #250 notify atacker
  #POD_diablerize.250.t:0 "Diablerie: Flight!"
- #POD_diablerize.250.desc.success:0 "[defender.GetFirstName] runs away from me.  No matter how hard I try, I can not catch up."
+ #POD_diablerize.250.desc.success:0 "[defender.GetFirstName] runs away from me. No matter how hard I try, I can not catch up."
  #POD_diablerize.250.desc.failure:0 "[defender.GetFirstName] tried to run away, but they were not fast enough. Now to cross the remaining distance and hunt [defender.GetHerHim] down."
  #POD_diablerize.250.option.a.success:0 "Foiled!"
  #POD_diablerize.250.option.a.failure:0 "Attack!"
@@ -154,7 +154,7 @@
 # Learning Shapeshift Duel
 #450 shapeshift duel notify atacker
  POD_diablerize.450.t:0 "Diablerie: Shapeshift!"
- POD_diablerize.450.desc.success:0 "Before my eyes, [defender.GetFirstName] mystically transforms into an intangible form. I can't catch [defender.GetHerHim]. I can't even touch [defender.GetHerHim].  And just like that, [defender.GetSheHe]'s gone."
+ POD_diablerize.450.desc.success:0 "Before my eyes, [defender.GetFirstName] mystically transforms into an intangible form. I can't catch [defender.GetHerHim]. I can't even touch [defender.GetHerHim]. And just like that, [defender.GetSheHe]'s gone."
  POD_diablerize.450.desc.failure:0 "[defender.GetFirstName] begins to transform. [defender.GetHerHis] body starts to shapeshirt. [defender.GetSheHe] is not fast enough to escape me!"
  POD_diablerize.450.option.a.success:0 "Attack!"
  POD_diablerize.450.option.a.failure:0 "Foiled!"
@@ -168,7 +168,7 @@
  
 # Prowess Duel, Last Chance to turn back
  POD_diablerize.500.t:0 "Diablerie: The Final Battle"
- POD_diablerize.500.desc:0 "No more running, no more hiding, no more mind games. [defender.GetFirstName] can not get away from me.  It is time for the final conflict."
+ POD_diablerize.500.desc:0 "No more running, no more hiding, no more mind games. [defender.GetFirstName] can not get away from me. It is time for the final conflict."
  POD_diablerize.500.option.a:0 "Attack [defender.GetHerHim]!"
  POD_diablerize.500.option.a.tt.beast:0 "#R Yes! All of [defender.GetHerHis] blood will be mine! ... I mean ours. All of [defender.GetHerHis] blood will be ours!#"
  POD_diablerize.500.option.a.tt.attacker_wins:0 "[attacker.GetFirstName] wins!"
@@ -198,7 +198,7 @@
  POD_diablerize.525.option.b.failure:0 "[attacker.GetSheHe] is now my prisoner." #Stake & Imprison
  POD_diablerize.525.option.c.failure:0 "I will just walk away, victory is sweet enough." #Release
  POD_diablerize.525.option.d.failure:0 "I shall have [attacker.GetHerHis] heart's blood!" #Diaberlize! 
- POD_diablerize.525.option.e.success:0 "I begin to slip into [torpor|E], wondering what my fate will be."   
+ POD_diablerize.525.option.e.success:0 "I begin to slip into [torpor|E], wondering what my fate will be."
 
 #550 defeated attacker notified of victorious defender decision
  POD_diablerize.550.t:0 "Diablerie: Defeat"
@@ -212,10 +212,10 @@
  POD_diablerize.600.t:0 "Diablerie!"
  POD_diablerize.600.desc:0 "To not just kill but devour the soul of another being is among the most heinous actions possible. Most kindred regard it as the worst of crimes. Yet there is nothing the beast desires more.\n\nFinally, [victim.GetFirstName] is within my clutches. Do I drain [victim.GetHerHis] down to the core of [victim.GetHerHis] being? Do I drink [victim.GetHerHis] heart's blood? Do I take all of [victim.GetHerHim]?"
  POD_diablerize.600.option.a:0 "Devour [victim.GetTitledFirstName]'s soul!"
- POD_diablerize.600.option.a.tt:0 "[victim.GetTitledFirstName] is destroyed!"  
- POD_diablerize.600.option.a.tt.beast:0 "#R YES! DO IT!#"   
+ POD_diablerize.600.option.a.tt:0 "[victim.GetTitledFirstName] is destroyed!"
+ POD_diablerize.600.option.a.tt.beast:0 "#R YES! DO IT!#"
  POD_diablerize.600.option.b:0 "Do not [diablerize|E] [victim.GetFirstName]."
- POD_diablerize.600.option.b.tt.beast:0 "#R Don't let them go! [victim.GetSheHe] doesn't deserve the blood! We do!#"    
+ POD_diablerize.600.option.b.tt.beast:0 "#R Don't let them go! [victim.GetSheHe] doesn't deserve the blood! We do!#"
  
  # Attacker decides not to [diablerize|E]
  POD_diablerize.650.t:0 "Mercy?"
@@ -225,14 +225,14 @@
  POD_diablerize.700.t:0 "Amaranth!"
  POD_diablerize.700.option.a:0 "."
  POD_diablerize.700.desc:0 "Devour [victim.GetTitledFirstName]'s soul" 
-  
+
  POD_diablerize.800.t:0 "The Unconquered Soul"
- POD_diablerize.800.desc:0 "I feel [unconquered_soul.GetFirstName] inside my mind, struggling to take control over my body! What have I done?!?"  
+ POD_diablerize.800.desc:0 "I feel [unconquered_soul.GetFirstName] inside my mind, struggling to take control over my body! What have I done?!?"
  POD_diablerize.800.option.a:0 "Resist! I will not be defeated!"
  POD_diablerize.800.option.b:0 "Give in, and let [unconquered_soul.GetFirstName] take over." 
  
  POD_diablerize.4000.t:0 "Diablerie Scheme Foiled!"
- POD_diablerize.4000.desc:0 "Through some twist of fate, my scheme to [diablerize|E] [defender.GetFirstName] has failed."  
+ POD_diablerize.4000.desc:0 "Through some twist of fate, my scheme to [diablerize|E] [defender.GetFirstName] has failed."
  POD_diablerize.4000.option.a:0 "Curses! One night [defender.GetFirstName], your blood will be mine!"
  
  POD_diablerize.250.option.a.tt.defender_wins:0 "The defender escaped!"
@@ -247,13 +247,13 @@
  POD_diablerize.250.option.a.toast:0 "Escaped!"
 
  POD_diablerize.1000.t:0 "Diablerie : The Duel"
- POD_diablerize.1000.desc:0 "No more games, it is time to end this once and for all. Only one of you will walk away from this.\nOne of you seeks power while the other seeks to protect their soul but there are no worthy cause in the world of darkness. The strongest, or more cunning, will win."  
+ POD_diablerize.1000.desc:0 "No more games, it is time to end this once and for all. Only one of you will walk away from this.\nOne of you seeks power while the other seeks to protect their soul but there are no worthy cause in Мир Тьмы. The strongest, or more cunning, will win."
  POD_diablerize.1000.option.a:0 "No turning back now."
-  
+
  POD_diablerize.601.t:0 "Diablerie : Victory!"
- POD_diablerize.601.desc:0 "You defeated the foolish vampire that tried to eat your very soul. The punishment must be up to the gravity of this attempted action."  
+ POD_diablerize.601.desc:0 "You defeated the foolish vampire that tried to eat your very soul. The punishment must be up to the gravity of this attempted action."
  POD_diablerize.601.option.a:0 "I will be merciful and kill you quickly."
-  
+
  POD_diablerize.251.t:0 "Diablerie: Hide!"
  POD_diablerize.251.desc:0 "[defender.GetFirstName] tries to escape from me! Hiding somewhere close probably, or using powers to misled my senses... I need to be attentive to every little detail to catch this coward."
  POD_diablerize.251.option.a:0 "Let's start the chase!"
@@ -322,5 +322,5 @@
  POD_diablerize.256.option.a.failure:0 "What's this...?"
  POD_diablerize.256.option.a.tt.defender_wins:0 "#R IT BURNS!#"
  POD_diablerize.256.option.b.tt.beast:0 "#R Coward! Get in there!#"
-    
+
  

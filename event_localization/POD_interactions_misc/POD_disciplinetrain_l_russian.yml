@@ -1,4 +1,4 @@
-﻿l_english:
+﻿l_russian:
 
  POD_disciplinetrain.100.t:0 "[discipline|E] Training"
  POD_disciplinetrain.100.desc:0 "If your retainer has vampiric blood in [disciplinetrainee.GetHerHis] veins but does not know a [discipline|E] you know, you may train [disciplinetrainee.GetHerHim] in that [discipline|E]. It is not a free process, you will have to share blood with [disciplinetrainee.GetHerHim]. More importantly, you will need to share your experience and accumualted blood resonance. Some [disciplines|E] are more difficult to teach than others, and as such will drain your willpower causing stress. You will teach [disciplinetrainee.GetFirstName] to..."

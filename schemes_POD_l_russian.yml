@@ -1,4 +1,4 @@
-﻿l_english:
+﻿l_russian:
 
  interaction_category_vampire:0 "Vampiric"
 
@@ -27,7 +27,7 @@
  PODrationalize:0 "Rationalize Domination"
  PODrationalize_action:0 "Dominate"
  POD_rationalize_interaction:0 "Rationalize #weak (Scheme)#!"
- POD_rationalize_interaction_desc:0 "Through the [discipline|E] of dominate, invoke the blood to force a being to rationalize a decision you make for them."  
+ POD_rationalize_interaction_desc:0 "Through the [discipline|E] of dominate, invoke the blood to force a being to rationalize a decision you make for them."
  PODrationalize_desc:0 "Through domination, I will get a hook upon [SCHEME.GetTarget.GetShortUINameNoTooltip]!"
  PODrationalize_desc_general:0 "Dominate an individual for a favor."
  scheme_interaction_tt_POD_rationalize_approved:0 "Dominate [recipient.GetFirstName] into rationalizing a hook for me.\nThis will end with a duel between your stewardship and [recipient.GetHerHis] Intrigue."
@@ -39,7 +39,7 @@
  POD_summon:0 "Summon Scheme"
  PODsummon_action:0 "Summon"
  POD_summon_interaction:0 "Summon #weak (Scheme)#!"
- POD_summon_interaction_desc:0 "Through the [discipline|E] of presence, invoke the blood to summon a being to your court."  
+ POD_summon_interaction_desc:0 "Through the [discipline|E] of presence, invoke the blood to summon a being to your court."
  PODsummon_desc:0 "Through use of your mystical presence, [SCHEME.GetTarget.GetShortUINameNoTooltip] will be summoned to your court."
  PODsummon_desc_general:0 "Use presence to summon an individual to your court."
  scheme_interaction_tt_PODsummon_approved:0 "Summon [recipient.GetFirstName].\nThis will end with a duel between your diplomacy and [recipient.GetHerHis] Intrigue."
@@ -104,11 +104,11 @@
  diablerize_my_intrigue:1 "Your Intrigue: $VALUE|=+0$"
  diablerize_my_rival:1 "Your Victim: $VALUE|=+0$"
  I_CAN_ONLY_PLOT_ONE_DIABLERIE_AT_A_TIME_TRIGGER:1 "[TARGET_CHARACTER.GetShortUIName|U] can only plot one [diablerie|E] at a time."
-  
+
  blood_surge:0 "Blood Surge"
  blood_surge_action:0 "Blood Surge"
  blood_surge_desc:0 "Use the power of the blood to increase your vampire abilities."
-  
+
  PODbloodbond:0 "Bloodbond"
  POD_bloodbond:0 "Bloodbond"
  PODbloodbond_action:0 "Bloodbond"
@@ -150,7 +150,7 @@
  ordinationoculi_action:0 "Ordination"
  ordinationoculi_interaction:0 "Ordination #weak (Scheme)#!"
  ordinationoculi_desc:0 "Acknowledge [SCHEME.GetTarget.GetShortUINameNoTooltip] as your pupil, and a fellow hunter."
- ordinationoculi_desc_general:0 "Ordinate a new member of the Oculi Dei"  
+ ordinationoculi_desc_general:0 "Ordinate a new member of the Oculi Dei"
  
  ordinationmurnau:0 "Ordination Scheme"
  ordinationmurnau_action:0 "Ordination"
@@ -162,7 +162,7 @@
  ordinationgantenbein_action:0 "Initiation"
  ordinationgantenbein_interaction:0 "Initiation #weak (Scheme)#!"
  ordinationgantenbein_desc:0 "Acknowledge [SCHEME.GetTarget.GetShortUINameNoTooltip] as your pupil, and a fellow hunter."
- ordinationgantenbein_desc_general:0 "Initiate a new hunter of the Calomena's Forsaken"  
+ ordinationgantenbein_desc_general:0 "Initiate a new hunter of the Calomena's Forsaken"
  
  POD_ghoulify:0 "Ghoul Scheme"
  POD_ghoulify_mortal:0 "Ghoul Scheme"
@@ -261,7 +261,7 @@
  infernalize_scheme:0 "Tempt to Infernalism"
  infernalize_scheme_action:0 "Convert"
  infernalize_scheme_interaction:0 "Convert #weak (Scheme)#!"
- infernalize_scheme_interaction_desc:0 "By using devil-granted powers or a silver tongue, corrupt an individual to unholy causes."  
+ infernalize_scheme_interaction_desc:0 "By using devil-granted powers or a silver tongue, corrupt an individual to unholy causes."
  infernalize_scheme_desc:0 "By lying and invoking infernal powers, [SCHEME.GetTarget.GetShortUINameNoTooltip] will be converted to the dark faith."
  infernalize_scheme_desc_general:0 "Use underhanded techniques to draw a person to the dark side."
  scheme_interaction_tt_infernalize_scheme_approved:0 "Summon [recipient.GetFirstName].\nThis will end with a duel between your intrigue and [recipient.GetHerHis] stewardship."

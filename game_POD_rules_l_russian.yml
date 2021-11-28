@@ -1,4 +1,4 @@
-﻿l_english:
+﻿l_russian:
 
  rule_NPC_vampire_ruler_lifestyle_learning:0 "Ancient Learning"
  setting_NPC_vampire_rulers_do_not_learn_lifestyle_perks:0 "Elders learn no new tricks."
@@ -26,8 +26,8 @@
  setting_banu_haqim_never_darken:0 "Never Darken"
  setting_banu_haqim_never_darken_desc:0 "Banu Haqim will not have a obsidian dark visual effect as they age."
 
- rule_world_of_darkness:0 "World of Darkness"
- setting_world_of_monsters:0 "World of Darkness"
+ rule_world_of_darkness:0 "Мир Тьмы"
+ setting_world_of_monsters:0 "Мир Тьмы"
  setting_world_of_monsters_desc:0 "Most landed characters are supernatural creatures or those that hunt them."
  setting_world_of_minions_and_monsters:0 "World of Shadow"
  setting_world_of_minions_and_monsters_desc:0 "Most landed characters are supernatural creatures or those that serve them or hunt them."
@@ -35,10 +35,10 @@
  setting_world_of_minions_desc:0 "Most landed characters are the servitors of supernaturals creatures or those that hunt them."
  setting_world_of_mortals_player_knows:0 "World of Secrets"
  setting_world_of_mortals_player_knows_desc:0 "The world is ignorant of the horrors that stalk the night, but the player character knows all too well..."
- setting_world_of_mortals:0 "World of Ignorance"
+ setting_world_of_mortals:0 "Мир невежества"
  setting_world_of_mortals_desc:0 "Most landed characters are ignorant of the supernatural, even the player character."
  
- rule_splats:0 "Supernatural Dominance"
+ rule_splats:0 "Сверхъестественное господство"
  setting_vampires:0 "Vampire: the Masquerade"
  setting_vampires_desc:0 "The Kindred hold most landed titles."
  setting_hunters:0 "Dark Ages Inquisitor"
@@ -58,8 +58,8 @@
  setting_vampires_vs_mages:0 "Massasa War"
  setting_vampires_vs_mages_desc:"Most landed title characters are either Kindred of Mages."
  setting_mortals:0 "Mortal: the Innocent"
- setting_mortals_desc:0 "Most landed titles are mortals who are ignorant of the World of Darkness"
- setting_all_splats:0 "World of Darkness"
+ setting_mortals_desc:0 "Most landed titles are mortals who are ignorant of Мир Тьмы"
+ setting_all_splats:0 "Мир Тьмы"
  setting_all_splats_desc:0 "All supernatural creatures available will be included in the world."
  
  rule_wod_rule_set:0 "WoD Rule Set"

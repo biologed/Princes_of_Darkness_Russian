@@ -1,4 +1,4 @@
-﻿l_english:
+﻿l_russian:
 
  POD_insanity.001.t:0 "Gifts of madness"
  POD_insanity.001.desc:0 "Everything is ready, now i can share my madness with [defender.GetFirstName]! [defender.GetSheHe|U] will be grateful for such gifts, won't [defender.GetSheHe]?"
@@ -16,8 +16,8 @@
  POD_insanity.001.option.d.tt.beast:0 "#R Oh, cruel truth! #"
  POD_insanity.001.option.e:0 "No gifts for [defender.GetHerHim]"
  POD_insanity.001.option.e.tt:0 "You will stop your attempts to inflict insanity on [defender.GetFirstName]"
- POD_insanity.001.option.e.tt.beast:0 "#R Why do you stop, fool?! #"  
-     
+ POD_insanity.001.option.e.tt.beast:0 "#R Why do you stop, fool?! #"
+
 POD_insanity.001.option.a.desc:0 "Learning conflict"
 POD_insanity.001.option.b.desc:0 "Intrigue conflict"
 POD_insanity.001.option.c.desc:0 "Martial conflict"

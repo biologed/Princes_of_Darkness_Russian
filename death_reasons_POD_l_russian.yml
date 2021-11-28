@@ -1,4 +1,4 @@
-﻿l_english:
+﻿l_russian:
  death_diablerie:0 "was consumed"
  death_diablerie_killer:0 "was consumed by [TARGET_CHARACTER.GetUIName]"
  death_unknown_diablerie:0 "was consumed by an unknown Kindred"

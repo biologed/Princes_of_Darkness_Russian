@@ -1,4 +1,4 @@
-﻿l_english:
+﻿l_russian:
  mithras_bane_modifier:0 "Mithras' Bane"
  mithras_bane_modifier_desc:0 "This prestigious Vampire has evicted Mithras and his ilk from Britannia. Such a feat is known far and wide."
  politically_secure_modifier:0 "Politically Secure"
@@ -35,7 +35,7 @@
  eternal_caliph_modifier_desc:0 "The victorious Eternal Caliph of the [ashirra|E] is a being of immense spiritual and temporal authority."
  ashirra_castle_modifier:0 "[ashirra|E] Castel Del'Ombro"
  ashirra_castle_modifier_desc:0 "As [clan|E] Lasombra comes to be dominated by the [ashirra|E], a new, more fitting, headquarter is being built."
- impressed_westerner_opinion:0 "Impressed Western Gangrel"             
+ impressed_westerner_opinion:0 "Impressed Western Gangrel"
  collapse_civilisation_modifier:0 "Collapse of Civilization"
  collapse_civilisation_modifier_desc:0 "The wolves are at the door, and you are barely keeping them out. Your control doesn't extend much more than your throne room now."
  alpha_gangrel_modifier:0 "Alpha Gangrel"
@@ -77,7 +77,7 @@
  demons_flavor:0 "#F Fallen Angels from the doomed Lucifer's rebellion. Their abyssal prison has weaknesses, and they can be summoned to the mortal plane and bound at a great cost. #!"
  DEMONS_LEGACY_PERK_EFFECT:0 "#F This legacy perk is only unlockable by achieving the Via Diabolis special objective. #!" 
  VENTRUE_OBJECTIVE_LEGACY_PERK_EFFECT:0 "#F This legacy perk is only unlockable by achieving the Ventrue special objective. #!" 
- ZMEI_LEGACY_PERK_EFFECT:0 "#F This legacy perk is only unlockable by achieving the Nosferatu special objective. #!"  
+ ZMEI_LEGACY_PERK_EFFECT:0 "#F This legacy perk is only unlockable by achieving the Nosferatu special objective. #!"
  rebel_conqueror_modifier:0 "The Rebel Conqueror of the West"
  rebel_conqueror_modifier_desc:0 "You bow to no Court or Ancestor. In your lands, your will is supreme, and woe to those who challenge you."
  first_magaji_modifier:0 "First Magaji"

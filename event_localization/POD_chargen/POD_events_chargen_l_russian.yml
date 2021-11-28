@@ -1,7 +1,7 @@
-﻿l_english:
+﻿l_russian:
 
  POD_chargen.1.t:0 "Welcome to the Character Generator"
- POD_chargen.1.desc:0 "With this series of events, you can customize your character for the World of Darkness. The process will remove all your existing supernatural traits. You will be able to choose your supernatural creature type, your [clan|E], your house, your generation, potentially your [Sire|E], your [disciplines|E], your road and path and your predator type.\n\nDepending on your base character, you may need to remove some legacy relatives."
+ POD_chargen.1.desc:0 "With this series of events, you can customize your character for Мир Тьмы. The process will remove all your existing supernatural traits. You will be able to choose your supernatural creature type, your [clan|E], your house, your generation, potentially your [Sire|E], your [disciplines|E], your road and path and your predator type.\n\nDepending on your base character, you may need to remove some legacy relatives."
  POD_chargen.1.option.a:0 "I really want to the use Character Generator"
  POD_chargen.1.option.a.tt:0 "#R BE SURE YOU WANT TO DO THIS! THERE IS NO GOING BACK! THIS WILL WIPE ALL YOUR EXISTING SUPERNATURAL TRAITS, MODIFIERS AND SECRETS!!!#"
  POD_chargen.1.option.b:0 "Make no changes and quit Character Generator"
@@ -24,13 +24,13 @@
  POD_chargen.3.option.a:0 "As it was written in the Book of Nod: Caine was cursed by God"
  POD_chargen.3.option.i:0 "The [ashirra|E] say Kayyun was cursed by Allah" 
  POD_chargen.3.option.c:0 "The stories say vampires descend from Cagn"
- POD_chargen.3.option.b:0 "The Dark Mother says vampires have many origins"  
+ POD_chargen.3.option.b:0 "The Dark Mother says vampires have many origins"
  POD_chargen.3.option.h:0 "Set who took his revenge upon Osiris" 
  POD_chargen.3.option.g:0 "Odin rune-marked the dying warrior Canarl" 
  POD_chargen.3.option.f:0 "Created by the Pitris, Zapathasura hunts their fallen servants"
  POD_chargen.3.option.e:0 "The curse of the Wan Kuei, the Ten Thousand Demons" 
  POD_chargen.3.option.d:0 "I don't know where vampires come from" 
- POD_chargen.3.option.j:0 "Maybe I am not a vampire...."
+ POD_chargen.3.option.j:0 "Maybe I am not a vampire..."
  POD_chargen.3.option.j.tt:0 "You reconsider which kind of supernatural to play."
  POD_chargen.3.option.k:0 "I would prefer to choose my lineage on my own."
  POD_chargen.3.option.k.t:0 "By using a character interaction on any other living vampire, you will be able to select a character to be related to."
@@ -81,7 +81,7 @@
  POD_chargen.8.option.d:0 "Callisti"
  POD_chargen.8.option.e:0 "Matthew Lubbock"
  POD_chargen.8.option.f:0 "Apollo"
- POD_chargen.8.option.i:0 "I have formed my own cadet house of the Toreador [clan|E]."  #7th Generation
+ POD_chargen.8.option.i:0 "I have formed my own cadet house of the Toreador [clan|E]." #7th Generation
  POD_chargen.8.option.g:0 "The line to Arikel is unclear" #10th Generation
  POD_chargen.8.option.g.tt:0 "While you have a [GetTrait('toreador').GetName( GetPlayer )] [clan|E] trait, you are not part of the [clan|E] Toreador [dynasty|E]. You keep your current house, [house_head.GetHouse.GetBaseName]." 
  POD_chargen.8.option.h:0 "Maybe I am not a Toreador..."
@@ -95,7 +95,7 @@
  POD_chargen.9.option.e:0 "Panehesy"
  POD_chargen.9.option.f:0 "The Eater"
  POD_chargen.9.option.g:0 "The Plague-Bride"
- POD_chargen.9.option.j:0 "I have formed my own cadet house of the Malkavian [clan|E]."   #7th Generation
+ POD_chargen.9.option.j:0 "I have formed my own cadet house of the Malkavian [clan|E]." #7th Generation
  POD_chargen.9.option.h:0 "The line to Malkav is unclear" #10th Generation
  POD_chargen.9.option.h.tt:0 "While you have a [GetTrait('malkavian').GetName( GetPlayer )] [clan|E] trait, you are not part of the [clan|E] Malkavian [dynasty|E]. You keep your current house, [house_head.GetHouse.GetBaseName]."
  POD_chargen.9.option.i:0 "Maybe I am not a Malkavian..."
@@ -109,7 +109,7 @@
  POD_chargen.10.option.e:0 "Nkulu Zao of the Laibon"
  POD_chargen.10.option.f:0 "The Tremere, the Warlock Usurpers that seized Saulot's blood"
  POD_chargen.10.option.g:0 "Some say the Baali are of Saulot’s blood…"
- POD_chargen.10.option.h:0 "I have formed my own cadet house of the Salubri [clan|E]."  #7th Generation
+ POD_chargen.10.option.h:0 "I have formed my own cadet house of the Salubri [clan|E]." #7th Generation
  POD_chargen.10.option.i:0 "The line to Saulot is unclear" #10th Generation
  POD_chargen.10.option.i.tt:0 "While you have a [GetTrait('salubri').GetName( GetPlayer )] [clan|E] trait, you are not part of the [clan|E] Salubri [dynasty|E]. You keep your current house, [house_head.GetHouse.GetBaseName]." 
  POD_chargen.10.option.j:0 "Maybe I am not a Salubri..."
@@ -121,7 +121,7 @@
  POD_chargen.11.option.c:0 "Mokur"
  #POD_chargen.11.option.d:0 "Yavok"
  POD_chargen.11.option.e:0 "The line to Salout is unclear" #10th Generation
- POD_chargen.11.option.e.tt:0 "While you have a [GetTrait('salubri').GetName( GetPlayer )] [clan|E] trait, you are not part of the [clan|E] Salubri [dynasty|E]. You keep your current house, [house_head.GetHouse.GetBaseName]."  
+ POD_chargen.11.option.e.tt:0 "While you have a [GetTrait('salubri').GetName( GetPlayer )] [clan|E] trait, you are not part of the [clan|E] Salubri [dynasty|E]. You keep your current house, [house_head.GetHouse.GetBaseName]."
  POD_chargen.11.option.f:0 "Maybe I am not of the caste of Healers..."
 
  POD_chargen.12.t:0 "Salubri Caste of Warriors"
@@ -129,7 +129,7 @@
  POD_chargen.12.option.a:0 "Samiel"
  POD_chargen.12.option.b:0 "Twilight"
  POD_chargen.12.option.c:0 "The line to Salout is unclear" #8th Generation
- POD_chargen.12.option.c.tt:0 "While you have a [GetTrait('salubri').GetName( GetPlayer )] [clan|E] trait, you are not part of the [clan|E] Salubri [dynasty|E]. You keep your current house, [house_head.GetHouse.GetBaseName]."  
+ POD_chargen.12.option.c.tt:0 "While you have a [GetTrait('salubri').GetName( GetPlayer )] [clan|E] trait, you are not part of the [clan|E] Salubri [dynasty|E]. You keep your current house, [house_head.GetHouse.GetBaseName]."
  POD_chargen.12.option.d:0 "Maybe I am not of the caste of Warriors..."
 
  POD_chargen.13.t:0 "Wu Zao, Salubri Caste of Watchers"
@@ -137,7 +137,7 @@
  POD_chargen.13.option.a:0 "Zao-Zei"
  POD_chargen.13.option.b:0 "Zao-Xue"
  POD_chargen.13.option.c:0 "The line to Zao-lat is unclear" #10th Generation
- POD_chargen.13.option.c.tt:0 "While you have a [GetTrait('salubri').GetName( GetPlayer )] [clan|E] trait, you are not part of the [clan|E] Salubri [dynasty|E]. You keep your current house, [house_head.GetHouse.GetBaseName]."  
+ POD_chargen.13.option.c.tt:0 "While you have a [GetTrait('salubri').GetName( GetPlayer )] [clan|E] trait, you are not part of the [clan|E] Salubri [dynasty|E]. You keep your current house, [house_head.GetHouse.GetBaseName]."
  POD_chargen.13.option.d:0 "Maybe I am not of the Wu Zao caste..."
 
  POD_chargen.14.t:0 "[clan|E] Tremere, the Warlock Usurpers"
@@ -165,7 +165,7 @@
  #POD_chargen.15.option.d:0 "Seker"
  POD_chargen.15.option.g:0 "I have formed my own cadet house of the Baali." #7th Generation
  POD_chargen.15.option.e:0 "The bloodline to the ancients is unclear" #10th Generation
- POD_chargen.15.option.e.tt:0 "While you have a [GetTrait('baali').GetName( GetPlayer )] [clan|E] trait, you are not part of the [clan|E] Baali [dynasty|E]. You keep your current house, [house_head.GetHouse.GetBaseName]."  
+ POD_chargen.15.option.e.tt:0 "While you have a [GetTrait('baali').GetName( GetPlayer )] [clan|E] trait, you are not part of the [clan|E] Baali [dynasty|E]. You keep your current house, [house_head.GetHouse.GetBaseName]."
  POD_chargen.15.option.f:0 "Maybe I am not Baali..."
 
  POD_chargen.16.t:0 "Tzimisce, Clan of Shapers"
@@ -185,9 +185,9 @@
  POD_chargen.16.option.r:0 "Dracula"
  POD_chargen.16.option.s:0 "Hrothgar" 
  POD_chargen.16.option.t:0 "Andeleon"
- POD_chargen.16.option.m:0 "I have formed my own cadet house of the Tzimisce [clan|E]."  #7th Generation
+ POD_chargen.16.option.m:0 "I have formed my own cadet house of the Tzimisce [clan|E]." #7th Generation
  POD_chargen.16.option.i:0 "The bloodline to The Eldest is unclear" #10th Generation
- POD_chargen.16.option.i.tt:0 "While you have a [GetTrait('tzimisce').GetName( GetPlayer )] [clan|E] trait, you are not part of the [clan|E] Tzimisce [dynasty|E]. You keep your current house, [house_head.GetHouse.GetBaseName]."  
+ POD_chargen.16.option.i.tt:0 "While you have a [GetTrait('tzimisce').GetName( GetPlayer )] [clan|E] trait, you are not part of the [clan|E] Tzimisce [dynasty|E]. You keep your current house, [house_head.GetHouse.GetBaseName]."
  POD_chargen.16.option.j:0 "The Tremere, the Warlock Usurpers stole the blood of [clan|E] Tzimisce"
  #POD_chargen.16.option.k:0 "The Tremere stole blood to create a bloodline of Gargoyles" 
  POD_chargen.16.option.l:0 "Maybe I am not a Tzimisce..."
@@ -205,9 +205,9 @@
  POD_chargen.17.option.h:0 "Nefer-meri-Isis"
  POD_chargen.17.option.i:0 "Tinia"
  POD_chargen.17.option.j:0 "Veddartha"
- POD_chargen.17.option.m:0 "I have formed my own cadet house of the Ventrue [clan|E]."  #7th Generation
+ POD_chargen.17.option.m:0 "I have formed my own cadet house of the Ventrue [clan|E]." #7th Generation
  POD_chargen.17.option.k:0 "The bloodline to Ventrue is unclear. How strange." #10th Generation
- POD_chargen.17.option.k.tt:0 "While you have a [GetTrait('ventrue').GetName( GetPlayer )] [clan|E] trait, you are not part of the [clan|E] Ventrue [dynasty|E]. You keep your current house, [house_head.GetHouse.GetBaseName]."   
+ POD_chargen.17.option.k.tt:0 "While you have a [GetTrait('ventrue').GetName( GetPlayer )] [clan|E] trait, you are not part of the [clan|E] Ventrue [dynasty|E]. You keep your current house, [house_head.GetHouse.GetBaseName]."
  POD_chargen.17.option.l:0 "Maybe I am not a Ventrue..."
 
  POD_chargen.18.t:0 "Brujah, the Learned [clan|E]"
@@ -223,9 +223,9 @@
  POD_chargen.18.option.i:0 "Bayt Mushakis"
  POD_chargen.18.option.j:0 "Osebo"
  POD_chargen.18.option.k:0 "Well, actually, my bloodline does not descend from Troile"
- POD_chargen.18.option.n:0 "I have formed my own cadet house of the Brujah [clan|E]."  #7th Generation
+ POD_chargen.18.option.n:0 "I have formed my own cadet house of the Brujah [clan|E]." #7th Generation
  POD_chargen.18.option.l:0 "The bloodline to Troile is unclear" #10th Generation
- POD_chargen.18.option.l.tt:0 "While you have a [GetTrait('brujah').GetName( GetPlayer )] [clan|E] trait, you are not part of the [clan|E] Brujah [dynasty|E]. You keep your current house, [house_head.GetHouse.GetBaseName]."   
+ POD_chargen.18.option.l.tt:0 "While you have a [GetTrait('brujah').GetName( GetPlayer )] [clan|E] trait, you are not part of the [clan|E] Brujah [dynasty|E]. You keep your current house, [house_head.GetHouse.GetBaseName]."
  POD_chargen.18.option.m:0 "Maybe I am not a Brujah..."
 
  POD_chargen.19.t:0 "Cappadocians, Clan of Death"
@@ -235,8 +235,8 @@
  POD_chargen.19.option.b:0 "Lazarus"
  POD_chargen.19.option.c:0 "Byzar"
  POD_chargen.19.option.d:0 "Giovanni"
- POD_chargen.19.option.e:0 "Unre"  
- POD_chargen.19.option.f:0 "Lamia"  # Harbringers of Skulls
+ POD_chargen.19.option.e:0 "Unre"
+ POD_chargen.19.option.f:0 "Lamia" # Harbringers of Skulls
  POD_chargen.19.option.g:0 "Mla Watu"
  POD_chargen.19.option.h:0 "Premascine"
  POD_chargen.19.option.i:0 "Putanesca"
@@ -244,7 +244,7 @@
  POD_chargen.19.option.k:0 "Dunsirn"
  POD_chargen.19.option.n:0 "I have formed my own cadet house of the Cappadocian [clan|E]." #7th Generation
  POD_chargen.19.option.l:0 "The bloodline to Cappadocius is unclear" #10th Generation
- POD_chargen.19.option.l.tt:0 "While you have a [GetTrait('cappadocian').GetName( GetPlayer )] [clan|E] trait, you are not part of the [clan|E] Cappadocian [dynasty|E]. You keep your current house, [house_head.GetHouse.GetBaseName]."  
+ POD_chargen.19.option.l.tt:0 "While you have a [GetTrait('cappadocian').GetName( GetPlayer )] [clan|E] trait, you are not part of the [clan|E] Cappadocian [dynasty|E]. You keep your current house, [house_head.GetHouse.GetBaseName]."
  POD_chargen.19.option.m:0 "Maybe I am not a Cappadocian..."
 
  POD_chargen.20.t:0 "Lasombra, Clan of Night"
@@ -262,8 +262,8 @@
  POD_chargen.20.option.i.tt:0 "You reconsider which of the second generation you descend."
  POD_chargen.20.option.j:0 "Ramanga" 
  POD_chargen.20.option.k:0 "Blue Eye" 
- POD_chargen.20.option.l:0 "Nahir"  
- POD_chargen.20.option.m:0 "Narses"  
+ POD_chargen.20.option.l:0 "Nahir"
+ POD_chargen.20.option.m:0 "Narses"
  POD_chargen.20.option.n:0 "I have formed my own cadet house of the Lasombra [clan|E]." #7th Generation
 
  POD_chargen.21.t:0 "Nosferatu, the Hidden [clan|E]"
@@ -301,7 +301,7 @@
  POD_chargen.22.option.p:0 "Porphyrion"
  POD_chargen.22.option.q:0 "Osiris"
  POD_chargen.22.option.k:0 "I have formed my own cadet house of the Setite [clan|E]." #7th Generation
- POD_chargen.22.option.i:0 "The bloodline to Set is unclear"  #10th Generation
+ POD_chargen.22.option.i:0 "The bloodline to Set is unclear" #10th Generation
  POD_chargen.22.option.i.tt:0 "While you have a [GetTrait('setite').GetName( GetPlayer )] [clan|E] trait, you are not part of the Followers of Set [dynasty|E]. You keep your current house, [house_head.GetHouse.GetBaseName]." 
  POD_chargen.22.option.j:0 "Maybe I am not a Setite..."
 
@@ -354,7 +354,7 @@
  POD_chargen.26.option.k:0 "Aajav" 
  POD_chargen.26.option.l:0 "Vola" 
  POD_chargen.26.option.m:0 "Akunanse" 
- POD_chargen.26.option.n:0 "Wah'sheen"  
+ POD_chargen.26.option.n:0 "Wah'sheen"
  POD_chargen.26.option.j:0 "I have formed my own cadet house of the Gangrel [clan|E]." #7th Generation
  POD_chargen.26.option.h:0 "The bloodline to Ennoia is unclear" #10th Generation
  POD_chargen.26.option.h.tt:0 "While you have a [GetTrait('gangrel').GetName( GetPlayer )] [clan|E] trait, you are not part of the [clan|E] Gangrel [dynasty|E]. You keep your current house, [house_head.GetHouse.GetBaseName]." 
@@ -390,9 +390,9 @@
  POD_chargen.30.option.b:0 "Rakshasas, the Nosferatu of India"
  
  POD_chargen.31.t:0 "The Chandalas"
- POD_chargen.31.desc:0 "The untouchable jati of the Rakta-sadhu"  
+ POD_chargen.31.desc:0 "The untouchable jati of the Rakta-sadhu"
  POD_chargen.31.option.a:0 "Chandalas, the clanless Caitiff"
- POD_chargen.31.option.b:0 "Nagaraja, untouchable eaters of the dead"  
+ POD_chargen.31.option.b:0 "Nagaraja, untouchable eaters of the dead"
  POD_chargen.31.option.c:0 "Naktanchara, Buddhist heretics of the Daitya" 
  POD_chargen.31.option.d:0 "Pisacha, the Cappadocians of India"
  POD_chargen.31.option.e:0 "Kinnaree, Toreador"
@@ -401,7 +401,7 @@
  POD_chargen.32.desc:0 "Which house do you claim lineage?"
  POD_chargen.32.option.a:0 "Nakurtum"
  POD_chargen.32.option.b:0 "Anosh"
- POD_chargen.32.option.f:0 "I have formed my own cadet house of the Banu Haqim." #7th Generation  
+ POD_chargen.32.option.f:0 "I have formed my own cadet house of the Banu Haqim." #7th Generation
  POD_chargen.32.option.d:0 "The line to Haqim is unclear" #10th Generation
  POD_chargen.32.option.d.tt:0 "While you have a [GetTrait('assamite').GetName( GetPlayer )] [clan|E] trait, you are not part of the Banu Haqim [dynasty|E]. You keep your current house, [house_head.GetHouse.GetBaseName]." 
  POD_chargen.32.option.e:0 "Maybe I am not of the caste of Viziers..."
@@ -423,7 +423,7 @@
  POD_chargen.510.t:0 "The Accounting"
  POD_chargen.510.desc:0 "Your relation to the head of [house|E] [house_head.GetHouse.GetBaseName]?"
  POD_chargen.510.option.a:0 "I am the childe of [house_head.GetTitledFirstName]."
- POD_chargen.510.option.b:0 "My line of descent to [house_head.GetTitledFirstName] is unclear."  #10th Generation
+ POD_chargen.510.option.b:0 "My line of descent to [house_head.GetTitledFirstName] is unclear." #10th Generation
  POD_chargen.510.option.c:0 "I have formed my own cadet house." #7th Generation
  POD_chargen.510.option.d:0 "Perhaps I am not descended from [house|E] [house_head.GetHouse.GetBaseName]..."
  POD_chargen.510.option.d.tt:0 "You reconsider which house to join."
@@ -434,7 +434,7 @@
 # POD_chargen.520.option.a.tt:0 "Your age remains the same."
 # POD_chargen.520.option.b:0 "An ancilla, I have been a vampire for more than a century"
 # POD_chargen.520.option.c:0 "For more than two hundred and fifty years I have stalked the night, I am an elder." 
-# POD_chargen.520.option.d:0 "I am an ancient who has seen a milennia of time pass."  
+# POD_chargen.520.option.d:0 "I am an ancient who has seen a milennia of time pass."
 # POD_chargen.520.option.e:0 "Perhaps I am not descended from [house|E] [house_head.GetHouse.GetBaseName]..."
 # POD_chargen.520.option.e.tt:0 "You reconsider my relation with my [Sire|E]."
 
@@ -462,7 +462,7 @@
  POD_chargen.601.l:0 "16th Generation."
 
  POD_chargen.610.t:0 "[disciplines|E]"
- POD_chargen.610.desc:0 "The powers of the vampires are called [disciplines|E]. Different clans and bloodlines have different inherent [discipline|E]. [disciplines|E] provide passive bonuses to attributes, but some also have active powers invoked through decisions or schemes. Invoking disciplines are likely to increase blood hunger. You will now confirm your [clan|E] and [discipline|E] set. This is your last chance to move backward in the character generate and change your house, [clan|E] or splat."
+ POD_chargen.610.desc:0 "The powers of the vampires are called [disciplines|E]. Different clans and bloodlines have different inherent [discipline|E]. [disciplines|E] provide passive bonuses to attributes, but some also have active powers invoked through decisions or schemes. Invoking disciplines are likely to increase Жажда крови. You will now confirm your [clan|E] and [discipline|E] set. This is your last chance to move backward in the character generate and change your house, [clan|E] or splat."
  POD_chargen.610.option.a:0 "Banu Haqim Warriors have Blood Sorcery, Celerity and Obfuscate."
  POD_chargen.610.option.b:0 "Banu Haqim Viziers have Auspex, Blood Sorcery and Presence."
  POD_chargen.610.option.c:0 "Banu Haqim Sorcerers have Auspex, Blood Sorcery and Celerity."
@@ -521,7 +521,7 @@
  POD_chargen.620.option.a:0 "My blood potency is set"
  
  POD_chargen.650.t:0 "The Masquerade"
- POD_chargen.650.desc:0 "The Silence of Blood is keeping your supernatural nature secret from mortals.  If the kine know you are a monster, they may try to destroy you. Worse. other supernaturals may also seek your destruction to ensure their own survival. Some supernaturals eschew secrecy and instead revel in the dread caused by revealing the monstrous nature. Using blatant supernatural powers in public, creating vampiric childer and ghouls, being in lax in hiding feeding and leaving a trail of corpses; all risk increasing a vampire's masquerade exposure."
+ POD_chargen.650.desc:0 "The Silence of Blood is keeping your supernatural nature secret from mortals. If the kine know you are a monster, they may try to destroy you. Worse. other supernaturals may also seek your destruction to ensure their own survival. Some supernaturals eschew secrecy and instead revel in the dread caused by revealing the monstrous nature. Using blatant supernatural powers in public, creating vampiric childer and ghouls, being in lax in hiding feeding and leaving a trail of corpses; all risk increasing a vampire's masquerade exposure."
  POD_chargen.650.option.a:0 "My supernatural nature is hidden." 
  
  POD_chargen.670.t:0 "The Hunger"
@@ -576,7 +576,7 @@
  POD_chargen.730.option.f:0 "Mithraic Mysteries"
  POD_chargen.730.option.g:0 "Codex Legatis, Codex of Legacies"
  POD_chargen.730.option.h:0 "Tariq el-Harb, Path of Chivalry"
-  
+
  POD_chargen.740.t:0 "Road of Heaven"
  POD_chargen.740.desc:0 "What path of heaven do you follow?"
  POD_chargen.740.option.a:0 "Via Caeli"
@@ -641,7 +641,7 @@
  POD_chargen.780.desc:0 "What path of blood do you follow?"
  POD_chargen.780.option.a:0 "Tariq el-Haqim"
  POD_chargen.780.option.b:0 "Path of Righteousness"
-  
+
  POD_chargen.790.t:0 "Road of Bones"
  POD_chargen.790.desc:0 "What path of bones do you follow?"
  POD_chargen.790.option.a:0 "Via Ossium"
@@ -690,13 +690,13 @@
  POD_chargen.840.option.b:0 "Manus Nigrum, the Western Hand"
  POD_chargen.840.option.c:0 "Path of Self-Focus"
  POD_chargen.840.option.d:0 "Path of the Scorched Heart"
-  
+
  POD_chargen.850.t:0 "Road of Zarathustra"
  POD_chargen.850.desc:0 "What path of Zarathustra do you follow?"
  POD_chargen.850.option.a:0 "Road of Agra Mainyu"
  POD_chargen.850.option.b:0 "Road of Ahura Mazda"
  POD_chargen.850.option.c:0 "Path of Daena"
-   
+
  POD_chargen.860.t:0 "Road of Set"
  POD_chargen.860.desc:0 "What path of Setites do you follow?"
  POD_chargen.860.option.a:0 "Via Set"
@@ -757,9 +757,9 @@
  POD_chargen.1030.option.b.herd:0 "A minor noble joins your court as herd."
  POD_chargen.1030.option.c:0 "Cultist"
  POD_chargen.1030.option.c.herd:0 "Three members of your cult will join you as herd."
- POD_chargen.1030.option.c.tt:0 "Cultists can never reduce their Masquerade Exposure below suspicious."   
+ POD_chargen.1030.option.c.tt:0 "Cultists can never reduce their Masquerade Exposure below suspicious."
  POD_chargen.1030.option.d:0 "Consensualist"
- POD_chargen.1030.option.d.tt:0 "Consensualists can never reduce their Masquerade Exposure below suspicious."   
+ POD_chargen.1030.option.d.tt:0 "Consensualists can never reduce their Masquerade Exposure below suspicious."
  POD_chargen.1030.option.e:0 "I think I have a different approach..."
 
  POD_chargen.1040.t:0 "Tell me Lies"
@@ -767,7 +767,7 @@
  POD_chargen.1040.option.a:0 "Cauchemar"
  POD_chargen.1040.option.b:0 "Familias" 
  POD_chargen.1040.option.b.herd:0 "The family joins your herd."
- POD_chargen.1040.option.b.tt:0 "Familias can never reduce their Masquerade Exposure below suspicious."  
+ POD_chargen.1040.option.b.tt:0 "Familias can never reduce their Masquerade Exposure below suspicious."
  POD_chargen.1040.option.c:0 "Footpad"
  POD_chargen.1040.option.d:0 "I think I have a different approach..."
 
@@ -846,7 +846,7 @@
  POD_chargen.1300.option.f:0 "Maybe I am not a revenant"
  
  POD_chargen.1310.t:0 "Zadruga"
- POD_chargen.1310.desc:0 "The Eldest spread his blood among his mortal servants.  These thralls bred the first Zadruga.  Do you belong to one of the more noteworthy Zadruga bloodlines or something more obscure?"
+ POD_chargen.1310.desc:0 "The Eldest spread his blood among his mortal servants. These thralls bred the first Zadruga. Do you belong to one of the more noteworthy Zadruga bloodlines or something more obscure?"
  POD_chargen.1310.option.a:0 "Obertus, ancient are revered scholars"
  POD_chargen.1310.option.b:0 "Grimaldi, agents manipulating mortal society"
  POD_chargen.1310.option.c:0 "Szantovich, decadent and debauched relics"
@@ -913,7 +913,7 @@
  POD_chargen.1370.option.a:0 "My supernatural nature is hidden." 
  
  POD_chargen.1380.t:0 "The Hunger"
- POD_chargen.1380.desc:0 "The Beast is hungry. Vampires sustain their immortal existence through blood. Blood also fuels their supernatural powers. That blood still flows in the veins or revenants. Using your supernatural abilities like [disciplines|E] or fantastical healing has a chance to increase your hunger for blood. The more craving a revenant has for vampire blood, the more irrational, desperate, violent and stressed they become. Overtime, revenants transform some of their mortal blood into vampiric blood.... effectively cannibalizing themselves.  Revenants can also reduce their hunger by drinking the blood of vampires."
+ POD_chargen.1380.desc:0 "The Beast is hungry. Vampires sustain their immortal existence through blood. Blood also fuels their supernatural powers. That blood still flows in the veins or revenants. Using your supernatural abilities like [disciplines|E] or fantastical healing has a chance to increase your hunger for blood. The more craving a revenant has for vampire blood, the more irrational, desperate, violent and stressed they become. Overtime, revenants transform some of their mortal blood into vampiric blood... effectively cannibalizing themselves. Revenants can also reduce their hunger by drinking the blood of vampires."
  POD_chargen.1380.option.a:0 "Dare I use the powers of my dark gift?"
 
  POD_chargen.1400.t:0 "The Inquisition Orders"
@@ -928,7 +928,7 @@
  POD_chargen.1400.option.h:0 "Maybe I'm not a hunter"
  
  POD_chargen.1500.t:0 "Hunters Hunted"
- POD_chargen.1500.desc:0 "Not all hunters are part of the Shadow Inquisition. Many mortals learn of the monsters of the world of darkness, and with grit and determination they choose to fight. Some hunters were once members of the Shadow Inquisition, but found the requirements of the Church too cumbersome and left the orders; but they continue to hunt the undead. Not all hunters persue the unliving do so for noble reasons.\nIn 1230, being a hunter not of the Shadow Inquisition is a more difficult situation."
+ POD_chargen.1500.desc:0 "Not all hunters are part of the Shadow Inquisition. Many mortals learn of the monsters of Мир Тьмы, and with grit and determination they choose to fight. Some hunters were once members of the Shadow Inquisition, but found the requirements of the Church too cumbersome and left the orders; but they continue to hunt the undead. Not all hunters persue the unliving do so for noble reasons.\nIn 1230, being a hunter not of the Shadow Inquisition is a more difficult situation."
  POD_chargen.1500.option.a:0 "An independent hunter with true faith"
  POD_chargen.1500.option.b:0 "An independent hunter without true faith"
  POD_chargen.1500.option.c:0 "Calomena's Forsaken"

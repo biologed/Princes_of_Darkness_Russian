@@ -1,4 +1,4 @@
-﻿l_english:
+﻿l_russian:
 
  PODanarchrevolt.0002.t:0 "The Anarch Revolt"
  PODanarchrevolt.0002.desc:0 "As the fires of the Inquisition rage across Europe, things grow ever more dire for Kindred society. Young vampires, angered by their use as rather flammable meat-shields against the soldiers of God, have risen up against their Elders in what is now being called the Anarch Revolt.\nSo far the Revolt consists primarily of neonates, Furores and Brujah with a few opportunists thrown in. But some are worried that it could continue to snowball if nothing is done about it. These Anarchs are weak individually, but they fight relentlessly for something rare to Kindred: a cause."
@@ -14,7 +14,7 @@
  PODanarchrevolt.0004.b:0 "...perhaps it is time to rethink my position"
  lasombra_revolt_effect_message:0 "[clan|E] Lasombra is converting to the Anarch cause. Only the most powerful of their rulers resists." 
  slayer_of_gods:0 "Slayer of Gods"
- slayer_of_gods_desc:0 "This character has, arguably, slain one of the all powerful [antediluvian|E]. He commands respect and fear in equal measure."  
+ slayer_of_gods_desc:0 "This character has, arguably, slain one of the all powerful [antediluvian|E]. He commands respect and fear in equal measure."
  PODanarchrevolt.0006.t:0 "The Revolt : Death of Absimilliard"
  PODanarchrevolt.0006.desc:0 "The impossible has happened.\nIn one of the deepest forests of Russia, a group of Anarch Nosferatu managed to track down what they claimed to be the resting place of the monstrous progenitor of their [clan|E], Absimilliard. After a terrible battle against the guardians of the tomb, only one of the assailants remained but he has, if he is to be believed, slain the [antediluvian|E] in his sleep. All around the world, [clan|E] Nosferatu is finally breathing free for the first time since its creation and now join their hero's ranks en masse.\nAll across Russia, the maniacal laugh of an old lady can be heard night after night since the event..."
  nosferatu_revolt_effect_message:0 "[clan|E] Nosferatu is converting to the Anarch cause. Only the most powerful of their rulers might resist." 
@@ -30,7 +30,7 @@
  PODanarchrevolt.0014.t:0 "The Revolt : Death of Ventru"
  PODanarchrevolt.0014.desc:0 "Even the [clan|E] of Kings isn't spared the madness of the Anarch Revolt. Somewhere deep in Persia, a coterie of Ventrue anarchs stumbled upon the [antediluvian|E]'s tomb. Some say they were looking for Haqim, the Assamite's progenitor, and were misled by his cunning childer, others are simply talking about an obvious and quite crude powergrab.\nWhatever the actual reason, these Ventrue have returned, claiming the kill of their long missing progenitor. Although dubious, this claim has led many Ventrue into the Anarch Revolt, where they easily slip into leadership positions. Most Anarchs are concerned that this is a threat to the actual ideology of the Revolt, but they aren't really in a position to deny such a powerful helping hand reaching out to them."
  ventrue_revolt_effect_message:0 "[clan|E] Ventrue is converting to the Anarch cause. Only the most powerful of their rulers might resist." 
-          
-     
+
+
  
  

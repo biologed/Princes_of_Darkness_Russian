@@ -1,4 +1,4 @@
-﻿l_english: 
+﻿l_russian:
 
  #Common Ignorance Localization
  ignorance_name:0 "Ignorance"
@@ -6,7 +6,7 @@
  ignorance_religion_adj:0 "Ignorance"
  ignorance_religion_adherent:0 "Ignorant"
  ignorance_religion_adherent_plural:0 "Ignorants"
- ignorance_religion_desc:0 "Most humans are ignorance of the World of Darkness"
+ ignorance_religion_desc:0 "Most humans are ignorance of Мир Тьмы"
  ignorance_high_god_name:0 "Ignorance"
  ignorance_high_god_name_possessive:0 "Ignorance's"
  ignorance_high_god_name_alternate:0 "God"
@@ -68,5 +68,5 @@
  innocence_adj:0 "Innocent"
  innocence_adherent:0 "Innocent"
  innocence_adherent_plural:0 "Innocents"
- innocence_desc:0 "The majority of humans are innocent. They are ignorant of the World of Darkness. They know nothing of the monsters that prey upon them."
-  
+ innocence_desc:0 "The majority of humans are innocent. They are ignorant of Мир Тьмы. They know nothing of the monsters that prey upon them."
+

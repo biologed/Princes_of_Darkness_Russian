@@ -1,4 +1,4 @@
-﻿l_english: 
+﻿l_russian:
 
  #Common Modern Anarch Localization
  modernanarch_religion:0 "Anarchs"
@@ -32,7 +32,7 @@
  camahumanity_adherent:0 "Camarilla"
  camahumanity_adherent_plural:0 "Camarilla"
  camahumanity_desc:0 "Kindred are encouraged to blend in with mortals as best as possible and to retain the civility and composure that comes from holding onto one's human characteristics. Almost all Camarilla members are on the "Path" of Humanity, with other Paths of Enlightenment being strongly discouraged and usually only practiced by elders."
-  
+
  #Common Sabbat Localization
  sabbat_religion:0 "Sabbat"
  sabbat_religion_adj:0 "Sabbat"
@@ -104,4 +104,3 @@
  vasantasenadharma_adherent:0 "Follower of Vasantasena"
  vasantasenadharma_adherent_plural:0 "Followers of Vasantasena"
  vasantasenadharma_desc:0 ""
-    

@@ -1,4 +1,4 @@
-﻿l_english: 
+﻿l_russian:
 
 # Vampire Doctrines
 
@@ -21,16 +21,16 @@
  doctrine_vampirethemasquerade_consent_name:0 "Feed Only From the Willing"
  doctrine_vampirethemasquerade_consent_desc:0 "Vampires while covert from society are large are to seek consent of their 'donors'." 
  doctrine_vampirethemasquerade_cult_name:0 "Blood Cult"
- doctrine_vampirethemasquerade_cult_desc:0 "Vampires have a secret society or blood cult that covertly deifies them as a blood god."  
+ doctrine_vampirethemasquerade_cult_desc:0 "Vampires have a secret society or blood cult that covertly deifies them as a blood god."
  doctrine_vampirethemasquerade_family_name:0 "Family Secret"
- doctrine_vampirethemasquerade_family_desc:0 "Vampires feed from particular mortal families who may be somewhat aware of the vampiric condition. They desire to keep their blood pure, and spurn the 'unclean'."   
+ doctrine_vampirethemasquerade_family_desc:0 "Vampires feed from particular mortal families who may be somewhat aware of the vampiric condition. They desire to keep their blood pure, and spurn the 'unclean'."
  doctrine_parameter_vampirethemasquerade_strict:0 "Characters with the [trait|E]s [GetTrait('predatortype_consensualist').GetName( GetPlayer )], [GetTrait('predatortype_cultist').GetName( GetPlayer )] or [GetTrait('predatortype_familias').GetName( GetPlayer )] are [criminals|E]"
  doctrine_parameter_vampirethemasquerade_lax:0 "Characters with the [trait|E]s [GetTrait('predatortype_consensualist').GetName( GetPlayer )], [GetTrait('predatortype_cultist').GetName( GetPlayer )] or [GetTrait('predatortype_familias').GetName( GetPlayer )] are [shunned|E]"
- doctrine_parameter_vampirethemasquerade_none:0 "Characters with the [GetTrait('predatortype_farmer').GetName( GetPlayer )] [trait|E] are shunned."  
+ doctrine_parameter_vampirethemasquerade_none:0 "Characters with the [GetTrait('predatortype_farmer').GetName( GetPlayer )] [trait|E] are shunned."
  doctrine_parameter_vampirethemasquerade_family:0 "Characters with the [trait|E]s [GetTrait('predatortype_alleycat').GetName( GetPlayer )], [GetTrait('predatortype_bedlamite').GetName( GetPlayer )], [GetTrait('predatortype_farmer').GetName( GetPlayer )], [GetTrait('predatortype_footpad').GetName( GetPlayer )] or [GetTrait('predatortype_graverobber').GetName( GetPlayer )] are shunned. Characters with the [trait|E] [GetTrait('predatortype_familias').GetName( GetPlayer )] are fully accepted"
- doctrine_parameter_vampirethemasquerade_cult:0 "Characters with the [trait|E]s [GetTrait('predatortype_consensualist').GetName( GetPlayer )] or [GetTrait('predatortype_familias').GetName( GetPlayer )] are shunned.  Character with the [GetTrait('predatortype_cultist').GetName( GetPlayer )] [trait|E] are accepted." 
- doctrine_parameter_vampirethemasquerade_consent:0 "Characters with the [GetTrait('predatortype_alleycat').GetName( GetPlayer )] [trait|E] are [criminals|E]. Characters with the [GetTrait('predatortype_cauchemar').GetName( GetPlayer )] or [GetTrait('predatortype_extortionist').GetName( GetPlayer )] [trait|E]s are shunned. Characters with the [GetTrait('predatortype_consensualist').GetName( GetPlayer )] [trait|E] are praised. All other predator types are accepted."  
- doctrine_parameter_vampirethemasquerade_none:0 "Vampires don't exist."  
+ doctrine_parameter_vampirethemasquerade_cult:0 "Characters with the [trait|E]s [GetTrait('predatortype_consensualist').GetName( GetPlayer )] or [GetTrait('predatortype_familias').GetName( GetPlayer )] are shunned. Character with the [GetTrait('predatortype_cultist').GetName( GetPlayer )] [trait|E] are accepted."
+ doctrine_parameter_vampirethemasquerade_consent:0 "Characters with the [GetTrait('predatortype_alleycat').GetName( GetPlayer )] [trait|E] are [criminals|E]. Characters with the [GetTrait('predatortype_cauchemar').GetName( GetPlayer )] or [GetTrait('predatortype_extortionist').GetName( GetPlayer )] [trait|E]s are shunned. Characters with the [GetTrait('predatortype_consensualist').GetName( GetPlayer )] [trait|E] are praised. All other predator types are accepted."
+ doctrine_parameter_vampirethemasquerade_none:0 "Vampires don't exist."
  
 # Oaths and Oathbreaking
 
@@ -71,7 +71,7 @@
  doctrine_vampireghouling_mass_name:0 "Mass Ghouling Accepted"
  doctrine_vampireghouling_mass_desc:0 "The blood of kindred can build legions.\n\nOf Those Who Serve\n\nThose you choose to bless with the Potence of Caine, may come to live within your house, to protect you, let no one [Embrace|E] these guardians, let them be given blood at the appropriate time: let their Strength be your Strength, Strength that does not abate with the sun. Let their Eyes be your Eyes, Eyes that can see in the day. Let their Ears be your Ears, Ears that can hear while you slumber. Let those who serve be named greatest of the Children of Seth, and most privileged. Let them enjoy the fine cloth of the Kindred, let them enjoy the gentle music of the Kindred, let them know the sweetness of our wine. Let us protect them from those who would hinder and hurt them, and let us all rise up in outrage should one of those-who-serve be slain by another Kindred, for no Kindred has the right to kills another's Servant without provocation." 
  doctrine_vampireghouling_ignorant_name:0 "Ignorant"
- doctrine_vampireghouling_ignorant_desc:0 "Vampires don't exist."  
+ doctrine_vampireghouling_ignorant_desc:0 "Vampires don't exist."
  doctrine_parameter_vampireghouling_illegal:0 "Characters with the [trait|E]s [GetTrait('ghoul').GetName( GetPlayer )], [trait|E]s [GetTrait('regnant').GetName( GetPlayer )] or [GetTrait('massregnant').GetName( GetPlayer )] are [criminals|E]."
  doctrine_parameter_vampireghouling_shunned:0 "Characters with the [trait|E]s [GetTrait('ghoul').GetName( GetPlayer )] or [trait|E]s [GetTrait('regnant').GetName( GetPlayer )] are [shunned|E]. Characters with the [GetTrait('massregnant').GetName( GetPlayer )] are [criminals|E]."
  doctrine_parameter_vampireghouling_accepted:0 "Characters with the [trait|E]s [GetTrait('ghoul').GetName( GetPlayer )] or [trait|E]s [GetTrait('regnant').GetName( GetPlayer )] are fully accepted. Characters with the [GetTrait('massregnant').GetName( GetPlayer )] are [criminals|E]."
@@ -83,7 +83,7 @@
  doctrine_bloodsorcery_shunned_name:0 "Shunned"
  doctrine_bloodsorcery_shunned_desc:0 "Blood Sorcerers are a suspicious lot, at best a sometimes necessary evil.\n\nOf the Enlightened\n\nThe Mother of Power, dark Lilith, is of the greatest of them, but there are others, and more yet to come. Drink not of their blood, for they will ensnare you, keep wary of them, they are crafty. They know Adam's knowledge, and Eve's wisdom, they are the bringers of fire, the tillers of soil, the husbanders of animals, the bringers of writing, they are the Sun-children, the Rising Stars. They will seek to involve you in their journey, Resist! Resist! Their path disregards hunger, blood, and body. Trust not the ones with bright eyes towards the dawn. Remember always, it is Dawning that brings your death"
  doctrine_bloodsorcery_ignorant_name:0 "Ignorant"
- doctrine_bloodsorcery_ignorant_desc:0 "There is no such thing as magic."   
+ doctrine_bloodsorcery_ignorant_desc:0 "There is no such thing as magic."
  doctrine_bloodsorcery_accepted_name:0 "Accepted"
  doctrine_bloodsorcery_accepted_desc:0 "Magic fills the world around us, and it is our right and our privilege to engage with it the way our ancestors did."
  doctrine_parameter_bloodsorcery_illegal:0 "Characters with the [GetTrait('bloodsorcery').GetName( GetPlayer )] [trait|E] are [criminals|E]"
@@ -98,7 +98,7 @@
  doctrine_infernalism_accepted_name:0 "Accepted"
  doctrine_infernalism_accepted_desc:0 "Infernal investments are the path to true power!"
  doctrine_infernalism_ignorant_name:0 "Ignorant"
- doctrine_infernalism_ignorant_desc:0 "The devil is like a metaphor, right?"  
+ doctrine_infernalism_ignorant_desc:0 "The devil is like a metaphor, right?"
  doctrine_parameter_infernalism_illegal:0 "Characters with the [GetTrait('infernalist').GetName( GetPlayer )] [trait|E] or the [GetTrait('baali').GetName( GetPlayer )] [trait|E] are [criminals|E]"
  doctrine_parameter_infernalism_shunned:0 "Characters with the [GetTrait('infernalist').GetName( GetPlayer )] [trait|E] or the [GetTrait('baali').GetName( GetPlayer )] [trait|E] are [shunned|E]"
  doctrine_parameter_infernalism_accepted:0 "Characters with the [GetTrait('infernalist').GetName( GetPlayer )] [trait|E] or the [GetTrait('baali').GetName( GetPlayer )] [trait|E] are fully accepted"
@@ -155,7 +155,7 @@
  doctrine_vampirism_accepted_name:0 "Accepted"
  doctrine_vampirism_accepted_desc:0 "The Kindred are accepted."
  doctrine_vampirism_ignorant_name:0 "Ignorant"
- doctrine_vampirism_ignorant_desc:0 "Vampires don't exist."  
+ doctrine_vampirism_ignorant_desc:0 "Vampires don't exist."
  doctrine_parameter_vampirism_illegal:0 "Characters with the [GetTrait('vampire').GetName( GetPlayer )] [trait|E] are [criminals|E]"
  doctrine_parameter_vampirism_shunned:0 "Characters with the [GetTrait('vampire').GetName( GetPlayer )] [trait|E] are [shunned|E]"
  doctrine_parameter_vampirism_accepted:0 "Characters with the [GetTrait('vampire').GetName( GetPlayer )] [trait|E] are fully accepted" 
@@ -168,7 +168,7 @@
  doctrine_lycanthropy_accepted_name:0 "Accepted"
  doctrine_lycanthropy_accepted_desc:0 "The Garou are accepted."
  doctrine_lycanthropy_ignorant_name:0 "Ignorant"
- doctrine_lycanthropy_ignorant_desc:0 "Stop asking for when the mod developers will add this feature! When we add it, you'll know!"  
+ doctrine_lycanthropy_ignorant_desc:0 "Stop asking for when the mod developers will add this feature! When we add it, you'll know!"
  doctrine_parameter_lycanthropy_illegal:0 "Characters with the [GetTrait('werewolf').GetName( GetPlayer )] [trait|E] are [criminals|E]"
  doctrine_parameter_lycanthropy_shunned:0 "Characters with the [GetTrait('werewolf').GetName( GetPlayer )] [trait|E] are [shunned|E]"
  doctrine_parameter_lycanthropy_accepted:0 "Characters with the [GetTrait('werewolf').GetName( GetPlayer )] [trait|E] are fully accepted" 
@@ -178,7 +178,7 @@
  doctrine_magicraft_crime_desc:0 "The Mages must be destroyed.\n\nOf the Enlightened\n\nThe Mother of Power, dark Lilith, is of the greatest of them, but there are others, and more yet to come. Drink not of their blood, for they will ensnare you, keep wary of them, they are crafty. They know Adam's knowledge, and Eve's wisdom, they are the bringers of fire, the tillers of soil, the husbanders of animals, the bringers of writing, they are the Sun-children, the Rising Stars. They will seek to involve you in their journey, Resist! Resist! Their path disregards hunger, blood, and body. Trust not the ones with bright eyes towards the dawn. Remember always, it is Dawning that brings your death."
  doctrine_magicraft_shunned_name:0 "Shunned"
  doctrine_magicraft_ignorant_name:0 "Ignorant"
- doctrine_magicraft_ignorant_desc:0 "There is no such thing as magic."   
+ doctrine_magicraft_ignorant_desc:0 "There is no such thing as magic."
  doctrine_magicraft_shunned_desc:0 "While supernatural like us, the mages are not like us. Not like us at all.\n\nOf the Enlightened\n\nThe Moth of Power, dark Lilith, is of the greatest of them, but there are others, and more yet to come. Drink not of their blood, for they will ensnare you, keep wary of them, they are crafty. They know Adam's knowledge, and Eve's wisdom, they are the bringers of fire, the tillers of soil, the husbanders of animals, the bringers of writing, they are the Sun-children, the Rising Stars. They will seek to involve you in their journey, Resist! Resist! Their path disregards hunger, blood, and body. Trust not the ones with bright eyes towards the dawn. Remember always, it is Dawning that brings your death."
  doctrine_magicraft_accepted_name:0 "Accepted"
  doctrine_magicraft_accepted_desc:0 "The Mages are accepted."
@@ -194,7 +194,7 @@
  doctrine_haunting_accepted_name:0 "Accepted"
  doctrine_haunting_accepted_desc:0 "Wraiths can be useful. Those who know the arts of summoning and binding wraiths can use them for all sorts of purposes.\n\nOf Those Spirits of the Dead\n\nMark you well: there is a place beyond spirit, beyond life which is Darkness, Shadow, and there Shadows dwell. An island, a fortress, a land of the Dead, I have traveled there through a pathway of doom and I have witnessed the dread king of the Stygian City as he sat at court. I have seen the faceless hooded ones traversing River Styx. They swarm about us like flies on a putrefying corpse, and like us, feed on fear, ecstasy, and anger. Dead they are, but undead, and they are closer to us than we will ever know."
  doctrine_haunting_ignorant_name:0 "Ignorant"
- doctrine_haunting_ignorant_desc:0 "When you die, thats the end."  
+ doctrine_haunting_ignorant_desc:0 "When you die, thats the end."
  doctrine_parameter_haunting_illegal:0 "Characters with the [GetTrait('wraith').GetName( GetPlayer )] [trait|E] are [criminals|E]. Characters with the [GetTrait('possessed_1').GetName( GetPlayer )] or [GetTrait('oblivion').GetName( GetPlayer )] [trait|E]s are [shunned|E]"
  doctrine_parameter_haunting_shunned:0 "Characters with the [GetTrait('wraith').GetName( GetPlayer )], [GetTrait('possessed_1').GetName( GetPlayer )] or [GetTrait('oblivion').GetName( GetPlayer )] [trait|E]s are [shunned|E]"
  doctrine_parameter_haunting_accepted:0 "Characters with the [GetTrait('wraith').GetName( GetPlayer )] or [GetTrait('oblivion').GetName( GetPlayer )] [trait|E]s are fully accepted" 
@@ -207,11 +207,11 @@
  doctrine_glamour_accepted_name:0 "Accepted"
  doctrine_glamour_accepted_desc:0 "The Fae are accepted.\n\nOf The Wild Ones\n\nOf the mad ones, the wild ones, I say, first, drink not of their blood! But watch them, for they are beautiful in their wilderness, they are enchanting in their mystery, they are deadly in their war skills. Alone among the creatures of the night, they kept me company in the earth and brought me water when I was thirsty and could still breathe. Like Me, they were cast out, Like My Children, they are homeless, Like My Children's Children, they wander, Like my Mother and Father, they know too much, but they keep their own counsel, and, of them, I say mark me well, keep silent! Say nothing. Watch, and learn."
  doctrine_glamour_ignorant_name:0 "Ignorant"
- doctrine_glamour_ignorant_desc:0 "Aren't you a little old to believe in Santa Claus?"  
+ doctrine_glamour_ignorant_desc:0 "Aren't you a little old to believe in Santa Claus?"
  doctrine_parameter_glamour_illegal:0 "Characters with the [GetTrait('fae').GetName( GetPlayer )] [trait|E] are [criminals|E]"
  doctrine_parameter_glamour_shunned:0 "Characters with the [GetTrait('fae').GetName( GetPlayer )] [trait|E] are [shunned|E]"
  doctrine_parameter_glamour_accepted:0 "Characters with the [GetTrait('fae').GetName( GetPlayer )] [trait|E] are fully accepted" 
-  
+
  doctrine_supehunting_name:0 "Witch Hunting"
  doctrine_supehunting_crime_name:0 "Criminal"
  doctrine_supehunting_crime_desc:0 "The Witch Hunters must be destroyed.\n\nWhen the Cross has a point, find your safety."
@@ -243,13 +243,13 @@
  tenet_vampireremorse_desc:0 "Kindred reflect upon their actions and feel for regret for their monstrous behavior, gaining piety." 
  
  tenet_vampireblushoflife_name:0 "Blush of Life"
- tenet_vampireblushoflife_desc:0 "Kindred can emulate being alive. This helps their masquerade as well as reminding what it is to be human and thus gain piety."  
+ tenet_vampireblushoflife_desc:0 "Kindred can emulate being alive. This helps their masquerade as well as reminding what it is to be human and thus gain piety."
  
  tenet_vampirenecromanticexperimention_name:0 "Necromantic Experimentation"
- tenet_vampirenecromanticexperimention_desc:0 "Mark you well: there is a place beyond spirit, beyond life which is Darkness, Shadow, and there Shadows dwell. An island, a fortress, a land of the Dead, I have traveled there through a pathway of doom and I have witnessed the dread king of the Stygian City as he sat at court. I have seen the faceless hooded ones traversing River Styx. They swarm about us like flies on a putrefying corpse, and like us, feed on fear, ecstasy, and anger. Dead they are, but undead, and they are closer to us than we will ever know. The Blood of my Brother cries out to me as I sleep as the Sun crosses the sky, I hear my brother, second-born Abel, screaming. Mark well the spirits of those who have died, know their strength is not your own, listen to their words: they carry wisdom. Listen not to their songs: that way is oblivion.\nExecutions generate both melancholy resonance and piety."  
+ tenet_vampirenecromanticexperimention_desc:0 "Mark you well: there is a place beyond spirit, beyond life which is Darkness, Shadow, and there Shadows dwell. An island, a fortress, a land of the Dead, I have traveled there through a pathway of doom and I have witnessed the dread king of the Stygian City as he sat at court. I have seen the faceless hooded ones traversing River Styx. They swarm about us like flies on a putrefying corpse, and like us, feed on fear, ecstasy, and anger. Dead they are, but undead, and they are closer to us than we will ever know. The Blood of my Brother cries out to me as I sleep as the Sun crosses the sky, I hear my brother, second-born Abel, screaming. Mark well the spirits of those who have died, know their strength is not your own, listen to their words: they carry wisdom. Listen not to their songs: that way is oblivion.\nExecutions generate both melancholy resonance and piety."
  
  tenet_vampirenemetamorphopsisexperimention_name:0 "Necromantic Experimentation"
- tenet_vampirenemetamorphopsisexperimention_desc:0 "Executions generate both choleric experience and piety."  
+ tenet_vampirenemetamorphopsisexperimention_desc:0 "Executions generate both choleric experience and piety."
  
  tenet_vampireauctoritasritae_name:0 "Auctoritas Ritae"
  tenet_vampireauctoritasritae_desc:0 "A collection of thirteen rituals practiced by all members of the Sabbat."
@@ -274,7 +274,7 @@
  
  tenet_quiritare_name:0 "Quiritare"
  tenet_quiritare_desc:0 "To resist the Beast or attempt to placate it is impossible, and so give yourself over to it completely, performing its will." 
-  
+
  tenet_legacyoftrinity_name:0 "Legacy of Trinity"
  tenet_legacyoftrinity_desc:0 "The Codex dictates the superiority of the three main clans: Toreador, Tzimsice and Ventrue. Members of other clans to seek petition of the Quaesitors in order to [Sire|E] childer; members of the three main clans are allowed to [Sire|E] whoever they wanted. Only members of the three main clans may bequeath a domain to another vampire and that each vampire within this domain has the duty to enforce the Codex."
  
@@ -309,9 +309,9 @@
  tenet_conviction_and_selfcontrol_name:0 "Conviction and Self-Control"
  tenet_conviction_and_selfcontrol_desc:0 "Vampires lose no piety from seriously wounding or killing mortal victims. Vampires lose piety from frenzying."
  tenet_conscience_and_selfcontrol_name:0 "Conscience and Self-Control"
- tenet_conscience_and_selfcontrol_desc:0 "Vampires lose piety from seriously wounding or killing mortal victims.  Vampires lose piety for frenzying."
+ tenet_conscience_and_selfcontrol_desc:0 "Vampires lose piety from seriously wounding or killing mortal victims. Vampires lose piety for frenzying."
  tenet_conscience_and_instinct_name:0 "Conscience and Instinct"
- tenet_conscience_and_instinct_desc:0 "Vampires lose piety from seriously wounding or killing mortal victims.  Vampires lose no piety for frenzying."
+ tenet_conscience_and_instinct_desc:0 "Vampires lose piety from seriously wounding or killing mortal victims. Vampires lose no piety for frenzying."
  tenet_orun_and_aye_name:0 "Orun and Aye"
  tenet_orun_and_aye_desc:0 "Laibon forge their lives around two separate paths of Morality: Aye, which is their morality towards humankind, and Orun, which is their morality towards the supernatural." 
  #Depending on where they stand on these two scales, their appearance and supernatural power fluctuates. This fundamental difference forever separates the Laibon from the 'typical' [cainite|E]."
@@ -338,20 +338,20 @@
 # The greatest of Saulot's warrior line, the martyred founder Samiel is believed to have penned this text with his own hand. Samiel was killed at the end of the Second Baali War, as were more than half of his followers."
  
  tenet_devoted_to_michael_name:0 "Devoted to Michael"
- tenet_devoted_to_michael_desc:0 "The Path of the Archangel was a Path of the Road of Heaven popular in Byzantium during the 13th century. It reveres the memory of the fallen Patriarch of Constantinople, Michael. The followers of the path are called Michaelites."  
+ tenet_devoted_to_michael_desc:0 "The Path of the Archangel was a Path of the Road of Heaven popular in Byzantium during the 13th century. It reveres the memory of the fallen Patriarch of Constantinople, Michael. The followers of the path are called Michaelites."
  
  special_doctrine_three_pillars_kindred_name:0 "Three Pillars"
  special_doctrine_three_pillars_kindred_desc:0 "The basis of feudal society is the castle, the church and the town. Kindred society mirrors this with the Road of Kings, Road of Heaven and Road of Humanity engaged in mutual tolerance."
  doctrine_parameter_hostility_override_special_doctrine_three_pillars_kindred:0 "Other Kindred [faiths|E] that have the Three Pillars doctrine are considered [GetHostilityLevelName( FAITH_DOCTRINE_PARAMETER.GetIntValue )|V] instead of #V Hostile#!" 
  
  special_doctrine_ecumenical_hunters_name:0 "Ecumenical Hunters"
- special_doctrine_ecumenical_hunters_desc:0 "While hunters come from a variety of backgrounds and faith, the recognize a common bond in fighting the supernatural horrors of the World of Darkness."
+ special_doctrine_ecumenical_hunters_desc:0 "While hunters come from a variety of backgrounds and faith, the recognize a common bond in fighting the supernatural horrors of Мир Тьмы."
  doctrine_parameter_hostility_override_special_doctrine_ecumenical_hunters:0 "Other Hunter [faiths|E] that have the Ecumenical Hunters doctrine are considered [GetHostilityLevelName( FAITH_DOCTRINE_PARAMETER.GetIntValue )|V] instead of #V Hostile#!" 
  
  special_doctrine_ignorance_name:0 "Do Not Attract Attention"
- special_doctrine_ignorance_desc:0 "Mortals have no knowledge of the supernatural in the World of Darkness. We should keep it that way."
- doctrine_parameter_hostility_override_special_doctrine_ignorance:0 "The Ignorance [faiths|E] such as the Innocence of mortals makes them no threat to the supernaturals of the World of Darkness. Faiths that wish to keep of mortals in ignorance consider them [GetHostilityLevelName( FAITH_DOCTRINE_PARAMETER.GetIntValue )|V] instead of #V Hostile#!."  
- doctrine_parameter_hostility_override_ignorance_hostility_doctrine:0 "The Ignorance [faiths|E] such as the Innocence of mortals makes them no threat to the supernaturals of the World of Darkness. Faiths that wish to keep of mortals in ignorance consider them [GetHostilityLevelName( FAITH_DOCTRINE_PARAMETER.GetIntValue )|V] instead of #V Hostile#!."
+ special_doctrine_ignorance_desc:0 "Mortals have no knowledge of the supernatural in Мир Тьмы. We should keep it that way."
+ doctrine_parameter_hostility_override_special_doctrine_ignorance:0 "The Ignorance [faiths|E] such as the Innocence of mortals makes them no threat to the supernaturals of Мир Тьмы. Faiths that wish to keep of mortals in ignorance consider them [GetHostilityLevelName( FAITH_DOCTRINE_PARAMETER.GetIntValue )|V] instead of #V Hostile#!."
+ doctrine_parameter_hostility_override_ignorance_hostility_doctrine:0 "The Ignorance [faiths|E] such as the Innocence of mortals makes them no threat to the supernaturals of Мир Тьмы. Faiths that wish to keep of mortals in ignorance consider them [GetHostilityLevelName( FAITH_DOCTRINE_PARAMETER.GetIntValue )|V] instead of #V Hostile#!."
  
  tenet_fellow_selfcontrol_opinion:0 "Self-Control Fellow"
  doctrine_parameter_selfcontrol_opinion_active:0 ""

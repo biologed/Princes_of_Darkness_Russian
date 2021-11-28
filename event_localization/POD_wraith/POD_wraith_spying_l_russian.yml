@@ -1,6 +1,6 @@
-﻿l_english:
+﻿l_russian:
  POD_wraith_spying.100.t:0 "Invisible Eyes"
- POD_wraith_spying.100.desc:0 "You feel like you are being watched. Something isn't quite right. You fear that if you continue operating as usual, the unkowable presence will deduce your secrets.\n perhaps the time is right for body doubles, codes and other means of confusing a watcher. Of course, you could just be paranoid....."
+ POD_wraith_spying.100.desc:0 "You feel like you are being watched. Something isn't quite right. You fear that if you continue operating as usual, the unkowable presence will deduce your secrets.\n perhaps the time is right for body doubles, codes and other means of confusing a watcher. Of course, you could just be paranoid..."
  POD_wraith_spying.100.option.a:0 "Exert my willpower and hide my secrets."
  POD_wraith_spying.100.option.b:0 "Hide my secrets."
  POD_wraith_spying.100.option.c:0 "It's just in my imagination."

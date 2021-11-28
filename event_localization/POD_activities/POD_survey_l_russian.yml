@@ -1,4 +1,4 @@
-﻿l_english:
+﻿l_russian:
 
  survey_capital_decision:0 "Survey your Capital"
  survey_capital_decision_tooltip:0 "You will travel around your princedom"
@@ -11,22 +11,22 @@
  strict_control_modifier_desc:0 "You are monitoring everything happening in your domain, giving you greater opportunities for influence, but also greater pushback from the mortals."
  lax_control_modifier:0 "Lax Control"
  lax_control_modifier_desc:0 "You are letting the mortals mostly free to do what they want here. They quickly prosper without vampiric influence to hinder them."
-  
+
  opportunities1_modifier:0 "New Opportunities I"
  opportunities1_modifier_desc:0 "New opportunities for influence might arise soon in this province. Once this modifier reaches 5, a new building slot will be unlocked. Note that you can have a maximum of 9 building slots at a time, this modifier will be useless after that cap is reached."
 
  opportunities2_modifier:0 "New Opportunities II"
  opportunities2_modifier_desc:0 "New opportunities for influence might arise soon in this province. Once this modifier reaches 5, a new building slot will be unlocked. Note that you can have a maximum of 9 building slots at a time, this modifier will be useless after that cap is reached."
-  
+
  opportunities3_modifier:0 "New Opportunities III"
  opportunities3_modifier_desc:0 "New opportunities for influence might arise soon in this province. Once this modifier reaches 5, a new building slot will be unlocked. Note that you can have a maximum of 9 building slots at a time, this modifier will be useless after that cap is reached."
-  
+
  opportunities4_modifier:0 "New Opportunities IV"
  opportunities4_modifier_desc:0 "New opportunities for influence might arise soon in this province. Once this modifier reaches 5, a new building slot will be unlocked. Note that you can have a maximum of 9 building slots at a time, this modifier will be useless after that cap is reached."
 
  opportunitiesend_modifier:0 "Fully Influenced"
  opportunitiesend_modifier_desc:0 "You have reached the maximum amount of influence (and building slots) you can have in this province."
-  
+
  POD_survey_events.1000.t:0 "The Survey : An Escort?"
  POD_survey_events.1000.desc:0 "You are aware that, despite being nominally in your domain, there are dangers lurking outside of your seat of power. As you are preparing this important survey of your capital, you are wondering which, if any, escort to bring with you. Obviously, you don't want to make it look like you are afraid of traveling your own lands but you might be even more worried of a potential ambush or unexpected threat..."
  POD_survey_events.1000.option.a:0 "A whole army!"
@@ -35,7 +35,7 @@
  full_escort_survey_tooltip:0 "A safe but unimpressive choice"
  half_escort_survey_tooltip:0 "Probably a good balanced choice"
  no_escort_survey_tooltip:0 "A prestigious but potentially dangerous choice"
-  
+
  POD_survey_events.1001.t:0 "The Survey : Where to?"
  POD_survey_events.1001.desc:0 "You are ready to go but the night isn't eternal (sadly), so you will have to choose which part of the city you will inspect tonight. Obviously, there are different opportunities and risks in every one of those. You will also limit your choice between areas where you have some assets to take care of, no need to wander aimlessly."
  POD_survey_events.1001.option.a:0 "A general sweep of my influence in town"
@@ -91,7 +91,7 @@
  POD_survey_events.7.option.b:0 "He won't be a threat... right?"
  POD_survey_events.7.option.c:0 "Join the crowd masqueraded as a follower"
  obfuscateadvanced_tooltip:0 "This option is available because you have a strong mastery of Obfuscate"
-  
+
  POD_survey_events.8.t:0 "The Survey : New Temple"
  POD_survey_events.8.desc:0 "Despite the good influence you have on the clergy of your domain, you have been unable to stop the planned construction of a new site of prayer nearby. You are now wandering close to it, looking with annoyance at the progressing construction site. Having even more men of faith in your area could be troublesome, as they are often quite capable of discerning your true nature. There is still time to make sure that the construction suffers some unfortunate setbacks though..."
  POD_survey_events.8.option.a:0 "Leave it alone"
@@ -182,7 +182,7 @@
  POD_survey_events.131.option.a:0 "A private display sounds good"
  POD_survey_events.131.option.b:0 "Dominate them to get others off your trail"
  POD_survey_events.131.option.c:0 "Time to make an example"
-  
+
  POD_survey_events.140.t:0 "The Survey : The Prophet"
  POD_survey_events.140.desc:0 "As you return home to your haven, you are accosted by an old man mumbling what seems like incoherent babble. You can make out words like 'vampires' and 'God' though, which catch your attention. As you slow down a little, the madman gets closer and starts talking even more excitedly than before. Even with paying attention, understanding a shred of what he is trying to say would be quite the feat still."
  POD_survey_events.140.option.a:0 "I stay a while, and listen"

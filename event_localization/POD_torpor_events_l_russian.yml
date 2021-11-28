@@ -1,4 +1,4 @@
-﻿l_english:
+﻿l_russian:
 
  POD_vampire_torpor_events.001.title:0 "Deep Sleep"
  POD_vampire_torpor_events.001.desc:0 "Your wounds made you weak, now you feel a strange calling withing yourself, calling that forces you to enter [torpor|E], deep sleep that can last for thousands years."
@@ -45,4 +45,4 @@
  POD_vampire_torpor_events.203.title:0 "Back to unlife"
  POD_vampire_torpor_events.203.desc:0 "You're finally ready to return, your enemies should tremble"
  POD_vampire_torpor_events.203.awake:0 "I'm back"
- POD_vampire_torpor_events.203.awake.torpor:0 "You are returning to the world of darkness"
+ POD_vampire_torpor_events.203.awake.torpor:0 "You are returning to Мир Тьмы"

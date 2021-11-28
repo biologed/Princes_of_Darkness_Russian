@@ -1,4 +1,4 @@
-﻿l_english:
+﻿l_russian:
 
  POD_blood_surge:0 "Blood Surge"
  POD_blood_surge_action:0 "Blood Surge"
@@ -163,7 +163,7 @@
  POD_drain_animal_interaction_rats:0 "Rats"
  POD_drain_animal_interaction_rats.tt: "Find and drain some rats. #R Heheheh! You rat sucker! HAHAHAHA!"
  POD_drain_animal_interaction_stray:0 "Stray animal"
- POD_drain_animal_interaction_stray.tt: "Drain a stray medium-sized animal.  At least it is not my pet."
+ POD_drain_animal_interaction_stray.tt: "Drain a stray medium-sized animal. At least it is not my pet."
  POD_drain_animal_interaction_deer:0 "Hunt in wilderness"
  POD_drain_animal_interaction_deer.tt: "Drain a prey animal in the wilderness. \n #R Easier prey in the towns.#\n"
  POD_drain_animal_interaction_cow:0 "Livestock"
@@ -211,7 +211,7 @@
  masquerade_reduced_2:0 "Masquerade exposure will be reduced by two."
  masquerade_reduced_3:0 "Masquerade exposure will be reduced by three."
  
- POD_cover_masquerade_interaction_bribe_beast:0 "#R But killing a man seals his mouth forever.....#"
+ POD_cover_masquerade_interaction_bribe_beast:0 "#R But killing a man seals his mouth forever...#"
  POD_cover_masquerade_interaction_murderspree_beast:0 "#R Weaklings, how dare they threaten us?#"
  POD_cover_masquerade_interaction_presence_beast:0 "#R Yes! bask in our glory!#"
  POD_cover_masquerade_interaction_dominate_beast:0 "#R Make them forget our magnificent actions?#"
@@ -273,10 +273,10 @@
  POD_mentoring_disciplines.0001.option.l:0 "The power over death itself!" 
  POD_mentoring_disciplines_custom:0 "If your friend has no [discipline|E] that you can learn, you can do nothing right now"
  POD_mentoring_disciplines.0001.option.m:0 "Not this time"
- POD_mentoring_disciplines.0001.option.o:0 "The gifts of the Infernal"                                                                      
- POD_mentoring_disciplines.0001.option.p:0 "A fascination over snakes"                                                                      
+ POD_mentoring_disciplines.0001.option.o:0 "The gifts of the Infernal"
 
- 
+ POD_mentoring_disciplines.0001.option.p:0 "A fascination over snakes"
+
  POD_herdify_interaction_limit:0 "Herd size is capped at five!"
  POD_herdify_mortal_interaction:0 "Herdify"
  POD_herdify_mortal_interaction_desc:0 "Plot to procure this mortal as a vessal from which you can safetly feed at will."
@@ -302,11 +302,11 @@
  POD_inquihunt.1.t:0 "On the Hunt"
  POD_inquihunt.1.desc:0 "You have finally tracked down the fiend to its lair. There can be no mistakes as the poor people of the surroundings have clearly lost the love of God. They are paranoid, soulless husks afraid of coming out at night and even the Church lies barren.\nYou and your small entourage are clearly the only hope of this place. As you set up your camp, it is time to ponder your next move. The Lord has certainly guided you to this lair of evil, but how to destroy it is left to your appreciation..."
  POD_inquihunt.1.option.a:0 "The smallfolk isn't yet lost to darkness. Let us preach."
- POD_inquihunt.1.option.aa.effect.success.desc:0 "A critical success will ensure a swift victory for your cause"  
- POD_inquihunt.1.option.ab.effect.success.desc:0 "A draw... the fiend will still cause issues"      
- POD_inquihunt.1.option.ac.effect.success.desc:0 "Make no mistakes, or the foe will surely end you quickly"      
- POD_inquihunt.1.option.f:0 "I have a bad feeling about this"       
- POD_inquihunt.1.option.f.custom:0 "This is not the place or time, you will come back another time"       
+ POD_inquihunt.1.option.aa.effect.success.desc:0 "A critical success will ensure a swift victory for your cause"
+ POD_inquihunt.1.option.ab.effect.success.desc:0 "A draw... the fiend will still cause issues"
+ POD_inquihunt.1.option.ac.effect.success.desc:0 "Make no mistakes, or the foe will surely end you quickly"
+ POD_inquihunt.1.option.f:0 "I have a bad feeling about this"
+ POD_inquihunt.1.option.f.custom:0 "This is not the place or time, you will come back another time"
  POD_inquihunt.1.option.b:0 "Soldiers of God! We storm this castle today!"
  POD_inquihunt.1.option.c:0 "Let us destroy its assets and isolate the fiend first"
  POD_inquihunt.1.option.d:0 "They fear the light of God. Let us act during daytime"
@@ -502,11 +502,11 @@
  POD_awaketorpor.1.t:0 "Questions and Answers"
  POD_awaketorpor.1.desc:0 "You have found a serious clue about the location of the sleeping vampire you seek. Sadly, that clue only goes so far, and actually lead you to a small village where no one wants to talk to you.\nPerhaps are they in thrall to your prey? It's hard to say, but you can't realistically wander around the area for too long, so you will have to convince them to answer your questions."
  POD_awaketorpor.1.option.a:0 "You there! Answer me!"
- POD_awaketorpor.1.option.aa.effect.success.desc:0 "A critical success will move your plan forwards without issue"  
- POD_awaketorpor.1.option.ab.effect.success.desc:0 "You might lose something along the way..."      
- POD_awaketorpor.1.option.ac.effect.success.desc:0 "You lose the trail..."      
- POD_awaketorpor.1.option.b:0 "It's not worth the trouble"       
- POD_awaketorpor.1.option.b.custom:0 "You end your journey here, leaving the sleeping vampire to his slumber"       
+ POD_awaketorpor.1.option.aa.effect.success.desc:0 "A critical success will move your plan forwards without issue"
+ POD_awaketorpor.1.option.ab.effect.success.desc:0 "You might lose something along the way..."
+ POD_awaketorpor.1.option.ac.effect.success.desc:0 "You lose the trail..."
+ POD_awaketorpor.1.option.b:0 "It's not worth the trouble"
+ POD_awaketorpor.1.option.b.custom:0 "You end your journey here, leaving the sleeping vampire to his slumber"
  POD_awaketorpor.1.success:0 "Gold open many doors"
  POD_awaketorpor.2.t:0 "The Maze"
  POD_awaketorpor.2.desc:0 "Obviously, it had to be a labyrinth. Your target built or borrowed a bunch of underground caves and is now holed up in there. And, you guessed it, there are traps everywhere.\nYou can try to navigate this maze to reach your prey, but you are likely to get hurt in the process."
@@ -528,19 +528,19 @@
  POD_awaketorpor.12.t:0 "Sleepy Talk"
  POD_awaketorpor.12.desc:0 "You have found your prey and used a 'voluntary' blood donor to help wash away the sleep of ages. Without too much trouble, even though you obviously stayed far away during the whole process.\nNow, your target is fully awake, and is listening carefully to what you are offering. It is now or never that you will ensure his participation and return to your court. Better be sure of what you will say next..."
  POD_awaketorpor.12.option.a:0 "You won't refuse my offer"
- POD_awaketorpor.12.option.aa.effect.success.desc:0 "Your target joins your court!"  
- POD_awaketorpor.12.option.ab.effect.success.desc:0 "You had to beg, but it worked"      
- POD_awaketorpor.12.option.ac.effect.success.desc:0 "A flat refusal, you leave alone"           
- POD_awaketorpor.12.option.b.custom:0 "You end your journey here, leaving the sleeping vampire to his slumber"       
+ POD_awaketorpor.12.option.aa.effect.success.desc:0 "Your target joins your court!"
+ POD_awaketorpor.12.option.ab.effect.success.desc:0 "You had to beg, but it worked"
+ POD_awaketorpor.12.option.ac.effect.success.desc:0 "A flat refusal, you leave alone"
+ POD_awaketorpor.12.option.b.custom:0 "You end your journey here, leaving the sleeping vampire to his slumber"
  POD_awaketorpor.12.success:0 "Welcome!"
  POD_awaketorpor.12.successb:0 "...Welcome!" 
- POD_awaketorpor.12.successc:0 "All for nothing..."  
+ POD_awaketorpor.12.successc:0 "All for nothing..."
  POD_awaketorpor.13.t:0 "The Warden"
  POD_awaketorpor.13.desc:0 "There is only one obstacle remaining in the way of your prey, a tough looking warrior protecting the sleeping vampire. He might be a ghoul, but he seems very well trained, and you suspect that others lay in ambush close by.\nThe space is too close to launch an assault with an army, and you can't go back now, or they will move the body of their master. So it's a fight where you are clearly at a disadvantage, but you can feel the pulsating blood of your prey close by calling you..."
  POD_awaketorpor.13.option.a:0 "I will kill you, then consume your master!"
- POD_awaketorpor.13.option.aa.effect.success.desc:0 "A total victory!"  
- POD_awaketorpor.13.option.ab.effect.success.desc:0 "It was tough..."      
- POD_awaketorpor.13.option.ac.effect.success.desc:0 "Wait! Using fire arrows is cheating!"           
+ POD_awaketorpor.13.option.aa.effect.success.desc:0 "A total victory!"
+ POD_awaketorpor.13.option.ab.effect.success.desc:0 "It was tough..."
+ POD_awaketorpor.13.option.ac.effect.success.desc:0 "Wait! Using fire arrows is cheating!"
  POD_awaketorpor.13.success:0 "...so close"
  POD_awaketorpor.14.t:0 "The Prize"
  POD_awaketorpor.14.desc:0 "Finally, your sleeping target is defenseless before you. You are almost shivering from anticipation, which is obviously not possible in your state. Time seems to sit still as your show your fangs, ready to consume the soul you fought for.\nYour Beast is delighted, and you will leave this place stronger than you came... but perhaps less humane."
@@ -556,7 +556,7 @@
  POD_hunter_dynasty_prestige_medium_gain.tt:0 "[hunter_dynasty.GetName] Gains [dynasty_prestige_i] #P 75 # [dynasty_prestige|E]."
  POD_hunter_dynasty_prestige_major_gain.tt:0 "[hunter_dynasty.GetName] Gains [dynasty_prestige_i] #P 150 # [dynasty_prestige|E]."
  POD_hunter_dynasty_prestige_massive_gain.tt:0 "[hunter_dynasty.GetName] Gains [dynasty_prestige_i] #P 250 # [dynasty_prestige|E]." 
- POD_hunter_dynasty_prestige_monumental_gain.tt:0 "[hunter_dynasty.GetName] Gains [dynasty_prestige_i] #P 1000 # [dynasty_prestige|E]."  
+ POD_hunter_dynasty_prestige_monumental_gain.tt:0 "[hunter_dynasty.GetName] Gains [dynasty_prestige_i] #P 1000 # [dynasty_prestige|E]."
  
  POD_learn_truefaith_interaction:0 "Ask for Spiritual Guidance"
  POD_learn_truefaith_interaction_desc:0 "You will ask [recipient.GetFirstName] to teach you true faith. It might fail."
@@ -565,7 +565,7 @@
  POD_infiltrate_interaction_desc:0 "You will infiltrate this court masquerading as a neonate, giving them a sizable scheme resistance malus"
  infiltrate_modifier:0 "Infiltrated"
  infiltrate_modifier_desc:0 "Somehow, everyone seems to know a lot about your court..."
-  
+
  absalon_svantevit_weakest:0 "Weakest Understanding of the Ritual"
  absalon_svantevit_weakest_desc:0 "You only have the faintest clue of what these Pagans were doing in that temple"
  absalon_svantevit_weak:0 "Weak Understanding of the Ritual"
@@ -576,13 +576,13 @@
  absalon_svantevit_strong_desc:0 "You are so close now, so close..."
  absalon_svantevit_reborn:0 "Svantevit Reborn"
  absalon_svantevit_reborn_desc:0 "The God of war walks again among the night!... even if that is quite stressful to his pitiful host"
-           
+
  POD_trial_by_war_interaction:0 "Trial by War"
  POD_trial_by_war_interaction_desc:0 "Time to teach this one who is the true Voivode here"
-    
+
  POD_etrius_abuse_interaction:0 "Tremere Politics"
  POD_etrius_abuse_interaction_desc:0 "As the right hand of Tremere himself, it is time to use your power inside the [clan|E]"
-     
+
  POD_maatkare_interaction:0 "Entice"
  POD_maatkare_interaction_desc:0 "Help this misguided [cainite|E] learn the truth about Set's glory"
  
@@ -590,7 +590,7 @@
  POD_ventrue_succor_interaction_desc:0 "[clan|E] Ventrue holds itself to the right of succor - when a Ventrue is in dire help, other Ventrue are obligated to help them. Nothing is without a cost, however."
  
  POD_toreador_rumor_mill_interaction:0 "Rumor mill"
- POD_toreador_rumor_mill_interaction_desc:0 "The Toreador [clan|E] are experts in manipulating the social machine. By Utilising that skill, you can fabricate a scandalous claim - and make it true. Or at least, as  far as anyone else is concerned."
+ POD_toreador_rumor_mill_interaction_desc:0 "The Toreador [clan|E] are experts in manipulating the social machine. By Utilising that skill, you can fabricate a scandalous claim - and make it true. Or at least, as far as anyone else is concerned."
  POD_toreador_rumor_mill_interaction_succ: "Succsess"
  POD_toreador_rumor_mill_interaction_succ_ct:0 "You will prepare a false [secret|E] on the target, and make sure just enough people herd the rumor to back it up, but not enough to reveal the secret. "
  POD_toreador_rumor_mill_interaction_succ_toast:0 "Triumph!"
@@ -600,7 +600,7 @@
  
  
  POD_malkavian_madness_network_divine:0 "Madness Network: Divine"
- POD_malkavian_madness_network_divine_desc:0 "Use the infromation from your Malkavaian brethren and listen to the dark whispers.... Opening the target to your little schemes."
+ POD_malkavian_madness_network_divine_desc:0 "Use the infromation from your Malkavaian brethren and listen to the dark whispers... Opening the target to your little schemes."
  POD_malkavian_madness_network_divine_ct:0 "For every Malkavaian in [recipient.GetFirstName]'s court, their scheme defence will be ravaged."
  POD_malkavian_madness_network_backlash:0 "Tapping into the madness network taxes your mind and soul... Forbidden knowledge can wreck you as much as it helps. "
  NO_MALKAVIANS:0 "There must be at least one Malkavian in the target's court."
@@ -614,7 +614,7 @@
  POD_malkavian_madness_network_martial:0 "Martial"
  POD_malkavian_madness_network_intrigue:0 "Intrigue"
  POD_malkavian_madness_network_learning:0 "Learning"
-       
+
  POD_cappadocian_send_advisor_interaction:0 "Send Adviser"
  POD_cappadocian_send_advisor_interaction_desc:0 "Beyond their scholarly pursuits, the Cappadocians are known for serving as adivsors for kings and princes. Knowing this, you can send your child to serve in the court of another ruler, reaping several benefits."
  POD_cappadocian_send_advisor_interaction_ct:0 "Your childer will be sent to [recipient.GetFirstName]'s court to serve as an adviser or councillor. Should they prove effective, you will earn the gratitude of the foreign ruler and your childe might even learn something. If your childer fails, however, you can expect ramifications."
@@ -626,7 +626,7 @@
  recipient_secondary_POD_cappadocian_send_advisor_interaction:0 "Childe"
  BETTER_CHANC:0 "Better than current councillor"
  
- NOT_NO_BRUJAH:0 "You need at least one Brujah knight to enact this power! A cadre requires more than one member...."
+ NOT_NO_BRUJAH:0 "You need at least one Brujah knight to enact this power! A cadre requires more than one member..."
  POD_brujah_cadre_interaction:0 "Brujah: Assemble Cadre"
  POD_brujah_cadre_interaction_desc:0 "It is hard for a brujah to work with others of their [clan|E] - tempers erupt all too frequently and disaster ensues. But when they do take up a common cause, a group of Brujah (or Cadre) are a force to be reckoned with."
  POD_brujah_cadre_interaction_ct:0 "For every brujah knight serving in your armies, you shall receive a bonus to knight effectiveness. You and your Cadre will also become closer, gaining influence over each other. When used again, dismisses previous Cadre."
@@ -636,7 +636,7 @@
  POD_gangrel_challenge_interaction_succ:0 "You win!"
  POD_gangrel_challenge_interaction_lose:0 "You lose the challenge"
  POD_gangrel_challenge_interaction_succ_toast:0 "None can stand before my might!"
- POD_gangrel_challenge_interaction_lose_toast:0 "Pushed aside like a cub...."
+ POD_gangrel_challenge_interaction_lose_toast:0 "Pushed aside like a cub..."
  PERSONALITY:0 "Personality"
  target_gains:0 "[recipient.GetName]:"
  
@@ -699,7 +699,7 @@
  
  POD_awake_spirit_interaction:0 "Awake"
  POD_awake_spirit_interaction_desc:0 "Awake this spirit."
-  
+
  POD_freeze_spirit_interaction:0 "Freeze"
  POD_freeze_spirit_interaction_desc:0 "Freeze this spirit."
  

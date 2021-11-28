@@ -1,4 +1,4 @@
-﻿l_english:
+﻿l_russian:
 
  trait_unusual:0 "Unusual"
  trait_unusual_desc:0 "There is something odd about this person."
@@ -82,11 +82,11 @@
  trait_giovanni_desc:0 "Following his ascent into the blood, Augustus Giovani immediately began Embracing his own family. In the course of doing so, the Giovani became something between a bloodline and a cult within the Cappadocian [clan|E]. Acknowledged as the experts on [necromancy|E], the Giovani maintained themselves slightly separate from the mother [clan|E]."
  
  trait_harbingersofskulls:0 "Harbingers of Skulls"
- trait_harbingersofskulls_desc:0 "A bloodline of vampires with a deathly pallor.  Additionally, the Harbingers' skin shrinks to make these [cainites|E] appear skeletal, with bony limbs and faces frozen into an immortal death's grin."
+ trait_harbingersofskulls_desc:0 "A bloodline of vampires with a deathly pallor. Additionally, the Harbingers' skin shrinks to make these [cainites|E] appear skeletal, with bony limbs and faces frozen into an immortal death's grin."
 
  trait_kiasyd:0 "Kiasyd"
  trait_kiasyd_desc:0 "A bloodline of vampires with fae blood descended from the Lasombra Marconius of Strasbourg."
-  
+
  trait_lasombra:0 "Lasombra"
  trait_lasombra_desc:0 "[clan|E] Lasombra are social Darwinists, predators, elegant and inhuman."
  
@@ -94,7 +94,7 @@
  trait_lasombra_laibon_desc:0 "Taking their name from the Bavili word for 'shadow', the Xi Dundu originally hailed from the Congo until a rite gone wrong forced them from their homelands. They now make their home among the Maasai peoples of eastern Africa."
  
  trait_lasombra_ashirra:0 "Qabilat al-Khayal"
- trait_lasombra_ashirra_desc:0 "The Arabian Lasombra are notable among their Islamic Kindred counterparts in that they are one of the few bay't to be majority Christian. Islam took hold in a few places in the [clan|E], especially Iberia, and caused major rifts in the bay't."  
+ trait_lasombra_ashirra_desc:0 "The Arabian Lasombra are notable among their Islamic Kindred counterparts in that they are one of the few bay't to be majority Christian. Islam took hold in a few places in the [clan|E], especially Iberia, and caused major rifts in the bay't."
  
  trait_maeghar:0 "Maeghar"
  trait_maeghar_desc:0 "A collection of isolated accidents that appeared when a [cainite|E] tried to inflict his curse on a being with fae-blood. All Maeghar have some physical feature indicating their fae nature, which can range from the subtle (snow white skin and ebony hair) to the blatant (six arms)."
@@ -113,7 +113,7 @@
  
  trait_nosferatu_laibon:0 "Guruhi"
  trait_nosferatu_laibon_desc:0 "Taking their name from the Gambian god from whom they claim to descend, the Guruhi believe themselves to be the masters of Africa, the rightful rulers of its lands and people."
-  
+
  trait_oldclantzimisce:0 "Old [clan|E] Tzimisce"
  trait_oldclantzimisce_desc:0 "Members of the Tzimisce [clan|E] who did not join the Sabbat"
  
@@ -155,7 +155,7 @@
  
  trait_toreador_laibon:0 "Ishtarri"
  trait_toreador_laibon_desc:0 "One of the Legacies of the Laibon. The Ishtarri claim to be descended from the Babylonian goddess Ishtar, but currently lack the personal connection with Africa that the similar Guruhi have."
-  
+
  trait_tremere:0 "Tremere"
  trait_tremere_desc:0 "[clan|E] of scholars, focused on [bloodsorcery|E]. They are reviled for their supposed attack on the [antediluvian|E] Saulot, and feared for the strong [clan|E] discipline and cohesion unheard of elsewhere in [cainite|E] society"
  
@@ -167,7 +167,7 @@
  
  trait_tzimisce_laibon:0 "Nagloper"
  trait_tzimisce_laibon_desc:0 "Taking their name from the Khoikhoin word for 'evil sorcerer', the Naglopers live up to their reputation as the most horrifying of the Laibon. They allow the Beast to dominate them, leading them into causing any debauchery one can imagine, and some were only thought possible in nightmares."
-  
+
  trait_ventrue:0 "Ventrue"
  trait_ventrue_desc:0 "Lords. Regal, commanding and aristocratic."
  
@@ -176,10 +176,10 @@
  
  trait_ventrue_raktasadhus:0 "Danava"
  trait_ventrue_raktasadhus_desc:0 "The Danava are a bloodline of the Ventrue [clan|E] that is centered around the Indian subcontinent. Regal sages, ascetics and priests, the Danava are among the most respected vampires within the Caste system of the Indian Damned."
-  
+
  trait_kueijin:0 "Kuei-Jin"
  trait_kueijin_desc:0 "It is said that the Kuei-jin are the corrupted descendants of the Wan Xian, the "Ten Thousand Heroes" chosen by the August Personage of Jade to guide and protect the universe in ancient history. The Wan Xian were originally chosen by tests of skill and courage, and fed on the ambient chi of the universe. However, they fell from grace, learning to feed off of the chi of living beings and corrupting the tests of worthiness." 
-  
+
  trait_animalism:0 "Animalism"
  trait_animalism_desc:0 "A [discipline|E] that brings the vampire closer to their animalistic nature. This not only allows them to communicate with and gain dominance over creatures of nature, but gives them influence over the Beast itself.\n\nAnimalism is particularly common among the clans that are most removed from humanity, though many of its powers specifically target the Beasts of mortals and [cainites|E]."
  
@@ -208,7 +208,7 @@
  trait_daimoinon_desc:0 "Daimonion is a diabolic [discipline|E] practiced only by the Baali and the very worst vampire infernalists. Its power is that of the Devil himself, and through the use of Daimonion the Baali draw upon the forces of Hell and its demons to demoralize and cripple their enemies."
 
  trait_daimoinonadvanced:0 "Daimoinon Advanced" 
- trait_daimoinonadvanced_desc:0 "Daimonion is a diabolic [discipline|E] practiced only by the Baali and the very worst vampire infernalists. Its power is that of the Devil himself, and through the use of Daimonion the Baali draw upon the forces of Hell and its demons to demoralize and cripple their enemies."  
+ trait_daimoinonadvanced_desc:0 "Daimonion is a diabolic [discipline|E] practiced only by the Baali and the very worst vampire infernalists. Its power is that of the Devil himself, and through the use of Daimonion the Baali draw upon the forces of Hell and its demons to demoralize and cripple their enemies."
 
  trait_dementation:0 "Dementation"
  trait_dementation_desc:0 "Dementation is a [discipline|E] widely known as the hallmark of the Malkavians.\n\n Dementation draws on the vampire's own insanity and uses it to achieve profound insights or inflict madness upon others. Such powers are one of the primary reasons the Malkavian [clan|E] is often considered both insightful and very dangerous."
@@ -541,7 +541,7 @@
  trait_hecata_desc:0 "They are not a fully organic [clan|E] deriving from a single [antediluvian|E] and an uninterrupted bloodline, but are made up of the Giovanni and the remnants of the old [clan|E] Cappadocian and their related bloodlines; as well as the Nagaraja despite a lack of connection with [antediluvian|E]." 
 
  trait_impundulu:0 "Impundulu"
- trait_impundulu_desc:0 "A bloodline of vampires bonded to a coven of mortal witches, and they are counted as one of Legacies of the Laibon. Impundulu was a powerful necromancer in life, married to an equally powerful life-witch named Bomkazi."  
+ trait_impundulu_desc:0 "A bloodline of vampires bonded to a coven of mortal witches, and they are counted as one of Legacies of the Laibon. Impundulu was a powerful necromancer in life, married to an equally powerful life-witch named Bomkazi."
  
  trait_sire:0 "[Sire|E]"
  trait_sire_desc:0 "This vampire has created another of its kind."
@@ -559,7 +559,7 @@
  trait_ahrimane_desc:0 "The Ahrimanes are a rare, all-female bloodline of Kindred that originally existed during the Dark Ages, headed by a woman called Adisa.\n\nThe story of the Ahrimanes, as they would tell it, begins with Adisa, a Valkyrje and daughter of Freyja, the Norse goddess."
 
  trait_patron:0 "Patron"
- trait_patron_desc:0 "A notable person invested in the World of Darkness."
+ trait_patron_desc:0 "A notable person invested in Мир Тьмы."
  
  trait_harbringersofskulls:0 "Harbringers of Skulls"
  trait_harbringersofskulls_desc:0 ""
@@ -574,7 +574,7 @@
  trait_truefaith_desc:0 "This character truly believes in the presence of the Divine. This is a core part of his soul, and gives him access to abilities some may call unnatural. But beware, sinful individuals can eventually be stripped of their divine gifts.\nThis trait unlocks a new lifestyle tree."
 
  trait_beatific:0 "Beatific"
- trait_beatific_desc:0 "A walking embodiment of his chosen God, this character is a miracle worker, a true paragon of faith in a world of darkness. It gives him access to abilities some may call unnatural. But beware, sinful individuals can eventually be stripped of their divine gifts"
+ trait_beatific_desc:0 "A walking embodiment of his chosen God, this character is a miracle worker, a true paragon of faith in a Мир Тьмы. It gives him access to abilities some may call unnatural. But beware, sinful individuals can eventually be stripped of their divine gifts"
 
  trait_bloodgorged:0 "Bloodgorged"
  trait_bloodgorged_desc:0 "A beneficiary of a mad experiment or an unholy ritual aimed to infuse a living being with the most potent blend of Kindred vitae possible to obtain."
