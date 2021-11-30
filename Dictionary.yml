@@ -1,3 +1,74 @@
-﻿Kindered: "Сородичи"
+﻿Herd: "Скот"
+Kindered: "Сородичи"
 Minion: "Прислужник"
 Draught: "Глоток"
+Draught of Might: "Глоток Могущества"
+Draught of Elegance: "Глоток Силы"
+Draught of Endurance: "Глоток Выносливости"
+Potence: "Сила"
+Celerity: "Ловкость"
+Fortitude: "Сила воли"
+Prowess: "Доблесть"
+Martial: "Военное дело"
+Diplomacy: "Дипломатия"
+Stewardship: "Управление"
+Intrigue: "Интриги"
+Learning: "Ученость"
+Discipline: "Дисциплина"
+Vicissitude: "Скульптивация" #жуткость, если внешн.
+Diablerie: "Диаблеризм"
+Diablerist: "Диаблерист" #оскорб: пожиратели душ
+Vitae: "Витэ" #кровь вампира
+Masquerade Exposure: "Риск разоблачения Маскарада"
+Resonance: "Резонанс"
+Intensity resonance: "Сила резонанса" #слабый (fleeting), несбалансированный. (intense) и сбалансированный (acute)
+negligible resonance: "Незначительный резонанс"
+Fleeting resonance: "Слабый резонанс"
+Intense resonance: "Несбалансированный резонанс"
+Acute resonance: "Сбалансированный резонанс"
+animal_lifestyle: "звериный облик"
+disfigured: "Обезображенное лицо"
+maimed: "Серьезное увечье"
+illness: "Хворь"
+Web Of Knives: "Братство Клинков"
+
+=========kueijin spy==========
+evaluate: "Провести оценку"
+scrutinize: "Детально обследовать"
+permeate:0 "Проникнуть"
+detach_limb:0 "Оживить конечность"
+permeate_plus:0 "Проникнуть+"
+pelesit:0 "Пелесит"
+
+=========Дисциплины==========
+Анимализм (Animalism)
+Бардо (Bardo)
+Валерен (Valeren)
+Висцератика (Visceratika)
+Власть над Тенью (Obtenebration)
+Демонизм (Daimoinon)
+Доминирование (Dominate)
+Затемнение (Obfuscate)
+Изменчивость (Vicissitude) #"Скульптивация"
+Кинетицизм (Kineticism)
+Мельпомения (Melpominee)
+Мистерия (Mytherceria)
+Могущество (Potence)
+Нигилизм (Nihilistics)
+Обеах (Obeah)
+Полет Горгулий (Gargoyle Flight)
+Помешательство (Dementation)
+Превращение (Protean)
+Присутствие (Presence)
+Прорицание (Auspex)
+Сангвинус (Sanguinus)
+Серпентис (Serpentis)
+Смертоносность (Quietus)
+Мортис (Mortis)
+Стойкость (Fortitude)
+Стремительность (Celerity)
+Танатозис (Thanatosis)
+Темпорис (Temporis)
+Химерия (Chimerstry)
+Шаманство (Spiritus)
+===========================

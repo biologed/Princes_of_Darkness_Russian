@@ -60,7 +60,7 @@
  scheme_interaction_tt_vamphunt_approved:0 "Hunt [recipient.GetFirstName]. You will be able to drain their blood to replenish your reserves."
  VAMPHUNT_SUCCESS_DESC:0 "[TARGET_CHARACTER.GetShortUIName]'s blood will be yours."
  vamphunt_my_intrigue:1 "Ваша интрига: $VALUE|=+0$"
- VAMPHUNT_DISCOVERY_DESC:0 "@warning_icon! Your hunt is exposed, breaching [Concept('masquerade','маскарад')|E."
+ VAMPHUNT_DISCOVERY_DESC:0 "@warning_icon! Your hunt is exposed, breaching [Concept('masquerade','Маскарад')|E]."
  vamphunt_my_rival:1 "Ваша цель: $VALUE|=+0$"
  I_CAN_ONLY_PLOT_ONE_VAMPHUNT_AT_A_TIME_TRIGGER:1 "[TARGET_CHARACTER.GetShortUIName|U] can only hunt one mortal character at a time."
  POD_inquihunt_effect_message:1 "If you have the True Faith lifestyle, you will get some faith lifestyle xp depending on the age of the vampire killed."
@@ -132,7 +132,7 @@
  I_must_be_older:1 "I must be older than the prospective squire!"
  NOT_I_must_be_older:1 "I must be older than the prospective squire!"
  I_CAN_ONLY_PLOT_ONE_KNIGHTING_AT_TIME:1 "[TARGET_CHARACTER.GetShortUIName|U] can only teach one potential recruit at a time."
- no_masquerade:1 "My faith doesn't care about [Concept('masquerade','маскарад')|E!"
+ no_masquerade:1 "My faith doesn't care about [Concept('masquerade','Маскарад')|E]!"
 
  ordinationsisters:0 "Ordination Scheme"
  ordinationsisters_action:0 "Ordination"
@@ -256,7 +256,7 @@
  PODchi_mastery.duel.success:0 "You successfully used the Chi Mastery power"
  PODchi_mastery.duel.tt.attacker_wins:0 "[scope:recipient.GetFirstName]'s Chi or equivalent disperses into the surrounding atmosphere or becomes corrupted."
  PODchi_mastery.duel.failure:0 "You fail to use the Chi Mastery power"
- PODchi_mastery.duel.tt.attacker_lost:0 "You fail"
+ PODchi_mastery.duel.tt.attacker_lost:0 "Вы потерпели неудачу"
 
  infernalize_scheme:0 "Tempt to Infernalism"
  infernalize_scheme_action:0 "Convert"

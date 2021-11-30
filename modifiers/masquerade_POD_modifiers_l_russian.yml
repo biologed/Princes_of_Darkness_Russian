@@ -1,9 +1,9 @@
 ﻿l_russian:
- masquerade0_modifier:0 "Раскрытие маскарада 0: Скрыт"
- masquerade1_modifier:0 "Раскрытие маскарада 1: Слабая Настороженность"
- masquerade2_modifier:0 "Раскрытие маскарада 2: Низкая Настороженность"
- masquerade3_modifier:0 "Раскрытие маскарада 3: Серьезная Настороженность"
- masquerade4_modifier:0 "Раскрытие маскарада 4: Высокая Настороженность"
- masquerade5_modifier:0 "Раскрытие маскарада 5: Раскрыт"
+ masquerade0_modifier:0 "Риск разоблачения Маскарада 0: Скрыт"
+ masquerade1_modifier:0 "Риск разоблачения Маскарада 1: Слабый"
+ masquerade2_modifier:0 "Риск разоблачения Маскарада 2: Низкий"
+ masquerade3_modifier:0 "Риск разоблачения Маскарада 3: Серьезный"
+ masquerade4_modifier:0 "Риск разоблачения Маскарада 4: Высокий"
+ masquerade5_modifier:0 "Риск разоблачения Маскарада 5: Раскрыт"
  
 

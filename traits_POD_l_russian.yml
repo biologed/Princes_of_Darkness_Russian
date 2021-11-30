@@ -526,7 +526,7 @@
  trait_regnant_desc:0 "This character has created a ghoul."
  
  trait_massregnant:0 "Mass Regnant"
- trait_massregnant_desc:0 "This character has created ghouls in en masse. This is usually a breach of [Concept('masquerade','маскарад')|E."
+ trait_massregnant_desc:0 "This character has created ghouls in en masse. This is usually a breach of [Concept('masquerade','Маскарад')|E]."
  
  trait_unbondable:0 "Unbondable"
  trait_unbondable_desc:0 "This character can not be blood bonded."
@@ -547,7 +547,7 @@
  trait_sire_desc:0 "This vampire has created another of its kind."
  
  trait_masssire:0 "[Concept('Sire','Отец')|E]"
- trait_masssire_desc:0 "This vampire has created a large number of vampires. Most paths regard this as a violation of [Concept('masquerade','маскарад')|E."
+ trait_masssire_desc:0 "This vampire has created a large number of vampires. Most paths regard this as a violation of [Concept('masquerade','Маскарад')|E]."
  
  trait_lamia:0 "Lamia"
  trait_lamia_desc:0 "The Lamia were a bloodline of [Concept('cainites','каиниты')|E] devoted to defending [Concept('clan','клан')|E] Cappadocian, though originally they were a group of cultists that claimed to be descended from Lilith, Adam's first wife."
