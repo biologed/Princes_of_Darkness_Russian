@@ -36,7 +36,7 @@
  ordos_mystai_plural:0 "mystai"
  ordos_positive_afterlife:0 "Underworld"
  ordos_negative_afterlife:0 "Oblivion"
- ordos_witchgodname_the_horned_god:0 "the Beast" 
+ ordos_witchgodname_the_horned_god:0 "the Beast"
 
  ordos_creator_god_name:0 "$ordos_high_god_name$"
  ordos_creator_god_name_possessive:0 "$ordos_high_god_name_possessive$"

@@ -26,16 +26,16 @@
  
 
  POD_wraith_spying.400.t:0 "Your secrets have been revealed"
- POD_wraith_spying.400.desc:0 "Having failed the attempt to hide your possessions and conversations from [actor.GetTitledFirstName], your secrets are now known to [actor.GetHerHim]." 
+ POD_wraith_spying.400.desc:0 "Having failed the attempt to hide your possessions and conversations from [actor.GetTitledFirstName], your secrets are now known to [actor.GetHerHim]."
  POD_wraith_spying.400.option.a:0 "My secrets are no longer hidden."
  
  POD_wraith_spying.500.t:0 "Foiled Spying"
- POD_wraith_spying.500.desc:0 "[recipient.GetTitledFirstName] has resisted my attempt to spy on [recipient.GetHerHim]." 
+ POD_wraith_spying.500.desc:0 "[recipient.GetTitledFirstName] has resisted my attempt to spy on [recipient.GetHerHim]."
  POD_wraith_spying.500.option.a:0 "Thwarted!"
  POD_wraith_spying.500.option.a.tt.beast:0 "#RWe must know [recipient.GetHerHis] secretst!#"
 
  POD_wraith_spying.600.t:0 "Foiled Spying"
- POD_wraith_spying.600.desc:0 "[actor.GetTitledFirstName] has abandoned [actor.GetTitledHerHis] attempt to steal your secrets." 
+ POD_wraith_spying.600.desc:0 "[actor.GetTitledFirstName] has abandoned [actor.GetTitledHerHis] attempt to steal your secrets."
  POD_wraith_spying.600.option.a:0 "My secrets are safe!"
  POD_wraith_spying.600.toasttitle:0 "Wraith Foiled!"
  POD_wraith_spying.600.toasttext:0 "The wraith you sent failed to learn any of your targets secrets."

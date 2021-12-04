@@ -50,9 +50,9 @@
  POD_transmogrify.350.option.d:0 "Remove third eye"
  POD_transmogrify.350.option.e:0 "Enhance [transmogrifiee.GetHerHis] hearing"
  POD_transmogrify.350.option.f:0 "Normal ears"
- POD_transmogrify.350.option.g:0 "Enhance smelling" 
+ POD_transmogrify.350.option.g:0 "Enhance smelling"
  POD_transmogrify.350.option.h:0 "Normal nose"
- POD_transmogrify.350.option.i:0 "Do nothing" 
+ POD_transmogrify.350.option.i:0 "Do nothing"
 
  POD_transmogrify.400.t:0 "Transmogrification Rending the Osseous Frame"
  POD_transmogrify.400.desc:0 "How should I modify [transmogrifiee.GetFirstName]'s appearance? There is a chance [transmogrifiee.GetSheHe] does not survive the procedure."

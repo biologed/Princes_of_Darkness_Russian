@@ -1,9 +1,9 @@
 ﻿l_russian:
 
  POD_martyrs.1.t:0 "A Procession of Martyrs"
- POD_martyrs.1.desc:0 "One after another, the people you hold dear perish in the struggle against the Adversary. However bright they may shine with virtue, it seems to be only a matter of time before their flame is engulfed, suffocated and extinguished by the unrelenting darkness. Sometimes when you close your eyes you see the faces of those who died, violently and prematurely, looking at you with indecipherable expressions." 
+ POD_martyrs.1.desc:0 "One after another, the people you hold dear perish in the struggle against the Adversary. However bright they may shine with virtue, it seems to be only a matter of time before their flame is engulfed, suffocated and extinguished by the unrelenting darkness. Sometimes when you close your eyes you see the faces of those who died, violently and prematurely, looking at you with indecipherable expressions."
  POD_martyrs.1.a:0 "And I am honoured to walk in their footsteps."
- POD_martyrs.1.a.tt:0 "This option is available because I have the [GetTrait('beatific').GetName( GetPlayer )] trait."
+ POD_martyrs.1.a.tt:0 "This option is available because I have the [GetTrait('beatific').GetName( GetPlayer)] trait."
  POD_martyrs.1.b:0 "What is God telling me?"
  POD_martyrs.1.b.tt:0 "You will pray for guidance."
  POD_martyrs.1.c:0 "I won't let this happen to me!"

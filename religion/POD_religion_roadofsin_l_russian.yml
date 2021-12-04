@@ -37,7 +37,7 @@
  roadofsin_bishop_plural:0 "praeceptors"
  roadofsin_positive_afterlife:0 "eternity"
  roadofsin_negative_afterlife:0 "the abyss"
- roadofsin_witchgodname_the_horned_god:0 "the Adversary" 
+ roadofsin_witchgodname_the_horned_god:0 "the Adversary"
 
  roadofsin_creator_god_name:0 "$roadofsin_high_god_name$"
  roadofsin_creator_god_name_possessive:0 "$roadofsin_high_god_name_possessive$"
@@ -94,15 +94,15 @@
  viadiabolis_desc:0 "Being an inherently destructive Road, Via Diabolis is not considered a path to be taken lightly; those who dare follow it indulge themselves with all manner of debauchery and destruction. Many are not really evil per se, so much as believing a virtuous unlife is a fruitless pursuit. Some, however, took the role of devil seriously, even calling themselves devils incarnate and servants of Satan. The Baali in particular are associated with Via Diabolis."
 
  viaprometheus:0 "Via Prometheus"
- viaprometheus_adj:0 "Promethean"
- viaprometheus_adherent:0 "Promethean"
- viaprometheus_adherent_plural:0 "Promethean"
+ viaprometheus_adj:0 "Прометеанец"
+ viaprometheus_adherent:0 "Прометеанец"
+ viaprometheus_adherent_plural:0 "Прометеанец"
  viaprometheus_desc:0 "Also called Firebringers, they are a sect of [Concept('cainites','каиниты')|E] who dream of re-creating Carthage and the harmony of Kindred and Kine associated with it. Unsurprisingly, many members are Brujah. Since many members of the High Clans regard these visions as treason, the Prometheans are forced to act covertly."
  
  viafurores:0 "Via Furores"
- viafurores_adj:0 "Furores"
- viafurores_adherent:0 "Furores"
- viafurores_adherent_plural:0 "Furores"
+ viafurores_adj:0 "Фуроры"
+ viafurores_adherent:0 "Фуроры"
+ viafurores_adherent_plural:0 "Фуроры"
  viafurores_desc:0 "This sect's members have a reputation for being the outlaws of the [Concept('cainites','каиниты')|E]. Condemned by most princes as thieves and troublemakers, they exist on the fringes of vampire society, scratching out a meager existence like their mortal counterparts. The Furores are considered chaotic, but they can muster a level of passion for their cause unseen anywhere else in [Concept('cainite','каинит')|E] society."
 
  viaquiritare:0 "Via Quiritare"

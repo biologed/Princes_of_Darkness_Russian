@@ -7,7 +7,7 @@
  POD_vampire_masquerade_breach.100.d:0 "Kill them."
  POD_vampire_masquerade_breach.100.e:0 "Drain [mortal.GetTitledFirstName] of blood, killing them. "
  POD_vampire_masquerade_breach.100.d.tt.beast:0 "#R The prey has smelled the predator - strike now, lest you become prey yourself."
- POD_vampire_masquerade_breach.100.e.tt.beast:0 "#R Two birds with one stone!" 
+ POD_vampire_masquerade_breach.100.e.tt.beast:0 "#R Two birds with one stone!"
  POD_vampire_masquerade_breach.100.d.notwounded:0 "You overcome the puny mortal unscathed"
  POD_vampire_masquerade_breach.100.d.wounded:0 "The mortal proves... Troublesome"
  POD_vampire_masquerade_breach.100.d.woundedtoast:0 "Before going down, [mortal.GetTitledFirstName] managed to wound you."

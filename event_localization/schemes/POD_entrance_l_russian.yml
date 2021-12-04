@@ -26,16 +26,16 @@
  POD_entrance.300.option.a.tt.beast:0 "#R All shall look upon us and despair! #"
 
  POD_entrance.400.t:0 "You Have Arrived"
- POD_entrance.400.desc:0 "You find yourself in the court of [schemer.GetTitledFirstName]." 
+ POD_entrance.400.desc:0 "You find yourself in the court of [schemer.GetTitledFirstName]."
  POD_entrance.400.option.a:0 "My new home."
  
  POD_entrance.500.t:0 "Resisted the Entrancement"
- POD_entrance.500.desc:0 "[target.GetTitledFirstName] has resisted my entrancement." 
+ POD_entrance.500.desc:0 "[target.GetTitledFirstName] has resisted my entrancement."
  POD_entrance.500.option.a:0 "Thwarted!"
  POD_entrance.500.option.a.tt.beast:0 "#R To reject us means death! #"
 
  POD_entrance.600.t:0 "Resisted Entrancement"
- POD_entrance.600.desc:0 "You know longer feel [schemer.GetTitledFirstName]'s entrancement." 
+ POD_entrance.600.desc:0 "You know longer feel [schemer.GetTitledFirstName]'s entrancement."
  POD_entrance.600.option.a:0 "Stay out of my mind!"
 
  

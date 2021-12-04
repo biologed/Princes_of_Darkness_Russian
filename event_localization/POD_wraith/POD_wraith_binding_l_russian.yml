@@ -29,16 +29,16 @@
  POD_wraith_binding.300.threelevels:0 "The binding's potency will be increased by three levels!"
 
  POD_wraith_binding.400.t:0 "Bound!"
- POD_wraith_binding.400.desc:0 "Despite your efforts at fighting the dark powers of [actor.GetTitledFirstName], the magic has forced you to become an unwilling slave to [actor.GetHerHim]." 
+ POD_wraith_binding.400.desc:0 "Despite your efforts at fighting the dark powers of [actor.GetTitledFirstName], the magic has forced you to become an unwilling slave to [actor.GetHerHim]."
  POD_wraith_binding.400.option.a:0 "My independence...Lost."
  
  POD_wraith_binding.500.t:0 "Failed binding"
- POD_wraith_binding.500.desc:0 "[recipient.GetTitledFirstName] has resisted my attempt to bind [recipient.GetHerHim]." 
+ POD_wraith_binding.500.desc:0 "[recipient.GetTitledFirstName] has resisted my attempt to bind [recipient.GetHerHim]."
  POD_wraith_binding.500.option.a:0 "Thwarted!"
 
 
  POD_wraith_binding.600.t:0 "Foiled Binding"
- POD_wraith_binding.600.desc:0 "[actor.GetTitledFirstName] has abandoned [actor.GetTitledHerHis] attempt to force you into service." 
+ POD_wraith_binding.600.desc:0 "[actor.GetTitledFirstName] has abandoned [actor.GetTitledHerHis] attempt to force you into service."
  POD_wraith_binding.600.option.a:0 "My independence is safe!"
  
  

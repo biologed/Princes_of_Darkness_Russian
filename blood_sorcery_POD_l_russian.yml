@@ -141,20 +141,20 @@
  stigma_works:0 "Жертву будут ненавидеть все, кого [target.GetSheHe] встретит, и [target.GetSheHe] увидит, как самые близкие люди станут [target.GetHerHis] главными соперниками."
  stigma.toast.1:0 "Заклинание применено!"
  stigma_fail.toast.1:0 "Заклинание не сработало!"
- stigma_fail.toast.1.ct:0 "[target.GetTitledFirstName] [Select_CString(target.IsFemale, 'одолела', 'одолел' )] ваше мерзкое проклятие."
+ stigma_fail.toast.1.ct:0 "[target.GetTitledFirstName] [Select_CString(target.IsFemale, 'одолела', 'одолел')] ваше мерзкое проклятие."
  
- malady_works:0 "[target.GetTitledFirstName] будет [Select_CString(target.IsFemale, 'поражена', 'поражен' )] ослабляющей и вызывающей у н[target.GetHerHis] тревогу болезнью."
- malady_fail:0 "[target.GetTitledFirstName] оказывается слишком [Select_CString(target.IsFemale, 'сильной', 'сильным' )], чтобы сокрушить [target.GetHerHis] мелкими проклятиями."
+ malady_works:0 "[target.GetTitledFirstName] будет [Select_CString(target.IsFemale, 'поражена', 'поражен')] ослабляющей и вызывающей у н[target.GetHerHis] тревогу болезнью."
+ malady_fail:0 "[target.GetTitledFirstName] оказывается слишком [Select_CString(target.IsFemale, 'сильной', 'сильным')], чтобы сокрушить [target.GetHerHis] мелкими проклятиями."
  malady.toast.1:0 "Заклинание применено!"
  malady_fail.toast.1:0 "Заклинание не сработало!"
- malady_fail.toast.1.ct:0 "[target.GetTitledFirstName] [Select_CString(target.IsFemale, 'одолела', 'одолел' )] ваше мерзкое проклятие."
+ malady_fail.toast.1.ct:0 "[target.GetTitledFirstName] [Select_CString(target.IsFemale, 'одолела', 'одолел')] ваше мерзкое проклятие."
  
- acedia_works:0 "The ultimate curse - nothing [target.GetTitledFirstName] будет [Select_CString(target.IsFemale, 'избавлена', 'избавлен' )] от вашего темного влияния."
+ acedia_works:0 "The ultimate curse - nothing [target.GetTitledFirstName] будет [Select_CString(target.IsFemale, 'избавлена', 'избавлен')] от вашего темного влияния."
  acedia_fail:0 "[target.GetTitledFirstName] сохраняет силу воли и умственные способности, развеивая ваше проклятие."
  acedia.toast.1:0 "Заклинание применено!"
  acedia.toast.1.ct:0 "В течение следующих двух лет жертва не будет знать ничего, кроме страданий."
  acedia_fail.toast.1:0 "Заклинание не сработало!"
- acedia_fail.toast.1.ct:0 "[target.GetTitledFirstName] [Select_CString(target.IsFemale, 'одолела', 'одолел' )] ваше мерзкое проклятие."
+ acedia_fail.toast.1.ct:0 "[target.GetTitledFirstName] [Select_CString(target.IsFemale, 'одолела', 'одолел')] ваше мерзкое проклятие."
  
  
  murder_save.toast.1:0 "Спасен от Смерти"

@@ -20,24 +20,24 @@
  
  podkueijin.110.t:0 "Yin Yang"
  podkueijin.110.desc:0 "Yin-aspected Wan-Kuei are reservoirs for negative, death oriented energy. They tend to be calm, rational and cruel.\nYang-aspected Wan-Kuei, by contrast, greedily consume life energy. They are passionate creatures, attuned to mortals and the emotions.\nSome Wan-Kuei are creatures of Balance, their bodies maintaining life and death energies in equilibrium."
- podkueijin.110.a:0 "I prefer Yin." 
- podkueijin.110.b:0 "I prefer to be Balanced." 
- podkueijin.110.c:0 "I prefer Yang." 
+ podkueijin.110.a:0 "I prefer Yin."
+ podkueijin.110.b:0 "I prefer to be Balanced."
+ podkueijin.110.c:0 "I prefer Yang."
  
  podkueijin.120.t:0 "Chi"
  podkueijin.120.desc:0 "This Wheel of Ages turns by the interactions of Yin and Yang, represented by the divine Ebon Dragon and Scarlet Queen. Energies of creation permeate the world, flowing to and from the Yin and Yang Worlds. Called Chi, this energy flows through and among all the Ten Thousand Things.\n\nLike Kindred, Wan-Kuei suffer from hunger. When a Wan-Kuei has five or fewer Chi points (of either sort) in their body, they becomes hungry.\n\nA Wan-Kuei's Chi Virtues indicate how much of a given type of Chi the Wan-Kuei may safely channel through her body. The Wan-Kuei is easily capable of ingesting more temporary Chi than her Chi Virtues indicate (a permanent imbalance allows to ingest more Chi of that type without ill effects). However, a Wan-Kuei who abuses this practice runs the risk of an imbalance - a dangerous 'overdose' of Chi. Wan-Kuei with none of aparticular type of Chi in her body is thrown in an automatic state of temporary imbalance too."
- podkueijin.120.a:0 "Here is my Chi." 
+ podkueijin.120.a:0 "Here is my Chi."
  
  # Maintance event
 
  podkueijin.200.t:0 "Imbalance"
  podkueijin.200.desc:0 "Kuei-jin must regulate their Chi intake carefully, lest they suffer from Chi imbalance. An imbalance of Yin Chi often leads to the vampire becoming more corpselike and inhuman over time; conversely, an imbalance of Yang can lead to the outbreak of various deadly and exceedingly contagious vampiric diseases.\n\nYou always can use shift the balance to change your yinyang state."
- podkueijin.200.a:0 "Punishment for excessive focus on the Self." 
- podkueijin.200.a.tt:0 "Your closeness to Yin made you more ugly and a potential target of witch hunter." 
- podkueijin.200.b:0 "I will aplicate Yang Chi to my body to become a little balanced." 
- podkueijin.200.c:0 "Punishment for a lifetime of Desire." 
- podkueijin.200.c.tt:0 "Your closeness to Yang made you the source of an outbreak vampiric diseases." 
- podkueijin.200.d:0 "I will aplicate Yin Chi to my body to become a little balanced." 
+ podkueijin.200.a:0 "Punishment for excessive focus on the Self."
+ podkueijin.200.a.tt:0 "Your closeness to Yin made you more ugly and a potential target of witch hunter."
+ podkueijin.200.b:0 "I will aplicate Yang Chi to my body to become a little balanced."
+ podkueijin.200.c:0 "Punishment for a lifetime of Desire."
+ podkueijin.200.c.tt:0 "Your closeness to Yang made you the source of an outbreak vampiric diseases."
+ podkueijin.200.d:0 "I will aplicate Yin Chi to my body to become a little balanced."
 
  podkueijin.201.t:0 "Ch'ing Shih"
  podkueijin.201.desc:0 "Ch'ing Shih are outright monstrosities and cannot pass as ordinary humans in any way. The Wan-Kuei's flesh turns a sickly gray, while bones turn jet black. Skin wrinkles and compresses around bones. Fangs grow long and drip venom, and black spikes jut from back, joints, and rib cage. Entire body glows phosphorescently and sparks with Yin energy."
@@ -114,7 +114,7 @@
  podkueijin.400.a:0 "You need more training."
  podkueijin.400.b:0 "Well, better than nothing"
  podkueijin.400.nolearn:0 "Your disciple hasn't advanced in their dharma."
- podkueijin.400.learn:0 "Your disciple has advanced in their dharma." 
+ podkueijin.400.learn:0 "Your disciple has advanced in their dharma."
  podkueijin_education:0 "You will train this disciple for another year. He might turn better, or worse, for it."
  
  podkueijin.401.t:0 "Dharma Education II"
@@ -152,12 +152,12 @@
  
  podkueijin.710.t:0 "Chi Mechanic Setting"
  podkueijin.710.desc:0 "You can select which Chi aspect pool want spend first when using Chi, and overdose or not when devore Chi."
- podkueijin.710.a:0 "First spend: #bold Yin Chi#/Yang Chi/Random." 
- podkueijin.710.b:0 "First spend: Yin Chi/#bold Yang Chi#/Random." 
- podkueijin.710.c:0 "First spend: Yin Chi/Yang Chi/#bold Random#." 
- podkueijin.710.d:0 "When devore Chi: #bold No Overdose#/Overdose." 
- podkueijin.710.e:0 "When devore Chi: No Overdose/#bold Overdose#." 
- podkueijin.710.f:0 " Ok." 
+ podkueijin.710.a:0 "First spend: #bold Yin Chi#/Yang Chi/Random."
+ podkueijin.710.b:0 "First spend: Yin Chi/#bold Yang Chi#/Random."
+ podkueijin.710.c:0 "First spend: Yin Chi/Yang Chi/#bold Random#."
+ podkueijin.710.d:0 "When devore Chi: #bold No Overdose#/Overdose."
+ podkueijin.710.e:0 "When devore Chi: No Overdose/#bold Overdose#."
+ podkueijin.710.f:0 " Ok."
  
  # Chi mechanic event
  
@@ -167,7 +167,7 @@
 
  podkueijin.900.t:0 "Lack of Chi"
  podkueijin.900.desc:0 "A Wan Kuei with no Chi in their body begins to crumble and rot. Each time you must expend Chi (to activate a [Concept('discipline','дисциплина')|E] or merely animate your corpse), you lose Health instead, until your dual soul flees the body and your existence as a Rising Dead ends."
- podkueijin.900.a:0 "I need Chi!" 
+ podkueijin.900.a:0 "I need Chi!"
  
  # Celebration general event
  
@@ -347,7 +347,7 @@
  kueijin_scheme.110.b:0 "I attempt to restore their lost Humanity to the victim."
  
  kueijin_scheme.120.t:0 "Torture of the Soul"
- kueijin_scheme.120.desc:0 "While tormenting the soul, you may implant any commands desired or even go so far as to change the victim's Nature." 
+ kueijin_scheme.120.desc:0 "While tormenting the soul, you may implant any commands desired or even go so far as to change the victim's Nature."
  kueijin_scheme.120.craven:0 "I want change their nature to craven."
  kueijin_scheme.120.brave:0 "I want change their nature to brave."
  kueijin_scheme.120.wrathful:0 "I want change their nature to wrathful."

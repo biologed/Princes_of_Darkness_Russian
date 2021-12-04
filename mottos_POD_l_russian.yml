@@ -18,7 +18,7 @@
  motto_blood:0 "Blood"
  motto_caine:0 "Caine"
  motto_nod:0 "Nod"
- motto_shadow:0 "Shadow"
+ motto_shadow:0 "Тень"
  motto_night:0 "Night"
  motto_traditions:0 "Traditions"
  motto_domain:0 "Domain"
@@ -29,7 +29,7 @@
  motto_destruction:0 "Destruction"
  motto_darkness:0 "Darkness"
  motto_bone:0 "Bone"
- motto_skull:0 "Skull" 
+ motto_skull:0 "Skull"
  
  # Immaterial Adjectives
  #motto_honorable:0 "Honorable"

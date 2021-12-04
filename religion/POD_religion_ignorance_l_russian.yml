@@ -37,7 +37,7 @@
  ignorance_bishop_plural:0 "bishops"
  ignorance_positive_afterlife:0 "heaven"
  ignorance_negative_afterlife:0 "hell"
- ignorance_witchgodname_the_horned_god:0 "Evil" 
+ ignorance_witchgodname_the_horned_god:0 "Evil"
 
  ignorance_creator_god_name:0 "$ignorance_high_god_name$"
  ignorance_creator_god_name_possessive:0 "$ignorance_high_god_name_possessive$"

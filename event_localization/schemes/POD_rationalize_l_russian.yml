@@ -26,16 +26,16 @@
  POD_rationalize.300.option.a.tt.beast:0 "#R Blood! We want blood! #"
 
  POD_rationalize.400.t:0 "A debt I can not refuse"
- POD_rationalize.400.desc:0 "I owe [schemer.GetTitledFirstName]." 
+ POD_rationalize.400.desc:0 "I owe [schemer.GetTitledFirstName]."
  POD_rationalize.400.option.a:0 "How will I ever make it up to [schemer.GetHerHim]?"
  
  POD_rationalize.500.t:0 "Resisted the Domination"
- POD_rationalize.500.desc:0 "[target.GetTitledFirstName] has resisted my domination." 
+ POD_rationalize.500.desc:0 "[target.GetTitledFirstName] has resisted my domination."
  POD_rationalize.500.option.a:0 "This can not be!"
  POD_rationalize.500.option.a.tt.beast:0 "#R Beat them till they obey! #"
 
  POD_rationalize.600.t:0 "Resisted Domination"
- POD_rationalize.600.desc:0 "I have thrown off the mental shackels of [schemer.GetTitledFirstName]'s domination." 
+ POD_rationalize.600.desc:0 "I have thrown off the mental shackels of [schemer.GetTitledFirstName]'s domination."
  POD_rationalize.600.option.a:0 "I have an ironwill!"
 
  

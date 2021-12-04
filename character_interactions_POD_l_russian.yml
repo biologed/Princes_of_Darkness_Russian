@@ -579,8 +579,8 @@
  POD_trial_by_war_interaction:0 "Испытание битвой"
  POD_trial_by_war_interaction_desc:0 "Пришло время показать ему, кто здесь истинный воевода"
 
- POD_etrius_abuse_interaction:0 "Tremere Politics"
- POD_etrius_abuse_interaction_desc:0 "Как правой руке самого Тремера, пришло время показать вашу силу клану [Concept('clan','клан')|E]"
+ POD_etrius_abuse_interaction:0 "Политика Тремеров"
+ POD_etrius_abuse_interaction_desc:0 "Как правой руке Клана Тремеров, пришло время показать вашу силу [Concept('clan','клану')|E]"
 
  POD_maatkare_interaction:0 "Искусить"
  POD_maatkare_interaction_desc:0 "Помочь этому заблудшему [Concept('cainite','каиниту')|E] узнать правду о величии Сета"
@@ -588,7 +588,7 @@
  POD_ventrue_succor_interaction:0 "Призыв помощи"
  POD_ventrue_succor_interaction_desc:0 "У [Concept('clan','клана')|E] Вентру есть призыв о помощи - если кто-то из Вентру оказывается в тяжелой ситуации, другие Вентру обязаны помочь ему. Однако ни что не достается бесплатно."
  
- POD_toreador_rumor_mill_interaction:0 "Rumor mill"
+ POD_toreador_rumor_mill_interaction:0 "Мельница слухов"
  POD_toreador_rumor_mill_interaction_desc:0 "[Concept('clan','Клан')|E] Тореадоров - эксперты в управлении государственной машиной. Используя этот навык, вы можете сфабриковать скандальное заявление и воплотить его в жизнь. Или, на худой конец, сделать так, чтобы это коснулось кого-нибудь еще."
  POD_toreador_rumor_mill_interaction_succ: "Успех"
  POD_toreador_rumor_mill_interaction_succ_ct:0 "Вы распространите ложный [Concept('secret','секрет')|E] о цели и удостоверитесь, что слух услышало достаточное количество придворных, чтобы подтвердить его, но недостаточно, чтобы раскрыть секрет."

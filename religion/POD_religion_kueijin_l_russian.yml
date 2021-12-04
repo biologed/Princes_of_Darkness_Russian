@@ -38,7 +38,7 @@
  kueijin_bishop_male_plural:00 "priests"
  kueijin_positive_afterlife:0 "Tian"
  kueijin_negative_afterlife:0 "Diyu"
- kueijin_witchgodname_the_horned_god:0 "the Demon Emperor" 
+ kueijin_witchgodname_the_horned_god:0 "the Demon Emperor"
 
  kueijin_creator_god_name:0 "$kueijin_high_god_name$"
  kueijin_creator_god_name_possessive:0 "$kueijin_high_god_name_possessive$"
@@ -66,8 +66,8 @@
  #Kuei-jin Group Faiths
 
  faceofthegods:0 "Face of the Gods"
- faceofthegods_adj:0 "Godhood" 
- faceofthegods_adherent:0 "Godling" 
+ faceofthegods_adj:0 "Godhood"
+ faceofthegods_adherent:0 "Godling"
  faceofthegods_adherent_plural:0 "Godlings"
  faceofthegods_desc:0 "Possibly the most extreme heresy, the Face of the Gods claim that the Wan Kuei are exiled Gods. They set up their own cults with worshippers and extract chi from prayer.."
 

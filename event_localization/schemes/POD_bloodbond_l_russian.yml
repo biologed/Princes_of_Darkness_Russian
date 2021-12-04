@@ -27,16 +27,16 @@
  POD_bloodbond.300.option.a.tt.beast:0 "#R Now, what to do with them? #"
 
  POD_bloodbond.400.t:0 "You Have Been Bloodbonded"
- POD_bloodbond.400.desc:0 "Having drunk the blood of [schemer.GetTitledFirstName], you are bound to [schemer.GetHerHim]." 
+ POD_bloodbond.400.desc:0 "Having drunk the blood of [schemer.GetTitledFirstName], you are bound to [schemer.GetHerHim]."
  POD_bloodbond.400.option.a:0 "I shall do [schemer.GetHerHis] will."
  
  POD_bloodbond.500.t:0 "Resisted bloodbonding"
- POD_bloodbond.500.desc:0 "[target.GetTitledFirstName] has resisted my attempt to bloodbind [target.GetHerHim]." 
+ POD_bloodbond.500.desc:0 "[target.GetTitledFirstName] has resisted my attempt to bloodbind [target.GetHerHim]."
  POD_bloodbond.500.option.a:0 "Thwarted!"
  POD_bloodbond.500.option.a.tt.beast:0 "#R Let us get more blood and try again! #"
 
  POD_bloodbond.600.t:0 "Resisted bloodbonding"
- POD_bloodbond.600.desc:0 "[schemer.GetTitledFirstName] has abandoned [schemer.GetTitledHerHis] scheme to bloodbind you." 
+ POD_bloodbond.600.desc:0 "[schemer.GetTitledFirstName] has abandoned [schemer.GetTitledHerHis] scheme to bloodbind you."
  POD_bloodbond.600.option.a:0 "I will not be [schemer.GetTitledHerHis] blood thrall!"
 
  

@@ -107,11 +107,11 @@ single_combat.0001.tt.POD_fire_spewer:0 "#D You use your makeshift flamethrower.
 single_combat.0001.POD_crossbow_shot:0 "Steady, aim... fire!" #Crossbow Shot
 single_combat.0001.tt.POD_crossbow_shot:0 "#D A crossbow shot will be fired."
 single_combat.0001.POD_unleash_dogs:0 "Let loose the dogs of war!" #You unleash your wardogs
-single_combat.0001.tt.POD_unleash_dogs:0 "#D The literal ones of flesh and bones." 
+single_combat.0001.tt.POD_unleash_dogs:0 "#D The literal ones of flesh and bones."
 single_combat.0001.POD_stake_attack:0 "I know your weakness!" #Hunter attacks with as take
 single_combat.0001.tt.POD_stake_attack:0 "#D Your aim for the heart with a pointy stake."
 single_combat.0001.POD_oculi_trust:0 "Praise God!" #I Trust in Thee
-single_combat.0001.tt.POD_oculi_trust:0 "#D You try to force your opponent to repent his sins." 
+single_combat.0001.tt.POD_oculi_trust:0 "#D You try to force your opponent to repent his sins."
 single_combat.0001.POD_oculi_wine:0 "Life will banish death!" #Water to Winde
 single_combat.0001.tt.POD_oculi_wine:0 "#D You try to touch your opponent to transform his flesh."
 single_combat.0001.POD_acre_catechumen:0 "God is my sword!" #Catechumen
@@ -129,7 +129,7 @@ single_combat.0001.tt.POD_murnau_arcana:0 "#D You try to turn your opponent's po
 single_combat.0001.POD_sisters_hosanna:0 "God will grant you strength" #Hosanna
 single_combat.0001.tt.POD_sisters_hosanna:0 "#D Your sing God's glory, hoping He will answer."
 single_combat.0001.POD_sisters_oratorio:0 "Sing the song of God." #Oratorio
-single_combat.0001.tt.POD_sisters_oratorio:0 "#D This holy hymn might cripple these unholy creatures." 
+single_combat.0001.tt.POD_sisters_oratorio:0 "#D This holy hymn might cripple these unholy creatures."
 single_combat.0001.POD_bone_obedience:0 "I am invincible!" #Bone Shintai: Bone Obedience
 single_combat.0001.tt.POD_bone_obedience:0 "#D You cause your bone structure to calcify and grow like rock crystals."
 single_combat.0001.POD_five_poison_cloud:0 "I spit on you!" #Bone Shintai: Five Poison Cloud
@@ -141,7 +141,7 @@ single_combat.0001.tt.POD_long_neck:0 "#D You stretch his limbs or neck to impre
 single_combat.0001.POD_bloodlash:0 "Blood is my weapon." #Blood Shintai: Bloodlash
 single_combat.0001.tt.POD_bloodlash:0 "#D You create a lethal tendril of blood."
 single_combat.0001.POD_goblin_scorch:0 "Time to burn!" #Ghost-Flame Shintai: Goblin Scorch
-single_combat.0001.tt.POD_goblin_scorch:0 "#D You exhale a gout of spirit flames." 
+single_combat.0001.tt.POD_goblin_scorch:0 "#D You exhale a gout of spirit flames."
 single_combat.0001.POD_goblin_lantern:0 "I have become fire itself!" #Ghost-Flame Shintai: Goblin Lantern
 single_combat.0001.tt.POD_goblin_lantern:0 "#D You temporarily ignite you form, allowing you to turn into a glowing orb of fire."
 single_combat.0001.POD_bone_dance:0 "Time to sleep." #Yin Prana: Bone Dance
@@ -166,8 +166,8 @@ single_combat.0001.POD_stand_upon_the_dragons_back:0 "I will stand victorious." 
 single_combat.0001.tt.POD_stand_upon_the_dragons_back:0 "#D You try rooting yourself to the Earth."
 single_combat.0001.POD_dragon_ward:0 "Away from me!" #Chi'iu Muh: Dragon Ward
 single_combat.0001.tt.POD_dragon_ward:0 "#D You create a barrier of chi that turns away your opponent."
-single_combat.0001.POD_typhonic_maw:0 "Typhon engulfs you!" 
-single_combat.0001.tt.POD_typhonic_maw:0 "#D You distend you jaw and grow a forked tongue to lash at your opponent." 
+single_combat.0001.POD_typhonic_maw:0 "Typhon engulfs you!"
+single_combat.0001.tt.POD_typhonic_maw:0 "#D You distend you jaw and grow a forked tongue to lash at your opponent."
 single_combat.0001.POD_cobra_fangs:0 "The sting of the Cobra!" #basically fangs with poison
 single_combat.0001.tt.POD_cobra_fangs:0 "#D Your fangs drip with poison, looking for an opportunity to sink into your opponent's flesh."
 

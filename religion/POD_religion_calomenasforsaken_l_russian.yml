@@ -36,10 +36,10 @@
  calomenasforsaken_bishop:0 "bishop"
  calomenasforsaken_bishop_plural:0 "bishops"
  calomenasforsaken_bishop_male:0 "bishop"
- calomenasforsaken_bishop_male_plural:0 "bishops" 
+ calomenasforsaken_bishop_male_plural:0 "bishops"
  calomenasforsaken_positive_afterlife:0 "heaven"
  calomenasforsaken_negative_afterlife:0 "the abyss"
- calomenasforsaken_witchgodname_the_horned_god:0 "Ialdabaoth" 
+ calomenasforsaken_witchgodname_the_horned_god:0 "Ialdabaoth"
 
  calomenasforsaken_creator_god_name:0 "$calomenasforsaken_high_god_name$"
  calomenasforsaken_creator_god_name_possessive:0 "$calomenasforsaken_high_god_name_possessive$"

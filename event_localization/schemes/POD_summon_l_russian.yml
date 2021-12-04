@@ -27,16 +27,16 @@
  POD_summon.300.option.a.tt.beast:0 "#R Dinner Time! #"
 
  POD_summon.400.t:0 "You Have Arrived"
- POD_summon.400.desc:0 "You find yourself in the court of [schemer.GetTitledFirstName]." 
+ POD_summon.400.desc:0 "You find yourself in the court of [schemer.GetTitledFirstName]."
  POD_summon.400.option.a:0 "My new home."
  
  POD_summon.500.t:0 "Resisted the Summoning"
- POD_summon.500.desc:0 "[target.GetTitledFirstName] has resisted my summoning." 
+ POD_summon.500.desc:0 "[target.GetTitledFirstName] has resisted my summoning."
  POD_summon.500.option.a:0 "Foiled!"
  POD_summon.500.option.a.tt.beast:0 "#R Lets hunt them down and eat them! #"
 
  POD_summon.600.t:0 "Resisted Summoning"
- POD_summon.600.desc:0 "You know longer feel [schemer.GetTitledFirstName]'s calling you." 
+ POD_summon.600.desc:0 "You know longer feel [schemer.GetTitledFirstName]'s calling you."
  POD_summon.600.option.a:0 "Stay out of my mind!"
 
 

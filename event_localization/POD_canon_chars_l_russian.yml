@@ -76,7 +76,7 @@
  PODcanon_chars.15.desc:0 "Your childe answered your summon, anxious to hear your wishes. You are known as a strict [Concept('Sire','Отец')|E], the kind that doesn't easily tolerates failure. Still, no one can deny that your education choices have resulted in some of the most gifted neonates in their generation. The others well... they don't tend to tarnish your reputation for long."
  PODcanon_chars.15.a:0 "Do better!"
  PODcanon_chars.15.b:0 "Never be satisfied"
- PODcanon_chars.15.c:0 "You are a worthless failure!" 
+ PODcanon_chars.15.c:0 "You are a worthless failure!"
  PODcanon_chars.hardestadt_tooltip:0 "As long as this character stays a rival, you won't be able to summon them again"
 
  POD_hardestadt_interaction:0 "Tighten the Reins"
@@ -91,7 +91,7 @@
  POD_antasia_interaction_desc:0 "Invite Angiwar for a nice chat"
 
  PODcanon_chars.16.t:0 "Angiwar the Storyteller"
- PODcanon_chars.16.desc:0 "When your first met him, you hoped that Angiwar had insight into your grandsire, Ventrue himself. Sadly, it was not the case, as even a being as old as he never encountered an [antediluvian|E]. Still, the Nosferatu has a lot of stories to tell about the [Concept('cainite','каинит')|E] world, some of which you even have a hard time believing in.\nAngiwar doesn't mind though, and is just happy sharing them with you. Gaining such friendly, free of deceit, insight from such an old, if quirky, vampire is a blessing that you don't intent to spoil."
+ PODcanon_chars.16.desc:0 "When your first met him, you hoped that Angiwar had insight into your grandsire, Ventrue himself. Sadly, it was not the case, as even a being as old as he never encountered an [Concept('antediluvian','Допотопный')|E]. Still, the Nosferatu has a lot of stories to tell about the [Concept('cainite','каинит')|E] world, some of which you even have a hard time believing in.\nAngiwar doesn't mind though, and is just happy sharing them with you. Gaining such friendly, free of deceit, insight from such an old, if quirky, vampire is a blessing that you don't intent to spoil."
  PODcanon_chars.16.a:0 "Really? That's incredible!"
  
  PODcanon_chars.17.t:0 "Angiwar the Confident"
@@ -105,7 +105,7 @@
  podintroductions.118.t:0 "Your Story So Far"
  podintroductions.118.desc:0 "Lord Alexander, once you were the most important Ventrue in the world, whispering the to ear of Charlemagne himself. Now you are exiled from your beloved France by the accursed Salianna and your traitorous childe Geoffrey. You will return, but other matters require your attention.\nLord Jurgen von Verden, your host right now, has gathered a small force to help you, fulfilling his duty as a younger clansmate. Accepting it would be helpful, but would also mean that you are basically fallen to begging for help. Refusing it would be more in line with your station... but would no doubt anger the Prince of Magdeburg. Make the right call here, and it might be the first stepping stone to your triumphal return to the [Concept('cainite','каинит')|E] world at large."
  podintroductions.118.a:0 "The help is appreciated, lord Jurgen"
- podintroductions.118.b:0 "A King doesn't beg!" 
+ podintroductions.118.b:0 "A King doesn't beg!"
  alexander_black_cross_event_troops:0 "Black Cross Ghouls"
 
  alexander_help_modifier:0 "Well Connected"
@@ -114,7 +114,7 @@
  podintroductions.119.t:0 "Your Story So Far"
  podintroductions.119.desc:0 "Lord Jurgen, your ascension has been progressing at a breathtaking speed since your [Concept('Embrace','объятие')|E]. But the recent minor setback in the war against the Voivodate has seen your influence curtailed. A new opportunity has arisen though, with the arrival of the exiled Prince of France, Alexander, in your court.\nYou have been a perfect host so far and continuing to do so would be beneficial for your ambitions, as Alexander still has a lot of gravitas in the [Concept('clan','клан')|E]. But the powerful Ventrue didn't came alone, he also brought Rosamund of Islington with him, the fairest among the fair [Concept('clan','клан')|E] and the one who has stolen your heart.\nYou have recently confessed your feelings to the lady, but it appears that Alexander himself has eyes on her. As such, a choice has to be made..."
  podintroductions.119.a:0 "Love..."
- podintroductions.119.b:0 "...or power?" 
+ podintroductions.119.b:0 "...or power?"
  jurgen_love_tooltip:0 "Rosamund will join you at court, entrusting her lands to your care."
 
  podintroductions.120.t:0 "Your Story So Far"
@@ -137,7 +137,7 @@
  anna_decision:0 "Born in the Purple"
  anna_decision_tooltip:1 "The Latin oppression must be ended."
  anna_decision_desc:0 "Constantinople must be yours, now more than ever. You will liberate it from the accursed Latin Lasombra then begin your eternal reign of the greatest city in the world."
- anna_decision_effect_tooltip:1 "You will fulfill your ambition." 
+ anna_decision_effect_tooltip:1 "You will fulfill your ambition."
  anna_decision_confirm:0 "Finally!"
  
  anna_ambition_fulfilled_modifier:0 "Fulfilled Ambition"
@@ -151,7 +151,7 @@
  anadja_decision:0 "Learning from the Best"
  anadja_decision_tooltip:1 "There is always room to improve"
  anadja_decision_desc:0 "Belisarius and Shabah are always happy to help you improve, though their lessons can be quite taxing at times."
- anadja_decision_effect_tooltip:1 "A training session will start" 
+ anadja_decision_effect_tooltip:1 "A training session will start"
  anadja_decision_confirm:0 "I am ready"
  anadja_custom_decision:0 "This decision will be unavailable once you reach 25 martial, 20 diplomacy and 20 intrigue or if both Shabah and Belisarius die."
 
@@ -182,7 +182,7 @@
  badr_decision:0 "Badr's Mysteries"
  badr_decision_tooltip:1 "They must never know."
  badr_decision_desc:0 "As the new ruler of the Midnight Crescent, all eyes are turned on you. You must hide yourself well before it's too late."
- badr_decision_decision_effect_tooltip:1 "The mystery deepens." 
+ badr_decision_decision_effect_tooltip:1 "The mystery deepens."
  badr_decision_confirm:0 "They will never know"
 
  podintroductions.124.t:0 "Your Story So Far"
@@ -205,7 +205,7 @@
  lucita_decision:0 "Lucita's Destiny"
  lucita_decision_tooltip:1 "Your time is coming"
  lucita_decision_desc:0 "The last shackles keeping you held must be dealt with. Then, it will be time to strike."
- lucita_decision_effect_tooltip:1 "It has finally happened!" 
+ lucita_decision_effect_tooltip:1 "It has finally happened!"
  lucita_decision_confirm:0 "Free, at last!"
  lucita_custom_decision:0 "Ambrosio Luis Moncada must be dead"
 
@@ -424,7 +424,7 @@
  PODcanon_chars.26.b:0 "Let's talk about Carthage"
  PODcanon_chars.26.c:0 "Self control is the key"
 
- ANTI_HEDEON_PACT:0 "Anti Hedeon Pact" 
+ ANTI_HEDEON_PACT:0 "Anti Hedeon Pact"
 
  podintroductions.141.t:0 "Your Story So Far"
  podintroductions.141.desc:0 "Lord Yitzhak, you have recently managed to considerably expand your influence over Poland thanks to Prince Razkoljna's troubles with a Ventrue incursion. But you aren't the only one to profit from this event. Hedeon Yaroslavich, a vicious monster even for his already quite sadistic [Concept('clan','клан')|E], has also made his domain grow quite considerably. His dark shadow now looms ever closer to engulfing Poland.\nThere might be a way out. You don't trust Razkoljna, but you know she is a far lesser evil than Hedeon, and she probably feels the same way about you. Negotiating a truce between you two could allow you both to focus on Hedeon first. After that obviously, all bets are off..."
@@ -558,7 +558,7 @@
 
  japhet_decision:0 "Sins of the Father"
  japhet_decision_tooltip:1 "Let's hope he is in a good mood..."
- japhet_decision_desc:0 "You are the keeper of the Erciyes, the home of Cappadocius himself. A great honor... and a great burden since the [antediluvian|E] is often hard to understand."
+ japhet_decision_desc:0 "You are the keeper of the Erciyes, the home of Cappadocius himself. A great honor... and a great burden since the [Concept('antediluvian','Допотопный')|E] is often hard to understand."
  japhet_decision_confirm:0 "No turning back"
  japhet_decision_effect_tooltip:0 "You will check on Cappadocius himself, hoping to find him well... and not too lost in his own fanciful world."
 
@@ -595,11 +595,11 @@
  kupala_rising_weakest_desc:1 "The Great Demon has noticed your efforts..."
  kupala_rising_weak:0 "Weak Kupala's Influence."
  kupala_rising_weak_desc:0 "The Great Earthbound is pleased by your ongoing efforts..."
- kupala_rising_medium:0 "Medium Kupala's Influence" 
+ kupala_rising_medium:0 "Medium Kupala's Influence"
  kupala_rising_medium_desc:0 "The Great Archduke is thinking of you as His favorite servant..."
- kupala_rising_strong:0 "Strong Kupala's Influence" 
+ kupala_rising_strong:0 "Strong Kupala's Influence"
  kupala_rising_strong_desc:0 "The Great Archangel is very close to you now, whispering in your ear to do more..."
- kupala_avatar_modifier:0 "Kupala's Avatar" 
+ kupala_avatar_modifier:0 "Kupala's Avatar"
  kupala_avatar_modifier_desc:0 "...and Hell followed with Him"
 
  PODcanon_chars.32.t:0 "We Are One"
@@ -783,7 +783,7 @@
  podintroductions.166.a:0 "Sleep well, Grandmother. I'm watching."
  viktor_intro_tooltip:0 "As Viktor, you get additional personal rewards if you achieve the 'Caring Grandmother' objective."
 
- pod1230objectives.20.custom.viktor:0 "As Viktor, you get additional rewards. Baba Yaga is very pleased with her favorite servant." 
+ pod1230objectives.20.custom.viktor:0 "As Viktor, you get additional rewards. Baba Yaga is very pleased with her favorite servant."
  
  podintroductions.167.t:0 "Your Story So Far"
  podintroductions.167.desc:0 "Lady Brunhilde, the Einherjar are dying. Your faith is being replaced by the White God and his followers and your brethren are given up hope. Werter himself, the one chosen by Odin to lead you in these troubled times, seems close to the breaking point. You must act.\nYou have a strong respect for Werter and he was a worthy friend for centuries, but you must now force him to abdicate his position as All High of Midgard before he leads you all to ruin. It is time for the Valkyries to save Scandinavia with you at their helm!"
@@ -879,7 +879,7 @@
  vasantasena_decision:0 "Breaking the Pyramid"
  vasantasena_decision_tooltip:1 "This abomination must be brought down!"
  vasantasena_decision_desc:0 "House Tremere stands against everything you hold dear. You must act."
- vasantasena_decision_effect_tooltip:1 "You codify you own road, paving the way for further liberation in the future." 
+ vasantasena_decision_effect_tooltip:1 "You codify you own road, paving the way for further liberation in the future."
  vasantasena_decision_confirm:0 "The Pyramid has been toppled!"
 
  podintroductions.174.t:0 "Your Story So Far"
@@ -890,7 +890,7 @@
  louhi_decision:0 "Shady Business"
  louhi_decision_tooltip:1 "You have friends in dark places."
  louhi_decision_desc:0 "The Abyssal master is generous. Ask for his support."
- louhi_decision_effect_tooltip:1 "You will have a choice on how many Shades to summon." 
+ louhi_decision_effect_tooltip:1 "You will have a choice on how many Shades to summon."
  louhi_decision_confirm:0 "Hear me!"
 
  PODcanon_chars.38.t:0 "Shady Business"
@@ -911,7 +911,7 @@
  anatole_decision:0 "God's Will"
  anatole_decision_tooltip:1 "What has He planned for me?"
  anatole_decision_desc:0 "Your faith is strong, but His ways are mysterious. You must make time to understand them."
- anatole_decision_effect_tooltip:1 "You will receive a vision, that might be good or bad." 
+ anatole_decision_effect_tooltip:1 "You will receive a vision, that might be good or bad."
  anatole_decision_confirm:0 "The way forward..."
 
  PODcanon_chars.39.t:0 "God's Wrath"
@@ -972,7 +972,7 @@
  zettler_decision:0 "The Three Brothers"
  zettler_decision_tooltip:1 "The dragon speaks to you, pleased by your devotion."
  zettler_decision_desc:0 "The three heads of the dragon each represents a different aspect and different benefits to harness for your goals."
- zettler_decision_effect_tooltip:1 "You will choose between the three aspects for the next five years." 
+ zettler_decision_effect_tooltip:1 "You will choose between the three aspects for the next five years."
  zettler_decision_confirm:0 "A divine help..."
 
  PODcanon_chars.42.t:0 "The Three Headed Dragon"
@@ -1462,7 +1462,7 @@
  deverra_decision:0 "Champion of Telyavel"
  deverra_decision_tooltip:1 "I can't fail him."
  deverra_decision_desc:0 "Your people rely on you and the Ferals' protection in the troubled times ahead. If you could kill the attacking Tremere's leader and secure your eastern border, your situation would improve."
- deverra_decision_confirm:0 "We have endured." 
+ deverra_decision_confirm:0 "We have endured."
  deverra_custom_decision:0 "Jervais must be dead."
  deverra_custom_decision2:0 "You or your liege completely controls the duchy of Pomeralia."
  deverra_custom_decision3:0 "You or your liege completely controls the duchy of Prussia."

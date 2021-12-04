@@ -1,5 +1,5 @@
 ﻿l_russian:
  
  
- shadow_twin_master:0 "[shadow_twin_master|E]"
- shadow_twin_servant:0 "[shadow_twin_servant|E]"
+ shadow_twin_master:0 "[Concept('shadow_twin_master','Мастер тени')|E]"
+ shadow_twin_servant:0 "[Concept('shadow_twin_servant','Тень двойник')|E]"

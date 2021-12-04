@@ -36,7 +36,7 @@
  roadofbeast_bishop_plural:0 "Lorekeepers"
  roadofbeast_positive_afterlife:0 "wilds"
  roadofbeast_negative_afterlife:0 "the abyss"
- roadofbeast_witchgodname_the_horned_god:0 "the Hunger" 
+ roadofbeast_witchgodname_the_horned_god:0 "the Hunger"
 
  roadofbeast_creator_god_name:0 "$roadofbeast_high_god_name$"
  roadofbeast_creator_god_name_possessive:0 "$roadofbeast_high_god_name_possessive$"
@@ -98,21 +98,21 @@
  vialiberatio_adherent_plural:0 "Liberators"
  vialiberatio_desc:0 "Often confused with the Furores, the Ferals on the Via Liberatio sees cities as a trapping and the death of the soul. They see their duty as freeing the trapped people towards a more pure, primal, way of life."
 
- viaeinherjar:0 "Einherjar"
- viaeinherjar_adj:0 "Einherjar"
- viaeinherjar_adherent:0 "Einherjar"
- viaeinherjar_adherent_plural:0 "Einherjar"
+ viaeinherjar:0 "Эйнхерий"
+ viaeinherjar_adj:0 "Эйнхерий"
+ viaeinherjar_adherent:0 "Эйнхерий"
+ viaeinherjar_adherent_plural:0 "Эйнхерий"
  viaeinherjar_desc:0 "A Road practiced among the Norse vampires and serves as a reminder of the ancient ethics that the All-Father gave them. The Road teaches responsibility, courage in the face of adversity, and individual initiative. Many drive off the Beast by acts of iron-willed discipline and courage, such as watching the sun rising. Most of the followers of the Road are disrespectful, self-serving, and physical abusive to those they do not respect. Often, even the people they do respect are treated only slightly better."
  
  viayasaq:0 "Yasaq"
  viayasaq_adj:0 "Yasa"
- viayasaq_adherent:0 "Anda"
- viayasaq_adherent_plural:0 "Anda"
+ viayasaq_adherent:0 "Анда"
+ viayasaq_adherent_plural:0 "Анда"
  viayasaq_desc:0 "A Road of the vampires of the Steppe, specifically of the Anda. It recalled many of the traditions of yasa (warrior-brotherhoods) among the Mongols. Followers of the Road of the Yasa were called Barbarians among Westerners."
  
  pathofnoiad:0 "Path of the Noiad"
- pathofnoiad_adj:0 "Noiad"
- pathofnoiad_adherent:0 "Noiad"
+ pathofnoiad_adj:0 "Нойад"
+ pathofnoiad_adherent:0 "Нойад"
  pathofnoiad_adherent_plural:0 "Noiads"
  pathofnoiad_desc:0 "The origin of the Noiads has been forgotten by [Concept('cainite','каинит')|E] and mortal alike. In the mind of the Noiads, they always dwelt in the North, guiding and protecting the Sámi tribes in northern Scandinavia. The Noiads believed themselves divine beings, sent by the gods to guide and protect their chosen people from supernatural and mundane threats, as well as interpreting the omens of the Gods in the guovssahas. The relation between the Noiads and their tribe was somewhat symbiotic: the Noiad would protect the tribe from enemies and act as a guide, shaman, and teacher to them, while the tribe gave willingly of their blood and sheltered the Noiad during the long months with no darkness. In times of famine, the Noaid would ghoul members of the tribe to ensure their survival. The Noiad dwelled openly among the Sámi, and Embraced exclusively from this population. Those selected for [Concept('Embrace','объятие')|E] tended to be those with talent for divination, as well as dream and star interpretation. The Noiad also watched children descended from families that included at least one vampire, looking for the traits they favored. "
  

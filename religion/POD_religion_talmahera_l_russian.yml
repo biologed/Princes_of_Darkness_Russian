@@ -1,8 +1,8 @@
 ﻿l_russian:
 
  #Common Road of Paradox Localization
- talmahera_religion:0 "Tal'Mahe'Ra"
- talmahera_religion_adj:0 "Tal'Mahe'Ra"
+ talmahera_religion:0 "Тал'махе'Ра"
+ talmahera_religion_adj:0 "Тал'махе'Ра"
  talmahera_religion_adherent:0 "Shadow Crusader"
  talmahera_religion_adherent_plural:0 "Shadow Crusaders"
  talmahera_religion_desc:0 "Also known as the True Black Hand or Manus Nigrum, it is an ancient death-cult devoted to the worship of a cabal of beings known as the Aralu, whom the cult believe to be [Concept('antediluvians','допотопные')|E], that sleep in the ghost-city of Enoch deep within the lands of the dead."
@@ -20,7 +20,7 @@
  talmahera_death_deity_name:0 "Destruction"
  talmahera_house_of_worship:0 "secret temple"
  talmahera_house_of_worship_plural:0 "secret temples"
- talmahera_religious_symbol:0 "Black Hand"
+ talmahera_religious_symbol:0 "Черная рука"
  talmahera_religious_text:0 "Book of Nod"
  talmahera_religious_head_title:0 "Del'Roh"
  talmahera_devotee_male:0 "Rawi"
@@ -36,7 +36,7 @@
  talmahera_bishop_plural:0 "Qadis"
  talmahera_positive_afterlife:0 "Enoch"
  talmahera_negative_afterlife:0 "Oblivion"
- talmahera_witchgodname_the_horned_god:0 "the Beast" 
+ talmahera_witchgodname_the_horned_god:0 "the Beast"
 
  talmahera_creator_god_name:0 "$talmahera_high_god_name$"
  talmahera_creator_god_name_possessive:0 "$talmahera_high_god_name_possessive$"
@@ -62,15 +62,15 @@
  talmahera_water_god_name_possessive:0 "$talmahera_health_god_name_possessive$"
 
  #Black-Hand-Group Faiths
- talmahera:0 "Tal'Mahe'Ra"
- talmahera_adj:0 "Tal'Mahe'Ra"
+ talmahera:0 "Тал'махе'Ра"
+ talmahera_adj:0 "Тал'махе'Ра"
  talmahera_adherent:0 "Shadow Crusader"
  talmahera_adherent_plural:0 "Shadow Crusaders"
  talmahera_desc:0 "The Tal'Mahe'Ra is an ancient organization formed by an unlikely alliance between Chakravanti mages and several vampire clans (notably Assamites), though its members also include other supernatural creatures besides vampires and mages."
  
  manusnigrum:0 "Manus Nigrum"
- manusnigrum_adj:0 "Manus Nigrum" 
- manusnigrum_adherent:0 "Black Hand"
+ manusnigrum_adj:0 "Manus Nigrum"
+ manusnigrum_adherent:0 "Черная рука"
  manusnigrum_adherent_plural:0 "Black Handers"
  manusnigrum_desc:0 "The western branch of an ancient death-cult devoted to the worship of a cabal of beings known as the Aralu, whom they believed to be [Concept('antediluvians','допотопные')|E], that slept in the ghost-city of Enoch deep within the lands of the dead. The cult primarily involved itself in vampire politics planning the obliteration of the Baali."
 

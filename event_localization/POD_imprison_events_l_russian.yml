@@ -27,7 +27,7 @@ POD_imprison.002.option.e.failure:0 "[targetdefender.GetFirstName] manages to es
 POD_imprison.002.option.a.tt.attacker_wins:0 "I dominate [targetdefender.GetFirstName]!"
 POD_imprison.002.option.a.tt.attacker_lost:0 "[targetdefender.GetFirstName]'s will is too strong to dominate."
 POD_imprison.002.option.b.tt.attacker_wins:0 "I entrance [targetdefender.GetFirstName]!"
-POD_imprison.002.option.b.tt.attacker_lost:0 "[targetdefender.GetFirstName] is immune to my charms." 
+POD_imprison.002.option.b.tt.attacker_lost:0 "[targetdefender.GetFirstName] is immune to my charms."
 POD_imprison.002.option.c.tt.attacker_wins:0 "I defeat [targetdefender.GetFirstName] in personal combat!"
 POD_imprison.002.option.c.tt.attacker_lost:0 "I am defeated by [targetdefender.GetFirstName] in personal combat."
 POD_imprison.002.option.d.tt.attacker_wins:0 "[attacker_marshal.GetFirstName] defeats [targetdefender.GetFirstName] in personal combat!"
